@@ -1,0 +1,51 @@
+#!/usr/bin/env bash
+# Clean up old files
+#rm -rf content/ data/ hugo-export/ resources/ static/ config.toml
+# Copy example site
+cp -a themes/apsho/exampleSite/* .
+
+# Unzip hugo export
+unzip -q hugo-export.zip
+# Remove sample pages created by mattcen
+rm -f hugo-export/posts/2024-02-12-hello-world.md hugo-export/sample-page/index.md
+# Move static content in place
+mv hugo-export/wp-content static/
+# Move posts in place
+mv hugo-export/posts/* content/blog/
+# Remove unnecessary files created by exporter
+rm hugo-export/index.md hugo-export/config.yaml
+mkdir hugo-export/page
+# Rename all pages (as opposed to posts) from my_page_name/index.md to page/my_page_name.md
+( cd hugo-export && for f in */index.md; do mv "$f" page/"${f%%/*}".md; done )
+# Move pages into place
+mv hugo-export/page/* content/
+# Overwrite my template privacy policy with DRWs
+mv content/privacy-policy-2.md content/privacy-policy.md
+# Delete remaining (empty) dirs from export
+find hugo-export -empty -delete
+# Use correct variable name for hero/feature imager
+find content/ -name '*.md' -exec sed -i 's/featured_image/featureImage/' {} +
+# Add an author thumbnail for Samantha
+sed -i '/^author: Samantha$/a authorThumb: wp-content\/uploads\/2019\/08\/SamFloreani-150x150.png' content/*/*
+# Set site URL and title
+sed -i \
+    -e 's/^\(baseURL = \).*/\1"\/"/' \
+    -e 's/\(^title = \).*/\1"Digital Rights Watch"/' \
+    -e 's/\(^logo = \).*/\1"wp-content\/uploads\/2019\/07\/DRWLogo_black_w_yellow-300x123.png"/' \
+    config.toml
+
+# Fix broken absolute links
+sed -i 's/http:\/\/localhost\//\//g' content/*/*
+
+# Compress PNG images
+#for f in static/wp-content/uploads/*/*/*.png; do pngcrush "$f" && mv pngout.png "$f"; done
+# Compress JPG images
+#for f in static/wp-content/uploads/*/*/*.jp*g; do jpegoptim "$f"; done
+#
+#+ sed -i -e 's/^\(baseURL = \).*/\1"/"/' -e 's/\(^title = \).*/\1"Digital Rights Watch"/' -e 's/\(^logo = \).*/\1"wp-content\/uploads\/2019\/07\/DRWLogo_black_w_yellow.png"/' config.toml
+
+# Build the website
+hugo
+# Hugo appears to only compile static files that are referenced in pages, so we
+# can use it to tidy up our wp-content dir:
+#rsync --dry-run -a public/wp-content/ static/wp-content/
