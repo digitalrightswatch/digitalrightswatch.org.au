@@ -26,12 +26,12 @@ find hugo-export -empty -delete
 # Use correct variable name for hero/feature imager
 find content/ -name '*.md' -exec sed -i 's/featured_image/featureImage/' {} +
 # Add an author thumbnail for Samantha
-sed -i '/^author: Samantha$/a authorThumb: wp-content\/uploads\/2019\/08\/SamFloreani-150x150.png' content/*/*
+sed -i '/^author: Samantha$/a authorThumb: /wp-content\/uploads\/2019\/08\/SamFloreani-150x150.png' content/*/*
 # Set site URL and title
 sed -i \
     -e 's/^\(baseURL = \).*/\1"\/"/' \
     -e 's/\(^title = \).*/\1"Digital Rights Watch"/' \
-    -e 's/\(^logo = \).*/\1"wp-content\/uploads\/2019\/07\/DRWLogo_black_w_yellow-300x123.png"/' \
+    -e 's/\(^logo = \).*/\1"\/wp-content\/uploads\/2019\/07\/DRWLogo_black_w_yellow-300x123.png"/' \
     config.toml
 
 # Fix broken absolute links
@@ -49,3 +49,7 @@ hugo
 # Hugo appears to only compile static files that are referenced in pages, so we
 # can use it to tidy up our wp-content dir:
 #rsync --dry-run -a public/wp-content/ static/wp-content/
+
+# Remove example blog posts and pages
+for f in themes/apsho/exampleSite/content/blog/[^_]*; do rm content/blog/"${f##*/}"; done
+rm content/privacy.md content/contact/_index.md
