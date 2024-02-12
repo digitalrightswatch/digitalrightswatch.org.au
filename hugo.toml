@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://digitalrightswatch.org.au/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Digital Rights Watch'
 theme = "apsho"
