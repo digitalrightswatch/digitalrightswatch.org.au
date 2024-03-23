@@ -1,0 +1,12 @@
+---
+title: Sticker competition
+author: Digital Rights Watch
+date: 2019-07-23T06:44:21+00:00
+url: /2019/07/23/sticker-competition/
+featureImage: /wp-content/uploads/2019/07/Screen-Shot-2019-07-23-at-10.44.19-am.png
+categories:
+  - News
+  - Take Action
+
+---
+We&#8217;re running a sticker design competition and we want your designs!
