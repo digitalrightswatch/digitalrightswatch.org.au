@@ -1,14 +1,14 @@
-local_backend: true
+#local_backend: true
 backend:
-  #name: github
-  name: git-gateway
-  repo: mattcen/drw-website # Path to your GitHub repository
+  name: github
+  #name: git-gateway
+  repo: digitalrightswatch/website # Path to your GitHub repository
   # optional, defaults to master
   branch: main
 
 media_folder: "static/images" # Folder where user uploaded files should go
 public_folder: "/images"
-site_url: https://mattcen.github.io/drw-website
+site_url: https://digitalrightswatch.github.io/website
 
 collections: # A list of collections the CMS should be able to edit
   - name: "posts" # Used in routes, ie.: /admin/collections/:slug/edit
