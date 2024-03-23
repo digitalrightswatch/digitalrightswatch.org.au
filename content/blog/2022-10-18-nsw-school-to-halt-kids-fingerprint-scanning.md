@@ -1,5 +1,5 @@
 ---
-title: 'Campaign win: NSW School asked to halt kids' fingerprint scanning'
+title: "Campaign win: NSW School asked to halt kids' fingerprint scanning"
 author: Samantha
 authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
 date: 2022-10-17T23:58:46+00:00

@@ -1,5 +1,5 @@
 ---
-title: 'Open Letter: Facebook's End-to-End Encryption Plans'
+title: "Open Letter: Facebook's End-to-End Encryption Plans"
 author: Digital Rights Watch
 date: 2019-10-04T13:08:06+00:00
 url: /2019/10/04/open-letter-facebooks-end-to-end-encryption-plans/
