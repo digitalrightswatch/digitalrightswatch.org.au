@@ -66,4 +66,4 @@ rm content/privacy.md content/contact/_index.md
 #find content/ -type f -name '*.md' -exec sed -i 's|/wp-content/|https://static.digitalrightswatch.org.au/wp-content/|g' {} +
 
 # Remove wp-content files not referenced within markdown
-comm -13 <(git grep -h -o '/wp-content/[^"$, ]*' content/ | sort | sed 's/^/static/') <(find static/wp-content/ -type f | sort) | xargs rm
+comm -13 <(git grep -h -o '/wp-content/[^"$, ]*' content/ | sort | sed 's/^/static/') <(find static/wp-content -type f | sort) | xargs rm
