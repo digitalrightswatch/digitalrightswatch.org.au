@@ -122,7 +122,7 @@
     text-decoration: none;
     background-color: $primary-color;
     border-color: $primary-color;
-    box-shadow: 0px 8px 20px rgba(146, 115, 255, 0.3);
+    box-shadow: 0px 8px 20px $shadow-fill;
     transform: scale(1.05);
 
     i {
@@ -147,7 +147,7 @@
   font-weight: 500;
   font-size: 14px;
   font-family: $primary-font;
-  box-shadow: 0px 8px 20px rgba(146, 115, 255, 0.3);
+  box-shadow: 0px 8px 20px $shadow-fill;
   transition: 0.3s $site-ease;
   text-transform: uppercase;
   &:hover {
