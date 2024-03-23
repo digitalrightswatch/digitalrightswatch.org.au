@@ -27,7 +27,7 @@ categories:
   <span style="font-weight: 400;">AU$59.9 million over four years to enhance biometric storage and processing capabilities within the Department of Immigration and Border Protection</span>
 </li>
 
-<span style="font-weight: 400;">“This Budget could not have been more out of step with what the public are demanding in terms of their digital rights. It&#8217;s disappointing to see such a huge opportunity lost in favour of a draconian approach to privacy and the rights of Australian citizens,&#8221; said Digital Rights Watch Chair Tim Singleton Norton.</span>
+<span style="font-weight: 400;">"This Budget could not have been more out of step with what the public are demanding in terms of their digital rights. It&#8217;s disappointing to see such a huge opportunity lost in favour of a draconian approach to privacy and the rights of Australian citizens,&#8221; said Digital Rights Watch Chair Tim Singleton Norton.</span>
 
 <span style="font-weight: 400;">&#8220;It is disappointing to see this government continue to fund mass surveillance programs that so clearly and directly invade the privacy of Australian citizens. This budget could have heralded a change in attitude, particularly after very recent privacy breaches from government agencies.&#8221;</span>
 
@@ -35,8 +35,8 @@ categories:
 
 &#8220;The creation of a new Cyber Security Advisory Office is a welcome step &#8211; it shows that this government is willing to learn from from the 2016 Census failure. However, this will not solve the fundamental issues that caused this disaster in the first place &#8211; a complacency and total disrespect for personal privacy rights,&#8221; said Mr Singleton Norton.
 
-<span style="font-weight: 400;">“The mandatory metadata retention scheme and associated mass surveillance operations such as the national facial biometric data capability are huge invasions on the rights of ordinary Australians.”</span>
+<span style="font-weight: 400;">"The mandatory metadata retention scheme and associated mass surveillance operations such as the national facial biometric data capability are huge invasions on the rights of ordinary Australians."</span>
 
-“By failing to put in place (or fund) adequate safeguards, this government is seemingly committed to walking into more and more privacy breaches and issues of public trust. This budget included no additional funding for the Office of the Information Commissioner or other effective oversight bodies.&#8221;
+"By failing to put in place (or fund) adequate safeguards, this government is seemingly committed to walking into more and more privacy breaches and issues of public trust. This budget included no additional funding for the Office of the Information Commissioner or other effective oversight bodies.&#8221;
 
-<span style="font-weight: 400;">“Without adequately funding protection and oversight mechanisms, what trust can the public have in the very agencies tasked with protecting them? The constant condemnation of these programs, both from privacy advocates within Australia and from international bodies such as the United Nations, should show that a new approach is needed.”</span>
+<span style="font-weight: 400;">"Without adequately funding protection and oversight mechanisms, what trust can the public have in the very agencies tasked with protecting them? The constant condemnation of these programs, both from privacy advocates within Australia and from international bodies such as the United Nations, should show that a new approach is needed."</span>

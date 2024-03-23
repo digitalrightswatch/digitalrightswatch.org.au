@@ -15,7 +15,7 @@ tags:
 The Australian Government have released a draft Bill [[The Assistance and Access Bill 2018]][1] designed to compel device manufacturers and service providers to assist law enforcement in accessing encrypted information. Although apparently developed to allow government agencies access to criminals&#8217; encrypted communications, the Bill also grants broad, sweeping powers to government agencies that will harm the security and stability of our communications and the internet at large.<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-has-aspect-ratio wp-embed-aspect-16-9">
 
 <div class="wp-block-embed__wrapper">
-</div></figure> 
+</div></figure>
 
 <p style="text-align:left">
   The government asked the public for feedback, with submissions closing on September 10, 2018.<br />
@@ -23,19 +23,19 @@ The Australian Government have released a draft Bill [[The Assistance and Access
 
 **Here&#8217;s our top three concerns with this Bill:**
 
-  1. Creates obligations on technology producers and communication providers, <span style="text-decoration: underline;">forcing them to work for law enforcement agencies</span>;  
-    
-  2. Creates powers that would <span style="text-decoration: underline;">allow police to seize information directly</span> from a device; and
-  3. Allows government operatives to <span style="text-decoration: underline;">access more data</span> through current warrants.  
-    
+  1. Creates obligations on technology producers and communication providers, <span style="text-decoration: underline;">forcing them to work for law enforcement agencies</span>;
 
-The government consultation period on this draft legislation has now closed, but you can [read the full detail of our concerns in our submission to the government.][2] Rest assured, this is not the end of the fight &#8211; we&#8217;ll keep working to ensure that encryption is protected.
+  2. Creates powers that would <span style="text-decoration: underline;">allow police to seize information directly</span> from a device; and
+  3. Allows government operatives to <span style="text-decoration: underline;">access more data</span> through current warrants.
+
+
+The government consultation period on this draft legislation has now closed, but you can [read the full detail of our concerns in our submission to the government.][2] Rest assured, this is not the end of the fight &#8211; we&#8217;ll keep working to ensure that encryption is protected.
 
 #### If you&#8217;re interesting in joining the campaign to defend encryption, please sign up here:
 
 [gravityform id=&#8221;2&#8243; title=&#8221;false&#8221; description=&#8221;false&#8221;]
 
-Further info/reading:  
+Further info/reading:
 
 
   * [Digital Rights Watch&#8217;s Lizzie O&#8217;Shea in the New York Times,][3]

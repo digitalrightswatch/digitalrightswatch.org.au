@@ -8,4 +8,4 @@ categories:
   - 'Tools &amp; Guides'
 
 ---
-Stalkerware can track unsuspecting victims’ locations, record phone calls, peer into text messages and emails, pry into locally-stored photos and videos, and rifle through web browsing activity, all while hidden from view.
+Stalkerware can track unsuspecting victims' locations, record phone calls, peer into text messages and emails, pry into locally-stored photos and videos, and rifle through web browsing activity, all while hidden from view.

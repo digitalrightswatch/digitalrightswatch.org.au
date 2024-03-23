@@ -23,11 +23,11 @@ tags:
   - surveillance
 
 ---
-The federal government must come clean about the nature and extent of its data aggregation from mobile service providers, Digital Rights Watch chair Lizzie O’Shea said today.
+The federal government must come clean about the nature and extent of its data aggregation from mobile service providers, Digital Rights Watch chair Lizzie O'Shea said today.
 
-“It’s deeply troubling that just a week after Prime Minister Scott Morrison outright denied any such activity, we learn that the Federal and NSW governments have received location data from a major telecommunications provider in Australia,” said Ms O’Shea.
+"It's deeply troubling that just a week after Prime Minister Scott Morrison outright denied any such activity, we learn that the Federal and NSW governments have received location data from a major telecommunications provider in Australia," said Ms O'Shea.
 
-“It is unrealistic for the government to expect people to accept and comply with the measures they’ve put in place if they’re keeping activities such as this secret, or denying they’re happening when directly asked.
+"It is unrealistic for the government to expect people to accept and comply with the measures they've put in place if they're keeping activities such as this secret, or denying they're happening when directly asked.
 
 Digital Rights Watch is asking the government to address these concerns immediately:
 
@@ -39,4 +39,4 @@ Digital Rights Watch is asking the government to address these concerns immediat
   * What are the government&#8217;s plans for further surveillance during the crisis?
   * Will the government guarantee that any such measures will only be in place for the duration of the current crisis, and be subject to full transparency in the aftermath?
 
-“We have an ugly history of secrecy and a lack of accountability when it comes to surveillance of people in Australia by our governments, and this latest fabrication only serves to further erode trust in government at a critical time, Ms O’Shea said.
+"We have an ugly history of secrecy and a lack of accountability when it comes to surveillance of people in Australia by our governments, and this latest fabrication only serves to further erode trust in government at a critical time, Ms O'Shea said.

@@ -10,7 +10,7 @@ categories:
   - Reports
 
 ---
-Today, 18 September 2017, a global coalition of civil society organisations, led by [European Digital Rights (EDRi)][1] and including Digital Rights Watch, submitted to the Council of Europe [its comments on how protect human rights][2] when developing new rules on cross-border access to electronic evidence (“e-evidence”). The Council of Europe is currently preparing an additional protocol to the Cybercrime Convention.
+Today, 18 September 2017, a global coalition of civil society organisations, led by [European Digital Rights (EDRi)][1] and including Digital Rights Watch, submitted to the Council of Europe [its comments on how protect human rights][2] when developing new rules on cross-border access to electronic evidence ("e-evidence"). The Council of Europe is currently preparing an additional protocol to the Cybercrime Convention.
 
 E-evidence refers to digital or electronic evidence, such as contents of social media, emails, messaging services or data held in the cloud &#8211; access to which is often required in criminal investigations. Since in the digital environment the geographical borders are often blurred, investigations require cross-border cooperation between multiple public authorities and between public authorities and the private sector.
 
@@ -34,7 +34,7 @@ EDRi handed the comments over to Mr. Alexander Seger, the Executive Secretary of
 
 &#8220;Global civil society is engaging in this process to ensure that any harmonisation in this crucial policy area is up to the highest human rights standards, in line with the ethos of the Council of Europe&#8221;, he added.
 
-Alexander Seger, the Council of Europe’s anti-cybercrime coordinator, [has welcomed the joint submission.][3]
+Alexander Seger, the Council of Europe's anti-cybercrime coordinator, [has welcomed the joint submission.][3]
 
  [1]: https://edri.org/
  [2]: /wp-content/uploads/2017/09/cybercrime_2ndprotocol_globalsubmission_e-evidence_20170908.pdf

@@ -21,9 +21,9 @@ categories:
   - Submissions
 
 ---
-Digital Rights Watch (DRW) and Electronic Frontiers Australia (EFA) have teamed up to make a joint submission calling for a federal Human Rights Act as well as a separate but complimentary Charter of Digital Rights and Principles. 
+Digital Rights Watch (DRW) and Electronic Frontiers Australia (EFA) have teamed up to make a joint submission calling for a federal Human Rights Act as well as a separate but complimentary Charter of Digital Rights and Principles.
 
-Australia is the only liberal democracy in the world without a Human Rights Act or Charter at the national level. For years, human rights advocates have called for human rights to be enshrined and protected in Australia by way of an Act or Charter. This is long overdue. 
+Australia is the only liberal democracy in the world without a Human Rights Act or Charter at the national level. For years, human rights advocates have called for human rights to be enshrined and protected in Australia by way of an Act or Charter. This is long overdue.
 
 **Digital Rights are Human Rights**
 
@@ -33,7 +33,7 @@ DRW and EFA are both long supporters of the establishment of a Human Rights Char
 
 **Inquiry context**
 
-In March 2023 the Attorney-General asked the Parliamentary Joint Committee on Human Rights to inquire into Australia&#8217;s Human Rights Framework. The public consultation period ended on 1 July 2023, and the committee is required to report on the findings to Parliament by 31 March 2024. <span style="text-decoration: underline;"><a href="https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Human_Rights/HumanRightsFramework" target="_blank" rel="noreferrer noopener">Find out more about the inquiry here</a></span>. 
+In March 2023 the Attorney-General asked the Parliamentary Joint Committee on Human Rights to inquire into Australia&#8217;s Human Rights Framework. The public consultation period ended on 1 July 2023, and the committee is required to report on the findings to Parliament by 31 March 2024. <span style="text-decoration: underline;"><a href="https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Human_Rights/HumanRightsFramework" target="_blank" rel="noreferrer noopener">Find out more about the inquiry here</a></span>.
 
 **You can read our submission in full below, or <span style="text-decoration: underline;"><a href="/wp-content/uploads/2023/07/DRW-EFA-Submission-Inquiry-into-Human-Rights-Framework-July-2023.pdf" target="_blank" rel="noreferrer noopener">download a PDF here</a></span>**.
 

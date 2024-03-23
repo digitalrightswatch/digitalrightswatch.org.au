@@ -12,7 +12,7 @@ categories:
 ---
 The UN Special Rapporteur on the protection of the right to freedom of opinion and expression is conducting [a study on freedom of expression in the telecommunications and Internet access sector][1]. He will examine State regulation and action that affect access to telecommunications and Internet networks and services, particularly those provided by Telcos and ISPs.
 
-<span style="font-weight: 400;">We see a fundamental connection between freedom of expression, digital privacy and a free and open internet, and so we&#8217;ve taken this opportunity to provide the Special Rapporteur with a submission, outlining a number of areas in which these values are compromised in laws and practices in Australia.</span>
+<span style="font-weight: 400;">We see a fundamental connection between freedom of expression, digital privacy and a free and open internet, and so we&#8217;ve taken this opportunity to provide the Special Rapporteur with a submission, outlining a number of areas in which these values are compromised in laws and practices in Australia.</span>
 
 These include:
 

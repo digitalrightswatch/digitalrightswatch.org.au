@@ -8,7 +8,7 @@ categories:
   - News
 
 ---
-Digital Rights Watch has joined with dozens of organisations and academics in signing an open letter about the EU’s proposed Regulation on Preventing the Dissemination of Terrorist Content Online, and in particular the Regulation’s call for Internet hosts to use “proactive measures” to detect terrorist content.
+Digital Rights Watch has joined with dozens of organisations and academics in signing an open letter about the EU's proposed Regulation on Preventing the Dissemination of Terrorist Content Online, and in particular the Regulation's call for Internet hosts to use "proactive measures" to detect terrorist content.
 
 Key concerns include:
 

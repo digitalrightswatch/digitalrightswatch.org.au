@@ -23,7 +23,7 @@ categories:
   - Monthly updates
 
 ---
-What a wild few weeks in the digital rights space! Have you been reading the news? As the government, news media, and tech companies fight it out, we’ve been working hard to keep bringing human rights back into focus. Here’s our take on February.
+What a wild few weeks in the digital rights space! Have you been reading the news? As the government, news media, and tech companies fight it out, we've been working hard to keep bringing human rights back into focus. Here's our take on February.
 
 <div class="wp-block-image">
   <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-04-1-1024x366.png" alt="" class="wp-image-7494" width="375" height="134" srcset="/wp-content/uploads/2020/10/Email_headers_highres-04-1-1024x366.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-04-1-300x107.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-04-1-768x275.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-04-1.png 1168w" sizes="(max-width: 375px) 100vw, 375px" /></figure>
@@ -31,19 +31,19 @@ What a wild few weeks in the digital rights space! Have you been reading the new
 
 **An update on the News Media Bargaining Code (again, always, forever)**
 
-On Thursday 18th February people in Australia woke up to find their Facebook ‘News Feed’, well… without the news. Oh and a whole lot more than that. Hundreds of organisations and community groups were swept up in Facebook’s swift news content ban—including Digital Rights Watch!
+On Thursday 18th February people in Australia woke up to find their Facebook 'News Feed', well… without the news. Oh and a whole lot more than that. Hundreds of organisations and community groups were swept up in Facebook's swift news content ban—including Digital Rights Watch!
 
-You can [read our statement][1] on Facebook’s behaviour here, but if you’ve read our past few roundups you already know our stance: the News Media Bargaining Code has been flawed from the start. If you need a refresher, you can [revisit the explainer][2] we wrote back in September 2020. This week, following the stunt Facebook made by over-removing news, the code underwent some amendments in the Senate, but the fundamental issues of the code remain: powerful commercial news companies will negotiate with big tech to share the spoils of surveillance capitalism, disregarding the rights of users, and with no guarantees that public interest journalism will be funded. It’s a lose-lose-lose situation in our books.
+You can [read our statement][1] on Facebook's behaviour here, but if you've read our past few roundups you already know our stance: the News Media Bargaining Code has been flawed from the start. If you need a refresher, you can [revisit the explainer][2] we wrote back in September 2020. This week, following the stunt Facebook made by over-removing news, the code underwent some amendments in the Senate, but the fundamental issues of the code remain: powerful commercial news companies will negotiate with big tech to share the spoils of surveillance capitalism, disregarding the rights of users, and with no guarantees that public interest journalism will be funded. It's a lose-lose-lose situation in our books.
 
-Sadly, the News Media Bargaining Code passed through the House of Representatives on the morning of Thursday 25 February (it had to go back after the Senate’s changes), _in less than a minute_.
+Sadly, the News Media Bargaining Code passed through the House of Representatives on the morning of Thursday 25 February (it had to go back after the Senate's changes), _in less than a minute_.
 
-Want more reading material? We highly recommend this op-ed by DRW Chair, Lizzie O’Shea, in [Overland][3], or this one in the [New York Times][4]. Our Campaigns Officer, Sam Floreani, also penned an op-ed for [the Sydney Morning Herald][5]. 
+Want more reading material? We highly recommend this op-ed by DRW Chair, Lizzie O'Shea, in [Overland][3], or this one in the [New York Times][4]. Our Campaigns Officer, Sam Floreani, also penned an op-ed for [the Sydney Morning Herald][5].
 
-Tired of reading? Watch this [6 minute news segment][6] featuring Lizzie which will prime you on all the key issues. Yep, we’ve been busy. 
+Tired of reading? Watch this [6 minute news segment][6] featuring Lizzie which will prime you on all the key issues. Yep, we've been busy.
 
 **Sex, Violence and the Online Safety Bill**
 
-Speaking of the troubled landscape between governments and big tech over the kinds of content that should (or shouldn’t) be made available online and to whom, we have been spending time [dissecting the Online Safety Bill][7], what it means for our rights and how it will impact vulnerable groups.
+Speaking of the troubled landscape between governments and big tech over the kinds of content that should (or shouldn't) be made available online and to whom, we have been spending time [dissecting the Online Safety Bill][7], what it means for our rights and how it will impact vulnerable groups.
 
 While we \*absolutely\* believe we need to take steps to mitigate the harms caused by online bullying, abuse, and the non-consensual sharing of intimate images, there are a handful of provisions in the Online Safety Bill that have our alarm bells ringing. In our view, the Bill currently:
 
@@ -58,8 +58,8 @@ At the heart of this lies content moderation, which as we know, is an incredibly
 
 The Bill was introduced to the House of Reps on Wednesday 24 February, which makes us suspicious about how much meaningful consideration was given to the 370 submissions provided in the consultation which ended on the 14th of February… only ten days earlier.
 
-  
-But it’s not over yet. If you share our concern about the Bill, we encourage you to call or email your MP. We’ll be doing the same, but it’s so much more powerful when the community gets involved. If you need some tips about what to say, [check out our explainer on the Bill here][10]!
+
+But it's not over yet. If you share our concern about the Bill, we encourage you to call or email your MP. We'll be doing the same, but it's so much more powerful when the community gets involved. If you need some tips about what to say, [check out our explainer on the Bill here][10]!
 
 <div class="wp-block-image">
   <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png" alt="" class="wp-image-7296" width="449" height="136" srcset="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-01-300x91.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-01-768x233.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-01.png 1376w" sizes="(max-width: 449px) 100vw, 449px" /></figure>
@@ -68,35 +68,35 @@ But it’s not over yet. If you share our concern about the Bill, we encourage y
 **What Digital Rights Watch has been up to over the past month&#8230;**
 
   * We launched our State of Digital Rights Report: A 2020 Retrospective. Our Director, Lucie Krahulcova, hosted our launch event and it was full to the brim of activists sharing their hottest takes on digital rights. If you missed it, [you can watch the video back here][11]. [You can also access the full report here][12].
-  * Sam joined the gang at Byte Into IT alongside Electronic Frontiers Australia’s Justin Warren, [to discuss our report, privacy reform, and reflect on 2020][13].
+  * Sam joined the gang at Byte Into IT alongside Electronic Frontiers Australia's Justin Warren, [to discuss our report, privacy reform, and reflect on 2020][13].
   * Submissions! We provided a submission on the [Online Safety Bill][14], as well as one on the Identify and Disrupt Bill ([refresh your memory on our concerns about that one here][15]).
   * Sam wrote an op-ed for [The Canberra Times][16] on the complexities of content moderation, and how the sweeping approach of the Online Safety Bill risks causing more harm in its quest to prevent it.
   * Lizzie delivered a keynote address at [WACOSS Conference][17] on why advancing welfare rights is a digital issue.
   * Sam wrote a piece for Overland explaining [why digital privacy is a feminist issue][18]. She then went on [3CR to chat about it further][19].
-  * Lizzie’s pen has been on fire with all her writing on the News Media Bargaining Code! You can find her in the [New York Times][20], [Overland][21], [ABC News][22], Al Jazeera, [Tech Won’t Save Us Podcast][23] and the [Green Left][24].
-  * And Lucie’s been chatting to the news about it—you can read more on why the code misses the point [in this Canberra Times piece][25].
+  * Lizzie's pen has been on fire with all her writing on the News Media Bargaining Code! You can find her in the [New York Times][20], [Overland][21], [ABC News][22], Al Jazeera, [Tech Won't Save Us Podcast][23] and the [Green Left][24].
+  * And Lucie's been chatting to the news about it—you can read more on why the code misses the point [in this Canberra Times piece][25].
 
 <div class="wp-block-image">
   <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/09/Email_headers_highres-06-1024x342.png" alt="" class="wp-image-7275" width="349" height="150" /></figure>
 </div>
 
-**Don’t miss out—mark these upcoming events in your calendar!**
+**Don't miss out—mark these upcoming events in your calendar!**
 
-  * Fortnightly Tech Talks are back! Starting today, you can once again tune in every second Friday at 1pm AEDT to catch up on all the latest tech news. It’s not too late to [register to attend today’s session][26] and join Lizzie, Peter Lewis, and Dan Stinton, as they dissect the past few weeks—they won’t be short on things to discuss!
-  * Sam will be taking part in a panel discussion with the Victorian privacy regulator, OVIC, for their biannual [Victorian Privacy Network][27] on March 24 from 10am-12pm. To celebrate International Women’s Day, the panel will focus on privacy and gender equality.
-  * We’ve teamed up with the folks at Melbourne Activist Legal Support, the Police Accountability Project, and the Human Rights Legal Centre to host a screening of Coded Bias, a documentary about facial recognition and AI**.** Save the date for Melbourne CBD on 7th April at 6pm**.** We will send out an invite with a link to register soon and in the meantime you can [watch the trailer here][28]!
-  * Need something to look forward to? Save the date and mark [Rights Con][29] in your calendar! The world’s leading summit on human rights in the digital age will take place 7-11 June 2021 and it will, once again, be entirely virtual. We will certainly be there.
-  * If you’re in/around Melbourne, please mark the dates for Melbourne Knowledge Week, 26 April-2 May (especially the weekend of the 1st and 2nd), we’ve got a special little project coming your way!<figure class="wp-block-image size-large">
+  * Fortnightly Tech Talks are back! Starting today, you can once again tune in every second Friday at 1pm AEDT to catch up on all the latest tech news. It's not too late to [register to attend today's session][26] and join Lizzie, Peter Lewis, and Dan Stinton, as they dissect the past few weeks—they won't be short on things to discuss!
+  * Sam will be taking part in a panel discussion with the Victorian privacy regulator, OVIC, for their biannual [Victorian Privacy Network][27] on March 24 from 10am-12pm. To celebrate International Women's Day, the panel will focus on privacy and gender equality.
+  * We've teamed up with the folks at Melbourne Activist Legal Support, the Police Accountability Project, and the Human Rights Legal Centre to host a screening of Coded Bias, a documentary about facial recognition and AI**.** Save the date for Melbourne CBD on 7th April at 6pm**.** We will send out an invite with a link to register soon and in the meantime you can [watch the trailer here][28]!
+  * Need something to look forward to? Save the date and mark [Rights Con][29] in your calendar! The world's leading summit on human rights in the digital age will take place 7-11 June 2021 and it will, once again, be entirely virtual. We will certainly be there.
+  * If you're in/around Melbourne, please mark the dates for Melbourne Knowledge Week, 26 April-2 May (especially the weekend of the 1st and 2nd), we've got a special little project coming your way!<figure class="wp-block-image size-large">
 
-<img loading="lazy" decoding="async" width="1024" height="171" src="/wp-content/uploads/2020/09/Email_headers_highres-02-1024x171.png" alt="" class="wp-image-7271" srcset="/wp-content/uploads/2020/09/Email_headers_highres-02-1024x171.png 1024w, /wp-content/uploads/2020/09/Email_headers_highres-02-300x50.png 300w, /wp-content/uploads/2020/09/Email_headers_highres-02-768x128.png 768w, /wp-content/uploads/2020/09/Email_headers_highres-02-1536x256.png 1536w, /wp-content/uploads/2020/09/Email_headers_highres-02-2048x342.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" decoding="async" width="1024" height="171" src="/wp-content/uploads/2020/09/Email_headers_highres-02-1024x171.png" alt="" class="wp-image-7271" srcset="/wp-content/uploads/2020/09/Email_headers_highres-02-1024x171.png 1024w, /wp-content/uploads/2020/09/Email_headers_highres-02-300x50.png 300w, /wp-content/uploads/2020/09/Email_headers_highres-02-768x128.png 768w, /wp-content/uploads/2020/09/Email_headers_highres-02-1536x256.png 1536w, /wp-content/uploads/2020/09/Email_headers_highres-02-2048x342.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure>
 
-Lastly, if you are new to this roundup because you saw us post on Facebook how we will no longer be relying on it—welcome! We’re thrilled to have you here.
+Lastly, if you are new to this roundup because you saw us post on Facebook how we will no longer be relying on it—welcome! We're thrilled to have you here.
 
-While we are leaving our Facebook page up, we will no longer be actively using it to engage with our community. We’re fed up with the amount of power Facebook wields, its shirking of responsibilities, its manipulative practices, and its massive contribution to a privacy-invasive system of surveillance online. As you may know, we made the conscious decision not to use targeted advertising on Facebook, because it flies in the face of our values. This is the next step.
+While we are leaving our Facebook page up, we will no longer be actively using it to engage with our community. We're fed up with the amount of power Facebook wields, its shirking of responsibilities, its manipulative practices, and its massive contribution to a privacy-invasive system of surveillance online. As you may know, we made the conscious decision not to use targeted advertising on Facebook, because it flies in the face of our values. This is the next step.
 
-We strongly suggest to all community builders, organisers and activists out there: **do not rely on big tech platforms.** Stay on Facebook if it works for you, but don’t rely on it. If access to your community, your mailing list, your data, can be pulled from underneath you at the drop of a hat, you are making yourself vulnerable. Now is a great time for us to find ways to connect and share that aren’t subject to the whims of big tech, and aren’t contributing to the surveillance capitalism machine.  
+We strongly suggest to all community builders, organisers and activists out there: **do not rely on big tech platforms.** Stay on Facebook if it works for you, but don't rely on it. If access to your community, your mailing list, your data, can be pulled from underneath you at the drop of a hat, you are making yourself vulnerable. Now is a great time for us to find ways to connect and share that aren't subject to the whims of big tech, and aren't contributing to the surveillance capitalism machine.
 
-If you’re keen to break up with Facebook, here are some tips on [how to get outta there][30].
+If you're keen to break up with Facebook, here are some tips on [how to get outta there][30].
 
 See you in March!
 

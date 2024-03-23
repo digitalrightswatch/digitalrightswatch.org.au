@@ -30,12 +30,12 @@ In response to the Inquiry into the _Criminal Code Amendment (Sharing of Abhorre
 
 **_What is the AVM Act?_**
 
-The AVM Act passed in 2019, and requires content, internet and hosting providers to report to the Australian Federal Police any abhorrent violent conduct that is happening in Australia and either acceddible via, or hosted on, their services. 
+The AVM Act passed in 2019, and requires content, internet and hosting providers to report to the Australian Federal Police any abhorrent violent conduct that is happening in Australia and either acceddible via, or hosted on, their services.
 
-It also created an offernce for content and hosting service providers who fail to remove abhorrent violent material. 
+It also created an offernce for content and hosting service providers who fail to remove abhorrent violent material.
 
 **_What are our concerns?_**
 
-While we wholeheartedly support the intent of the AVM Act, we raised concerns in 2019 that the obligations contained within it were much broader than was intended, and that it would have unintended consequences. Our submission to the 2021 Inquiry re-iterates many of the same concerns. 
+While we wholeheartedly support the intent of the AVM Act, we raised concerns in 2019 that the obligations contained within it were much broader than was intended, and that it would have unintended consequences. Our submission to the 2021 Inquiry re-iterates many of the same concerns.
 
 #### <span style="text-decoration: underline;"><a href="/wp-content/uploads/2021/10/212021_Joint-industry-civil-society-group-sub-PJCLE-AVM-Inquiry_SUBMITTED.pdf">You can read the full submission here.</a></span>

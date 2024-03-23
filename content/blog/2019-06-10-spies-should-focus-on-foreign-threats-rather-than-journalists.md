@@ -10,7 +10,7 @@ categories:
 ---
 We have witnessed two shocking raids by the Australian Federal Police on news outlets, both under the guise of protecting our national security.
 
-Let’s call the raids what they are: dangerous police overreach that could intimidate and curtail our free press.
+Let's call the raids what they are: dangerous police overreach that could intimidate and curtail our free press.
 
 Media freedom is a cornerstone of any democracy — it shines a light on the darkest corners and helps to keep our government honest.
 

@@ -19,7 +19,7 @@ The peaceful and symbolic ceremonies conducted by Margaret Pestorius, Tim Webb, 
 
 Since their peaceful protests, more evidence has emerged detailing the role of Pine Gap in the activities that concerned the Peace Pilgrims. It implicates Australia in extrajudicial drone assassinations in countries with which we are not at war, in nuclear weapons targeting and in illegal mass surveillance.
 
-Three months after the protest, you authorised the prosecution of these concerned citizens for ‘unlawful entry’ under the Defence Special Undertakings Act 1952 (Cth).
+Three months after the protest, you authorised the prosecution of these concerned citizens for 'unlawful entry' under the Defence Special Undertakings Act 1952 (Cth).
 
 That legislation was drafted at the height of the Cold War to secure areas for British nuclear testing, and it permits prosecutions to be held in secret, and for records of hearings to be destroyed, imposing penalties of up to $42,000 and 7 years in jail.
 
@@ -40,15 +40,15 @@ We, the undersigned, urge you to exercise your discretion to direct this punitiv
   * **Julian Burnside AO QC**
   * **Scott Ludlam**​, writer, graphic designer, activist​
   * **Asher Wolf**, journalist, Cryptoparty founder
-  * **Dr Giordano Nanni**, ​founder ​Juice Media
+  * **Dr Giordano Nanni**, ​founder ​Juice Media
   * **Kellie Tranter**, lawyer and human rights activist
   * **Benedict Coyne**, President, Australian Lawyers for Human Rights
   * **Anthony Kelly**, Executive Officer, Flemington & Kensington Community Legal Centre Inc.
   * **Dr Helen Caldicott**, President, Beyond Nuclear
   * **Professor Brian Martin**, University of Wollongong
-  * **John Pilger**, journalist and filmmaker ​
-  * **Mark Zirnsak**, Director, Justice & International Mission, Uniting Church​
-  * **Elizabeth O’Shea**, lawyer
+  * **John Pilger**, journalist and filmmaker ​
+  * **Mark Zirnsak**, Director, Justice & International Mission, Uniting Church​
+  * **Elizabeth O'Shea**, lawyer
   * **Professor Tilman Ruff AM**
   * **Father Peter Maher OAM**
   * **Archie Law**, Chair, Sydney Peace Foundation
@@ -64,7 +64,7 @@ We, the undersigned, urge you to exercise your discretion to direct this punitiv
   * **Professor Robert Moody**, Melbourne University
   * **Shirley Winton**, Spirit of Eureka (Victoria)
   * **Jeff Sparrow**, writer, editor and broadcaster
-  * **Dr Margaret Beavis**, ​Immediate Past President, ​Medical Association for Prevention of War
+  * **Dr Margaret Beavis**, ​Immediate Past President, ​Medical Association for Prevention of War
   * **Andrew Farran**, international lawyer
   * **Dr. Alison Broinowski**, writer and former Australian diplomat
   * **Father John Pettit OCSO**
@@ -77,7 +77,7 @@ We, the undersigned, urge you to exercise your discretion to direct this punitiv
   * **Professor Peter Norden AO**, Fellow, Australian & New Zealand Society of Criminology
   * **Dr Tim Sherratt**, University of Canberra
   * **Chris Drummond**, Theatre Director
-  * **Paul Barratt**, Former Secretary, Dep’t of Defence, President, Australians for War Powers Reform
+  * **Paul Barratt**, Former Secretary, Dep't of Defence, President, Australians for War Powers Reform
   * **Donna Mulhearn**, writer and activist
   * **Harold Wilkinson**, Quaker Peace and Legislation Committee
   * **Anne Sgro OAM**, President of Union of Australian Women Victoria
@@ -85,7 +85,7 @@ We, the undersigned, urge you to exercise your discretion to direct this punitiv
   * **Dr. Peter Burdon**, Associate Professor, Adelaide Law School, University of Adelaide
   * **Dr Sal Humphreys**, Media Studies, University of Adelaide
   * **Tim Singleton Norton**, Chair, Digital Rights Watch
-  * **Greg Barns** , Barrister, Former National President Australian Lawyers Alliance
+  * **Greg Barns** , Barrister, Former National President Australian Lawyers Alliance
   * **Richard Broinowski**, President, AIIA NSW
   * **Associate Professor Debra King**, Sociology, Flinders University
   * **Denis Doherty**, national co-ordinator, Australian Anti-Bases Campaign Coalition
@@ -97,7 +97,7 @@ We, the undersigned, urge you to exercise your discretion to direct this punitiv
   * **Tim Hollo**, Executive Director, the Green Institute
   * **Senator Richard Di Natale**, Leader of the Australian Greens and Senator for Victoria
   * **Adam Bandt MP**, Acting Co-Deputy Leader, Australian Greens and Federal Member for Melbourne
-  * **Senator Janet Rice,** Senator for Victoria
+  * **Senator Janet Rice,** Senator for Victoria
   * **Senator Lee Rhiannon**, Senator for NSW
   * **Senator Rachel Siewert**, Acting Co-deputy Leader Australian Greens, Senator for Western Australia
   * **Senator Peter Whish-Wilson**, Senator for Tasmania

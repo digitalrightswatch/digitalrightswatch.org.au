@@ -11,7 +11,7 @@ tags:
   - encryption
 
 ---
-## **What are we talking about?** 
+## **What are we talking about?**
 
 Encryption puts information into a secret code so that only those with the correct &#8216;key&#8217; can read it. If you send an encrypted message to a friend, as it travels to its destination, the message will be unreadable to the networks that control the wires of the internet. Only when your friend decrypts that message with her key will it become readable again, which often happens in an instant. In the context of digital information, such as on your computer and mobile phone, encryption protects important information like your internet banking details, credit card numbers and passwords from being stolen. Encryption is also important to protect your privacy on the web, and stop your personal information or messages from being eavesdropped on.
 
@@ -36,9 +36,9 @@ There are a number of things you can do to improve your personal security online
 
 ## **Where can I find out more**?
 
-  * See the Electronic Frontier Foundation’s [Encrypting the Web][5]
+  * See the Electronic Frontier Foundation's [Encrypting the Web][5]
   * Visit the UK Government-supported [Get Safe Online][6]
-  * Read consumer advocate CHOICE’s [guide to email encryption][7].
+  * Read consumer advocate CHOICE's [guide to email encryption][7].
   * Contact your bank or other service providers or visit their websites to learn about the security measures they have in place.
 
  [1]: https://whispersystems.org/

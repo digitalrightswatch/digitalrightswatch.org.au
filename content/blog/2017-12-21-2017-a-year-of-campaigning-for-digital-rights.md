@@ -23,9 +23,9 @@ To mark the start of a new national scheme that compels all Australian telecommu
 
 Many interactions we have in the digital world are being collected and stored by our communications providers, all without adequate safeguards. This program requires no warrants, has very little oversight and has received condemnation from human rights experts worldwide.
 
-That’s why we called upon Australian citizens to educate themselves about the scale of this surveillance and take precautions accordingly. If the government wants to surveil its citizens, then we’ll do everything in our power to equip people to circumvent that surveillance.
+That's why we called upon Australian citizens to educate themselves about the scale of this surveillance and take precautions accordingly. If the government wants to surveil its citizens, then we'll do everything in our power to equip people to circumvent that surveillance.
 
-Read more about Get a VPN Day on [ABC World Today,][3] [VICE,][4] [The Guardian,][5] [The Age,][6]and [Junkee.][7]
+Read more about Get a VPN Day on [ABC World Today,][3] [VICE,][4] [The Guardian,][5] [The Age,][6]and [Junkee.][7]
 
 **Intelligence sharing operations &#8211; who is watching the watchers?**
 
@@ -57,7 +57,7 @@ We particularly acknowledge the role that strong digital rights can play in supp
 
 The government proposed new laws to combat message encryption used by technology companies from overseas in the case of law enforcement needing access to certain users messages in police investigations.
 
-We&#8217;ve also seen worrying signs from the government that they wish to [compel social media companies to hand over access][15] to user’s encrypted content. The protection that is offered through encryption is important for everyone, and we&#8217;ll continue the fight to protect it.
+We&#8217;ve also seen worrying signs from the government that they wish to [compel social media companies to hand over access][15] to user's encrypted content. The protection that is offered through encryption is important for everyone, and we&#8217;ll continue the fight to protect it.
 
 We [wrote to the Attorney-General][16], asking for clarification on this issue, and we have also joined with other organisations globally in calling for governments to protect encryption, [before][17] and [following][18] a key meeting of Five Eyes governments. You can also [hear us give a rundown of this issue][19] on radio.
 
@@ -65,13 +65,13 @@ We [wrote to the Attorney-General][16], asking for clarification on this issue, 
 
 We [responded to social media guidelines][20] for federal public servants released by the government, which are a gross overreach of power into the private lives of government employees.
 
-The new guidelines warn that public servants would be in breach of code of conduct if they “liked” anti-government posts, privately emailing negative mat­erial or do not ­remove “nasty comments” about the government posted by others. The new policies apply to employees even if they use social media in a private capacity outside of work hours. It&#8217;s a worrying development that we&#8217;ll continue to monitor and advocate on.
+The new guidelines warn that public servants would be in breach of code of conduct if they "liked" anti-government posts, privately emailing negative mat­erial or do not ­remove "nasty comments" about the government posted by others. The new policies apply to employees even if they use social media in a private capacity outside of work hours. It&#8217;s a worrying development that we&#8217;ll continue to monitor and advocate on.
 
 **Australia failing to protect civil and political rights**
 
-We joined forces with 32 other non-profits and civil society groups to [produce a report to the United Nations Human Rights Committee][21], examining Australia’s compliance with the [International Covenant on Civil and Political Rights][22].
+We joined forces with 32 other non-profits and civil society groups to [produce a report to the United Nations Human Rights Committee][21], examining Australia's compliance with the [International Covenant on Civil and Political Rights][22].
 
-As the Human Rights Law Centre&#8217;s Emily Howie told [Guardian Australia][23]: “A close look at Australia’s human rights record shows that Australia is going backwards almost across the board.&#8221;
+As the Human Rights Law Centre&#8217;s Emily Howie told [Guardian Australia][23]: "A close look at Australia's human rights record shows that Australia is going backwards almost across the board.&#8221;
 
 Digital Rights Watch brought specific focus on Australia&#8217;s mandatory metadata retention scheme and how it impacted on the human rights of Australian citizens.
 
@@ -83,7 +83,7 @@ A panel of encryption experts, international privacy law experts, politicians, d
 
 **Facial recognition database expansions**
 
-We&#8217;ve been [increasingly concerned][25] by the decision by the Council of Australian Governments (COAG) to provide all images from state and territory driver’s licence databases to the federal National Facial Biometric Matching Capability.
+We&#8217;ve been [increasingly concerned][25] by the decision by the Council of Australian Governments (COAG) to provide all images from state and territory driver's licence databases to the federal National Facial Biometric Matching Capability.
 
 The creation of such a [comprehensive national facial database][26] is an unnecessary and disproportionate invasion of the privacy rights of all Australians and is fundamentally incompatible with a free and open society. Even more worrying are reports that the government is considering an option that would see corporates purchasing access to this database.
 
@@ -93,9 +93,9 @@ Read more about this via [Junkee][27], [InnovationAus][28], [Mashable][29], [The
 
 It was welcoming to see global condemnation of Australia&#8217;s own Attorney General George Brandis&#8217; attacks on digital rights. Access Now recognized Senator Brandis as a Villain among the annual [&#8216;Heroes and Villains Award&#8217;][32] recipients for his comments in opposition to strong digital security tools like encryption.
 
-As a leading official representing Australia in the notorious “Five Eyes” partnership, Attorney General Brandis has pushed publicly for requirements for companies to implement measures to allow law enforcement to bypass encryption protections for exceptional access to digital content.
+As a leading official representing Australia in the notorious "Five Eyes" partnership, Attorney General Brandis has pushed publicly for requirements for companies to implement measures to allow law enforcement to bypass encryption protections for exceptional access to digital content.
 
-Digital Rights Watch&#8217;s own Tim Singleton Norton also received a special mention as a ‘Hero’ in the 2017 awards.
+Digital Rights Watch&#8217;s own Tim Singleton Norton also received a special mention as a 'Hero' in the 2017 awards.
 
 **Internet access as a human right for asylum seekers**
 
@@ -109,14 +109,14 @@ The University of Sydney published a [fantastic report into Digital Rights in Au
 
 The report covers rights issues in four areas: privacy, profiling and analytics; government data matching and surveillance; workplace change; and freedom of expression and speech regulation. [Watch the panel discussion][35] held at the launch, featuring our own Nic Suzor.
 
-**And the rest**  
+**And the rest**
 Amongst all the other work of this year were these special highlights:
 
   * New Zealand&#8217;s new Minister for Communications and Government Digital Services Clare Curran [sat down with us to talk trans-tasman relations][36] on digital rights issues.
   * Thanks to support from the [Lush Digital Fund][37], we&#8217;ll be producing some great resources designed to educate people about how to protect themselves online.
   * We welcomed the inclusion of some strong digital rights language in DFAT&#8217;s newly launched [International Cyber Engagement strategy][38].
   * At the [International Conference of Data Protection and Privacy Commissioners][39] in Hong Kong, we presented on robo-debt, data retention and the war on maths.
-  * We joined with 110 social justice advocates and campaigners at the global [CampaignCon event][40] in South Africa.  
+  * We joined with 110 social justice advocates and campaigners at the global [CampaignCon event][40] in South Africa.
     And at the [CIVICUS civil society conference][41] in Fiji, we worked with hundreds of global representatives on social justice issues and how the digital world will be affected.
 
 **The end of Net Neutrality**

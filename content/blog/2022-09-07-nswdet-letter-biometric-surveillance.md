@@ -23,15 +23,15 @@ categories:
   - News
 
 ---
-On September 6 it was reported that a high school in New South Wales is <a href="https://www.theguardian.com/australia-news/2022/sep/06/sydney-schools-use-of-fingerprint-scanners-in-toilets-an-invasion-of-privacy-expert-says" target="_blank" rel="noreferrer noopener">requiring students to scan their fingerprints to access the school bathroom</a>. 
+On September 6 it was reported that a high school in New South Wales is <a href="https://www.theguardian.com/australia-news/2022/sep/06/sydney-schools-use-of-fingerprint-scanners-in-toilets-an-invasion-of-privacy-expert-says" target="_blank" rel="noreferrer noopener">requiring students to scan their fingerprints to access the school bathroom</a>.
 
-It is our view that the collection and use of children’s biometric information for the purpose of protecting school property from vandalism is an unreasonable and disproportionate invasion of privacy. 
+It is our view that the collection and use of children's biometric information for the purpose of protecting school property from vandalism is an unreasonable and disproportionate invasion of privacy.
 
 Digital Rights Watch has written to the NSW Department of Education to express our concerns and to request further clarifying information regarding the risk assessment and decision-making process.
 
 **We urge Moorebank High School to cease the use of this technology, and that the NSW Department of Education commit to preventing future use of biometric surveillance technology in other schools.**
 
-You can read the letter in full below. 
+You can read the letter in full below.
 
 
 

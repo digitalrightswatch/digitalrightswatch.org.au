@@ -11,11 +11,11 @@ categories:
 ---
 Digital Rights Watch and Electronic Frontiers Australia urge the Australian Government to ensure that the human rights of asylum seekers and refugees being held in offshore detention camps on Manus Island (Papua New Guinea) and Nauru are respected.
 
-The Australian Government’s offshore processing system which has established these camps has resulted in violations of various rights protected under international human rights treaties to which Australia is a party, including the Universal Declaration of Human Rights (UDHR) and the International Convention on Civil and Political Rights (ICCPR).
+The Australian Government's offshore processing system which has established these camps has resulted in violations of various rights protected under international human rights treaties to which Australia is a party, including the Universal Declaration of Human Rights (UDHR) and the International Convention on Civil and Political Rights (ICCPR).
 
 Angela Daly from Digital Rights Watch said:
 
-‘The United Nations High Commissioner for Refugees has made it very clear that Australia has an ongoing responsibility to the individuals whom it has transferred to Manus and Nauru under this system. This includes their right to communicate by phone and Internet.’
+'The United Nations High Commissioner for Refugees has made it very clear that Australia has an ongoing responsibility to the individuals whom it has transferred to Manus and Nauru under this system. This includes their right to communicate by phone and Internet.'
 
 EFA Chair Lyndsey Jackson said:
 

@@ -11,9 +11,9 @@ tags:
   - encryption
 
 ---
-We’re in the midst of a worsening democracy deficit, and you need look no further to see this on full display than within the shambolic process around the Telecommunications and Other Legislation Amendment (Assistance and Access) Bill. This Bill will introduce unprecedented new powers for government and law enforcement, and Coalition politicians are treating the public, and our concerns about it, with utter contempt. The Liberal/National strain of ‘tough on crime’ has mutated during the never-ending war on terror, the most recent result being yet another trampling of democratic accountability.
+We're in the midst of a worsening democracy deficit, and you need look no further to see this on full display than within the shambolic process around the Telecommunications and Other Legislation Amendment (Assistance and Access) Bill. This Bill will introduce unprecedented new powers for government and law enforcement, and Coalition politicians are treating the public, and our concerns about it, with utter contempt. The Liberal/National strain of 'tough on crime' has mutated during the never-ending war on terror, the most recent result being yet another trampling of democratic accountability.
 
-First put forward well over a year ago under the Turnbull government, this Bill was touted as the panacea to law enforcement’s frustrations about not having unimpeded access to encrypted communications. The prime minister proudly gloated that Australia would step in to do what no other nation had previously managed to achieve: hack open encrypted communications.
+First put forward well over a year ago under the Turnbull government, this Bill was touted as the panacea to law enforcement's frustrations about not having unimpeded access to encrypted communications. The prime minister proudly gloated that Australia would step in to do what no other nation had previously managed to achieve: hack open encrypted communications.
 
 [Read the rest of this article on Overland][1]
 

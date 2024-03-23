@@ -12,7 +12,7 @@ tags:
   - privacy
 
 ---
-In the lead-up to the 2016 Census, [DRW raised concerns][1] around the Australian Bureau of Statistics’ choice to make mandatory the collection, retention and protection of citizen’s names and addresses.
+In the lead-up to the 2016 Census, [DRW raised concerns][1] around the Australian Bureau of Statistics' choice to make mandatory the collection, retention and protection of citizen's names and addresses.
 
 After the repeated failure of the Census website on actual Census night, DRW [published an open letter][2] calling for [a public inquiry to take place][3].
 

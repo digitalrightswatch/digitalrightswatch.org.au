@@ -16,7 +16,7 @@ At a parliamentary committee hearing into telecommunication security reforms tod
 
 &#8220;The data retention scheme and associated mass surveillance operations such as the plan for a national facial biometric data capability have massive consequences for the privacy of ordinary people.&#8221;
 
-&#8220;Australians’ rights to privacy are being compromised by widespread warrantless surveillance without adequate safeguards”, Mr Singleton Norton said.
+&#8220;Australians' rights to privacy are being compromised by widespread warrantless surveillance without adequate safeguards", Mr Singleton Norton said.
 
 &#8220;These revelation just serve as validation that the scheme was hastily designed from the outset, with little regard for the privacy protections of individual citizens.&#8221;
 

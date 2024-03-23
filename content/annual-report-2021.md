@@ -17,9 +17,9 @@ eg_custom_meta_216:
   - 'true'
 
 ---
-It’s fair to say that 2021 looked a lot more like 2020 than any of us ever really hoped. The pandemic has carried on, putting many lives and livelihoods at risk, and our dependence on digital spaces as critical infrastructure is now greater than ever.
+It's fair to say that 2021 looked a lot more like 2020 than any of us ever really hoped. The pandemic has carried on, putting many lives and livelihoods at risk, and our dependence on digital spaces as critical infrastructure is now greater than ever.
 
-For us at Digital Rights Watch, we’ve been busy. This year DRW made twelve submissions, appeared at five parliamentary hearings, and participated in countless roundtables, consultations and discussions—all to protect our human rights. Digital rights issues often seem to crop up in advance of elections, and in our experience this year has been no exception.
+For us at Digital Rights Watch, we've been busy. This year DRW made twelve submissions, appeared at five parliamentary hearings, and participated in countless roundtables, consultations and discussions—all to protect our human rights. Digital rights issues often seem to crop up in advance of elections, and in our experience this year has been no exception.
 
 So, some themes are not new this year: governments have put their interests ahead of our right to digital security and companies continue to prioritise their business model over our democracy and well being. But every year I feel better about the state of our digital rights, because every year, I see our movement growing in number. It&#8217;s clear that discussions about digital rights are more diverse than ever, and we&#8217;ve been proud to facilitate some of those through our own events and projects.
 

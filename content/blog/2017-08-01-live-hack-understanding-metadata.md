@@ -12,11 +12,11 @@ tags:
   - Ending Mandatory Metadata Retention
 
 ---
-As part of this year&#8217;s Melbourne Writers Festival, we&#8217;re pleased to present a live hack event: [how secure is your personal information?][1] 
+As part of this year&#8217;s Melbourne Writers Festival, we&#8217;re pleased to present a live hack event: [how secure is your personal information?][1]
 
 Join Amy Gray and Vanessa Toholka as they delve into the topic of metadata with former Senator Scott Ludlam and former President of the Australian Human Rights Commission Gillian Triggs, and discover how easy it is to derive sensitive facts from the digital traces we leave on the open web. Learn more about metadata retention and what you can do to protect yourself.
 
-8pm, Monday 28 August  
+8pm, Monday 28 August
 Deakin Edge, Fed Square
 
 This is a free event. No bookings are required.

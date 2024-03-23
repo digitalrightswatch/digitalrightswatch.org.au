@@ -25,11 +25,11 @@ tags:
   - social media
 
 ---
-There’s no doubt in our minds that we want digital platforms to change–to treat our privacy as a priority, to ensure our data is protected and not used against our interests, to give us transparency and be accountable for invisible algorithms that we are subject to.
+There's no doubt in our minds that we want digital platforms to change–to treat our privacy as a priority, to ensure our data is protected and not used against our interests, to give us transparency and be accountable for invisible algorithms that we are subject to.
 
 We also want the government to act, to set regulations in place to guide this privacy by design behavior and give us the means to exercise our rights when our data is abused and our privacy exposed.
 
-With the News Media Bargaining Code, the [ACCC aims to][1] “_promote competition, enhance consumer protection and support a sustainable Australian media landscape in the digital age_.” Well, that is what we want, but we don’t believe that the draft Bill delivers any of this.
+With the News Media Bargaining Code, the [ACCC aims to][1] "_promote competition, enhance consumer protection and support a sustainable Australian media landscape in the digital age_." Well, that is what we want, but we don't believe that the draft Bill delivers any of this.
 
 We want the rules of data-driven internet models to change universally, whereas the media bargaining code aims to deliver change (in the shape of profit) only for established news publishers. Not only that, it threatens to perpetuate the collection and abuse of user data by building further dependence on it. It centers the Google and Facebook business model as a means for revenue, rather than reshaping it.
 
@@ -41,7 +41,7 @@ The recommendations from [our submission][3] to the consultation, are as follows
   * Focus on creating a systemic solution which supports a diverse and dynamic space for all types of journalism in Australia such as the [Independent Future Fund for Journalism.][4]
   * Adequately fund and support the public broadcasters.
   * Broaden and fix the definition of news covered by the current proposal.
-  * Do not fixate the proposal to Google and Facebook, but broaden the scope of “_digital platform service_” to create a model which enables other platforms to emerge in this space with similar functionality (influence, advertising practices, impact on media providers, etc).
+  * Do not fixate the proposal to Google and Facebook, but broaden the scope of "_digital platform service_" to create a model which enables other platforms to emerge in this space with similar functionality (influence, advertising practices, impact on media providers, etc).
   * Do not allow individual news corporations to negotiate special terms with the platforms directly.
 
 We have put together a series of social media tiles to explain the Code and our position on it. You can see the tiles below or on our [Instagram Page.][5]
@@ -49,7 +49,7 @@ We have put together a series of social media tiles to explain the Code and our 
 <div class="wp-block-group">
   <div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
     <figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex">
-    
+
     <ul class="blocks-gallery-grid">
       <li class="blocks-gallery-item">
         <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/09/MEDIACODE-01-3-1024x1024.png" alt="" data-id="7235" data-full-url="/wp-content/uploads/2020/09/MEDIACODE-01-3.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7235" class="wp-image-7235" srcset="/wp-content/uploads/2020/09/MEDIACODE-01-3-1024x1024.png 1024w, /wp-content/uploads/2020/09/MEDIACODE-01-3-300x300.png 300w, /wp-content/uploads/2020/09/MEDIACODE-01-3-150x150.png 150w, /wp-content/uploads/2020/09/MEDIACODE-01-3-768x768.png 768w, /wp-content/uploads/2020/09/MEDIACODE-01-3.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>

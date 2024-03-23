@@ -2,7 +2,7 @@
 title: Fair copyright
 author: Digital Rights Watch
 date: 2017-05-24T02:53:21+00:00
-excerpt: Right now the government is considering whether to introduce fair use. Let’s tell them – we need fair use now.
+excerpt: Right now the government is considering whether to introduce fair use. Let's tell them – we need fair use now.
 url: /2017/05/24/fair-copyright/
 featureImage: /wp-content/uploads/2017/05/18622488_1349156741836908_8126302163115749940_n.png
 categories:
@@ -12,9 +12,9 @@ tags:
   - Reforming Copyright
 
 ---
-Australia’s copyright law is hopelessly out of date. Things that we all take for granted – forwarding emails; quoting; making and sharing memes; cloud storage – are often illegal in Australia. Fair use would fix this.
+Australia's copyright law is hopelessly out of date. Things that we all take for granted – forwarding emails; quoting; making and sharing memes; cloud storage – are often illegal in Australia. Fair use would fix this.
 
-Right now the government is considering whether to introduce fair use. Let’s tell them – we need fair use now.
+Right now the government is considering whether to introduce fair use. Let's tell them – we need fair use now.
 
 [Take action &#8211; write to your local MP and tell them you support a fair copyright system.][1]
 

@@ -20,6 +20,6 @@ categories:
   - News
 
 ---
-Australia is on a worrying journey towards an increase in government surveillance, violating basic human rights and invading our everyday privacy. 
+Australia is on a worrying journey towards an increase in government surveillance, violating basic human rights and invading our everyday privacy.
 
 But in order to understand how we got here, we need to look at the sequence of events that have occurred over the past two decades.

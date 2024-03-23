@@ -10,7 +10,7 @@ Are you a budding graphic designer, artist, sketcher or otherwise creative perso
 
 #### **We&#8217;re launching our &#8216;design a new sticker for Digital Rights Watch&#8217; competition.**<figure class="wp-block-image">
 
-<img loading="lazy" decoding="async" width="1024" height="287" src="/wp-content/uploads/2019/07/Sticker-top-header-1024x287.jpg" alt="" class="wp-image-1704" srcset="/wp-content/uploads/2019/07/Sticker-top-header-1024x287.jpg 1024w, /wp-content/uploads/2019/07/Sticker-top-header-300x84.jpg 300w, /wp-content/uploads/2019/07/Sticker-top-header-768x215.jpg 768w, /wp-content/uploads/2019/07/Sticker-top-header-1536x430.jpg 1536w, /wp-content/uploads/2019/07/Sticker-top-header-2048x573.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" decoding="async" width="1024" height="287" src="/wp-content/uploads/2019/07/Sticker-top-header-1024x287.jpg" alt="" class="wp-image-1704" srcset="/wp-content/uploads/2019/07/Sticker-top-header-1024x287.jpg 1024w, /wp-content/uploads/2019/07/Sticker-top-header-300x84.jpg 300w, /wp-content/uploads/2019/07/Sticker-top-header-768x215.jpg 768w, /wp-content/uploads/2019/07/Sticker-top-header-1536x430.jpg 1536w, /wp-content/uploads/2019/07/Sticker-top-header-2048x573.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure>
 
 We&#8217;re pretty into our stickers, and we&#8217;ve already [got a few that are available for our supporters][1]. These are great ways for people to show their passion for digital rights, by plastering their digital devices, cars and guitar cases.
 

@@ -1,5 +1,5 @@
 ---
-title: Turnbull’s attacks on encryption will enable crime at the cost of our rights
+title: Turnbull's attacks on encryption will enable crime at the cost of our rights
 author: Tim Singleton Norton
 date: 2018-06-27T04:21:39+00:00
 excerpt: The government says its planned anti-encryption mandate will empower law enforcement, but it will enable far more crime than it will prevent, and regular citizens will bear the cost.
@@ -13,7 +13,7 @@ tags:
 ---
 The government says its planned anti-encryption mandate will empower law enforcement, but it will enable far more crime than it will prevent, and regular citizens will bear the cost.
 
-Take one look at the upcoming legislative agenda of the Turnbull government and you’d be excused for assuming that our antipodean democracy was a police state under threat from many faceless foreign nations. Supposed espionage threats and foreign interference claims are being used to ram through laws that will have huge impact on civil society, changes to security regulations that will allow police to demand identification at airports without due cause, and intimidation tactics directed at citizens who dare to criticise government services.
+Take one look at the upcoming legislative agenda of the Turnbull government and you'd be excused for assuming that our antipodean democracy was a police state under threat from many faceless foreign nations. Supposed espionage threats and foreign interference claims are being used to ram through laws that will have huge impact on civil society, changes to security regulations that will allow police to demand identification at airports without due cause, and intimidation tactics directed at citizens who dare to criticise government services.
 
 One impending piece of legislation, slated to be introduced in the coming weeks, will have huge impact on the ways in which we all use technology to communicate, operate businesses and engage in our daily lives. At a recent meeting of the Five Eyes partners (Canada, United Kingdom, New Zealand, United States of America and Australia joint surveillance operations), our Government gleefully proclaimed that they planned to introduce legislation that would allow them to intercept encrypted communications.
 

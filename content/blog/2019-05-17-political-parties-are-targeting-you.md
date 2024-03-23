@@ -30,7 +30,7 @@ We used Facebook&#8217;s own targeting algorithms to identify certain people, an
   </li>
 </ul>
 
-Facebook knows a lot about you based on the information you have added yourself, the pages you have liked and how you interact with them. Using cookies, advertisers can also target Facebook advertisements at you based on your browsing habits. 
+Facebook knows a lot about you based on the information you have added yourself, the pages you have liked and how you interact with them. Using cookies, advertisers can also target Facebook advertisements at you based on your browsing habits.
 
 The scary thing is that this wasn&#8217;t hard. We threw a few hundred dollars behind 10-15 variations of these ads, and ended up reaching 20,000 people. All of whom had specific characteristics that we relayed back to them through these ads.
 
@@ -38,7 +38,7 @@ Sure, but that&#8217;s just advertising, right? Well here&#8217;s the kicker &#8
 
 That means they aren&#8217;t bound to any of the same regulations and rules that companies, non-profits or everyday citizens are. They don&#8217;t have to worry about invading your privacy, or protecting your data, or dealing with the ethical and legal dilemma of cross-referencing and data matching.
 
-They can acquire or purchase lists of consumer data, demographics, insurance details &#8211; combine these with any recorded interaction you&#8217;ve ever had with an MPs office, or a political party or any of their associated entities &#8211; upload these to Facebook and serve you ads that are incredibly accurate. 
+They can acquire or purchase lists of consumer data, demographics, insurance details &#8211; combine these with any recorded interaction you&#8217;ve ever had with an MPs office, or a political party or any of their associated entities &#8211; upload these to Facebook and serve you ads that are incredibly accurate.
 
 In practice this means information you have shared on one platform for a completely different purpose can be used to target you with advertisements on Facebook without you realising. And it&#8217;s all happening behind a cloak &#8211; you may see a completely different ad, for the same political party, that your neighbour sees.
 

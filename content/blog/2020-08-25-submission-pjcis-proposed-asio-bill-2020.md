@@ -24,9 +24,9 @@ tags:
   - submission
 
 ---
-The Parliamentary Joint Committee on Intelligence and Security (PJCIS) is conducting a review of the [Australian Security Intelligence Organisation Amendment Bill 2020][1]. 
+The Parliamentary Joint Committee on Intelligence and Security (PJCIS) is conducting a review of the [Australian Security Intelligence Organisation Amendment Bill 2020][1].
 
-The Department of Home Affairs’ proposed _Australian Security Intelligence Organisation Amendment Bill 2020_ amends the _Australian Intelligence Organisation Act 1979_. 
+The Department of Home Affairs' proposed _Australian Security Intelligence Organisation Amendment Bill 2020_ amends the _Australian Intelligence Organisation Act 1979_.
 
 [Digital Rights Watch provided a submission to the inquiry which is available here.][2]
 

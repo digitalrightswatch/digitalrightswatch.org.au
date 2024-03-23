@@ -11,9 +11,9 @@ categories:
 ---
 During the same week that Australia is expected to be granted a seat on the United Nations Human Rights Council, an expert UN Committee will grill the Australian Government over its own human rights record.
 
-A coalition of Australian NGOs is in Geneva to brief the UN Human Rights Committee – the panel of independent human rights experts tasked with assessing Australia’s adherence to the International Covenant on Civil and Political Rights (ICCPR). The delegation will present a report endorsed by 56 Australian NGOs.
+A coalition of Australian NGOs is in Geneva to brief the UN Human Rights Committee – the panel of independent human rights experts tasked with assessing Australia's adherence to the International Covenant on Civil and Political Rights (ICCPR). The delegation will present a report endorsed by 56 Australian NGOs.
 
-During Australia’s last review, in 2009, Committee members raised concerns about the Australian Government’s policies on Aboriginal and Torres Strait Islander peoples&#8217; rights, its cruel treatment of people seeking asylum, its use of national security laws to erode basic civil liberties, and police information sharing practices on cases that involved the death penalty overseas.
+During Australia's last review, in 2009, Committee members raised concerns about the Australian Government's policies on Aboriginal and Torres Strait Islander peoples&#8217; rights, its cruel treatment of people seeking asylum, its use of national security laws to erode basic civil liberties, and police information sharing practices on cases that involved the death penalty overseas.
 
 The NGO report sets out how Australia has not made sufficient progress towards implementing many of its obligations and has instead gone backwards in a number of areas.
 

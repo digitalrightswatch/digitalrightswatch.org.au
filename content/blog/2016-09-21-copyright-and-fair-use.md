@@ -13,15 +13,15 @@ tags:
 ---
 ## **What are we talking about?**
 
-Much of the content we share on the web, such as articles, pictures and videos, is subject to copyright law. That means that the right to use, share or modify the creative work belongs to the author. The [_Copyright Act 1968_][1] (Cth) gives authors copyright over literary, dramatic, musical or artistic ideas automatically. The author can also sell this right to someone else, like a film studio or a record label. If someone uses the work without permission from the author of the person who holds the rights (often called the ‘rights-holder’) over the work, that person may be in breach of copyright.
+Much of the content we share on the web, such as articles, pictures and videos, is subject to copyright law. That means that the right to use, share or modify the creative work belongs to the author. The [_Copyright Act 1968_][1] (Cth) gives authors copyright over literary, dramatic, musical or artistic ideas automatically. The author can also sell this right to someone else, like a film studio or a record label. If someone uses the work without permission from the author of the person who holds the rights (often called the 'rights-holder') over the work, that person may be in breach of copyright.
 
-There are some exceptions to copyright law in Australia. One exception covers the use of copyrighted works for specific purposes such as research, journalism or court cases. It allows people to use works for these purposes without needing to get permission from the author or rights-holder. In other countries, there is a broader exception used, based on principles rather than specific uses. This is known as ‘fair use’ and there is discussion about amending Australian law to include it.
+There are some exceptions to copyright law in Australia. One exception covers the use of copyrighted works for specific purposes such as research, journalism or court cases. It allows people to use works for these purposes without needing to get permission from the author or rights-holder. In other countries, there is a broader exception used, based on principles rather than specific uses. This is known as 'fair use' and there is discussion about amending Australian law to include it.
 
-## **Why are these ideas important?** 
+## **Why are these ideas important?**
 
 Copyright is designed to protect authors, to give them an incentive to create works without the fear that their hard work will be taken by others. When a copyright system is balanced, it can be an engine for creativity and innovation. When it is unbalanced, copyright can have the opposite effect, giving authors and people who hold copyright a veto on innovation and free speech.
 
-## **What is the law in Australia?** 
+## **What is the law in Australia?**
 
 Australia does not currently have a system of fair use, it has a much narrower exception to copyright, called fair dealing. This exception covers uses of copyrighted materials for activities like research, criticism, parody and satire and reporting the news.
 
@@ -36,11 +36,11 @@ In 2013, the Australian Law Reform Commission (ALRC) [recommended][2] that Austr
 
 The Productivity Commission has also [looked at this issue][3] and is due to publish a final report in September 2016. The Productivity Commission found that Australia&#8217;s copyright system has progressively expanded to the point where it is costly and unbalanced. It recommended that Australia introduce a new system, including a broad, principles-based exception for fair use.
 
-Technology has progressed since the Copyright Act was drafted. There are good arguments that it is time for change. For example, most videos and articles people share on social media are probably a breach of copyright law. Or sometimes people with disabilities need to ‘format shift’ materials to be able to use them. For example, we have the technology to format shift a book into a sound recording. However, the law does not always allow this.
+Technology has progressed since the Copyright Act was drafted. There are good arguments that it is time for change. For example, most videos and articles people share on social media are probably a breach of copyright law. Or sometimes people with disabilities need to 'format shift' materials to be able to use them. For example, we have the technology to format shift a book into a sound recording. However, the law does not always allow this.
 
 To be effective, copyright law must reflect community notions of fairness. Effective laws will be versatile, but also maintain a balance between the rights of copyright owners and copyright users, and recognise that sometimes people even move between the two roles. There are good reasons to think that a principle-based exception to copyright will be better suited to our current age than what w currently have.
 
-Digital Rights Watch has written a [submission to the Productivity Commission][4], which sets out some of our views on fair use. We believe the ALRC’s approach should be adopted.
+Digital Rights Watch has written a [submission to the Productivity Commission][4], which sets out some of our views on fair use. We believe the ALRC's approach should be adopted.
 
 ## **Further reading**
 
@@ -55,9 +55,9 @@ Digital Rights Watch has written a [submission to the Productivity Commission][4
   * Parks, Amanda, &#8216;The It&#8217;s Complicated Relationship Between Social Media and Australian Copyright Law&#8217; (2014) 17(2) _Internet Law Bulletin_ 34
   * Stewart, Andrew et al, _Intellectual Property in Australia_ (Lexis Nexis Butterworths, 5th ed, 2014)
   * WikiJuris, [_Copyright Infringement_][7] (5 March 2016)
-  * [_Fair use_][8] Wikipedia (28 March 2016)
+  * [_Fair use_][8] Wikipedia (28 March 2016)
   * [Fair Use Week][9]
-  * [Copyright law with &#8216;fair use&#8217; exception consistent with human rights][10], Australian Human Rights Commission (24 April 2015)
+  * [Copyright law with &#8216;fair use&#8217; exception consistent with human rights][10], Australian Human Rights Commission (24 April 2015)
 
  [1]: https://www.legislation.gov.au/Series/C1968A00063
  [2]: http://www.alrc.gov.au/publications/copyright-report-122

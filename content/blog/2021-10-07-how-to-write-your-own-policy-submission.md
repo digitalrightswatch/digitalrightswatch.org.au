@@ -29,11 +29,11 @@ tags:
 ---
 On 7 October 2021 Digital Rights Watch teamed up with Electronic Frontiers Australia (EFA) to host a live online workshop on **how to write your own policy submission.**
 
-There are a lot of opportunities to get involved in the fight to uphold our rights in the digital world, and making submissions is a good way to ensure community voices are part of the conversation. 
+There are a lot of opportunities to get involved in the fight to uphold our rights in the digital world, and making submissions is a good way to ensure community voices are part of the conversation.
 
-But the public consultation process can be confusing, legislation and policy documents can be confusing, and writing a policy submission can be daunting, we get it! 
+But the public consultation process can be confusing, legislation and policy documents can be confusing, and writing a policy submission can be daunting, we get it!
 
-That&#8217;s why we came together to run this workshop &#8211; to give you the tools and encouragement you need to write your own policy submission. 
+That&#8217;s why we came together to run this workshop &#8211; to give you the tools and encouragement you need to write your own policy submission.
 
 Join Executive Director of DRW, Lucie Krahulcova, and Board Member of EFA, Justin Warren, as they guide you through the process of crafting a meaningful policy submission, including their own tips and tricks they have learned over many years of experience in this space. <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 

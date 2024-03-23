@@ -11,7 +11,7 @@ tags:
 
 ---
 <p style="text-align:left">
-  Last week, Singapore’s ministry of health admitted information from 1.5 million citizens had been copied in “a deliberate, targeted, and well-planned cyber attack” by hackers who were specifically going after the personal data of the country’s prime minister, Lee Hsien Loong. It took authorities a week to detect the breach, which, to be fair, is relatively fast given the average organisation takes more than six months.
+  Last week, Singapore's ministry of health admitted information from 1.5 million citizens had been copied in "a deliberate, targeted, and well-planned cyber attack" by hackers who were specifically going after the personal data of the country's prime minister, Lee Hsien Loong. It took authorities a week to detect the breach, which, to be fair, is relatively fast given the average organisation takes more than six months.
 </p>
 
 [Read the rest of this article in The Saturday Paper][1]

@@ -27,19 +27,19 @@ tags:
   - five eyes
 
 ---
-We’re back for another edition of our monthly Digital Rights Watch update! We’ve been keeping busy building out our campaigns and movement―did you notice even [our website][1] got a little makeover?
+We're back for another edition of our monthly Digital Rights Watch update! We've been keeping busy building out our campaigns and movement―did you notice even [our website][1] got a little makeover?
 
 <div class="wp-block-image">
   <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-04-1-1024x366.png" alt="" class="wp-image-7494" width="375" height="134" srcset="/wp-content/uploads/2020/10/Email_headers_highres-04-1-1024x366.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-04-1-300x107.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-04-1-768x275.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-04-1.png 1168w" sizes="(max-width: 375px) 100vw, 375px" /></figure>
 </div>
 
-**Five eyes have their eye(s) on encryption (still)**  
-If you’re reading this email, you’ve likely heard of the Five Eyes. In case you haven’t, it’s one of the most powerful known espionage alliances in history―made up of Australia, Canada, United States, New Zealand, and the United Kingdom. Each year, Ministers from each of the Five Eyes countries get together for a Ministerial meeting, to tackle the big challenges they think they face, and, we assume, to sit in a dark ominous room together and practice their best Dr Evil [maniacal laughter][2]?
+**Five eyes have their eye(s) on encryption (still)**
+If you're reading this email, you've likely heard of the Five Eyes. In case you haven't, it's one of the most powerful known espionage alliances in history―made up of Australia, Canada, United States, New Zealand, and the United Kingdom. Each year, Ministers from each of the Five Eyes countries get together for a Ministerial meeting, to tackle the big challenges they think they face, and, we assume, to sit in a dark ominous room together and practice their best Dr Evil [maniacal laughter][2]?
 
-In all seriousness though, over the past few years there has been a consistent focus on encryption, and it is clear that the Five Eyes are still trying to undermine the digital security technologies that make us all safe online. We’ve put together a [short piece on our site][3] to give you the nuts and bolts of what you need to know.
+In all seriousness though, over the past few years there has been a consistent focus on encryption, and it is clear that the Five Eyes are still trying to undermine the digital security technologies that make us all safe online. We've put together a [short piece on our site][3] to give you the nuts and bolts of what you need to know.
 
-**Data retention report falls short of international debate**  
-The long awaited Parliamentary report reviewing Australia’s controversial data retention scheme is finally here! And while it does make some good recommendations, like [limiting loopholes][4] which have allowed over a hundred agencies access to metadata they should not have (!!), we’re disappointed to see it fall so short of the international debate. What debate, you ask? Earlier this month, the [EU top court issued a strong][5] ruling against blanket data retention making several European data retention schemes illegal in the process―including the UK&#8217;s.
+**Data retention report falls short of international debate**
+The long awaited Parliamentary report reviewing Australia's controversial data retention scheme is finally here! And while it does make some good recommendations, like [limiting loopholes][4] which have allowed over a hundred agencies access to metadata they should not have (!!), we're disappointed to see it fall so short of the international debate. What debate, you ask? Earlier this month, the [EU top court issued a strong][5] ruling against blanket data retention making several European data retention schemes illegal in the process―including the UK&#8217;s.
 
 For more details on our demands of the review you can head to the 2019 [submission][6] we made to the inquiry with our friends at Human Rights Law Centre (HRLC) and Access Now. The next question is, what will the Aus government do with the recommendations in the report?
 
@@ -49,14 +49,14 @@ For more details on our demands of the review you can head to the 2019 [submissi
 
 **What Digital Rights Watch has been up to**
 
-  * If you weren’t able to tune into _NetThing_ at the start of the month, you can check out the recordings online. We’re biased, but our favourite panels of the day were [The Growing Role of Digital Platforms in our Economy][7] (featuring DRW Chair, Lizzie O’Shea) and [Censorship and expression online][8] (organised by our Campaign Officer, Sam Floreani).
+  * If you weren't able to tune into _NetThing_ at the start of the month, you can check out the recordings online. We're biased, but our favourite panels of the day were [The Growing Role of Digital Platforms in our Economy][7] (featuring DRW Chair, Lizzie O'Shea) and [Censorship and expression online][8] (organised by our Campaign Officer, Sam Floreani).
   * As always, Lizzie held her regular spot on the _Australia at Home_ fortnightly Tech Talks―you can catch the [recording here][9].
   * If our piece on the Five Eyes and encryption piqued your interest, our Programme Director, Lucie Krahulcova, spoke with the Byte Into IT gang about intelligence sharing and international data flows on Triple R. [Listen back here][10].
-  * There’s never a dull moment when it comes to human rights in a pandemic! Lizzie spoke with [The New Daily on policing powers and use of drones during the pandemic][11]. You can also read the [October round up from the Accountability Policing Project][12] which has been focusing on documenting COVIDpolicing over the pandemic.
+  * There's never a dull moment when it comes to human rights in a pandemic! Lizzie spoke with [The New Daily on policing powers and use of drones during the pandemic][11]. You can also read the [October round up from the Accountability Policing Project][12] which has been focusing on documenting COVIDpolicing over the pandemic.
   * A few months ago we partnered with Wotton + Kearney to explore the human rights implications of the COVIDSafe app ([PDF][13]). You can now read an awesome overview of it on Right Now: [COVID-19 must not normalise digital surveillance][14].
-  * Sam spoke with 2SER for their podcast series, Think: Digital Futures for their ‘[Creeping Capability][15]’ episode, exploring Facial Recognition Technology and The Capability.
-  * If you’re curious about how this year’s budget allocation will impact privacy, check out [this piece from Innovation Aus][16], featuring Lucie. Unfortunately, as always, the Australian government likes to \*say\* they care about privacy, but continues to refuse to put its money where its mouth is.
-  * And of course, if you’ve read the previous few monthly roundups you know that Sama loves to talk about TikTok. You can catch her talking about the political power of TikTok in the lead up to the US election in this SBS News video [here][17].
+  * Sam spoke with 2SER for their podcast series, Think: Digital Futures for their '[Creeping Capability][15]' episode, exploring Facial Recognition Technology and The Capability.
+  * If you're curious about how this year's budget allocation will impact privacy, check out [this piece from Innovation Aus][16], featuring Lucie. Unfortunately, as always, the Australian government likes to \*say\* they care about privacy, but continues to refuse to put its money where its mouth is.
+  * And of course, if you've read the previous few monthly roundups you know that Sama loves to talk about TikTok. You can catch her talking about the political power of TikTok in the lead up to the US election in this SBS News video [here][17].
 
 <div class="wp-block-image">
   <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-06-1024x342.png" alt="" class="wp-image-7298" width="415" height="138" srcset="/wp-content/uploads/2020/10/Email_headers_highres-06-1024x342.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-06-300x100.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-06-768x257.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-06.png 1250w" sizes="(max-width: 415px) 100vw, 415px" /></figure>
@@ -64,11 +64,11 @@ For more details on our demands of the review you can head to the 2019 [submissi
 
 **Don&#8217;t miss out, mark these in your calendar!**
 
-  * Lizzie O’Shea continues her regular spot on the _Australia at Home_ fortnightly Tech Talks. Each fortnight Lizzie, Peter Lewis and Dan Stinton discuss the latest global tech developments. The next one is **today**! It’s not too late to [register to attend][18].
-  * The Australian Human Rights Commission and the European Union Delegation to Australia is putting on a lecture on [Racial equality in the time of COVID-19][19] to explore how the pandemic has impacted diverse communities. It’s also on **today** so if you’re interested, hop to it!   
-  * Artificial Intelligence is becoming increasingly commonplace. But can we trust decisions made by an AI System? And how can we create ethical as well as reliable outcomes? DRW Board Member Vanessa Tolka will be exploring this and more as one of the speakers on a University of Melbourne Panel: _Can you trust a computer algorithm… how and why?_ It’s online on the 5th November, and free to attend. [Register here!][20] 
-  * Don’t forget that the _Data Availability and Transparency Bill_ is still open for consultation. If passed, this legislation will drastically alter the way the Australian government can share our personal information, and change the face of information privacy as we know it. It’s a big one! [This blog post from Salinger Privacy][21] gives an overview of some of the privacy challenges. Get your [submissions in by the 6th of November][22].
-  * If you’re interested in feminist and queer intersections with technology, we’ve got our eyes on this [presentation on the Trans History of Video Games from MIT][23] on December 4th, as well as this series of [interactive sessions][24] from November 5th bringing together those who work with, or are interested in, data about gendered violence.
+  * Lizzie O'Shea continues her regular spot on the _Australia at Home_ fortnightly Tech Talks. Each fortnight Lizzie, Peter Lewis and Dan Stinton discuss the latest global tech developments. The next one is **today**! It's not too late to [register to attend][18].
+  * The Australian Human Rights Commission and the European Union Delegation to Australia is putting on a lecture on [Racial equality in the time of COVID-19][19] to explore how the pandemic has impacted diverse communities. It's also on **today** so if you're interested, hop to it!
+  * Artificial Intelligence is becoming increasingly commonplace. But can we trust decisions made by an AI System? And how can we create ethical as well as reliable outcomes? DRW Board Member Vanessa Tolka will be exploring this and more as one of the speakers on a University of Melbourne Panel: _Can you trust a computer algorithm… how and why?_ It's online on the 5th November, and free to attend. [Register here!][20]
+  * Don't forget that the _Data Availability and Transparency Bill_ is still open for consultation. If passed, this legislation will drastically alter the way the Australian government can share our personal information, and change the face of information privacy as we know it. It's a big one! [This blog post from Salinger Privacy][21] gives an overview of some of the privacy challenges. Get your [submissions in by the 6th of November][22].
+  * If you're interested in feminist and queer intersections with technology, we've got our eyes on this [presentation on the Trans History of Video Games from MIT][23] on December 4th, as well as this series of [interactive sessions][24] from November 5th bringing together those who work with, or are interested in, data about gendered violence.
   * There has been a lot of talk of content moderation on social media platforms lately. Learn more about deplatforming hate groups online in this free keynote: [Hate not found?! The Deplatforming of the Far Right and its Consequences][25] on December 11th.
 
 <div class="wp-block-image">
@@ -77,17 +77,17 @@ For more details on our demands of the review you can head to the 2019 [submissi
 
 By now you should be familiar with our Digital Rights Cities campaign!
 
-We believe that local councils have a huge opportunity to play a fundamental role in how our rights are upheld on a community level. That’s why we’re calling on Australian councils to embed human rights into their digital initiatives.<figure class="wp-block-image size-large">
+We believe that local councils have a huge opportunity to play a fundamental role in how our rights are upheld on a community level. That's why we're calling on Australian councils to embed human rights into their digital initiatives.<figure class="wp-block-image size-large">
 
-<img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/10/WEB_FB_BANNER_withtext_HIGHRES-02-1024x576.png" alt="" class="wp-image-7301" srcset="/wp-content/uploads/2020/10/WEB_FB_BANNER_withtext_HIGHRES-02-1024x576.png 1024w, /wp-content/uploads/2020/10/WEB_FB_BANNER_withtext_HIGHRES-02-300x169.png 300w, /wp-content/uploads/2020/10/WEB_FB_BANNER_withtext_HIGHRES-02-768x432.png 768w, /wp-content/uploads/2020/10/WEB_FB_BANNER_withtext_HIGHRES-02-1536x864.png 1536w, /wp-content/uploads/2020/10/WEB_FB_BANNER_withtext_HIGHRES-02-2048x1152.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2020/10/WEB_FB_BANNER_withtext_HIGHRES-02-1024x576.png" alt="" class="wp-image-7301" srcset="/wp-content/uploads/2020/10/WEB_FB_BANNER_withtext_HIGHRES-02-1024x576.png 1024w, /wp-content/uploads/2020/10/WEB_FB_BANNER_withtext_HIGHRES-02-300x169.png 300w, /wp-content/uploads/2020/10/WEB_FB_BANNER_withtext_HIGHRES-02-768x432.png 768w, /wp-content/uploads/2020/10/WEB_FB_BANNER_withtext_HIGHRES-02-1536x864.png 1536w, /wp-content/uploads/2020/10/WEB_FB_BANNER_withtext_HIGHRES-02-2048x1152.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure>
 
-**Thank you to everyone who has written to their local Council urging them to sign on to be a Digital Rights City! And if you haven’t yet—head to** [**this page**][26] **to get on it!**
+**Thank you to everyone who has written to their local Council urging them to sign on to be a Digital Rights City! And if you haven't yet—head to** [**this page**][26] **to get on it!**
 
-We’re using the United Nations Cities for Digital Rights framework as a starting point, but we get that it can be overwhelming! That’s why we’ve put together [some guidance][27] filled with explanations and practical ideas for how communities can transform from “smart” cities into digital rights cities. **Because if a city erodes our rights, it’s just not that smart!**
+We're using the United Nations Cities for Digital Rights framework as a starting point, but we get that it can be overwhelming! That's why we've put together [some guidance][27] filled with explanations and practical ideas for how communities can transform from "smart" cities into digital rights cities. **Because if a city erodes our rights, it's just not that smart!**
 
 We will be sharing this information (and more!) with Councils who have already responded positively, and will continue to encourage and work with them to take these important steps in the interest of protecting human rights in every community!
 
-The fight for digital rights doesn’t have to be a gargantuan task. We believe some of the most important changes can, and should, happen locally, in our communities.
+The fight for digital rights doesn't have to be a gargantuan task. We believe some of the most important changes can, and should, happen locally, in our communities.
 
 [**Click here to learn more, and to get in touch with your local council!**][28]
 

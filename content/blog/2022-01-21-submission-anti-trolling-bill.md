@@ -26,11 +26,11 @@ tags:
   - defamation
 
 ---
- 
 
-In late 2021 the Australian government announced its social media ‘anti-trolling’ Bill.
 
-The Bill has been framed as an “important part of the government’s commitment to protecting Australians from online harms”. However, we are concerned that the Bill offers very little toward the protection of everyday Australians from online harms, instead focusing on increasing the power of those who elect to bring defamation proceedings, and releasing media companies from possible defamation liability. 
+In late 2021 the Australian government announced its social media 'anti-trolling' Bill.
+
+The Bill has been framed as an "important part of the government's commitment to protecting Australians from online harms". However, we are concerned that the Bill offers very little toward the protection of everyday Australians from online harms, instead focusing on increasing the power of those who elect to bring defamation proceedings, and releasing media companies from possible defamation liability.
 
 **By focusing on unmasking anonymous social media users, the Bill threatens to create _additional_ online harms while ostensibly seeking to reduce them.**
 

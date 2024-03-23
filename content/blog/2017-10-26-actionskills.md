@@ -22,7 +22,7 @@ categories:
 ---
 This guide is **designed for beginners** and non-technical people with the aim of increasing security across our whole community. The content is based on research, working with security experts and on the ground experience working with community activists and people who believe government and corporations do not have the right to spy on people by default.
 
-Produced by [Glenn Todd][1]. Contribution by [Gabor Szathmari][2] and experience from [FLAC][3].  Eye Image by [Eiti Kimura.][4] Entire resource is licensed [Creative Commons Attribution 4.0 International License][5]. Updated July 2020.
+Produced by [Glenn Todd][1]. Contribution by [Gabor Szathmari][2] and experience from [FLAC][3].  Eye Image by [Eiti Kimura.][4] Entire resource is licensed [Creative Commons Attribution 4.0 International License][5]. Updated July 2020.
 
 **<span style="text-decoration: underline;"><a href="https://actionskills.co/resources/digital-security/" target="_blank" rel="noreferrer noopener">Find the guide here </a></span>**
 

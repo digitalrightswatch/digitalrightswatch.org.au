@@ -2,7 +2,7 @@
 title: Our vision for a free and open internet
 author: Tim Singleton Norton
 date: 2016-07-24T13:02:05+00:00
-excerpt: A democratic society will always involve some kind of negotiation between the interests of individual privacy and the need to protect people’s safety. Digital Rights Watch strives to participate in public debates about the nature of privacy using a human rights lens.
+excerpt: A democratic society will always involve some kind of negotiation between the interests of individual privacy and the need to protect people's safety. Digital Rights Watch strives to participate in public debates about the nature of privacy using a human rights lens.
 url: /2016/07/24/our-vision-for-a-free-and-open-internet/
 featureImage: /wp-content/uploads/2016/03/6914441342_775b4ab9a7_o.jpg
 categories:
@@ -11,7 +11,7 @@ categories:
 ---
 The human right to privacy is enshrined the International Covenant on Civil and Political Rights, and digital privacy is an integral part of the human right to privacy. Privacy involves anonymity (the right to communicate without attribution), and secrecy (the right to communicate with others without being listened to or watched by another). Both these ideas impact our ability to live free and full lives in the digital world. The extent to which they are respected in our lives online also has an impact on our democracy more generally.
 
-A democratic society will always involve some kind of negotiation between the interests of individual privacy and the need to protect people’s safety. Digital Rights Watch strives to participate in public debates about the nature of privacy using a human rights lens. That is, our starting point is that government incursions on digital privacy need to be transparently justified and limited to only what is manifestly necessary. People have the right to be treated with respect and dignity, and policy should extend the benefit of the doubt to the public, rather than adopt a default position that the presumption of innocence does not apply. Corporations also need to be honest about how they collect, store and use personal information, and avoid putting themselves in positions where they abuse customer trust by breaching personal privacy.
+A democratic society will always involve some kind of negotiation between the interests of individual privacy and the need to protect people's safety. Digital Rights Watch strives to participate in public debates about the nature of privacy using a human rights lens. That is, our starting point is that government incursions on digital privacy need to be transparently justified and limited to only what is manifestly necessary. People have the right to be treated with respect and dignity, and policy should extend the benefit of the doubt to the public, rather than adopt a default position that the presumption of innocence does not apply. Corporations also need to be honest about how they collect, store and use personal information, and avoid putting themselves in positions where they abuse customer trust by breaching personal privacy.
 
 Regulating technology in the twenty-first century requires we have an approach to government and law-making that is modern and responsive. We need to have properly resourced oversight bodies that understand the direction technology is taking and can effectively advocate to protect the rights of citizens. We need to make use of the expertise of civil society and universities to make sure policies and laws about digital technology are up to date and informed by best practice.
 

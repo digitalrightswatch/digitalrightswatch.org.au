@@ -8,7 +8,7 @@ categories:
   - 'Tools &amp; Guides'
 
 ---
-On the way to your digital independance… ? The road is clear!  
+On the way to your digital independance… ? The road is clear!
 [De-google-ify Internet][1] offers you the possibility to follow it in several steps.
 
  [1]: https://degooglisons-internet.org/en/

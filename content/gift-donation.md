@@ -5,10 +5,10 @@ type: page
 date: 2018-12-18T00:37:12+00:00
 
 ---
-### Do you have a friend, family member or colleague who is passionate about digital rights? Why not make a donation to Digital Rights Watch in their name?  
+### Do you have a friend, family member or colleague who is passionate about digital rights? Why not make a donation to Digital Rights Watch in their name?
 
 
-We&#8217;ll send them a certificate to say that you&#8217;ve made a contribution in their name, to help the ongoing fight to protect Australian&#8217;s digital rights.  
+We&#8217;ll send them a certificate to say that you&#8217;ve made a contribution in their name, to help the ongoing fight to protect Australian&#8217;s digital rights.
 
 
 [gravityform id=&#8221;13&#8243; title=&#8221;false&#8221; description=&#8221;true&#8221;]

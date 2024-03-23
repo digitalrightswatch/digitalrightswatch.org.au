@@ -11,11 +11,11 @@ categories:
 ---
 Digital Rights Watch has welcomed the release of a UN report calling for a global treaty to protect internet user&#8217;s right to privacy.
 
-The United Nations Special Rapporteur on the right to privacy, Joseph Cannataci, yesterday presented his report to the Human Rights Council, denouncing current surveillance legislation and calling for States to respect privacy as a universal right in the digital age.
+The United Nations Special Rapporteur on the right to privacy, Joseph Cannataci, yesterday presented his report to the Human Rights Council, denouncing current surveillance legislation and calling for States to respect privacy as a universal right in the digital age.
 
-&#8220;It is extremely welcoming to see such a thorough and comprehensive report on the state of privacy online,&#8221; said Chair of Digital Rights Watch Tim Singleton Norton.
+&#8220;It is extremely welcoming to see such a thorough and comprehensive report on the state of privacy online,&#8221; said Chair of Digital Rights Watch Tim Singleton Norton.
 
-&#8220;Australia&#8217;s own mandatory data retention scheme is a prime example of the overreach of Governments that is fast becoming a global trend. The extensive, intrusive nature of these regimes, in combination with a lack of transparency over which bodies are able to access it and for what purposes, risks creating a chilling effect on freedom of expression in Australia.&#8221;
+&#8220;Australia&#8217;s own mandatory data retention scheme is a prime example of the overreach of Governments that is fast becoming a global trend. The extensive, intrusive nature of these regimes, in combination with a lack of transparency over which bodies are able to access it and for what purposes, risks creating a chilling effect on freedom of expression in Australia.&#8221;
 
 &#8220;Mr Cannataci could not have been more damning in his condemnation of nation states&#8217; attitudes towards digital privacy. This should not be taken lightly, and we urge Governments, including Australia, to take heed of his warnings.&#8221;
 

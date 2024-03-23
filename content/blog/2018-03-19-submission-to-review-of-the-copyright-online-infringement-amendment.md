@@ -15,7 +15,7 @@ The Department of Communications and the Arts is undertaking a [review of the Co
 
 There is little evidence that the website blocking scheme in s 115A of the Copyright Act 1968 (Cth) it is effective. We suggest that it be repealed. Instead, Government should focus on encouraging the further development of new markets for digital content, and should ensure that markets for digital content are fair and competitive.
 
-In particular, the Government should immediately act on the Productivity Commission’s 2016 recommendation to repeal Section 51(3) of the Competition and Consumer Act 2010 (Cth). In the short to medium term, the Government should continue to monitor the performance of digital media markets, seek to ensure that Australians are being fairly served, and ensure that established interests are not able to restrict competition from innovative new entrants in media distribution.
+In particular, the Government should immediately act on the Productivity Commission's 2016 recommendation to repeal Section 51(3) of the Competition and Consumer Act 2010 (Cth). In the short to medium term, the Government should continue to monitor the performance of digital media markets, seek to ensure that Australians are being fairly served, and ensure that established interests are not able to restrict competition from innovative new entrants in media distribution.
 
 [Read our full submission here.][2]
 

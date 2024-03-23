@@ -27,15 +27,15 @@ tags:
   - victoria
 
 ---
-In February 2023 the _Health Legislation Amendment (Information Sharing) Bill 2023_ was introduced to the Victorian parliament after the original version proposed in 2021 lapsed. 
+In February 2023 the _Health Legislation Amendment (Information Sharing) Bill 2023_ was introduced to the Victorian parliament after the original version proposed in 2021 lapsed.
 
-The proposed system is similar to the commonwealth My Health Record system, which became opt-out in 2018, and more than 2.5 million people chose to opt out of the system. Unlike the federal MyHealthRecord, the proposed Victorian system would not give people the option to opt-out, nor will consent be sought before the data is shared. 
+The proposed system is similar to the commonwealth My Health Record system, which became opt-out in 2018, and more than 2.5 million people chose to opt out of the system. Unlike the federal MyHealthRecord, the proposed Victorian system would not give people the option to opt-out, nor will consent be sought before the data is shared.
 
 The original bill in 2021 was criticised by legal, civil, and digital rights organisations (including us!)
 
-The new bill has been re-introduced with no substantive changes, showing that these community concerns have been ignored. 
+The new bill has been re-introduced with no substantive changes, showing that these community concerns have been ignored.
 
-Our Chari, Lizzie O&#8217;Shea, wrote to the Greens and crossbench members of the Victorian Parliament to urge them to propose significant amendments to the bill or oppose it entirely. 
+Our Chari, Lizzie O&#8217;Shea, wrote to the Greens and crossbench members of the Victorian Parliament to urge them to propose significant amendments to the bill or oppose it entirely.
 
 <div data-wp-interactive="" class="wp-block-file">
   <a id="wp-block-file--media-1de87148-41bc-4c30-a266-99ee971a17f6" href="/wp-content/uploads/2023/02/20230222-DRW-Letter-Vic-Health-Info-Sharing-Bill.pdf">20230222-DRW-Letter-Vic-Health-Info-Sharing-Bill</a><a href="/wp-content/uploads/2023/02/20230222-DRW-Letter-Vic-Health-Info-Sharing-Bill.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-1de87148-41bc-4c30-a266-99ee971a17f6">Download</a>

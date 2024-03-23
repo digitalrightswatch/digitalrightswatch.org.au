@@ -8,16 +8,16 @@ categories:
   - Submissions
 
 ---
-Digital Rights Watch worked with a number of civil society partners in providing a submission to the Parliamentary Joint Committee on Intelligence and Security (PJCIS) Review of the Telecommunications and Other Legislation (Assistance and Access) Act 2018 (TOLA). 
+Digital Rights Watch worked with a number of civil society partners in providing a submission to the Parliamentary Joint Committee on Intelligence and Security (PJCIS) Review of the Telecommunications and Other Legislation (Assistance and Access) Act 2018 (TOLA).
 
 Our key recommendations:
 
-  * Repeal of the TOLA Act in its entirety. 
-  * The introduction of an enforceable federal human rights framework. 
-  * Enshrine robust protections for whistleblowers who expose wrongdoing in relation the Act. 
-  * Introduce a warrant-based system with judicial consent. 
+  * Repeal of the TOLA Act in its entirety.
+  * The introduction of an enforceable federal human rights framework.
+  * Enshrine robust protections for whistleblowers who expose wrongdoing in relation the Act.
+  * Introduce a warrant-based system with judicial consent.
   * Amend the Act to close the loophole that currently allows agencies to use powers to access journalist metadata without a warrant.
-  * Address the problems with the definition of ‘systemic weakness’, ‘systemic vulnerability’ and ‘target technology.’ 
+  * Address the problems with the definition of 'systemic weakness', 'systemic vulnerability' and 'target technology.'
   * Put in place annual reporting requirements on the part of the Attorney General in respect of powers exercised under the Act.
 
 [You can read our submission in full here.][1]

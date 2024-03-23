@@ -8,7 +8,7 @@ categories:
   - Articles
 
 ---
-From exploding Ford Pintos to racist algorithms, all harmful technologies are a product of unethical design. And yet, like car companies in the ’70s, today’s tech companies would rather blame the user.
+From exploding Ford Pintos to racist algorithms, all harmful technologies are a product of unethical design. And yet, like car companies in the '70s, today's tech companies would rather blame the user.
 
 [Read the rest of this article on Long Reads][1]
 

@@ -2,7 +2,7 @@
 title: How to opt-out of the federal medical database
 author: Digital Rights Watch
 date: 2018-07-16T06:52:44+00:00
-excerpt: From today, you can choose whether or not you will be included in the largest mandatory medical database in Australian history. We’re encouraging you to consider opting out.
+excerpt: From today, you can choose whether or not you will be included in the largest mandatory medical database in Australian history. We're encouraging you to consider opting out.
 url: /2018/07/16/how-to-opt-out-of-the-federal-medical-database/
 featureImage: /wp-content/uploads/2018/07/medical-781422_1280.jpg
 categories:
@@ -12,13 +12,13 @@ tags:
   - My Health Record
 
 ---
-By the end of 2018, a ‘My Health Record’ will be created for every Australian unless they choose not to have one. The three month opt-out period runs from 16 July (today) through to 15 October 2018.
+By the end of 2018, a 'My Health Record' will be created for every Australian unless they choose not to have one. The three month opt-out period runs from 16 July (today) through to 15 October 2018.
 
-A range of privacy concerns have been raised in relation to this system since it was first proposed years ago. Despite this, no guarantees have being given that individual citizen’s personal information will be kept safe and secure.
+A range of privacy concerns have been raised in relation to this system since it was first proposed years ago. Despite this, no guarantees have being given that individual citizen's personal information will be kept safe and secure.
 
-Health information is incredibly attractive to scammers and criminal groups. By creating such a massive database of Australian’s personal, private health information is highly likely to become a target in the future
+Health information is incredibly attractive to scammers and criminal groups. By creating such a massive database of Australian's personal, private health information is highly likely to become a target in the future
 
-From today, you can choose whether or not you will be included in the largest mandatory medical database in Australian history. Given this government’s track record on failing to protect privacy when in comes to personal information, <u>we’re encouraging you to consider opting out.</u>
+From today, you can choose whether or not you will be included in the largest mandatory medical database in Australian history. Given this government's track record on failing to protect privacy when in comes to personal information, <u>we're encouraging you to consider opting out.</u>
 
 <p style="margin: 10px 0; padding: 0; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #202020; font-family: Helvetica; font-size: 16px; line-height: 150%; text-align: left;">
   <strong>Here&#8217;s how you can opt-out of this massive database:</strong>

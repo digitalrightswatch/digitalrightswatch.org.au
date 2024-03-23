@@ -31,9 +31,9 @@ The recommendations from our submission to the consultation, are as follows:
   * Update the definition of personal information.
   * Adopt a rights-based approach.
   * Introduce a statutory tort for invasions of privacy.
-  * Don’t use consent as a scape-goat to weak protections of personal information.
+  * Don't use consent as a scape-goat to weak protections of personal information.
   * Abolish exemptions, namely the exemption for political messaging.
-  * Introduce a stronger definition of ‘de-identified’ data.
+  * Introduce a stronger definition of 'de-identified' data.
 
 [You can read our full submission here.][2]
 

@@ -8,7 +8,7 @@ categories:
   - Submissions
 
 ---
-The Parliamentary Joint Committee on Intelligence & Security (PJCIS) has referred the Assistance & Access Act 2018 (TOLA) for review by the Independent National Security Legislation Monitor. 
+The Parliamentary Joint Committee on Intelligence & Security (PJCIS) has referred the Assistance & Access Act 2018 (TOLA) for review by the Independent National Security Legislation Monitor.
 
 This review will specifically consider whether the Act achieves an appropriate balance: whether the Act contains sufficient safeguards for protecting the rights of individuals and remains proportionate and necessary.
 

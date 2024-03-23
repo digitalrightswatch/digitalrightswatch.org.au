@@ -1,5 +1,5 @@
 ---
-title: Statement on AFP raid of journalist’s home
+title: Statement on AFP raid of journalist's home
 author: Digital Rights Watch
 date: 2019-06-04T04:15:24+00:00
 url: /2019/06/04/statement-on-afp-raid-of-journalists-home/
@@ -14,4 +14,4 @@ We fear that the powers given to the AFP to seize and search Annika Smethurst&#8
 
 This is a gross abuse of national security powers &#8211; using them to reinforce a culture of secrecy and lack of accountability in our law enforcement apparatus.&#8221;
 
-Quotes attributable to Tim Singleton Norton, Chair &#8211; Digital Right’s Watch.
+Quotes attributable to Tim Singleton Norton, Chair &#8211; Digital Right's Watch.

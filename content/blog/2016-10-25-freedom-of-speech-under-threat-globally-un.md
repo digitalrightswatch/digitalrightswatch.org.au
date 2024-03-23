@@ -17,7 +17,7 @@ In particular, the Special Rapporteur highlights his growing concerns in the are
 
 Mr Kaye also referenced the trend towards internet shutdowns &#8211; something that Digital Rights Watch has been working on in partnership with Access Now through the [Keep It On campaign][1]:
 
-> One of the biggest threats to online expression is the use of Internet ‘kill switches.’ More than a dozen network shutdowns have been recorded in the last year. Internet shutdowns are just one form of digital censorship among many adopted by governments today.
+> One of the biggest threats to online expression is the use of Internet 'kill switches.' More than a dozen network shutdowns have been recorded in the last year. Internet shutdowns are just one form of digital censorship among many adopted by governments today.
 
 [Find out more and read the report here.][2]
 

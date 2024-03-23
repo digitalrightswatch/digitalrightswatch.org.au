@@ -2,7 +2,7 @@
 title: Digital rights workshop at auIGF
 author: Digital Rights Watch
 date: 2016-10-26T10:28:04+00:00
-excerpt: Digital Rights Watch joined a panel workshop at the Australian Internet Governance Forum in October 2016, looking at the development of digital rights in Australia and assessing the current state of play.
+excerpt: Digital Rights Watch joined a panel workshop at the Australian Internet Governance Forum in October 2016, looking at the development of digital rights in Australia and assessing the current state of play.
 url: /2016/10/26/digital-rights-workshop-at-auigf/
 featureImage: /wp-content/uploads/2016/10/Workshop-Digital-Rights-are-Human-Rights-1.jpeg
 categories:

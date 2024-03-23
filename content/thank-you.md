@@ -15,6 +15,6 @@ Our volunteer board and staff offer their time and expertise without pay, workin
 
 Your generous support allows us to continue the work we&#8217;ve been doing for years, since Digital Rights Watch&#8217;s founding in 2016. Each donation helps us to further our advocacy efforts &#8211; such as running programs to educate people about their digital rights, facilitating public events with human rights defenders, and launching national awareness campaigns.
 
-_We will never share your contact or financial details with anyone else. [Read our full Privacy Policy here.][1]_
+_We will never share your contact or financial details with anyone else. [Read our full Privacy Policy here.][1]_
 
  [1]: https://digitalrightswatch.org.au/privacy-policy/

@@ -13,7 +13,7 @@ tags:
 ---
 Internet shutdowns happen when governments order companies to cut off access to communications tools — like Twitter, SMS, or Facebook. Unfortunately, companies often comply with these government orders, even when they happen during elections.
 
-Internet shutdowns pose a threat to human rights around the world. They **harm everyone:**businesses, emergency services, journalism, human rights defenders, and demonstrators. They don’t help victims or restore order. **Even worse, they’re increasing** — in 2015 alone we recorded more than 15 shutdowns worldwide.
+Internet shutdowns pose a threat to human rights around the world. They **harm everyone:**businesses, emergency services, journalism, human rights defenders, and demonstrators. They don't help victims or restore order. **Even worse, they're increasing** — in 2015 alone we recorded more than 15 shutdowns worldwide.
 
 That&#8217;s why we&#8217;ve joined forces with Access Now and 70+ other organisations around the world in the [#KeepItOn campaign][1].
 

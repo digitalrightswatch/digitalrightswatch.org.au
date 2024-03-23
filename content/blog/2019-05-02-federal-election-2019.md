@@ -18,13 +18,13 @@ That&#8217;s why we&#8217;ve compiled a handy scorecard of the major political p
   * Copyright reform, including support for safe harbour and fair use
   * Ethics in government use of citizen&#8217;s data, including Centrelink robo-debt, oversight of surveillance agencies and My Health Record rollout.<figure class="wp-block-image">
 
-<img loading="lazy" decoding="async" width="672" height="1024" src="/wp-content/uploads/2019/04/2019-Election-Scorecard-672x1024.jpg" alt="" class="wp-image-1574" srcset="/wp-content/uploads/2019/04/2019-Election-Scorecard-672x1024.jpg 672w, /wp-content/uploads/2019/04/2019-Election-Scorecard-197x300.jpg 197w, /wp-content/uploads/2019/04/2019-Election-Scorecard-768x1170.jpg 768w, /wp-content/uploads/2019/04/2019-Election-Scorecard.jpg 827w" sizes="(max-width: 672px) 100vw, 672px" /> </figure> 
+<img loading="lazy" decoding="async" width="672" height="1024" src="/wp-content/uploads/2019/04/2019-Election-Scorecard-672x1024.jpg" alt="" class="wp-image-1574" srcset="/wp-content/uploads/2019/04/2019-Election-Scorecard-672x1024.jpg 672w, /wp-content/uploads/2019/04/2019-Election-Scorecard-197x300.jpg 197w, /wp-content/uploads/2019/04/2019-Election-Scorecard-768x1170.jpg 768w, /wp-content/uploads/2019/04/2019-Election-Scorecard.jpg 827w" sizes="(max-width: 672px) 100vw, 672px" /> </figure>
 
 You can also [download a PDF version of the scorecard here][1].
 
 The fine print:
 
-  * We [sent out a survey][2] to all major political parties, looked at their public policy platforms and analysed prior voting history. 
+  * We [sent out a survey][2] to all major political parties, looked at their public policy platforms and analysed prior voting history.
   * The full detail of our analysis and ranking is [available here.][3]
   * We encourage voters to read further details on specific policies as available on political party websites.
   * We surveyed a selection of registered political parties, not independents, that are fielding candidates in the 2019 Federal Election.

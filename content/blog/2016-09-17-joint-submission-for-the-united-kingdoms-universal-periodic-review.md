@@ -1,5 +1,5 @@
 ---
-title: Joint Submission for the United Kingdom’s Universal Periodic Review
+title: Joint Submission for the United Kingdom's Universal Periodic Review
 author: Digital Rights Watch
 date: 2016-09-16T15:51:20+00:00
 url: /2016/09/17/joint-submission-for-the-united-kingdoms-universal-periodic-review/
@@ -8,9 +8,9 @@ categories:
   - News
 
 ---
-Every five years, the United Nations reviews each state’s compliance with international human rights law in its ’Universal Periodic Review.’ This is the most comprehensive human rights review mechanism at the disposal of the UN’s Human Rights Council.
+Every five years, the United Nations reviews each state's compliance with international human rights law in its 'Universal Periodic Review.' This is the most comprehensive human rights review mechanism at the disposal of the UN's Human Rights Council.
 
-In 2017, the United Kingdom faces its Universal Periodic Review. Digital Rights Watch supports [this report][1] focusing on various problems in the UK’s implementation of the human rights conventions. Specifically, this report uses the UK’s position in relation to the UN Working Group on Arbitrary Detention’s findings on the case of Julian Assange as a concrete case to test the general health and effectiveness of the UK Human Rights system.
+In 2017, the United Kingdom faces its Universal Periodic Review. Digital Rights Watch supports [this report][1] focusing on various problems in the UK's implementation of the human rights conventions. Specifically, this report uses the UK's position in relation to the UN Working Group on Arbitrary Detention's findings on the case of Julian Assange as a concrete case to test the general health and effectiveness of the UK Human Rights system.
 
 This report was jointly submitted by a coalition of the following international human rights, fair trial and jurist organisations:
 
@@ -28,7 +28,7 @@ This report was jointly submitted by a coalition of the following international 
   * Digital Rights Watch
   * Sydney Peace Prize Foundation
 
-This joint submission highlights issues about respect for and implementation of United Nations’ Human Rights Council special mechanisms, domestic human rights protection, ratification of individual complaint mechanisms under international treaties to which the United Kingdom is a party, as well as specific human rights concerns regarding the right to liberty, due process, equal treatment, freedom from arbitrary deprivation of liberty and inhuman and degrading treatment, fair trial, privacy and family life, and health.
+This joint submission highlights issues about respect for and implementation of United Nations' Human Rights Council special mechanisms, domestic human rights protection, ratification of individual complaint mechanisms under international treaties to which the United Kingdom is a party, as well as specific human rights concerns regarding the right to liberty, due process, equal treatment, freedom from arbitrary deprivation of liberty and inhuman and degrading treatment, fair trial, privacy and family life, and health.
 
 We call upon the UK to commit to the following recommendations:
 

@@ -9,7 +9,7 @@ categories:
   - News
 
 ---
-Wed 4 December, 6.30 pm  
+Wed 4 December, 6.30 pm
 Victorian State Library &#8211; Village Roadshow Theatrette on La Trobe St
 
   * Kristinn Hrafnsson &#8211; Editor in Chief of WikiLeaks

@@ -19,23 +19,23 @@ Triggs will join former Senator Scott Ludlam and digital rights experts Amy Gray
 
 Digital Rights Watch Chair Tim Singleton Norton said many people were not aware of the depth of personal information able to be accessed by government authorities as a result of metadata retention laws that commenced in Australia in April 2017.
 
-“Every time you interact with someone online or using a mobile phone, it leaves a trace of where you were, who you were talking to and how long for,” said Mr. Singleton Norton.
+"Every time you interact with someone online or using a mobile phone, it leaves a trace of where you were, who you were talking to and how long for," said Mr. Singleton Norton.
 
-“It can reveal deeply personal information about your life, and the lives of people you communicate with.
+"It can reveal deeply personal information about your life, and the lives of people you communicate with.
 
-“Australian authorities are now automatically collecting and retaining everyone’s metadata and storing it for at least two years, with far-reaching implications for the privacy of normal citizens.
+"Australian authorities are now automatically collecting and retaining everyone's metadata and storing it for at least two years, with far-reaching implications for the privacy of normal citizens.
 
-“It’s unnecessary and wrong to collect this data on every Australian,” said Professor Triggs.
+"It's unnecessary and wrong to collect this data on every Australian," said Professor Triggs.
 
-“Being able to access this information gives authorities enormous power and insight into our private lives, power that could be used to target minorities or pursue political agendas.”
+"Being able to access this information gives authorities enormous power and insight into our private lives, power that could be used to target minorities or pursue political agendas."
 
-“There are ways people can protect themselves from having some data collected – by using encrypted messaging apps and installing a Virtual Private Network (VPN) for example,” said former Senator Scott Ludlam.
+"There are ways people can protect themselves from having some data collected – by using encrypted messaging apps and installing a Virtual Private Network (VPN) for example," said former Senator Scott Ludlam.
 
 &#8220;But rather than displacing responsibility back to individual users, we should be demanding less of this material be collected in the first place, and access should require a judicial warrant.&#8221;
 
-[Live Hack : Understanding MetaData][1] is an event hosted by the Melbourne Writer’s Festival.  
-When: 8pm, Monday 28th August  
-Where: Deakin Edge, Federation Square  
+[Live Hack : Understanding MetaData][1] is an event hosted by the Melbourne Writer's Festival.
+When: 8pm, Monday 28th August
+Where: Deakin Edge, Federation Square
 This is a free event, no bookings are required.
 
  [1]: http://mwf.com.au/session/live-hack-understanding-metadata-2/

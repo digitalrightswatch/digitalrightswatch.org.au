@@ -23,9 +23,9 @@ categories:
   - Monthly updates
 
 ---
- 
 
-Strap in, August has been a huge month for digital rights! From the passage of the Identify and Disrupt Bill, to Apple’s announcement of its surveillance software update, to the launch of several consultations by the eSafety Commission—and we’re here to tell you all about it.
+
+Strap in, August has been a huge month for digital rights! From the passage of the Identify and Disrupt Bill, to Apple's announcement of its surveillance software update, to the launch of several consultations by the eSafety Commission—and we're here to tell you all about it.
 
 <div class="wp-block-image">
   <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-04-1024x366.png" alt="" class="wp-image-7295" width="360" height="128" srcset="/wp-content/uploads/2020/10/Email_headers_highres-04-1024x366.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-04-300x107.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-04-768x275.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-04.png 1168w" sizes="(max-width: 360px) 100vw, 360px" /></figure>
@@ -37,15 +37,15 @@ The Australian government has new laws on the books to hack your computer, your 
 
 Identify and Disrupt grapples with the same issue that the anti-encryption TOLA did; for law enforcement to see and intercept what we do online. However, Identify and Disrupt goes much further, and, where it was not completely true to call TOLA an attempt at mass surveillance, Identify and Disrupt now provides that capability and overreach for both Australian Federal Police and Australian Criminal Intelligence Commission.
 
-→ **You can** [**read all the details in the explainer on our website**][1]**.** We also added a section on what to do, which includes signing this [petition][2] to repeal the legislation. Let’s get it to 100k!
+→ **You can** [**read all the details in the explainer on our website**][1]**.** We also added a section on what to do, which includes signing this [petition][2] to repeal the legislation. Let's get it to 100k!
 
 #### **The trend of rushed online safety consultations continues**
 
-As you likely know, we’ve been critical of the Online Safety Act because we don’t believe the powers included in the Act will actually achieve a safer online experience for adults and children alike. The fight for inclusive and open online spaces isn’t over—the ongoing consultations can make a difference in how extensively the powers of the eSafety Commission are realised.
+As you likely know, we've been critical of the Online Safety Act because we don't believe the powers included in the Act will actually achieve a safer online experience for adults and children alike. The fight for inclusive and open online spaces isn't over—the ongoing consultations can make a difference in how extensively the powers of the eSafety Commission are realised.
 
-We will be writing in submissions, and we encourage you to do so too! First, the eSafety Office is seeking views on the **Restricted Access System (RAS) Declaration**. [Submissions are due on the 12 September][3] and will help inform the development of an age verification regime for access to online pornography, which also has it’s own [call for evidence due 10 September][4]. Why are we concerned? Age verification has been proposed around the world for years, with little success. Often it relies on invasive technology which raises privacy and security concerns (anyone remember when [Peter Dutton suggested facial recognition][5] for access to porn?). Across the pond, the [UK Children’s Commissioner has proposed][6] that Social Media should use passports and biometrics for age checks to protect children from porn online. These measures are invasive, systematically unreliable, and threaten online anonymity—[which is vital][7].
+We will be writing in submissions, and we encourage you to do so too! First, the eSafety Office is seeking views on the **Restricted Access System (RAS) Declaration**. [Submissions are due on the 12 September][3] and will help inform the development of an age verification regime for access to online pornography, which also has it's own [call for evidence due 10 September][4]. Why are we concerned? Age verification has been proposed around the world for years, with little success. Often it relies on invasive technology which raises privacy and security concerns (anyone remember when [Peter Dutton suggested facial recognition][5] for access to porn?). Across the pond, the [UK Children's Commissioner has proposed][6] that Social Media should use passports and biometrics for age checks to protect children from porn online. These measures are invasive, systematically unreliable, and threaten online anonymity—[which is vital][7].
 
-  
+
 Second, the **Basic Online Safety Expectations** (BOSE) will outline core and additional expectations for large social media platforms around cyber-bullying, abuse, and unlawful or harmful digital content. These expectations are likely to incentivise broad and proactive monitoring and removal of content. You can read more about our concerns in [this explainer][8] or in our initial [submission][9]. Our friend Justin Warren from EFA has done an [initial exploration][10] into the proposed BOSE for more info, and you can expect to see more from us soon! [Submissions due 15 October][11].
 
 <div class="wp-block-image">
@@ -54,10 +54,10 @@ Second, the **Basic Online Safety Expectations** (BOSE) will outline core and ad
 
 #### **What Digital Rights Watch has been up to over the past month&#8230;**
 
-  * Our Chair, Lizzie O’Shea teamed up with Board Member Mark Andrejevic to reflect on the News Media Bargaining Code and how it is impacting misinformation. [Read it in Overland here][12].
-  * We made a [joint submission][13] with EFA to the Productivity Commission on the Right to Repair. Sam then joined Erin Turner from CHOICE to discuss the Right to Repair on Diffusion Radio. You can listen to [part one][14] and [part two][15]. 
-  * Our Board Member, Lauren Kelly, wrote a piece for [the Conversation][16] exploring the impact of ‘smart supermarkets’ and e-groceries on workers, and how automation is changing labour. Prefer to listen? [Tune into this ABC interview.][17]
-  * Lucie joined Fastmail’s new podcast, [Digital Citizen][18], to discuss privacy laws around the world, and how to speak up and demand digital rights!
+  * Our Chair, Lizzie O'Shea teamed up with Board Member Mark Andrejevic to reflect on the News Media Bargaining Code and how it is impacting misinformation. [Read it in Overland here][12].
+  * We made a [joint submission][13] with EFA to the Productivity Commission on the Right to Repair. Sam then joined Erin Turner from CHOICE to discuss the Right to Repair on Diffusion Radio. You can listen to [part one][14] and [part two][15].
+  * Our Board Member, Lauren Kelly, wrote a piece for [the Conversation][16] exploring the impact of 'smart supermarkets' and e-groceries on workers, and how automation is changing labour. Prefer to listen? [Tune into this ABC interview.][17]
+  * Lucie joined Fastmail's new podcast, [Digital Citizen][18], to discuss privacy laws around the world, and how to speak up and demand digital rights!
   * Sam spoke with [InnovationAus][19] about the South Australian Government trial of a home quarantine app which uses geolocation and facial recognition software. She also spoke with them about the lack of meaningful community engagement in the [eSafety consultations][20].
   * Lucie spoke with [Information Age][21] about an intergovernmental agreement to share data.
   * If you missed our event, EXHIBIT, you can read a write up in the [Advocate here][22]. (You can also watch it back on [our YouTube Channel here][23].)
@@ -67,13 +67,13 @@ Second, the **Basic Online Safety Expectations** (BOSE) will outline core and ad
   <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/09/Email_headers_highres-06-1024x342.png" alt="" class="wp-image-7275" width="384" height="128" srcset="/wp-content/uploads/2020/09/Email_headers_highres-06-1024x342.png 1024w, /wp-content/uploads/2020/09/Email_headers_highres-06-300x100.png 300w, /wp-content/uploads/2020/09/Email_headers_highres-06-768x257.png 768w, /wp-content/uploads/2020/09/Email_headers_highres-06.png 1250w" sizes="(max-width: 384px) 100vw, 384px" /></figure>
 </div>
 
-#### **Don’t miss out—mark these upcoming events in your calendar!**
+#### **Don't miss out—mark these upcoming events in your calendar!**
 
-  * You can now register for IMAGINE, the second of our four-part event series as part of our community-based research project to <a href="https://u1584542.ct.sendgrid.net/ss/c/atcYNHk4Eh2YdGnwBh-YDG6Q37n30dkALhgPTSkfC_Wo5Ky2O2GFJxmiJmR0Z0czevVFM_AI-KfW88V9rwa3mGFw3esKKa8164dE2usfOJi5PmiVePPp9Ur1nwUB8MZo68_csXSq6FzxG2zfJId0vnE2Rjc9OKKexn37XuCm-GcgDSm3mqKoNveRGB2RjH1nmxNGXW7QtYwYW8TmGRMSJOvZhDUED_MjCVk6cvDF0ULq4IXOR5vVhyHo8fDrjQGXKjCzN0KdHzwO0s-cevh63azOoLe7c331P9yM7UfReeAyeW-Mrx03nvBukeXjtC7CeWiYQwE11PNqJk3pVGUAwnh3t_OZn5m4VYPvbdVfNj8/3f0/-G5JWxrdS-6z9_t_yxYdKQ/h25/eh1GOuw8aKxJpvBcgbBEhvl42ysdUY4PZADK6UCPBZs" target="_blank" rel="noreferrer noopener">Rebalance the Internet Economy</a>. We will be delving into the relationship between writers, poets, bloggers, wordsmiths, and digital platforms. It’s on September 30, you can [learn more and register here][26]! 
+  * You can now register for IMAGINE, the second of our four-part event series as part of our community-based research project to <a href="https://u1584542.ct.sendgrid.net/ss/c/atcYNHk4Eh2YdGnwBh-YDG6Q37n30dkALhgPTSkfC_Wo5Ky2O2GFJxmiJmR0Z0czevVFM_AI-KfW88V9rwa3mGFw3esKKa8164dE2usfOJi5PmiVePPp9Ur1nwUB8MZo68_csXSq6FzxG2zfJId0vnE2Rjc9OKKexn37XuCm-GcgDSm3mqKoNveRGB2RjH1nmxNGXW7QtYwYW8TmGRMSJOvZhDUED_MjCVk6cvDF0ULq4IXOR5vVhyHo8fDrjQGXKjCzN0KdHzwO0s-cevh63azOoLe7c331P9yM7UfReeAyeW-Mrx03nvBukeXjtC7CeWiYQwE11PNqJk3pVGUAwnh3t_OZn5m4VYPvbdVfNj8/3f0/-G5JWxrdS-6z9_t_yxYdKQ/h25/eh1GOuw8aKxJpvBcgbBEhvl42ysdUY4PZADK6UCPBZs" target="_blank" rel="noreferrer noopener">Rebalance the Internet Economy</a>. We will be delving into the relationship between writers, poets, bloggers, wordsmiths, and digital platforms. It's on September 30, you can [learn more and register here][26]!
   * Our friends at Melbourne Activist Legal Support are running an intro to digital security workshop. Get the basics down in just 30 minutes on 5 September, 2pm AEST. [Register here][27].
-  * We’re thrilled to see not one, but two, Digital Rights Watch faces in the PyCon AU lineup this year. [Get yourself a ticket][28] for 10-12 September, to hear Sam get nerdy about privacy, and from Lilly on how to banish unwanted <s>vampires</s> Javascript from your web app. Plus, there’s loads of other great speakers in the lineup, [which you can check out here][29]. 
-  * The City of Melbourne is hosting a panel on the digital literacy gap on September 15, 12:30pm AEST, featuring our Program Lead, Sam Floreani. You can watch online for free, [register and more info here.][30] 
-  * Don’t forget to register for fortnightly Tech Talks to keep you up to date on all the latest tech, law and human rights news. You can [register][31] for the next one (September 10) or watch back the ones you’ve missed [here][32].
+  * We're thrilled to see not one, but two, Digital Rights Watch faces in the PyCon AU lineup this year. [Get yourself a ticket][28] for 10-12 September, to hear Sam get nerdy about privacy, and from Lilly on how to banish unwanted <s>vampires</s> Javascript from your web app. Plus, there's loads of other great speakers in the lineup, [which you can check out here][29].
+  * The City of Melbourne is hosting a panel on the digital literacy gap on September 15, 12:30pm AEST, featuring our Program Lead, Sam Floreani. You can watch online for free, [register and more info here.][30]
+  * Don't forget to register for fortnightly Tech Talks to keep you up to date on all the latest tech, law and human rights news. You can [register][31] for the next one (September 10) or watch back the ones you've missed [here][32].
   * The Digital Media Research Centre at QUT is hosting a seminar on September 24, on conceptualising, identifying, and assessing harm on digital platforms. We are anticipating a thought provoking conversation! [Details here.][33]
 
 <div class="wp-block-image">
@@ -82,7 +82,7 @@ Second, the **Basic Online Safety Expectations** (BOSE) will outline core and ad
 
 You may have seen that Apple recently made an announcement it will be installing surveillance software to monitor images uploaded to iCloud and photos sent via iMessage, side-stepping encryption. The new feature is supposed to protect children and reduce the spread of child sexual abuse material (CSAM), but it will create new risks for children, and undermine privacy and security for everyone.
 
-Once the new functionality (a hash scan for photos) is built into Apple products, there is little to prevent governments around the world from compelling Apple to use this capability to scan for other kinds of images that they find objectionable. **We’ve already seen governments turn surveillance against activists, human rights lawyers, civil society, and journalists.** This technology will make it even easier.<figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-14 is-layout-flex wp-block-gallery-is-layout-flex">
+Once the new functionality (a hash scan for photos) is built into Apple products, there is little to prevent governments around the world from compelling Apple to use this capability to scan for other kinds of images that they find objectionable. **We've already seen governments turn surveillance against activists, human rights lawyers, civil society, and journalists.** This technology will make it even easier.<figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-14 is-layout-flex wp-block-gallery-is-layout-flex">
 
 <ul class="blocks-gallery-grid">
   <li class="blocks-gallery-item">
@@ -94,9 +94,9 @@ Once the new functionality (a hash scan for photos) is built into Apple products
   <li class="blocks-gallery-item">
     <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/09/6-1-1024x1024.png" alt="" data-id="8069" data-link="https://digitalrightswatch.org.au/?attachment_id=8069" class="wp-image-8069" srcset="/wp-content/uploads/2021/09/6-1-1024x1024.png 1024w, /wp-content/uploads/2021/09/6-1-300x300.png 300w, /wp-content/uploads/2021/09/6-1-150x150.png 150w, /wp-content/uploads/2021/09/6-1-768x768.png 768w, /wp-content/uploads/2021/09/6-1-1536x1536.png 1536w, /wp-content/uploads/2021/09/6-1.png 1620w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
   </li>
-</ul></figure> 
+</ul></figure>
 
-→ Want to take action? You can sign the Electronic Frontiers Foundation [petition][34] to **tell Apple: don’t scan our phones.**
+→ Want to take action? You can sign the Electronic Frontiers Foundation [petition][34] to **tell Apple: don't scan our phones.**
 
  [1]: https://u1584542.ct.sendgrid.net/ss/c/CMxF4nARlf6wAFa1PSfv0mmZ9RIuK0LyVv5J0Wo3jtI5ZEh3mY6GTWM-pZE8svpZIeHBrLnvIkk0Qk0Z2cbBMhovIMrOnAa9nR1e6b7N0wSDWibpAeMmUsRfFC_btkaERaVfa3V9WanEWt3T55YxOi1VLuQlAJAeZMVkcXj_a84SbIWnTJJI02Sz1TwhqzL20uv_ODXoi-oZzVodc90SlPUiiLmYKl3oQNRlNEIhxPgVU-iwElAMYj8b8YtknLsrlbqUYo5rru4Nlx3Jopzyc1DGeA6SH_zuc-YrSz2fTVVUz8Gx6jfDWpGVZh-72wcMWGLW_B12qZEVornchxR_kEj0Z0r_H7CqYpiKq-kwiuQPOLTXE6bIMsFqe_0g2drWnk8T__1VTQfrQCqKPY3jcg/3f0/-G5JWxrdS-6z9_t_yxYdKQ/h0/0fN2PV4G67ZibIaSA1jQxLNU71n5PPQ4D2__MWl7ly0
  [2]: https://u1584542.ct.sendgrid.net/ss/c/tTBUZwcBH_2q13Ow12s-jZ2h-gZo4dt2A0iVNlolBRzg0RCeDkaPbBIRLKDfNSxLIso-8YH-0KYvgW8t2xykNKnfhlOGcxCQ8cumpHd8xKo50B5xyPum-AKZqsbOpgd-jpH7AHZ7Tujj-i3e-4H5v581kT3BxAE3W2xrt3Yw0GTFRdEdB4rhy0_nc5bUHOX3BNORHt5KdYo29Xxv-EWwWbWYKcizTYwg2vH3LkkB6k5lFM3-nFhhJhMRHd5v9-SFh94oDTDmL38aNflXN4YulqaiTUgaoKmh81a3fFScL2Zz1aLf119iHWQLV5EYSwcPG_SVluxdHk_bhYVTSCFg9wWyHuQAe7NLnFK9CD47yZA9CnCVQxVETcwkZ3xA2RK5/3f0/-G5JWxrdS-6z9_t_yxYdKQ/h1/SlBqswRqC12iy0LaubJQ6KZP7-pFCtkcQfrRwtwmOWo

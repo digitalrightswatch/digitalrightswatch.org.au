@@ -27,19 +27,19 @@ tags:
   - social media
 
 ---
-In December 2021, alongside the announcement of the Social Media (Anti-Trolling) Bill, the government announced a Parliamentary Inquiry into Social Media and Online Safety. 
+In December 2021, alongside the announcement of the Social Media (Anti-Trolling) Bill, the government announced a Parliamentary Inquiry into Social Media and Online Safety.
 
-The Committee will conduct the Inquiry beginning in December 2021 and present its final report by 15 February 2022. Talk about a quick turnaround! This sadly continues the trend of rushed online safety consultations. You may also be wondering: shouldn&#8217;t this Inquiry have happened _before_ the Online Safety Act was passed? A very good question indeed. 
+The Committee will conduct the Inquiry beginning in December 2021 and present its final report by 15 February 2022. Talk about a quick turnaround! This sadly continues the trend of rushed online safety consultations. You may also be wondering: shouldn&#8217;t this Inquiry have happened _before_ the Online Safety Act was passed? A very good question indeed.
 
 Digital Rights Watch made a submission to the Committee, drawing upon our extensive participation in the online safety space in Australia over course of 2021. In it, we highlight five key messages we urge the Committee to consider over the course of the Inquiry:
 
-  1. Address the causes, not just the symptoms. 
-  2. Online anonymity and pseudonymity are important, and warrant protection 
-  3. Age verification proposals create more harm than good 
-  4. Automated content moderationo is not a simple fix 
+  1. Address the causes, not just the symptoms.
+  2. Online anonymity and pseudonymity are important, and warrant protection
+  3. Age verification proposals create more harm than good
+  4. Automated content moderationo is not a simple fix
   5. Robust digital security keeps us all safer in a connected world
 
-We also urge the Committee to avoid conflating surveillance with safety**.** 
+We also urge the Committee to avoid conflating surveillance with safety**.**
 
 The approach to online safety must always take into account the complexities of modern life, norms, and digital technologies. When the focus of online safety is solely on the symptoms— namely online abuse and harassment, misinformation, and defamation—without also considering the underlying business models, technological realities, legislative landscape, and social norms, the government risks _creating_ additional online harms, in its pursuit of mitigation. This is made worse by failing to listen to, or refusing to incorporate, feedback from the most affected communities.
 

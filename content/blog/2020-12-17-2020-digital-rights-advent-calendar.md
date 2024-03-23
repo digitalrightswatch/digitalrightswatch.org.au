@@ -23,10 +23,10 @@ categories:
   - 'Tools &amp; Guides'
 
 ---
-#### It&#8217;s just what you wished for! 
+#### It&#8217;s just what you wished for!
 
-##### We curated 24 days of digital rights activities and resources.  
-Hover over each date to reveal the day&#8217;s surprise. 
+##### We curated 24 days of digital rights activities and resources.
+Hover over each date to reveal the day&#8217;s surprise.
 
 ###### Please note, many of these links will take you to websites outside of Digital Rights Watch
 

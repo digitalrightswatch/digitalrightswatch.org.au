@@ -15,7 +15,7 @@ Digital Rights Watch has warned of an increasingly hostile digital rights enviro
 
 &#8220;Examples of this abound within Australia: Centrelink robodebt, the 2016 national census, encryption-breaking legislation, national facial biometic databases, mandatory metadata retention − these are all very concerning indicators of a government that holds no regard for the digital privacy of its own citizens.&#8221;
 
-&#8220;In the eyes of the current government, Australian citizens’ digital rights are considered negotiable. Even more concerning is the push to remove rights with a complete lack of any efforts to improve access to robust services, privacy standards and infrastructure.&#8221;
+&#8220;In the eyes of the current government, Australian citizens' digital rights are considered negotiable. Even more concerning is the push to remove rights with a complete lack of any efforts to improve access to robust services, privacy standards and infrastructure.&#8221;
 
 &#8220;Just this week, the huge backlash against the My Health Record rollout is a stark warning to the government about their attitude towards digital privacy. The concerns raised by human rights experts, doctors, tech industry and the general public should put an immediate halt to this rollout, to allow for a complete re-think of how an informed, respectful, opt-in, rights-based approach can instead be utilised.&#8221;
 
@@ -23,7 +23,7 @@ The human rights group&#8217;s warnings come as digital specialists, privacy exp
 
 &#8220;It is very welcoming to see the Human Rights Commissioner take such a serious stance on the intersection of technology and human rights. We look forward to working with Mr Santow&#8217;s office through the consultation and ensuring that human rights are defended and upheld in online spaces,&#8221; said Mr Singleton Norton.
 
-In May 2018, Digital Rights Watch released the _State of Digital Rights_ report, which outlines the many ways Australians’ rights are being impacted by the activities of private companies and governments in the online world as well as making clear recommendations for policy makers to adopt.
+In May 2018, Digital Rights Watch released the _State of Digital Rights_ report, which outlines the many ways Australians' rights are being impacted by the activities of private companies and governments in the online world as well as making clear recommendations for policy makers to adopt.
 
 [Download a copy of the _State of Digital Rights_ report][1]
 

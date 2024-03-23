@@ -26,13 +26,13 @@ tags:
   - social media
 
 ---
-As part of the Australian Competition and Consumer Commission&#8217;s (ACCC) ongoing _[Digital Platform Services Inquiry (2020-2025)][1],_ the ACCC is considering the potential competition and consumer issues with social media services for both individuals and businesses. 
+As part of the Australian Competition and Consumer Commission&#8217;s (ACCC) ongoing _[Digital Platform Services Inquiry (2020-2025)][1],_ the ACCC is considering the potential competition and consumer issues with social media services for both individuals and businesses.
 
-Digital Rights Watch made a submission in response to the [Issues Paper][2]. This paper will lead to the sixth interim report from the ACCC, to be provided by the ACCC to the Treasurer by 31 March 2023. 
+Digital Rights Watch made a submission in response to the [Issues Paper][2]. This paper will lead to the sixth interim report from the ACCC, to be provided by the ACCC to the Treasurer by 31 March 2023.
 
-Our submission calls attention to the chokehold business models of many digital platforms, which seek to lock in creators and users. The resulting lack of choice is then used to force people to accept terms they may not otherwise agree with, including revenue models, as there is a lack of genuine choice that would be present in any reasonably competitive market. 
+Our submission calls attention to the chokehold business models of many digital platforms, which seek to lock in creators and users. The resulting lack of choice is then used to force people to accept terms they may not otherwise agree with, including revenue models, as there is a lack of genuine choice that would be present in any reasonably competitive market.
 
-You can read our submission below, or <span style="text-decoration: underline;"><strong><a href="/wp-content/uploads/2022/09/DRW-Submission-ACCC-Digital-Platforms-Inquiry-Social-media-services-September-2022.pdf">download the PDF here</a>.</strong></span> 
+You can read our submission below, or <span style="text-decoration: underline;"><strong><a href="/wp-content/uploads/2022/09/DRW-Submission-ACCC-Digital-Platforms-Inquiry-Social-media-services-September-2022.pdf">download the PDF here</a>.</strong></span>
 
 
 

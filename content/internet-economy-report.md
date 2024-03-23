@@ -18,7 +18,7 @@ eg_custom_meta_216:
   - 'true'
 
 ---
- 
+
 
 The _Rebalancing The Internet Economy_ report investigated the impact that global digital platforms are having on local creative workers and industries.
 

@@ -8,7 +8,7 @@ categories:
   - Articles
 
 ---
-The regulation of technology capitalism is now a mainstream topic of discussion. Privacy scandals such as the misuse of Facebook data by Cambridge Analytica, the rise of right-wing extremism, and the diminishing quality of public spaces in the digital age have generated sufficient public outcry such that the Overton window is wide open. Aspirants for the Oval Office, like Senator Elizabeth Warren, are talking openly about breaking up big tech. She even placed a billboard in the heart of Silicon Valley with that slogan—the equivalent of a middle finger emoji at the elite of the technology industry.
+The regulation of technology capitalism is now a mainstream topic of discussion. Privacy scandals such as the misuse of Facebook data by Cambridge Analytica, the rise of right-wing extremism, and the diminishing quality of public spaces in the digital age have generated sufficient public outcry such that the Overton window is wide open. Aspirants for the Oval Office, like Senator Elizabeth Warren, are talking openly about breaking up big tech. She even placed a billboard in the heart of Silicon Valley with that slogan—the equivalent of a middle finger emoji at the elite of the technology industry.
 
 [Read more on the Baffler][1]
 

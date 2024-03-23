@@ -11,11 +11,11 @@ tags:
   - Ending Mandatory Metadata Retention
 
 ---
-Who’s watching you? And what are they doing with what they’re seeing… and hearing?
+Who's watching you? And what are they doing with what they're seeing… and hearing?
 
-Last month the Abbott/Turnbull government metadata retention laws kicked in. The implications for us as citizens, in what we like to think of, as a democracy, are massive, and disturbing. 
+Last month the Abbott/Turnbull government metadata retention laws kicked in. The implications for us as citizens, in what we like to think of, as a democracy, are massive, and disturbing.
 
-Digital Rights Watch Board Member Tom Sulston spoke to 3CR&#8217;s Communication Mixdown program to explains exactly what’s at stake when we go online or use our mobile phones.
+Digital Rights Watch Board Member Tom Sulston spoke to 3CR&#8217;s Communication Mixdown program to explains exactly what's at stake when we go online or use our mobile phones.
 
 [Listen to his interview here.][1]
 

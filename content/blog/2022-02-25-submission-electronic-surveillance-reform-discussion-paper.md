@@ -31,7 +31,7 @@ Digital Rights Watch made a submission providing feedback on the Discussion Pape
 
   * introduce a comprehensive federal human rights framework,
   * recognise the right to privacy at the federal level, and
-  * emphasise digital security as a right of all citizens that should not be sacrified for surveillance purposes. 
+  * emphasise digital security as a right of all citizens that should not be sacrified for surveillance purposes.
 
 **In our view, the new surveillance framework should:**
 
@@ -40,7 +40,7 @@ Digital Rights Watch made a submission providing feedback on the Discussion Pape
   3. simplify warrants but not at the expense of the individuals&#8217; rights, and subject them to a necessary and proportionate test;
   4. raise the threshold in the definion of a &#8220;serious criminal offence&#8221;
   5. introduce a double lock system as standard;
-  6. provide for the relevant Minister should provide an annual (or more frequent) report that details the number of warrants issued under national security legislation and publish judicial records of these decisions; and 
-  7. prescribe an independent public intrest advocate to make submissions on any warrant application. 
+  6. provide for the relevant Minister should provide an annual (or more frequent) report that details the number of warrants issued under national security legislation and publish judicial records of these decisions; and
+  7. prescribe an independent public intrest advocate to make submissions on any warrant application.
 
 #### **<span style="text-decoration: underline;"><a href="/wp-content/uploads/2022/02/Digital-Rights-Watch-submission-to-the-surveillance-review-discussion-paper-February-2022.pdf">Read our submission in full here. [PDF]</a></span>**

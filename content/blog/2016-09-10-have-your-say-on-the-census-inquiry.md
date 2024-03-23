@@ -13,11 +13,11 @@ tags:
 ---
 Census night may be long passed, but we are still very much dealing with the repercussions of the Australian Bureau of Statistic&#8217;s decision to make it mandatory to provide personal information as part of the 2016 Census.
 
-We [published an open letter][1] calling on the Government to hold an independent inquiry into the Census, and a few weeks ago the Senate heard that call and [established an inquiry][2].
+We [published an open letter][1] calling on the Government to hold an independent inquiry into the Census, and a few weeks ago the Senate heard that call and [established an inquiry][2].
 
 Digital Rights Watch will, of course, make a substantive submission to this inquiry, to inform Senators of the concerns around collection, retention and protection of citizen&#8217;s personal information.
 
-**But first, we want to hear from you. **
+**But first, we want to hear from you. **
 
 What are your concerns around the Census? Have you personally abstained from taking part in the Census due to privacy concerns? Are you worried about how the ABS will maintain and protect your personal information? What do you want heard as part of this inquiry?
 

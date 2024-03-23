@@ -21,7 +21,7 @@ categories:
   - Submissions
 
 ---
-**In December 2019, the Australian Government asked the digital industry to develop a code of practice on how digital products and services would address disinformation. In November 2020, Digital Rights Watch provided a submission to the consultation on the draft code and the discussion paper.** 
+**In December 2019, the Australian Government asked the digital industry to develop a code of practice on how digital products and services would address disinformation. In November 2020, Digital Rights Watch provided a submission to the consultation on the draft code and the discussion paper.**
 
 Disinformation is a large and complex topic and tackling it has become increasingly urgent task. Digital Rights Watch believes it is difficult to treat this problem as an issue of content governance or moderation alone, rather, as an issue endemic to certain advertising models, a lack of algorithmic transparency, and data collection/monetization practices.
 

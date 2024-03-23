@@ -28,7 +28,7 @@ tags:
 ---
 Along with many civil society organisations, Digital Rights Watch are concerned about the freedom of Australian press. The diversity and sustainability of an open and free press are essential pillars of our democracy, and we observe with great concern increasing powers of law enforcement which threaten that integrity.
 
-Digital Rights Watch has provided a submission to the ACCC concerning the Department of Treasury and ACCC’s proposed _Treasury Laws Amendments (News Media and Digital Platforms Mandatory Bargaining Code) Bill 2020._
+Digital Rights Watch has provided a submission to the ACCC concerning the Department of Treasury and ACCC's proposed _Treasury Laws Amendments (News Media and Digital Platforms Mandatory Bargaining Code) Bill 2020._
 
 [Access the full submission here.][1]
 

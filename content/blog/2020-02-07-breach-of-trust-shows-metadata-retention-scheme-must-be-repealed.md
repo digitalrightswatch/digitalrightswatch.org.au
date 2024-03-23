@@ -10,15 +10,15 @@ categories:
 ---
 Digital security advocates have expressed outrage at revelations that Australian law enforcement agencies have been potentially abusing mandatory metadata retention laws and receiving data explicitly excluded from the legislation.
 
-“It is incredibly worrying to hear that government agencies have been receiving extensive details of Australians’ web history with no oversight or accountability, potentially undermining the already minor protections that were placed on this scheme when it was passed” said Digital Rights Watch Chair Tim Singleton Norton.
+"It is incredibly worrying to hear that government agencies have been receiving extensive details of Australians' web history with no oversight or accountability, potentially undermining the already minor protections that were placed on this scheme when it was passed" said Digital Rights Watch Chair Tim Singleton Norton.
 
-The Parliamentary Joint Committee on Intelligence and Security (PJCIS) is conducting a review of the controversial metadata retention laws that require telecommunication companies to retain records of every single person’s calls, texts, and internet browsing history for at least two years.
+The Parliamentary Joint Committee on Intelligence and Security (PJCIS) is conducting a review of the controversial metadata retention laws that require telecommunication companies to retain records of every single person's calls, texts, and internet browsing history for at least two years.
 
 In parliamentary hearings today, the Commonwealth Ombudsman confirmed that law enforcement agencies are receiving URLs as part of the mandatory data retention regime, despite this practice being explicitly banned under the legislation.
 
-“More than ever, this shows what was warned from the start &#8212; that the scheme would be abused, and safeguards overstepped. The government should immediately move to repeal this legislation, or at a bare minimum make significant improvements to bring it in line with Australia’s human rights obligations,” said Mr Singleton Norton.
+"More than ever, this shows what was warned from the start &#8212; that the scheme would be abused, and safeguards overstepped. The government should immediately move to repeal this legislation, or at a bare minimum make significant improvements to bring it in line with Australia's human rights obligations," said Mr Singleton Norton.
 
-“Australia is one of many jurisdictions which grapple with the complexity of data retention rules. It’s at the heart of how we, as a society, approach privacy in the digital era &#8212; the integrity of our communication, privacy and rights as individuals are at stake,” said Lucie Krahulcova, Policy Analyst at Access Now.
+"Australia is one of many jurisdictions which grapple with the complexity of data retention rules. It's at the heart of how we, as a society, approach privacy in the digital era &#8212; the integrity of our communication, privacy and rights as individuals are at stake," said Lucie Krahulcova, Policy Analyst at Access Now.
 
 In a [joint submission][1] to the PJCIS review, Human Right Law Centre, Digital Rights Watch and Access Now advised the following recommendations:
 

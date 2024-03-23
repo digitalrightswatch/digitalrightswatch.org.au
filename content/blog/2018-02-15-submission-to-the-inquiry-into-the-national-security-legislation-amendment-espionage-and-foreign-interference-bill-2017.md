@@ -11,7 +11,7 @@ categories:
 ---
 Our submission to the Parliamentary Joint Committee&#8217;s review of the [National Security Legislation Amendment (Espionage and Foreign Interference) Bill 2017.][1]
 
-<span style="font-weight: 400;">Digital Rights Watch (DRW) is concerned about some of the proposed reforms contained within this Bill, in particular the broad interpretations that could result from these changes. It is our view that national security agencies already have significant powers to deal with threats to national security, and that this Bill fails to take into account the balance between freedom of speech and protecting Australia’s citizens.</span>
+<span style="font-weight: 400;">Digital Rights Watch (DRW) is concerned about some of the proposed reforms contained within this Bill, in particular the broad interpretations that could result from these changes. It is our view that national security agencies already have significant powers to deal with threats to national security, and that this Bill fails to take into account the balance between freedom of speech and protecting Australia's citizens.</span>
 
 [Read our submission here.][2]
 

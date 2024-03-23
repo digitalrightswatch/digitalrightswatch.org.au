@@ -1,5 +1,5 @@
 ---
-title: Valentine’s Day CryptoBars
+title: Valentine's Day CryptoBars
 author: Digital Rights Watch
 date: 2020-01-23T02:22:22+00:00
 url: /2020/01/23/valentines-day-cryptobars/
@@ -12,7 +12,7 @@ Keep your privates private and share your love securely &#8230; come spend Valen
 
 Get on down to one of the CryptoBars happening around the country!
 
-We&#8217;ll kick off the evening with drinks and pizza, followed by short talks, then a relaxed hour in which you can learn from friendly nerds about VPN’s, strong passwords and password managers, the Tor browser, encrypted messaging (Signal/Wire), or online tracking and social media privacy.
+We&#8217;ll kick off the evening with drinks and pizza, followed by short talks, then a relaxed hour in which you can learn from friendly nerds about VPN's, strong passwords and password managers, the Tor browser, encrypted messaging (Signal/Wire), or online tracking and social media privacy.
 
 6-8pm on Thursday 13 Feb in Melbourne, Brisbane & Sydney.
 

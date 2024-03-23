@@ -16,15 +16,15 @@ The main culprit is the US based website [Ripoff Reports][3], where people have 
 
 Since it was not possible to get harmful or abusive comments removed from the source, Dr Duffy instead asked Google to remove the links from its search results. Google removed some of these links, but only from its Australian domain ([google.com.au][4]), and it left many of them active.
 
-This [latest court decision][5] is a big win for Dr Duffy. The court found that once Google was alerted to the defamatory material, it was then under an obligation to act to censor its search results and prevent further harm to Dr Duffy’s reputation.
+This [latest court decision][5] is a big win for Dr Duffy. The court found that once Google was alerted to the defamatory material, it was then under an obligation to act to censor its search results and prevent further harm to Dr Duffy's reputation.
 
 This case is not yet over. It now goes back to court on on November 3 to establish damages that Google may be ordered to pay. Google may also choose to appeal to the High Court.
 
 ## Jurisdictional uncertainty
 
-This case highlights a complex jurisdiction problem: this case was against Google Inc, a US company, not Google Australia. Dr Duffy lost a case against Google Australia several years ago, because the court found that the search giant’s Australian arm had no effective control over search results.
+This case highlights a complex jurisdiction problem: this case was against Google Inc, a US company, not Google Australia. Dr Duffy lost a case against Google Australia several years ago, because the court found that the search giant's Australian arm had no effective control over search results.
 
-Essentially, transnational corporations like Google are able to structure their operations to benefit from US law, which provides them with much greater protection. Google’s Australian arm handles support and sales, but does not operate the search engine itself.
+Essentially, transnational corporations like Google are able to structure their operations to benefit from US law, which provides them with much greater protection. Google's Australian arm handles support and sales, but does not operate the search engine itself.
 
 In the United States, the First Amendment protects publishers, unless the plaintiff can show that the publisher deliberately acted maliciously.
 
@@ -40,7 +40,7 @@ Australian courts face a difficult question when interpreting defamation law. Th
 
 Defamation law protects the reputation of individuals. It is unlawful to publish false information that causes others to think less of another person. Historically, defamation law applies to everyone involved in publication – from journalists, to editors, publishers and even newsagents.
 
-In the digital age, the boundaries of liability are very uncertain. Google has argued that it should not be treated as a “publisher” just because it indexes websites created by others. Google also argued that it should not be responsible for search results produced automatically by its search algorithms.
+In the digital age, the boundaries of liability are very uncertain. Google has argued that it should not be treated as a "publisher" just because it indexes websites created by others. Google also argued that it should not be responsible for search results produced automatically by its search algorithms.
 
 But the court here found that Google was liable for just linking to defamatory content. In this case, Google has no control over what people post on the Ripoff Report but it does help people find and access those comments.
 
@@ -60,7 +60,7 @@ Internet intermediaries like Google, Facebook and others clearly [have some role
 
 More than anything, this case shows that we need better, more legitimate mechanisms for addressing complaints about harmful material online.
 
-Ultimately, it’s likely that we need some compromise here – new procedures that do not take six years and millions of dollars in court costs to protect people’s rights, but that are able to efficiently, transparently and legitimately investigate complaints.
+Ultimately, it's likely that we need some compromise here – new procedures that do not take six years and millions of dollars in court costs to protect people's rights, but that are able to efficiently, transparently and legitimately investigate complaints.
 
 _First published on [the Conversation][9]_
 

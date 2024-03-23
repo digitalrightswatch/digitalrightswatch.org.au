@@ -27,13 +27,13 @@ Spread the word.
 
 Please share this with your friends and family, and ask them to contact their councils too.
 
-Share via socials  
-&nbsp  
+Share via socials
+&nbsp
 &nbsp
 
 Take further action and add your name here
 
-We’re asking the Australian Federal and State Governments to ban the use of facial recognition technology that enables mass surveillance, and to establish regulations and safeguards to protect people’s privacy and guard against misuse of the technology.
+We're asking the Australian Federal and State Governments to ban the use of facial recognition technology that enables mass surveillance, and to establish regulations and safeguards to protect people's privacy and guard against misuse of the technology.
 
 Visit our current and past campaigns and take action
 
@@ -43,7 +43,7 @@ Cities for digital rights
 
 Australians should be able to live their lives without being constantly watched, monitored and tracked.
 
-Take action 
+Take action
 
 LIVE
 
@@ -51,16 +51,16 @@ Facial recognition surveillance ban
 
 The use of surveillance systems like facial recognition has gone too far &#8211; it&#8217;s time we pushed back on this invasion of our privacy.
 
-Take action 
+Take action
 
 You&#8217;ve been targeted
 
 Political parties, interest groups and individual candidates are all using Facebook microtargeting in their strategies to influence voters.
 
-Find out more 
+Find out more
 
 Fight to defend digital rights
 
-We’re on a mission to defend digital rights in Australia by holding corporations and governments to account through strong regulation grounded in a respect for fundamental human rights.
+We're on a mission to defend digital rights in Australia by holding corporations and governments to account through strong regulation grounded in a respect for fundamental human rights.
 
 Find out more<img loading="lazy" decoding="async" alt="Image" src="/wp-content/uploads/2020/09/DRWLogo_white_square_w_crowd.jpg" width="886" height="886" /><img decoding="async" alt="Image" src="/wp-content/uploads/2020/10/WEB_FB_BANNER_withtext_HIGHRES-02.png" /><img loading="lazy" decoding="async" alt="Image" src="/wp-content/uploads/2020/10/FRTcampaign_tile_v1_Tile.png" width="2250" height="2251" /><img loading="lazy" decoding="async" alt="Image" src="/wp-content/uploads/2019/05/ad-targeting-e1331144556316.jpg" width="299" height="168" /><img loading="lazy" decoding="async" alt="Image" src="/wp-content/uploads/2019/11/digital-rights-defenders-fight-the-powers-that-be-landing-min.jpg" width="400" height="400" />[/cs\_content\_seo]

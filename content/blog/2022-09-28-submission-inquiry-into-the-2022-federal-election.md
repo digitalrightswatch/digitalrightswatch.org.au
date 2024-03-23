@@ -28,13 +28,13 @@ tags:
   - spam act
 
 ---
-The Joint Standing Committee on Electoral Matters is <a href="https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Electoral_Matters/2022federalelection" target="_blank" rel="noreferrer noopener">conducting an inquiry</a> into the conduct of the 2022 Federal Election. 
+The Joint Standing Committee on Electoral Matters is <a href="https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Electoral_Matters/2022federalelection" target="_blank" rel="noreferrer noopener">conducting an inquiry</a> into the conduct of the 2022 Federal Election.
 
-Digital Rights Watch made a submission focusing on the role that the digital ecosystem plays in elections, campaigning, and facilitating and empowering political engagement. We raise issues related to how online misinformation and voter manipulation threatens democratic processes, the need to build trust with the Australian public, as well as the need to improve Australia&#8217;s cyber security. 
+Digital Rights Watch made a submission focusing on the role that the digital ecosystem plays in elections, campaigning, and facilitating and empowering political engagement. We raise issues related to how online misinformation and voter manipulation threatens democratic processes, the need to build trust with the Australian public, as well as the need to improve Australia&#8217;s cyber security.
 
-In particular, we call for the committee to address the issue of political party exemptions under the Privacy Act, the Spam Act, and the Do Not Call Register Act. 
+In particular, we call for the committee to address the issue of political party exemptions under the Privacy Act, the Spam Act, and the Do Not Call Register Act.
 
-**Digital Rights Watch recommends that the exemptions for political parties under the Privacy Act, Spam Act, and Do Not Call Register Act be removed.** 
+**Digital Rights Watch recommends that the exemptions for political parties under the Privacy Act, Spam Act, and Do Not Call Register Act be removed.**
 
 #### You can read our submission in full below, or <span style="text-decoration: underline;"><a href="/wp-content/uploads/2022/09/DRW-Submission-JSCEM-2022-Election-Inquiry-September-2022.pdf" target="_blank" rel="noreferrer noopener">download a PDF here</a></span>.
 

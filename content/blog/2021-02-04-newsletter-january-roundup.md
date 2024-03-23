@@ -23,20 +23,20 @@ categories:
   - Monthly updates
 
 ---
- 
+
 
 Happy New Year from the Digital Rights Watch team.
 
-We are thrilled to kick off 2021 with the launch of our State of Digital Rights Report: A 2020 Retrospective—and you’re invited!
+We are thrilled to kick off 2021 with the launch of our State of Digital Rights Report: A 2020 Retrospective—and you're invited!
 
 <div class="wp-block-image">
   <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2021/01/save-the-date-6-1024x1024.png" alt="" class="wp-image-7656" width="278" height="278" srcset="/wp-content/uploads/2021/01/save-the-date-6-1024x1024.png 1024w, /wp-content/uploads/2021/01/save-the-date-6-300x300.png 300w, /wp-content/uploads/2021/01/save-the-date-6-150x150.png 150w, /wp-content/uploads/2021/01/save-the-date-6-768x768.png 768w, /wp-content/uploads/2021/01/save-the-date-6.png 1080w" sizes="(max-width: 278px) 100vw, 278px" /></figure>
 </div>
 
-If you’re a long term supporter, you may remember that we published our [first State of Digital Rights Report in 2018][1], which explored a range of issues such as metadata retention, consumer rights, the fight to protect encryption and children’s rights in the digital age. Throughout 2020 we worked with a fantastic mix of activists, writers, and critical thinkers to contribute to the report, which highlights the many ways Australians’ rights are being impacted by the activities of private companies and governments in the digital world.
+If you're a long term supporter, you may remember that we published our [first State of Digital Rights Report in 2018][1], which explored a range of issues such as metadata retention, consumer rights, the fight to protect encryption and children's rights in the digital age. Throughout 2020 we worked with a fantastic mix of activists, writers, and critical thinkers to contribute to the report, which highlights the many ways Australians' rights are being impacted by the activities of private companies and governments in the digital world.
 
-  
-**We hope you will join us in launching the report next Friday, 5 February at 1-2pm AEDT. It’s free, but make sure you <a href="https://u1584542.ct.sendgrid.net/ss/c/P8Elou2Rvc0qoMPEUZrMXQOdkwYPfWp1lSbdBGL8OQkZBIAwRpAMXO0VP8S7qG9njUBnOiLzp6GpnuqlQpso1yU1mXOPC7mY4cxajAMm0ldBHva91VhUWSTSd4mhbOix7DjrW3D3JrAC8P1jTi69QsEs9Jzh-AvNezFPq_Tw6-GpBwhLE-qtbXItKEqLkVodri7xlXZFhGsx34NLSHbOoKDuDwUEUxkDeNEZTkRW1p7dg2ObRkWcLLBGTufQij79JBeJ2byAhAsew5efN_Ot7E8CEH6JjWCy3r98As8_uowZwxdR3GitUxUobG-H-XCXexRlhDe_MY2-OLLYA7Y6HphwQeF5kaQDyQt2IqeQ7pzr1I-ke3C5yXSSYNQy1L0x2jvT3EbLe56WDX1IyKQaLA/38z/GX_Due5YTwW4Mc7oRznFxg/h1/3OjDMMAk56stztfw3iLXsGzzW6RLdCou5ehKwYjAAgM" target="_blank" rel="noreferrer noopener">register here.</a>**
+
+**We hope you will join us in launching the report next Friday, 5 February at 1-2pm AEDT. It's free, but make sure you <a href="https://u1584542.ct.sendgrid.net/ss/c/P8Elou2Rvc0qoMPEUZrMXQOdkwYPfWp1lSbdBGL8OQkZBIAwRpAMXO0VP8S7qG9njUBnOiLzp6GpnuqlQpso1yU1mXOPC7mY4cxajAMm0ldBHva91VhUWSTSd4mhbOix7DjrW3D3JrAC8P1jTi69QsEs9Jzh-AvNezFPq_Tw6-GpBwhLE-qtbXItKEqLkVodri7xlXZFhGsx34NLSHbOoKDuDwUEUxkDeNEZTkRW1p7dg2ObRkWcLLBGTufQij79JBeJ2byAhAsew5efN_Ot7E8CEH6JjWCy3r98As8_uowZwxdR3GitUxUobG-H-XCXexRlhDe_MY2-OLLYA7Y6HphwQeF5kaQDyQt2IqeQ7pzr1I-ke3C5yXSSYNQy1L0x2jvT3EbLe56WDX1IyKQaLA/38z/GX_Due5YTwW4Mc7oRznFxg/h1/3OjDMMAk56stztfw3iLXsGzzW6RLdCou5ehKwYjAAgM" target="_blank" rel="noreferrer noopener">register here.</a>**
 
 <div class="wp-block-image">
   <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-04-1-1024x366.png" alt="" class="wp-image-7494" width="375" height="134" srcset="/wp-content/uploads/2020/10/Email_headers_highres-04-1-1024x366.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-04-1-300x107.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-04-1-768x275.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-04-1.png 1168w" sizes="(max-width: 375px) 100vw, 375px" /></figure>
@@ -44,18 +44,18 @@ If you’re a long term supporter, you may remember that we published our [first
 
 **Security, Intelligence and spies, oh my!**
 
-December brought us a chaotic mess of surveillance legislation and reform, and we’re still wrapping our heads around it. The [Identify and Disrupt Bill][2] introduces new powers for law enforcement agencies; data disruption warrants, account takeover warrants, and network activity warrants. Submissions on the draft are [due 12 February][3] and needless to say, you can count on us to fight for the necessity and proportionality of the proposed powers.
+December brought us a chaotic mess of surveillance legislation and reform, and we're still wrapping our heads around it. The [Identify and Disrupt Bill][2] introduces new powers for law enforcement agencies; data disruption warrants, account takeover warrants, and network activity warrants. Submissions on the draft are [due 12 February][3] and needless to say, you can count on us to fight for the necessity and proportionality of the proposed powers.
 
-  
-Not a day later (literally, one day later) the government published the Richardson Report which presents a whopping 203 recommendations (only 190 are available for us mere mortals without security clearances to read) on reforming Australia’s surveillance landscape. AG [Christian Porter emphasized][4] that the report centralises on creating a “single, consolidated electronic surveillance act” which has us mostly terrified given this government’s track record on surveillance issues. If you want to read more, there’s a great [write-up on ZDNet][5].
+
+Not a day later (literally, one day later) the government published the Richardson Report which presents a whopping 203 recommendations (only 190 are available for us mere mortals without security clearances to read) on reforming Australia's surveillance landscape. AG [Christian Porter emphasized][4] that the report centralises on creating a "single, consolidated electronic surveillance act" which has us mostly terrified given this government's track record on surveillance issues. If you want to read more, there's a great [write-up on ZDNet][5].
 
 **An update on the News Media Bargaining Code**
 
-Have you been keeping up to date on the ongoing tensions between the Australian Government and Google/Facebook over the News Media Bargaining Code? It’s a lot!
+Have you been keeping up to date on the ongoing tensions between the Australian Government and Google/Facebook over the News Media Bargaining Code? It's a lot!
 
-It is no secret that we at Digital Rights Watch are no fans of the approach that the ACCC and the Department of Treasury have taken. We first posted our position on this in September [in this post][6], as well as a [submission][7] to the ACCC. Our Chair, Lizzie O’Shea, has penned [this article][8] explaining our thinking further, but here’s the crux of it: The Code as it currently stands, will undermine the spirit of the free and open internet, and risk competition from smaller media and independent creators. Beyond this, it does nothing to dismantle the data-hungry and privacy-invasive business models of digital platforms—it just allows major news corporations to profit from them. Kettle, meet pot. Pot, meet kettle.
+It is no secret that we at Digital Rights Watch are no fans of the approach that the ACCC and the Department of Treasury have taken. We first posted our position on this in September [in this post][6], as well as a [submission][7] to the ACCC. Our Chair, Lizzie O'Shea, has penned [this article][8] explaining our thinking further, but here's the crux of it: The Code as it currently stands, will undermine the spirit of the free and open internet, and risk competition from smaller media and independent creators. Beyond this, it does nothing to dismantle the data-hungry and privacy-invasive business models of digital platforms—it just allows major news corporations to profit from them. Kettle, meet pot. Pot, meet kettle.
 
-Submissions to the Economics Legislation Committee (yes, that’s another submission process) on the News Media Bargaining Code closed earlier in January (we contributed to that one too, you can [read it in full here][9]). The next step in the process is a report from the Senate Economics Legislation Committee on 12 February. The ACCC’s Chair, Rod Sims, has called for the Code to be finalised by March 2021.
+Submissions to the Economics Legislation Committee (yes, that's another submission process) on the News Media Bargaining Code closed earlier in January (we contributed to that one too, you can [read it in full here][9]). The next step in the process is a report from the Senate Economics Legislation Committee on 12 February. The ACCC's Chair, Rod Sims, has called for the Code to be finalised by March 2021.
 
 We will continue to watch closely and will keep you updated.
 
@@ -67,36 +67,36 @@ We will continue to watch closely and will keep you updated.
 
 **What Digital Rights Watch has been up to** **since November 2020&#8230;**
 
-  * Our Director, Lucie, spoke with [BBC News Singapore][10] about coronavirus contact tracing data ending up in the hands of law enforcement. “This is the worst case scenario that privacy advocates have warned about since the start of the pandemic,” she said. “Such an approach will erode public trust in future health responses and therefore impede their efficacy.”
-  * Lucie was also busy in December talking with the media about the introduction of the Surveillance Legislation Amendment (Identify and Disrupt) Bill. You can check out our summary of the key issues raised by the Bill [here][11]. Lucie spoke with [The New Daily][12], [InnovationAus][13] and [Canberra Times][14] about the deeply concerning new powers that the Bill will create for law enforcement agencies if passed. 
-  * The News Media Bargaining Code continued to gain a lot of attention. You may have read some of our commentary on this before, but Lizzie penned some more thoughts into a piece with [Overland][15] in mid December which is a thoughtful explanation of why the Code isn’t the right approach.
+  * Our Director, Lucie, spoke with [BBC News Singapore][10] about coronavirus contact tracing data ending up in the hands of law enforcement. "This is the worst case scenario that privacy advocates have warned about since the start of the pandemic," she said. "Such an approach will erode public trust in future health responses and therefore impede their efficacy."
+  * Lucie was also busy in December talking with the media about the introduction of the Surveillance Legislation Amendment (Identify and Disrupt) Bill. You can check out our summary of the key issues raised by the Bill [here][11]. Lucie spoke with [The New Daily][12], [InnovationAus][13] and [Canberra Times][14] about the deeply concerning new powers that the Bill will create for law enforcement agencies if passed.
+  * The News Media Bargaining Code continued to gain a lot of attention. You may have read some of our commentary on this before, but Lizzie penned some more thoughts into a piece with [Overland][15] in mid December which is a thoughtful explanation of why the Code isn't the right approach.
   * We were thrilled to welcome [Lauren Kelly][16] to our Board late last year. Lauren is a Senior Policy Advisor in the Australian union movement and is particularly interested in automation, surveillance and algorithmic management. In December she wrote a piece for Jacobin called [The Coles Warehouse Lockout is a Front-Line Struggle in the Battle Over Automation][17]. Welcome!
-  * For the month of December we put together a digital rights advent calendar. For those of you not following along on Twitter or Instagram, you can check out the calendar on our website here. It’s a curated month’s worth of digital rights resources and activities, which you can use any time of year!
+  * For the month of December we put together a digital rights advent calendar. For those of you not following along on Twitter or Instagram, you can check out the calendar on our website here. It's a curated month's worth of digital rights resources and activities, which you can use any time of year!
 
 <div class="wp-block-image">
   <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/09/Email_headers_highres-06-1024x342.png" alt="" class="wp-image-7275" width="349" height="150" /></figure>
 </div>
 
-**Don’t miss out—mark these upcoming events in your calendar!**
+**Don't miss out—mark these upcoming events in your calendar!**
 
   * Our State of Digital Rights 2020 Retrospective Report Online Launch. Next Friday, 5th February, 1-2pm AEDT. [Register here][18].
   * Join our Chair, Lizzie, with The University of Alberta to explore how we can hold big tech accountable for social good. Tuesday, February 2nd, 12-2pm AEDT. [Register here.][19]
   * Cyber Collective—a new cyber security & privacy research firm created by a team of Women of Colour—are hosting a seminar on Algorithmic Bias. February 26, 10am AEDT. More info [here][20].
-  * Save the date for [Rights Con][21]! The world’s leading summit on human rights in the digital age will take place online from 7-11 June 2021. We will certainly be there.<figure class="wp-block-image size-large">
+  * Save the date for [Rights Con][21]! The world's leading summit on human rights in the digital age will take place online from 7-11 June 2021. We will certainly be there.<figure class="wp-block-image size-large">
 
-<img loading="lazy" decoding="async" width="1024" height="187" src="/wp-content/uploads/2020/12/Email_headers_highres-05-1024x187.png" alt="" class="wp-image-7575" srcset="/wp-content/uploads/2020/12/Email_headers_highres-05-1024x187.png 1024w, /wp-content/uploads/2020/12/Email_headers_highres-05-300x55.png 300w, /wp-content/uploads/2020/12/Email_headers_highres-05-768x140.png 768w, /wp-content/uploads/2020/12/Email_headers_highres-05-1536x280.png 1536w, /wp-content/uploads/2020/12/Email_headers_highres-05-2048x374.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" decoding="async" width="1024" height="187" src="/wp-content/uploads/2020/12/Email_headers_highres-05-1024x187.png" alt="" class="wp-image-7575" srcset="/wp-content/uploads/2020/12/Email_headers_highres-05-1024x187.png 1024w, /wp-content/uploads/2020/12/Email_headers_highres-05-300x55.png 300w, /wp-content/uploads/2020/12/Email_headers_highres-05-768x140.png 768w, /wp-content/uploads/2020/12/Email_headers_highres-05-1536x280.png 1536w, /wp-content/uploads/2020/12/Email_headers_highres-05-2048x374.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure>
 
 **Exciting announcement****—****Internet Society Foundation Grant**
 
-In exciting news, Digital Rights Watch [has been selected as one of the grantees][22] of the Internet Society Foundation to explore **an international Internet for local needs.** We’ll be grappling with the question “How can we rebalance bargaining power between local actors and the international Internet players?” Yep, the News Media Bargaining Code really got us thinking and we think Australia can do a lot better!
+In exciting news, Digital Rights Watch [has been selected as one of the grantees][22] of the Internet Society Foundation to explore **an international Internet for local needs.** We'll be grappling with the question "How can we rebalance bargaining power between local actors and the international Internet players?" Yep, the News Media Bargaining Code really got us thinking and we think Australia can do a lot better!
 
-This means we will be rolling out some very exciting community-based research and a series of events throughout 2021. We can’t wait to share with you what we have planned!<figure class="wp-block-image size-large">
+This means we will be rolling out some very exciting community-based research and a series of events throughout 2021. We can't wait to share with you what we have planned!<figure class="wp-block-image size-large">
 
-<img loading="lazy" decoding="async" width="1024" height="171" src="/wp-content/uploads/2020/09/Email_headers_highres-02-1024x171.png" alt="" class="wp-image-7271" srcset="/wp-content/uploads/2020/09/Email_headers_highres-02-1024x171.png 1024w, /wp-content/uploads/2020/09/Email_headers_highres-02-300x50.png 300w, /wp-content/uploads/2020/09/Email_headers_highres-02-768x128.png 768w, /wp-content/uploads/2020/09/Email_headers_highres-02-1536x256.png 1536w, /wp-content/uploads/2020/09/Email_headers_highres-02-2048x342.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" decoding="async" width="1024" height="171" src="/wp-content/uploads/2020/09/Email_headers_highres-02-1024x171.png" alt="" class="wp-image-7271" srcset="/wp-content/uploads/2020/09/Email_headers_highres-02-1024x171.png 1024w, /wp-content/uploads/2020/09/Email_headers_highres-02-300x50.png 300w, /wp-content/uploads/2020/09/Email_headers_highres-02-768x128.png 768w, /wp-content/uploads/2020/09/Email_headers_highres-02-1536x256.png 1536w, /wp-content/uploads/2020/09/Email_headers_highres-02-2048x342.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure>
 
-As you know, we in Australia are not immune to the consequences of decisions made in the US about big tech regulation and digital rights. While we are thrilled that the Trump Administration’s reign of apathy has come to an end, we will be keeping an eye on how the Biden Administration handles digital rights policy. You may remember that back in November Lizzie wrote about what to expect with regard to big tech regulation under a Biden Administration—[you can read it here][23].
+As you know, we in Australia are not immune to the consequences of decisions made in the US about big tech regulation and digital rights. While we are thrilled that the Trump Administration's reign of apathy has come to an end, we will be keeping an eye on how the Biden Administration handles digital rights policy. You may remember that back in November Lizzie wrote about what to expect with regard to big tech regulation under a Biden Administration—[you can read it here][23].
 
-What to know more about US tech policy? To help us all keep informed, our friends over at Access Now have created a handy [US Tech Policy Tracker][24]. Over at Electronics Frontier Foundation they’ve put together their [recommendations for the Biden Administration][25]. Fight for the Future hasn’t missed a beat, and is gathering support for their [call on Biden and Harris][26] to nominate individuals to key positions in the government who will drive meaningful change, rather than the plan to install Silicon Valley execs.
+What to know more about US tech policy? To help us all keep informed, our friends over at Access Now have created a handy [US Tech Policy Tracker][24]. Over at Electronics Frontier Foundation they've put together their [recommendations for the Biden Administration][25]. Fight for the Future hasn't missed a beat, and is gathering support for their [call on Biden and Harris][26] to nominate individuals to key positions in the government who will drive meaningful change, rather than the plan to install Silicon Valley execs.
 
 See you at the launch!
 

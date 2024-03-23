@@ -17,7 +17,7 @@ eg_custom_meta_216:
   - 'true'
 
 ---
-**Join us in defending digital rights in Australia.**  
+**Join us in defending digital rights in Australia.**
 We&#8217;ll send you occasional updates on important issues, moments and opportunities to take action.
 
 <link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' />

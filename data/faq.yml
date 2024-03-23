@@ -11,9 +11,9 @@ faqItem:
   - question: Is there any age limit?
     answer: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
     dataTarget: Two
-    show: 
-    
+    show:
+
   - question: How much it costs to get started?
     answer: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
     dataTarget: Three
-    show: 
+    show:

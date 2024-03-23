@@ -11,7 +11,7 @@ tags:
   - privacy
 
 ---
-<span style="font-weight: 400;">The Australian Government must ensure transparency of its intelligence sharing with other countries in order to safeguard Australian citizens’ private information, a coalition of privacy and human rights organisations said at the launch of a new campaign.</span>
+<span style="font-weight: 400;">The Australian Government must ensure transparency of its intelligence sharing with other countries in order to safeguard Australian citizens' private information, a coalition of privacy and human rights organisations said at the launch of a new campaign.</span>
 
 <span style="font-weight: 400;">An international coalition of 30+ organisations led by Privacy International (PI) has written to national intelligence oversight bodies in over 40 countries, </span>[<span style="font-weight: 400;">including Australia</span>][1]<span style="font-weight: 400;">, seeking information on the intelligence sharing activities of their governments. </span>
 
@@ -60,7 +60,7 @@ tags:
 <span style="font-weight: 400;">Benedict Coyne, President, Australian Lawyers for Human Rights, said:</span>
 
 <p style="padding-left: 30px;">
-  <span style="font-weight: 400;">“In the light of the legislation that the Australian Federal Government has passed requiring retention of Australians’ personal data, it is particularly important that Australians are informed about what is being done with that data, and how their privacy rights are being eroded without any public scrutiny.”</span>
+  <span style="font-weight: 400;">"In the light of the legislation that the Australian Federal Government has passed requiring retention of Australians' personal data, it is particularly important that Australians are informed about what is being done with that data, and how their privacy rights are being eroded without any public scrutiny."</span>
 </p>
 
 
@@ -68,11 +68,11 @@ tags:
 <span style="font-weight: 400;">Gabor Szathmari, President of CryptoAUSTRALIA, said:</span>
 
 <p style="padding-left: 30px;">
-  <span style="font-weight: 400;">&#8220;While many Australian citizens are rightly concerned about the state of national security at the present moment, citizens would also like to be reassured that intelligence gathering is only conducted for the purpose of ensuring the security of citizens.”</span>
+  <span style="font-weight: 400;">&#8220;While many Australian citizens are rightly concerned about the state of national security at the present moment, citizens would also like to be reassured that intelligence gathering is only conducted for the purpose of ensuring the security of citizens."</span>
 </p>
 
 <p style="padding-left: 30px;">
-  <span style="font-weight: 400;">“Australian oversight bodies should be empowered to act on behalf of the citizens of Australia and ensure that intelligence agencies are operating in a fair and transparent manner serving the people of Australia. These bodies include the Inspector-General of Intelligence and Security, Independent National Security Legislation Monitor, and the Parliamentary Joint Committee on Intelligence and Security.&#8221;</span>
+  <span style="font-weight: 400;">"Australian oversight bodies should be empowered to act on behalf of the citizens of Australia and ensure that intelligence agencies are operating in a fair and transparent manner serving the people of Australia. These bodies include the Inspector-General of Intelligence and Security, Independent National Security Legislation Monitor, and the Parliamentary Joint Committee on Intelligence and Security.&#8221;</span>
 </p>
 
 
@@ -80,7 +80,7 @@ tags:
 <span style="font-weight: 400;">Tim Singleton Norton, Chair of Digital Rights Watch, said:</span>
 
 <p style="padding-left: 30px;">
-  <span style="font-weight: 400;">“The Australian public have a right to know the scale of privacy invasion that is being undertaken under the guise of national security. Our human rights to privacy are being compromised by widespread warrantless surveillance without adequate safeguards, and our partnerships with foreign governments such as those that form the Five Eyes is resulting in increasingly less transparency and oversight. Australian citizens have a right to understand these processes and what is being done to ensure they are accountable to a public good.”</span>
+  <span style="font-weight: 400;">"The Australian public have a right to know the scale of privacy invasion that is being undertaken under the guise of national security. Our human rights to privacy are being compromised by widespread warrantless surveillance without adequate safeguards, and our partnerships with foreign governments such as those that form the Five Eyes is resulting in increasingly less transparency and oversight. Australian citizens have a right to understand these processes and what is being done to ensure they are accountable to a public good."</span>
 </p>
 
 
@@ -88,11 +88,11 @@ tags:
 <span style="font-weight: 400;">Emily Howie, Director of Legal Advocacy at the Human Rights Law Centre, said:</span>
 
 <p style="padding-left: 30px;">
-  <span style="font-weight: 400;">“There are untold legal consequences of intelligence sharing that demand immediate inquiry. Documents revealed this year show that Australians are likely involved in intelligence sharing with the United States to locate the targets of the deadly US drone strike program.  If true, Australians could be complicit in civilian deaths from drone strikes &#8211; that might mean complicity in war crimes.”</span>
+  <span style="font-weight: 400;">"There are untold legal consequences of intelligence sharing that demand immediate inquiry. Documents revealed this year show that Australians are likely involved in intelligence sharing with the United States to locate the targets of the deadly US drone strike program.  If true, Australians could be complicit in civilian deaths from drone strikes &#8211; that might mean complicity in war crimes."</span>
 </p>
 
 <p style="padding-left: 30px;">
-  <span style="font-weight: 400;">“The government has been given free reign to scoop up our personal information but won’t provide guarantees for how that information is passed on, including to international partners. It’s unacceptable and makes each and every one of us vulnerable.” </span>
+  <span style="font-weight: 400;">"The government has been given free reign to scoop up our personal information but won't provide guarantees for how that information is passed on, including to international partners. It's unacceptable and makes each and every one of us vulnerable." </span>
 </p>
 
 
@@ -100,15 +100,15 @@ tags:
 <span style="font-weight: 400;">Dr Lesley Lynch from the NSW Council for Civil Liberties, said:</span>
 
 <p style="padding-left: 30px;">
-  <span style="font-weight: 400;">“Whilst we accept that the Government must act to protect its citizens from current complex global security challenges (and intelligence gathering alliances with allies will be part of that), there is an obvious danger is that, in the process, we trash the very  core liberties that are fundamental to a healthy democracy.”</span>
+  <span style="font-weight: 400;">"Whilst we accept that the Government must act to protect its citizens from current complex global security challenges (and intelligence gathering alliances with allies will be part of that), there is an obvious danger is that, in the process, we trash the very  core liberties that are fundamental to a healthy democracy."</span>
 </p>
 
 <p style="padding-left: 30px;">
-  <span style="font-weight: 400;">“Mass electronic surveillance by government agencies is a real threat to our democratic way of life if not appropriately constrained by effective independent oversight  &#8211; including sufficient transparency for the community to have a broad understanding of what kind of surveillance is conducted, on whom, who has access and how it is used.”</span>
+  <span style="font-weight: 400;">"Mass electronic surveillance by government agencies is a real threat to our democratic way of life if not appropriately constrained by effective independent oversight  &#8211; including sufficient transparency for the community to have a broad understanding of what kind of surveillance is conducted, on whom, who has access and how it is used."</span>
 </p>
 
 <p style="padding-left: 30px;">
-  <span style="font-weight: 400;">“Australia has a number of bodies oversighting our intelligence and security agencies. There has been some recent and welcome expansion of their responsibilities and  powers to match the rapid proliferation of our counter-terrorism laws. However, many questions remain as to the overall effectiveness of this oversight. Furthermore, the extreme secrecy and limited reporting to the public by these bodies makes it impossible for the community to exercise  effective democratic control as to the broad nature of our state surveillance agenda – at home or abroad. We must have a more balanced and less secretive approach to our national security policy.”</span>
+  <span style="font-weight: 400;">"Australia has a number of bodies oversighting our intelligence and security agencies. There has been some recent and welcome expansion of their responsibilities and  powers to match the rapid proliferation of our counter-terrorism laws. However, many questions remain as to the overall effectiveness of this oversight. Furthermore, the extreme secrecy and limited reporting to the public by these bodies makes it impossible for the community to exercise  effective democratic control as to the broad nature of our state surveillance agenda – at home or abroad. We must have a more balanced and less secretive approach to our national security policy."</span>
 </p>
 
  [1]: /wp-content/uploads/2017/09/AUS-Open-Letter-on-Intelligence-Sharing-and-Oversight-Inspector-General.pdf

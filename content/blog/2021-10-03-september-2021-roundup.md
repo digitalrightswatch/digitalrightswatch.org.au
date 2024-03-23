@@ -32,17 +32,17 @@ tags:
 
 **Identity and Disrupt petition hits 125+k**
 
-Last month we shared with you the petition to repeal the Identify and Disrupt Act, and we’re happy to say it’s now hit 125k and counting! While the likelihood of the legislation getting repealed is extremely small, we believe these signatures will help us in overturning the legislation when it’s set to sunset (in 5 years). It also sends a strong signal to the MPs that surveillance is a serious issue that Australians care about—which is something they seem to ignore across the board.
+Last month we shared with you the petition to repeal the Identify and Disrupt Act, and we're happy to say it's now hit 125k and counting! While the likelihood of the legislation getting repealed is extremely small, we believe these signatures will help us in overturning the legislation when it's set to sunset (in 5 years). It also sends a strong signal to the MPs that surveillance is a serious issue that Australians care about—which is something they seem to ignore across the board.
 
-You can head to the ICYMI (In Case You Missed It!) section to catch up with us on the details of the legislation, we’ve done plenty of interviews diving into how it will impact our everyday lives.
+You can head to the ICYMI (In Case You Missed It!) section to catch up with us on the details of the legislation, we've done plenty of interviews diving into how it will impact our everyday lives.
 
 → **You can also** [**read all the details in the explainer on our website**][1]. Make sure to SIGN and SHARE the [petition][2] to repeal the legislation.
 
 **Basic Online Safety Expectations (BOSE) consultation**
 
-The eSafety Commissioner’s Basic Online Safety Expectations (BOSE) will outline core and additional expectations for large social media platforms around cyber-bullying, abuse, and unlawful or harmful digital content. These expectations are likely to incentivise broad and proactive monitoring and removal of content. We’re also concerned about their impact on encrypted communications services.
+The eSafety Commissioner's Basic Online Safety Expectations (BOSE) will outline core and additional expectations for large social media platforms around cyber-bullying, abuse, and unlawful or harmful digital content. These expectations are likely to incentivise broad and proactive monitoring and removal of content. We're also concerned about their impact on encrypted communications services.
 
-If you’re curious, you can read more about our concerns in [this explainer][3] or in our initial [submission][4]. Justin Warren from EFA has done an [initial exploration][5] into the proposed BOSE for more info, and **this Thursday at 6pm AEST** **we will be joining him to host a workshop on how to write a submission** on this topic! We will send a link to join on the night. [Submissions are due 12 November][6].
+If you're curious, you can read more about our concerns in [this explainer][3] or in our initial [submission][4]. Justin Warren from EFA has done an [initial exploration][5] into the proposed BOSE for more info, and **this Thursday at 6pm AEST** **we will be joining him to host a workshop on how to write a submission** on this topic! We will send a link to join on the night. [Submissions are due 12 November][6].
 
 <div class="wp-block-image">
   <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png" alt="" class="wp-image-7296" width="424" height="128" srcset="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-01-300x91.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-01-768x233.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-01.png 1376w" sizes="(max-width: 424px) 100vw, 424px" /></figure>
@@ -53,7 +53,7 @@ If you’re curious, you can read more about our concerns in [this explainer][3]
   * We hosted our second event as part of our project to [Rebalance the Internet Economy][7]. IMAGINE was hosted by our Director, Lucie, and centered the experiences of storytellers: writers, bloggers, poets and editors. [If you missed it, you can watch it back here][8].
   * You can now catch up on the talks from PyCon AU. Our Program Lead, Sam, spoke about [privacy as a collective issue][9] and one of our Board Members, Lilly, spoke on how to [banish unwanted javascript from web apps][10].
   * Sam joined a lively discussion hosted by the City of Melbourne for [Melbourne Conversations: The Digital Literacy Gap][11].
-  * Our Chair, Lizzie O’Shea presented at [XConf by Thoughtworks][12] and spoke about tech for people, not users, and the role of human rights in design.
+  * Our Chair, Lizzie O'Shea presented at [XConf by Thoughtworks][12] and spoke about tech for people, not users, and the role of human rights in design.
   * Lucie did a lot of speaking about the surveillance powers contained in the Identify and Disrupt Act. You can listen in to be informed at: [Uncommon Sense on RRR][13], [Tuesday Breakfast on 3CR][14], or [BayFM][15]. You can also hear Lizzie go over the key points on [ABC Radio National][16].
   * Our Board Member Lauren Kelly spoke with the [ABC][17] about supermarket automation and what it means for workers—an extremely important topic as the pandemic rolls on!
 
@@ -61,24 +61,24 @@ If you’re curious, you can read more about our concerns in [this explainer][3]
   <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/09/Email_headers_highres-06-1024x342.png" alt="" class="wp-image-7275" width="384" height="128" srcset="/wp-content/uploads/2020/09/Email_headers_highres-06-1024x342.png 1024w, /wp-content/uploads/2020/09/Email_headers_highres-06-300x100.png 300w, /wp-content/uploads/2020/09/Email_headers_highres-06-768x257.png 768w, /wp-content/uploads/2020/09/Email_headers_highres-06.png 1250w" sizes="(max-width: 384px) 100vw, 384px" /></figure>
 </div>
 
-#### **Don’t miss out—mark these upcoming events in your calendar!**
+#### **Don't miss out—mark these upcoming events in your calendar!**
 
   * We are teaming up with Electronic Frontiers Australia (EFA) to run a special workshop on How to write a submission this Thursday at 6pm AEST. We will be sharing tips and tricks on what to look for in draft legislation or policy documents, and how to write a compelling submission. Stay tuned for the link to join!
-  * Don’t forget to register for fortnightly Tech Talks to keep you up to date on all the latest technology, law and human rights news. You can [register][18] for the next one (October 8th) or watch back the ones you’ve missed [here][19].
-  * Parallels: The Freeplay 2021 Showcase is streaming on October 7, and will highlight some of the most unique, experimental independent games made in Australia. [Learn more here][20]. 
-  * The Wheeler Center is hosting [Fringe Debate: Break the Internet][21] on October 11 with a range of interdisciplinary artists debating the power of the internet.  
-  * The 2021 Australian Digital Inclusion Index is soon to be released, with a [launch event on October 15][22] to discuss the state of digital inclusion in Australia. 
-  * **Australia’s [NetThing][23] will be held online 4-5 November 2021! If you want to hear from tech experts on the latest regulatory challenges, this is the place to be.**
+  * Don't forget to register for fortnightly Tech Talks to keep you up to date on all the latest technology, law and human rights news. You can [register][18] for the next one (October 8th) or watch back the ones you've missed [here][19].
+  * Parallels: The Freeplay 2021 Showcase is streaming on October 7, and will highlight some of the most unique, experimental independent games made in Australia. [Learn more here][20].
+  * The Wheeler Center is hosting [Fringe Debate: Break the Internet][21] on October 11 with a range of interdisciplinary artists debating the power of the internet.
+  * The 2021 Australian Digital Inclusion Index is soon to be released, with a [launch event on October 15][22] to discuss the state of digital inclusion in Australia.
+  * **Australia's [NetThing][23] will be held online 4-5 November 2021! If you want to hear from tech experts on the latest regulatory challenges, this is the place to be.**
 
 <div class="wp-block-image">
   <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/09/Email_headers_highres-03-1024x171.png" alt="" class="wp-image-7272" width="758" height="128" srcset="/wp-content/uploads/2020/09/Email_headers_highres-03-1024x171.png 1024w, /wp-content/uploads/2020/09/Email_headers_highres-03-300x50.png 300w, /wp-content/uploads/2020/09/Email_headers_highres-03-2048x342.png 2048w" sizes="(max-width: 758px) 100vw, 758px" /></figure>
 </div>
 
-On Thursday 30 September we hosted our second event for our Rebalance the Internet Economy project. Don’t know what we’re talking about? [Read about the project here][24].
+On Thursday 30 September we hosted our second event for our Rebalance the Internet Economy project. Don't know what we're talking about? [Read about the project here][24].
 
 TL;DR, we think that the internet has immense potential for good, but that the power is all out of balance. We want digital platforms to better serve local creators and communities. This project is about developing a grassroots narrative to co-design policy recommendations for governments and tech companies!
 
-In our first event, [EXHIBIT][25], we considered who is and isn’t able to be visible online. We discussed content moderation, censorship, sex, bodies, and community building. In our latest event, IMAGINE, we started to delve into the relationship between digital platforms and creators, specifically the storytellers. How are digital platforms impacting writers? You’ll have to [watch the recording back here][26] to find out!
+In our first event, [EXHIBIT][25], we considered who is and isn't able to be visible online. We discussed content moderation, censorship, sex, bodies, and community building. In our latest event, IMAGINE, we started to delve into the relationship between digital platforms and creators, specifically the storytellers. How are digital platforms impacting writers? You'll have to [watch the recording back here][26] to find out!
 
 Alongside these events we are doing a research survey to gather community experiences and insights to inform our work. If you use digital platforms to create, display, sell, or promote your work—we want to hear from you!
 

@@ -2,7 +2,7 @@
 title: New report reveals dangerous lack of oversight of secret global surveillance networks, opening the door to human rights abuses
 author: Digital Rights Watch
 date: 2018-04-24T00:42:41+00:00
-excerpt: An unprecedented international collaborative investigation carried out by 40 NGOs in 42 countries has identified alarming weaknesses in the oversight arrangements that are supposed to govern the sharing of intelligence between state intelligence agencies.  
+excerpt: An unprecedented international collaborative investigation carried out by 40 NGOs in 42 countries has identified alarming weaknesses in the oversight arrangements that are supposed to govern the sharing of intelligence between state intelligence agencies.
 url: /2018/04/24/new-report-reveals-dangerous-lack-of-oversight-of-secret-global-surveillance-networks-opening-the-door-to-human-rights-abuses/
 featureImage: /wp-content/uploads/2018/04/PIReport.jpeg
 categories:
@@ -10,7 +10,7 @@ categories:
   - Reports
 
 ---
-<span style="font-weight: 400;">An unprecedented international collaborative investigation carried out by 40 NGOs in 42 countries has identified alarming weaknesses in the oversight arrangements that are supposed to govern the sharing of intelligence between state intelligence agencies.  </span>
+<span style="font-weight: 400;">An unprecedented international collaborative investigation carried out by 40 NGOs in 42 countries has identified alarming weaknesses in the oversight arrangements that are supposed to govern the sharing of intelligence between state intelligence agencies.  </span>
 
 <span style="font-weight: 400;">In September 2017, Privacy International – in partnership with 40 national civil society organisations including key Australian digital and human rights organisations – sent a detailed briefing and series of questions to national oversight bodies in 42 countries as part of a project to increase transparency around intelligence sharing and to encourage oversight bodies to scrutinise the law and practice of intelligence sharing in their respective countries.</span>
 

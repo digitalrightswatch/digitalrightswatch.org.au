@@ -8,13 +8,13 @@ categories:
   - Media releases
 
 ---
-“We do not support arbitrary deprivation of liberty without proper due legal process. Mr Assange continued to seek political asylum in the Ecaudorian embassy in London, as is his right to do so, and the decision to revoke these protections is a worrying development,” said Digital Rights Watch Chair Tim Singleton Norton.  
+"We do not support arbitrary deprivation of liberty without proper due legal process. Mr Assange continued to seek political asylum in the Ecaudorian embassy in London, as is his right to do so, and the decision to revoke these protections is a worrying development," said Digital Rights Watch Chair Tim Singleton Norton.
 
 
-“If Mr Assange is extradited to the United States, it sets a dangerous precedent for the future of whistleblowing and transparent reporting of government operations in violation of human rights.”  
+"If Mr Assange is extradited to the United States, it sets a dangerous precedent for the future of whistleblowing and transparent reporting of government operations in violation of human rights."
 
 
-“The actions of whistleblowers like Mr Assange and the Wikileaks organisation continue to expose the inner workings of governments and corporations that are in the public&#8217;s interest.”  
+"The actions of whistleblowers like Mr Assange and the Wikileaks organisation continue to expose the inner workings of governments and corporations that are in the public&#8217;s interest."
 
 
-“We must ensure that efforts to expose truths are not unduly controlled by authoritarian governments who consistently flaunt international conventions and abuse human rights,” said Mr Singleton Norton.
+"We must ensure that efforts to expose truths are not unduly controlled by authoritarian governments who consistently flaunt international conventions and abuse human rights," said Mr Singleton Norton.

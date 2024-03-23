@@ -46,7 +46,7 @@ We also work closely with a range of close partners, allies and collaborating or
   * Queensland University of Technology
   * Thoughtworks
   * Save the Children Australia
-  * Wikileaks 
+  * Wikileaks
 
 If you would like to discuss becoming a supporter or partner to Digital Rights Watch, [please do contact us][1].
 

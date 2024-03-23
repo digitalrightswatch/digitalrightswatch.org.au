@@ -25,7 +25,7 @@ tags:
   - privacy
 
 ---
-After over two years of consultation and review of the Privacy Act, today the Attorney General’s Department has released the final report and over 100 recommendations for reform.
+After over two years of consultation and review of the Privacy Act, today the Attorney General's Department has released the final report and over 100 recommendations for reform.
 
 As digital technologies become ubiquitous and companies seek to accumulate massive amounts of data for profit, our privacy is constantly under threat. The proposals for reform contained in this review are a welcome step towards reclaiming our right to privacy.
 
@@ -35,10 +35,10 @@ Digital Rights Watch is also pleased to see a range of new and expanded rights i
 
 **Quotes attributable to Samantha Floreani, Program Lead at Digital Rights Watch**
 
-“Our current privacy regulations are woefully inadequate, out of date, and not fit for purpose for the technical realities of the modern digital economy. People deserve meaningful privacy protections and a regulator who can enforce them properly. We are hopeful that this reform agenda will lay the path toward meaningful, robust reform of the Privacy Act.”
+"Our current privacy regulations are woefully inadequate, out of date, and not fit for purpose for the technical realities of the modern digital economy. People deserve meaningful privacy protections and a regulator who can enforce them properly. We are hopeful that this reform agenda will lay the path toward meaningful, robust reform of the Privacy Act."
 
-“Protecting privacy is an essential component to upholding our democracy, reining in corporate power, and fostering online safety in the digital age. Without privacy, it would be extremely hard to enjoy freedom of speech and expression, and hold those in power accountable. Privacy puts power and agency back in the hands of individuals and communities.”
+"Protecting privacy is an essential component to upholding our democracy, reining in corporate power, and fostering online safety in the digital age. Without privacy, it would be extremely hard to enjoy freedom of speech and expression, and hold those in power accountable. Privacy puts power and agency back in the hands of individuals and communities."
 
-“We are pleased to see the Australian Government has meaningfully engaged with the issues and shortcomings of the current Privacy Act, and has listened to many of the recommendations from privacy experts and civil society.”
+"We are pleased to see the Australian Government has meaningfully engaged with the issues and shortcomings of the current Privacy Act, and has listened to many of the recommendations from privacy experts and civil society."
 
-“There are many promising proposals for privacy reform in this report, but currently they are just proposals, many of which have existed for almost a decade and been ignored. We hope that the ALP will stand their ground against tech and business lobbyists who will seek to water these proposals down, and push forward this reform agenda into actual legislative change for the public good.”
+"There are many promising proposals for privacy reform in this report, but currently they are just proposals, many of which have existed for almost a decade and been ignored. We hope that the ALP will stand their ground against tech and business lobbyists who will seek to water these proposals down, and push forward this reform agenda into actual legislative change for the public good."

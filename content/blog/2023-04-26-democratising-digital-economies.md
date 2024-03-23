@@ -34,9 +34,9 @@ The report, made as a submission into a Senate Inquiry on the influence of inter
 
 _Digital Rights Watch_ found that because the internet has been left in private hands, it has become a space that is hostile to democracy and our communities in the pursuit of private profit.
 
-_“We are letting a handful of tech billionaires decide how we live our lives. From how our communities connect, what kind of information we access to how we work. Instead of a town square where people can freely connect and create, the internet has become a privately owned shopping mall where our every move is tracked, our attention captured and our democracy corrupted,”_ said Lizzie O&#8217;Shea, Chair of Digital Rights Watch.
+_"We are letting a handful of tech billionaires decide how we live our lives. From how our communities connect, what kind of information we access to how we work. Instead of a town square where people can freely connect and create, the internet has become a privately owned shopping mall where our every move is tracked, our attention captured and our democracy corrupted,"_ said Lizzie O&#8217;Shea, Chair of Digital Rights Watch.
 
-_&#8220;The public sector must be more than a spectator in the digital economy. Our democracy is too important to be left in the hands of some far-flung billionaires,”_ Ms. O&#8217;Shea added.
+_&#8220;The public sector must be more than a spectator in the digital economy. Our democracy is too important to be left in the hands of some far-flung billionaires,"_ Ms. O&#8217;Shea added.
 
 The report further found that if the internet is left in private hands we risk losing control of our culture as local institutions and creative scenes are squeezed out by multinational streaming and algorithmic curation. We risk losing control of our national story, as news and culture are produced to maximise clicks on social media. We even risk losing control of other critical infrastructure as more of our electricity, water, and transport become controlled by hardware and software designed, built, and owned by international companies.
 
@@ -50,11 +50,11 @@ The ADC could also be empowered to develop publicly owned payment processing, st
 
 The report also recommends that the government establish a Joint Standing Committee on Digital Affairs to help develop a more sophisticated understanding of digital and technology policy and reiterates calls for the Attorney General to implement strong privacy reforms.
 
-_“The internet provides us with the social infrastructure we need to stay connected. Connecting with each other, sharing our creativity and learning about the world has always been the best part of the internet. In public hands we can create better ways to connect online that doesn&#8217;t invade our privacy, sell our attention or drive us apart.&#8221;_
+_"The internet provides us with the social infrastructure we need to stay connected. Connecting with each other, sharing our creativity and learning about the world has always been the best part of the internet. In public hands we can create better ways to connect online that doesn&#8217;t invade our privacy, sell our attention or drive us apart.&#8221;_
 
 You can read our full submission outlining what we think would start to democratise digital economies below, or <span style="text-decoration: underline;"><a href="/wp-content/uploads/2023/04/Submission-on-democratising-digital-economies.pdf" target="_blank" rel="noreferrer noopener">download the pdf here</a></span>.
 
-You can also read our joint letter with Electronic Frontiers Australia, Professionals Australia, Per Capita’s Centre for New Industry, The Australia Institute’s Centre for Responsible Technology and ANU’s Tech Policy Design Centre <span style="text-decoration: underline;"><a href="/wp-content/uploads/2023/04/Joint-letter-on-a-Digital-Affairs-Committee.pdf" target="_blank" rel="noreferrer noopener">here</a></span>.
+You can also read our joint letter with Electronic Frontiers Australia, Professionals Australia, Per Capita's Centre for New Industry, The Australia Institute's Centre for Responsible Technology and ANU's Tech Policy Design Centre <span style="text-decoration: underline;"><a href="/wp-content/uploads/2023/04/Joint-letter-on-a-Digital-Affairs-Committee.pdf" target="_blank" rel="noreferrer noopener">here</a></span>.
 
 <div data-wp-interactive="" class="wp-block-file">
   <a id="wp-block-file--media-5e299b1a-442f-4592-9fda-e58263a69345" href="/wp-content/uploads/2023/04/Submission-on-democratising-digital-economies.pdf">Submission-on-democratising-digital-economies</a><a href="/wp-content/uploads/2023/04/Submission-on-democratising-digital-economies.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-5e299b1a-442f-4592-9fda-e58263a69345">Download</a>

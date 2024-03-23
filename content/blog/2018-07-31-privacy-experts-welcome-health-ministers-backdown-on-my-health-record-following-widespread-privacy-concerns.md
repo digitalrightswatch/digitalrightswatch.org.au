@@ -1,5 +1,5 @@
 ---
-title: Privacy experts welcome Health Minister’s backdown on My Health Record, following widespread privacy concerns
+title: Privacy experts welcome Health Minister's backdown on My Health Record, following widespread privacy concerns
 author: Digital Rights Watch
 date: 2018-07-31T11:28:12+00:00
 excerpt: Digital Rights Watch have welcomed reports that Federal Health Minister Greg Hunt will scrap the My Health Record system and introduce legislation that ensures patient privacy.

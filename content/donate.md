@@ -35,8 +35,8 @@ BUILDING A COMMUNITY
 
 Your donations enable us to produce and host events and workshops on critical digital rights issues. Make sure to subscribe to the mailing list to keep up to date.
 
-  
-Please note that donations to Digital Rights Watch are not tax deductible. Read our Donations Policy here.  
+
+Please note that donations to Digital Rights Watch are not tax deductible. Read our Donations Policy here.
 We will never share your contact or financial details with anyone else.Read our full Privacy Policy here.
 
 Digital Rights Watch Inc. is an incorporated association in Victoria and operates nationally as a registered charity. ABN 90 509 129 914<img loading="lazy" decoding="async" alt="Image" src="/wp-content/uploads/2016/02/ACNC-Registered-Charity-Tick.jpg" width="179" height="169" />[/cs\_content\_seo]

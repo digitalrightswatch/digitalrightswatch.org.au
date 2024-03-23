@@ -9,7 +9,7 @@ categories:
   - News
 
 ---
-Australians are some of the world’s greatest users of social media and mobile broadband, and our nation is in the top ten globally for internet use. At a time when our use of these technologies is increasingly redefining aspects of our personal and professional lives, the University of Sydney have published a report into Digital Rights in Australia, which explores urgent questions about the nature of our rights now and into the future.
+Australians are some of the world's greatest users of social media and mobile broadband, and our nation is in the top ten globally for internet use. At a time when our use of these technologies is increasingly redefining aspects of our personal and professional lives, the University of Sydney have published a report into Digital Rights in Australia, which explores urgent questions about the nature of our rights now and into the future.
 
 The report covers rights issues in four areas: privacy, profiling and analytics; government data matching and surveillance; workplace change; and freedom of expression and speech regulation. It explores the ethical and legal challenges we face in using digital, networked technologies and the debates we are having about how to best manage their transformative impacts. The researchers have examined the major role of private, transnational digital platforms in reshaping the way we work, study and conduct business, our interactions with government and with each other.
 

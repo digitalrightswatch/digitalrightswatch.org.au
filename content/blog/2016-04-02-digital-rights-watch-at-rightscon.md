@@ -13,7 +13,7 @@ Digital Rights Watch board member Lizzie O&#8217;Shea has been talking all thing
 
 She presented the aims and objectives of Digital Rights Watch to the conference of hundreds of digital activists.
 
-[Check out what Digital Rights Watch presented at RightsCon (PDF)][2]
+[Check out what Digital Rights Watch presented at RightsCon (PDF)][2]
 
 
 

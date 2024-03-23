@@ -41,27 +41,27 @@ cv_comp_cornerstone_content:
     <p>If you use the web when you&#8217;re connected to a VPN, all your ISP can record is:</p>
     <p><em>a constant connection to a seemingly random internet server, the total amount of data you exchange, and your location. Your actual activity &#8211; the web browsing and downloads &#8211; can&#8217;t be associated with a location by your ISP.</em></p>
     <h2>Connecting to a VPN</h2>
-    <p>Virtual Private Networks create a secure avenue to another network, so that only users on either end of that avenue can view information. When you connect your computer (or phone or tablet) to a VPN, the device acts as if it&#8217;s on the same local network as the VPN. All of your network data traffic is sent over a secure connection to the VPN.</p>
-    <p>As well as private work networks, VPNs can also be used to access the Internet. You&#8217;ll be able to use the Internet as if you were present at the VPN&#8217;s location. When you browse the web while connected to a VPN, your computer contacts the website through the encrypted VPN connection. The VPN forwards the request for you and forwards the response from the website back through the secure connection. This is how people using a USA-based VPN to access Netflix will appear to Netflix as coming from within the USA.</p>
+    <p>Virtual Private Networks create a secure avenue to another network, so that only users on either end of that avenue can view information. When you connect your computer (or phone or tablet) to a VPN, the device acts as if it&#8217;s on the same local network as the VPN. All of your network data traffic is sent over a secure connection to the VPN.</p>
+    <p>As well as private work networks, VPNs can also be used to access the Internet. You&#8217;ll be able to use the Internet as if you were present at the VPN&#8217;s location. When you browse the web while connected to a VPN, your computer contacts the website through the encrypted VPN connection. The VPN forwards the request for you and forwards the response from the website back through the secure connection. This is how people using a USA-based VPN to access Netflix will appear to Netflix as coming from within the USA.</p>
     <p>All your ISP will see is an exchange of a volume of data with your VPN. It&#8217;s as if your ISP could see you go into the restaurant and come out again an amount of time later looking a bit full, but it won&#8217;t know what you ordered, what you ate, what you spilled, where you sat, or who you talked to.</p>
     <p>Setting up a VPN is <em>very easy.</em></p>
-    <p><a title="Gizmodo Australia VPN Recommendations" href="http://www.gizmodo.com.au/2015/06/the-best-vpn-providers-what-you-need-to-know/">Gizmodo Australia has an excellent summary of recommended VPNs</a>. Most of these don&#8217;t keep any logs, to ensure your privacy. They are user-friendly and come with simple installers to run on your OS X or Windows computer, and they have very easy to use iOS and Android apps for your mobile devices. Once installed, and your username and password have been entered, you then simply select where you&#8217;d like to &#8216;be&#8217;.</p>
+    <p><a title="Gizmodo Australia VPN Recommendations" href="http://www.gizmodo.com.au/2015/06/the-best-vpn-providers-what-you-need-to-know/">Gizmodo Australia has an excellent summary of recommended VPNs</a>. Most of these don&#8217;t keep any logs, to ensure your privacy. They are user-friendly and come with simple installers to run on your OS X or Windows computer, and they have very easy to use iOS and Android apps for your mobile devices. Once installed, and your username and password have been entered, you then simply select where you&#8217;d like to &#8216;be&#8217;.</p>
     <p>Using a VPN may have a small impact on your data speeds, but usually not much.</p>
     <p>&#8212;</p>
     <p>Signing up for all the services that work for you, including a VPN, should take you no more than 10 minutes.</p>
     <p><small>* The Attorney-General&#8217;s Department has said it will not <em>require</em> ISPs to retain destination addresses &#8211; the site or service you connect to &#8211; but it has been reported that it is likely to be in most retained datasets anyway, because removing it is an extra step and expense for ISPs.</small></p>
     <h2>Further Reading</h2>
     <p><strong>Centre for Investigative Journalism</strong><br />
-    <a title="Information Security for Journalists" href="http://files.gendo.nl/Books/InfoSec_for_Journalists_V1.1.pdf" target="_blank">Information Security for Journalists</a> &#8211; protecting your story, your source and yourself online.</p>
+    <a title="Information Security for Journalists" href="http://files.gendo.nl/Books/InfoSec_for_Journalists_V1.1.pdf" target="_blank">Information Security for Journalists</a> &#8211; protecting your story, your source and yourself online.</p>
     <p><strong>Freedom of the Press Foundation</strong><br />
     <a title="Encryption Works" href="https://freedom.press/sites/default/files/encryption_works.pdf" target="_blank">Encryption Works</a> by Micha Lee focuses on protecting privacy online.</p>
     <p><strong>Electronic Frontier Foundation</strong><br />
-    EFF&#8217;s <a title="Electronic Frontier Foundation" href="https://ssd.eff.org/" target="_blank">Surveillance Self-Defense</a> offers tips, tools and how-tos for safer online communications. It includes overviews, tutorials and briefings.</p>
+    EFF&#8217;s <a title="Electronic Frontier Foundation" href="https://ssd.eff.org/" target="_blank">Surveillance Self-Defense</a> offers tips, tools and how-tos for safer online communications. It includes overviews, tutorials and briefings.</p>
     <p><strong>TOR</strong><br />
     <a title="TOR Project" href="https://www.torproject.org/" target="_blank">TOR &#8211; The Onion Router</a>&#8211; allows you to use the internet anonymously. This is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security.</p>
     <p><strong>File Encryption</strong><br />
-    File encryption of sensitive data is also really important. <a title="Lifehacker" href="http://lifehacker.com/five-best-file-encryption-tools-5677725" target="_blank">Here&#8217;s more information</a>.</p>
-    <p><a href="http://scott-ludlam.greensmps.org.au/stopdataretention">Provided by Office of Senator Scott Ludlam.</a></p>
+    File encryption of sensitive data is also really important. <a title="Lifehacker" href="http://lifehacker.com/five-best-file-encryption-tools-5677725" target="_blank">Here&#8217;s more information</a>.</p>
+    <p><a href="http://scott-ludlam.greensmps.org.au/stopdataretention">Provided by Office of Senator Scott Ludlam.</a></p>
     ";}
 categories:
   - 'Tools &amp; Guides'
@@ -69,8 +69,8 @@ tags:
   - Get a VPN
 
 ---
-The Government and ALP regime of mass electronic surveillance &#8211; mandatory data retention for every man, woman and child, and every device in the country &#8211; started in October 2015. **Senator Scott Ludlam explains how to get around it.  
-**  
+The Government and ALP regime of mass electronic surveillance &#8211; mandatory data retention for every man, woman and child, and every device in the country &#8211; started in October 2015. **Senator Scott Ludlam explains how to get around it.
+**
 To stop the government spying on your every move, you can take the steps listed below. The alternatives here are just some of the options available, this is by no means a comprehensive list. There are a lot of great resources easily searchable online.
 
 These programs and tools are perfectly legal, and very easy to use, which of course begs the question &#8211; what is the point of this $300 million scheme in the first place? Particularly when none other than [Prime Minister Malcolm Turnbull, the architect of the scheme, endorses and uses some of these tools himself][1].
@@ -135,15 +135,15 @@ _a constant connection to a seemingly random internet server, the total amount o
 
 ## Connecting to a VPN
 
-Virtual Private Networks create a secure avenue to another network, so that only users on either end of that avenue can view information. When you connect your computer (or phone or tablet) to a VPN, the device acts as if it&#8217;s on the same local network as the VPN. All of your network data traffic is sent over a secure connection to the VPN.
+Virtual Private Networks create a secure avenue to another network, so that only users on either end of that avenue can view information. When you connect your computer (or phone or tablet) to a VPN, the device acts as if it&#8217;s on the same local network as the VPN. All of your network data traffic is sent over a secure connection to the VPN.
 
-As well as private work networks, VPNs can also be used to access the Internet. You&#8217;ll be able to use the Internet as if you were present at the VPN&#8217;s location. When you browse the web while connected to a VPN, your computer contacts the website through the encrypted VPN connection. The VPN forwards the request for you and forwards the response from the website back through the secure connection. This is how people using a USA-based VPN to access Netflix will appear to Netflix as coming from within the USA.
+As well as private work networks, VPNs can also be used to access the Internet. You&#8217;ll be able to use the Internet as if you were present at the VPN&#8217;s location. When you browse the web while connected to a VPN, your computer contacts the website through the encrypted VPN connection. The VPN forwards the request for you and forwards the response from the website back through the secure connection. This is how people using a USA-based VPN to access Netflix will appear to Netflix as coming from within the USA.
 
 All your ISP will see is an exchange of a volume of data with your VPN. It&#8217;s as if your ISP could see you go into the restaurant and come out again an amount of time later looking a bit full, but it won&#8217;t know what you ordered, what you ate, what you spilled, where you sat, or who you talked to.
 
 Setting up a VPN is _very easy._
 
-[Gizmodo Australia has an excellent summary of recommended VPNs][2]. Most of these don&#8217;t keep any logs, to ensure your privacy. They are user-friendly and come with simple installers to run on your OS X or Windows computer, and they have very easy to use iOS and Android apps for your mobile devices. Once installed, and your username and password have been entered, you then simply select where you&#8217;d like to &#8216;be&#8217;.
+[Gizmodo Australia has an excellent summary of recommended VPNs][2]. Most of these don&#8217;t keep any logs, to ensure your privacy. They are user-friendly and come with simple installers to run on your OS X or Windows computer, and they have very easy to use iOS and Android apps for your mobile devices. Once installed, and your username and password have been entered, you then simply select where you&#8217;d like to &#8216;be&#8217;.
 
 Using a VPN may have a small impact on your data speeds, but usually not much.
 
@@ -155,22 +155,22 @@ Signing up for all the services that work for you, including a VPN, should take 
 
 ## Further Reading
 
-**Centre for Investigative Journalism**  
-<a title="Information Security for Journalists" href="http://files.gendo.nl/Books/InfoSec_for_Journalists_V1.1.pdf" target="_blank" rel="noopener">Information Security for Journalists</a> &#8211; protecting your story, your source and yourself online.
+**Centre for Investigative Journalism**
+<a title="Information Security for Journalists" href="http://files.gendo.nl/Books/InfoSec_for_Journalists_V1.1.pdf" target="_blank" rel="noopener">Information Security for Journalists</a> &#8211; protecting your story, your source and yourself online.
 
-**Freedom of the Press Foundation**  
+**Freedom of the Press Foundation**
 <a title="Encryption Works" href="https://freedom.press/sites/default/files/encryption_works.pdf" target="_blank" rel="noopener">Encryption Works</a> by Micha Lee focuses on protecting privacy online.
 
-**Electronic Frontier Foundation**  
-EFF&#8217;s <a title="Electronic Frontier Foundation" href="https://ssd.eff.org/" target="_blank" rel="noopener">Surveillance Self-Defense</a> offers tips, tools and how-tos for safer online communications. It includes overviews, tutorials and briefings.
+**Electronic Frontier Foundation**
+EFF&#8217;s <a title="Electronic Frontier Foundation" href="https://ssd.eff.org/" target="_blank" rel="noopener">Surveillance Self-Defense</a> offers tips, tools and how-tos for safer online communications. It includes overviews, tutorials and briefings.
 
-**TOR**  
+**TOR**
 <a title="TOR Project" href="https://www.torproject.org/" target="_blank" rel="noopener">TOR &#8211; The Onion Router</a>&#8211; allows you to use the internet anonymously. This is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security.
 
-**File Encryption**  
-File encryption of sensitive data is also really important. <a title="Lifehacker" href="http://lifehacker.com/five-best-file-encryption-tools-5677725" target="_blank" rel="noopener">Here&#8217;s more information</a>.
+**File Encryption**
+File encryption of sensitive data is also really important. <a title="Lifehacker" href="http://lifehacker.com/five-best-file-encryption-tools-5677725" target="_blank" rel="noopener">Here&#8217;s more information</a>.
 
-[Provided by Office of Senator Scott Ludlam.][3]
+[Provided by Office of Senator Scott Ludlam.][3]
 
  [1]: http://scott-ludlam.greensmps.org.au/content/video/how-would-malcolm-avoid-his-governments-data-retention-regime
  [2]: http://www.gizmodo.com.au/2015/06/the-best-vpn-providers-what-you-need-to-know/ "Gizmodo Australia VPN Recommendations"

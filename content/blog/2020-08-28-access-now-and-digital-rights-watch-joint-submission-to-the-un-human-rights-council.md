@@ -27,7 +27,7 @@ tags:
 ---
 The Universal Periodic Review (UPR) of the United Nations Human Rights Council is a unique process which involves a review of the human rights records of all UN Member States. The UPR process is designed to ensure equal treatment for every country when their human rights situations are assessed.
 
-Access Now and Digital Rights Watch contributed a submission to Australia&#8217;s third UPR review cycle. The submission addresses the state of digital rights including the right to privacy and freedom of expression and access to information in Australia. 
+Access Now and Digital Rights Watch contributed a submission to Australia&#8217;s third UPR review cycle. The submission addresses the state of digital rights including the right to privacy and freedom of expression and access to information in Australia.
 
 [Read the full submission here.][1]
 

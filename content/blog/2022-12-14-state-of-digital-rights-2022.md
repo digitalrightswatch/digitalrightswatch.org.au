@@ -23,7 +23,7 @@ categories:
 ---
 It&#8217;s been another big year in the Australian digital rights movement.
 
-Today we&#8217;re launching our **State of Digital Rights Report: a 2022 Retrospective**. In it, we reflect on the key developments in digital rights in Australia over the course of the year and look ahead to what we expect for 2023.
+Today we&#8217;re launching our **State of Digital Rights Report: a 2022 Retrospective**. In it, we reflect on the key developments in digital rights in Australia over the course of the year and look ahead to what we expect for 2023.
 
 <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-layout-6 wp-block-buttons-is-layout-flex">
   <div class="wp-block-button">
@@ -33,9 +33,9 @@ Today we&#8217;re launching our **State of Digital Rights Report: a 2022 Retros
 
 As 2022 draws to a close, we are seeing big shifts in the internet economy that create openings to fight for better alternatives to the business models of surveillance and tracking which have defined modern big-tech.
 
-We will be pushing politicians and lawmakers to get privacy reform right, fighting the culture of surveillance, and facilitating important discussions and actions to pave the way for a better, fairer internet. [Read more about our plans here.][1]
+We will be pushing politicians and lawmakers to get privacy reform right, fighting the culture of surveillance, and facilitating important discussions and actions to pave the way for a better, fairer internet. [Read more about our plans here.][1]
 
-We won’t be able to build a better democracy without building a democratic internet. 2023 is going to be a big year for Digital Rights Watch, but we can’t do this work without your support.
+We won't be able to build a better democracy without building a democratic internet. 2023 is going to be a big year for Digital Rights Watch, but we can't do this work without your support.
 
 **[Donate now to support the fight for human rights in the digital age.][2]**
 

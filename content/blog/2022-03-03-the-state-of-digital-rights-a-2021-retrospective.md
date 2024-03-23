@@ -35,17 +35,17 @@ Digital Rights Watch has also published [<span style="text-decoration: underline
 
 ###### **A big thank you to our 2021 contributors**:
 
-&#8216;The continued culture of surveillance&#8217; &#8211; **Lucie Krahulcova & Kieran Pender** 
+&#8216;The continued culture of surveillance&#8217; &#8211; **Lucie Krahulcova & Kieran Pender**
 
-&#8216;News Media Bargaining Code entrenches platform power&#8217; &#8211; **Dr Jake Goldenfein** 
+&#8216;News Media Bargaining Code entrenches platform power&#8217; &#8211; **Dr Jake Goldenfein**
 
-&#8216;Automation is changing work&#8211;not erasing it&#8217; &#8211; **Lauren Kelly** 
+&#8216;Automation is changing work&#8211;not erasing it&#8217; &#8211; **Lauren Kelly**
 
-&#8216;Repeated census fails highlight need for human rights&#8217; &#8211; **Lilly Ryan & Tom Sulston** 
+&#8216;Repeated census fails highlight need for human rights&#8217; &#8211; **Lilly Ryan & Tom Sulston**
 
 &#8216;COVID-19, technology, and racialised surveillance&#8217; &#8211; **Dhakshayini Sooriyakumaran**
 
-&#8216;Innovation under digital colonialism&#8217; &#8211; **Kathryn Gledhill-Tucker** 
+&#8216;Innovation under digital colonialism&#8217; &#8211; **Kathryn Gledhill-Tucker**
 
 &#8216;Compromising sex worker safety for a sanitised internet&#8217; **&#8211; Gala Vanting**
 
@@ -54,9 +54,9 @@ Digital Rights Watch has also published [<span style="text-decoration: underline
 <div class="wp-block-embed__wrapper">
   <div data-url="https://issuu.com/digitalrightswatch/docs/2021_state_of_digital_rights_report" style="width: 500px; height: 353px;" class="issuuembed">
   </div>
-</div></figure> 
+</div></figure>
 
-#### 
+####
 
 #### Watch the report launch<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 

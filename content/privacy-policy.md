@@ -11,11 +11,11 @@ sharing_disabled:
 
 ### **Collection, retention, use and protection of your data**
 
-We collect information when you visit our website, make a donation online, and subscribe to our campaigns or mailing lists, for the purposes of keeping you updated and informed of our work and the ways in which you can be engaged and support us. We’ll let you know what information is required for each action, and we strive to require only the bare minimum of information necessary.
+We collect information when you visit our website, make a donation online, and subscribe to our campaigns or mailing lists, for the purposes of keeping you updated and informed of our work and the ways in which you can be engaged and support us. We'll let you know what information is required for each action, and we strive to require only the bare minimum of information necessary.
 
 If you sign onto one of our various mailing lists, petitions, make a donation or use our contact tools, we retain the information you provided to manage our own mailing lists. For newsletters, petitions and online actions this includes your name, email address and postcode. Members of the organisation are also required to provide postal addresses and contact telephone numbers. We utilise [MailChimp][1] for all outbound email functions.
 
-For petitions, open letters, or similar public communications that you’ve signed or completed, we treat your name, city, state, and comments as public information. We will not make your street address publicly available, but we may transmit it to public officials as part of a petition or open letter.
+For petitions, open letters, or similar public communications that you've signed or completed, we treat your name, city, state, and comments as public information. We will not make your street address publicly available, but we may transmit it to public officials as part of a petition or open letter.
 
 We collect information regarding visits to our website. We use the open source analytics platform [Matamo][2] to track visitor usage. With Matamo, we log IP addresses, browser, operating system, visiting time, session, actions per visit, pageviews per visit, returning visitors, and referring site information. The data we collect through Matamo is stored on our own servers, and will never be shared with others.
 
@@ -37,7 +37,7 @@ Please contact <privacy@digitalrightswatch.org.au> if you have any inquiries rel
 
 We sometimes carry out our business or operate our website using third party tools or services. Information may be shared with the operators of those tools or services in connection with our use of those tools or services to carry out business or operate our website. These providers may sometimes be based in or operate in jurisdictions outside of Australia, but wherever possible we will use locally based providers.
 
-We may have joint campaigns with partnering organisations and in those cases will explicitly state that we are doing so. In those cases, if your information will be shared with another organisation in order to facilitate email delivery, list management, and other stated purposes, we will explicitly make notice on any campaign or website that this organisation owns before you submit any of your information. We will only share information which you submit at the time of notice and will not share any person’s information obtained from other past or future campaigns, knowingly or on purpose.
+We may have joint campaigns with partnering organisations and in those cases will explicitly state that we are doing so. In those cases, if your information will be shared with another organisation in order to facilitate email delivery, list management, and other stated purposes, we will explicitly make notice on any campaign or website that this organisation owns before you submit any of your information. We will only share information which you submit at the time of notice and will not share any person's information obtained from other past or future campaigns, knowingly or on purpose.
 
 ### **Cookies**
 
@@ -57,7 +57,7 @@ If you wish to make a privacy complaint in relation to the operations of Digital
 
 ### **Compliance with regulations and legal frameworks**
 
-Digital Rights Watch complies with [the Australian Privacy Act][10], [the Australian Privacy Principles][11] and [the Notifiable Data Breaches Scheme][12].
+Digital Rights Watch complies with [the Australian Privacy Act][10], [the Australian Privacy Principles][11] and [the Notifiable Data Breaches Scheme][12].
 
  [1]: http://mailchimp.com
  [2]: https://matomo.org/

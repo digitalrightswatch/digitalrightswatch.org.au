@@ -1,5 +1,5 @@
 ---
-title: It’s time we talk about the internet.
+title: It's time we talk about the internet.
 author: Lucie Krahulcova
 type: page
 date: 2021-06-04T05:53:06+00:00
@@ -19,12 +19,12 @@ eg_custom_meta_216:
 ---
 <div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:45% auto">
   <figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/05/Square-tiles-ISOC-1-1024x1024.png" alt="" class="wp-image-7837 size-full" srcset="/wp-content/uploads/2021/05/Square-tiles-ISOC-1-1024x1024.png 1024w, /wp-content/uploads/2021/05/Square-tiles-ISOC-1-300x300.png 300w, /wp-content/uploads/2021/05/Square-tiles-ISOC-1-150x150.png 150w, /wp-content/uploads/2021/05/Square-tiles-ISOC-1-768x768.png 768w, /wp-content/uploads/2021/05/Square-tiles-ISOC-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-  
+
   <div class="wp-block-media-text__content">
     <p class="has-large-font-size">
       The internet has tremendous power to connect and empower individuals, but as centers of power online grow larger they become less affable to individual users and less responsive to their needs.
     </p>
-    
+
     <p class="has-large-font-size">
       How can we rebalance the internet economy?
     </p>
@@ -65,7 +65,7 @@ We want to paint an accurate picture of the local internet economy and codesign 
 
 <figure class="wp-block-pullquote">
 
-> Everyone gets to participate in this conversation. Whether you&#8217;re just curious or want to share your experiences, we invite you to join us for our townhalls.</figure> 
+> Everyone gets to participate in this conversation. Whether you&#8217;re just curious or want to share your experiences, we invite you to join us for our townhalls.</figure>
 
 ## Our Townhalls<figure class="wp-block-gallery columns-2 is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
 
@@ -76,14 +76,14 @@ We want to paint an accurate picture of the local internet economy and codesign 
   <li class="blocks-gallery-item">
     <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/05/v2-_-website-3-1-1024x1024.png" alt="" data-id="7845" data-full-url="/wp-content/uploads/2021/05/v2-_-website-3-1.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7845" class="wp-image-7845" srcset="/wp-content/uploads/2021/05/v2-_-website-3-1-1024x1024.png 1024w, /wp-content/uploads/2021/05/v2-_-website-3-1-300x300.png 300w, /wp-content/uploads/2021/05/v2-_-website-3-1-150x150.png 150w, /wp-content/uploads/2021/05/v2-_-website-3-1-768x768.png 768w, /wp-content/uploads/2021/05/v2-_-website-3-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
   </li>
-</ul></figure> 
+</ul></figure>
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-2 wp-block-columns-is-layout-flex">
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
     <div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-1 wp-block-columns-is-layout-flex">
       <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
         <figure class="wp-block-gallery columns-2 is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
-        
+
         <ul class="blocks-gallery-grid">
           <li class="blocks-gallery-item">
             <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/05/v2-_-website-2-1024x1024.png" alt="" data-id="7840" data-full-url="/wp-content/uploads/2021/05/v2-_-website-2.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7840" class="wp-image-7840" srcset="/wp-content/uploads/2021/05/v2-_-website-2-1024x1024.png 1024w, /wp-content/uploads/2021/05/v2-_-website-2-300x300.png 300w, /wp-content/uploads/2021/05/v2-_-website-2-150x150.png 150w, /wp-content/uploads/2021/05/v2-_-website-2-768x768.png 768w, /wp-content/uploads/2021/05/v2-_-website-2.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>

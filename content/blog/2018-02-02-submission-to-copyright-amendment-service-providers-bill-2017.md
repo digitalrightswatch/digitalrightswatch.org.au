@@ -1,19 +1,19 @@
 ---
-title: Submission to Copyright Amendment (Service Providers) Bill 2017
+title: Submission to Copyright Amendment (Service Providers) Bill 2017
 author: Digital Rights Watch
 date: 2018-02-02T10:28:00+00:00
-excerpt: "Digital Rights Watch's submission to the Senate Environment and Communications Legislation Committee in relation to the Copyright Amendment (Service Providers) Bill 2017."
+excerpt: "Digital Rights Watch's submission to the Senate Environment and Communications Legislation Committee in relation to the Copyright Amendment (Service Providers) Bill 2017."
 url: /2018/02/02/submission-to-copyright-amendment-service-providers-bill-2017/
 featureImage: /wp-content/uploads/2016/06/copyright.jpg
 categories:
   - Submissions
 
 ---
-Our submission to the Senate Environment and Communications Legislation Committee in relation to the [Copyright Amendment (Service Providers) Bill 2017.][1]
+Our submission to the Senate Environment and Communications Legislation Committee in relation to the [Copyright Amendment (Service Providers) Bill 2017.][1]
 
 Digital Rights Watch strongly support the extension of the safe harbours in the Bill. The organisations that will benefit from the certainty that the copyright safe harbours provide have a clearly demonstrated need, and this proposal is long overdue.
 
-However, we believe that the Bill should be amended so that the term ‘Service Provider’ is not defined restrictively. Currently, the Bill defines ‘Service Provider’ to be a carriage service provider; an organisation assisting persons with a disability; or a body administering a library, archives, cultural institution or educational institution. We believe that ‘Service Provider’ should be understood according to its ordinary meaning, and extend to all of Australia’s internet hosts and platform providers.
+However, we believe that the Bill should be amended so that the term 'Service Provider' is not defined restrictively. Currently, the Bill defines 'Service Provider' to be a carriage service provider; an organisation assisting persons with a disability; or a body administering a library, archives, cultural institution or educational institution. We believe that 'Service Provider' should be understood according to its ordinary meaning, and extend to all of Australia's internet hosts and platform providers.
 
 Extending the safe harbours to all service providers benefits all parties:
 

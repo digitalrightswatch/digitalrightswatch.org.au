@@ -27,21 +27,21 @@ tags:
   - tiktok
 
 ---
-**The Data Availability and Transparency Bill**  
-When it comes to things too long to read, the 104 page [exposure draft][1] of the Data Availability and Transparency (DAT) Bill and accompanying documents might not be super high on your list of things to do this weekend—that’s why we’re here.  
-The DAT bill is the next step in facilitating opening and sharing public sector data to “unlock the full potential of public sector data in Australia.” Because none of us can really opt out from public sector data processing and collection, the way government agencies treat our data and understand the notion of what we are—or aren’t—able to consent to is absolutely critical. Conflating data sets from agencies with wildly different mandates compounds the threat to individuals (if there is ever a breach) and muddles our understanding of what data is held where. The necessity and proportionality of the measures proposed in the draft seem out of whack to us to say the least. No, thank you.
+**The Data Availability and Transparency Bill**
+When it comes to things too long to read, the 104 page [exposure draft][1] of the Data Availability and Transparency (DAT) Bill and accompanying documents might not be super high on your list of things to do this weekend—that's why we're here.
+The DAT bill is the next step in facilitating opening and sharing public sector data to "unlock the full potential of public sector data in Australia." Because none of us can really opt out from public sector data processing and collection, the way government agencies treat our data and understand the notion of what we are—or aren't—able to consent to is absolutely critical. Conflating data sets from agencies with wildly different mandates compounds the threat to individuals (if there is ever a breach) and muddles our understanding of what data is held where. The necessity and proportionality of the measures proposed in the draft seem out of whack to us to say the least. No, thank you.
 
 The DAT Bill stands to drastically alter how government organisations share public sector data. We will be providing a submission to the National Data Commissioner and will share it on our website, stay tuned!
 
-**TikTok Troubles**  
-You may or may not have tuned into the saga that is TikTok. It’s the story that keeps on giving: data ethics, international politics, power-hungry politicians, data-hungry corporations, lip syncing and dance videos… what more could you want?
+**TikTok Troubles**
+You may or may not have tuned into the saga that is TikTok. It's the story that keeps on giving: data ethics, international politics, power-hungry politicians, data-hungry corporations, lip syncing and dance videos… what more could you want?
 
-Following controversy around the immense amounts of data that TikTok collects, and accusations that the parent company, ByteDance, share information with the Chinese Government and are able to manipulate and influence its users, Trump signed an executive order to ban TikTok from the US unless the American operations of the app gets sold to a US company. (For more on how this doesn’t solve the issue, check out [this op-ed][2] written by our Campaigner, Samantha Floreani, from earlier in the year).
+Following controversy around the immense amounts of data that TikTok collects, and accusations that the parent company, ByteDance, share information with the Chinese Government and are able to manipulate and influence its users, Trump signed an executive order to ban TikTok from the US unless the American operations of the app gets sold to a US company. (For more on how this doesn't solve the issue, check out [this op-ed][2] written by our Campaigner, Samantha Floreani, from earlier in the year).
 
 After a handful of companies threw their hats in the ring, Microsoft looked to be the most promising—until the Chinese Government issued new regulations so that any transfer of technology to a foreign buyer would require permission from the Chinese Government. Needless to say, they rejected Microsoft.
 
-In the end, Oracle, the relatively old-school database software company, has emerged as the “winner.” It remains unclear to what extent Oracle will take over TikTok operations or if they will gain access to the algorithm that made the app so popular in the first place. It also remains to be seen what this means for Australian users of TikTok and their data. What we do know is, all of this sets a precedent for how future internet platforms are built and owned, and who gets to control flows of information.  
-  
+In the end, Oracle, the relatively old-school database software company, has emerged as the "winner." It remains unclear to what extent Oracle will take over TikTok operations or if they will gain access to the algorithm that made the app so popular in the first place. It also remains to be seen what this means for Australian users of TikTok and their data. What we do know is, all of this sets a precedent for how future internet platforms are built and owned, and who gets to control flows of information.
+
 From our perspective, too much of this conversation has been around which tech giant (and which government) gets to consolidate more power, rather than grappling with the actual problems created by the underlying data-hungry, privacy-invasive models these platforms are run on.
 
 <div class="wp-block-image">
@@ -52,8 +52,8 @@ From our perspective, too much of this conversation has been around which tech g
 
   * As promised last month, we provided a [submission][3] to the ACCC regarding the proposed News Media and Digital Platforms Mandatory Bargaining Code, as well as an accompanying [blog post][4] as a quick explainer on our perspective, including some handy visuals on [our Instagram][5]!
   * DRW Campaigner, Samantha Floreani, joined ABC News on Monday 14th September to discuss the data ethics, politics and power-grab surrounding the bid to take over the US operations of TikTok.
-  * Our Chair, Lizzie O’Shea, wrote an opinion piece for Nikkei Asian Review about growing border industrial complex: [Big Tech and COVID-19 are fueling networked authoritarianism][6]. We particularly love this quote: “_We have a chance to respond collectively to these problems in a way that promotes human flourishing, rather than systems of technological control and racialised violence, and that values solidarity over surveillance_.” 
-  * In response to the release of ‘The Social Dilemma,’ DRW Programme Director, Lucie Krahulcova, has published a [blog post][7] that is well worth the read. If that’s a topic you’re after, you can watch the [recording][8] of last week’s Tech Talks with Lizzie O’Shea, Josh Taylor and Peter Lewis, who also dissect the Netflix documentary.
+  * Our Chair, Lizzie O'Shea, wrote an opinion piece for Nikkei Asian Review about growing border industrial complex: [Big Tech and COVID-19 are fueling networked authoritarianism][6]. We particularly love this quote: "_We have a chance to respond collectively to these problems in a way that promotes human flourishing, rather than systems of technological control and racialised violence, and that values solidarity over surveillance_."
+  * In response to the release of 'The Social Dilemma,' DRW Programme Director, Lucie Krahulcova, has published a [blog post][7] that is well worth the read. If that's a topic you're after, you can watch the [recording][8] of last week's Tech Talks with Lizzie O'Shea, Josh Taylor and Peter Lewis, who also dissect the Netflix documentary.
   * We officially launched our Digital Rights Cities campaign! See below for more details and how you can be involved!
 
 <div class="wp-block-image">
@@ -62,9 +62,9 @@ From our perspective, too much of this conversation has been around which tech g
 
 **Don&#8217;t miss out, mark these in your calendar!**
 
-  * Australia’s annual Internet Governance Conference, NetThing, is coming up next week over 1-2 October. There are two full days of discussions and workshops on issues all about the Internet! Be sure to register for your FREE ticket on the [NetThing website][9].
-  * Lizzie O’Shea will be talking on the first panel of day 1 at 9:30am (AEST) on, “the growing role of digital platforms in our economy—how are governments responding and how should they?”
-  * And a special shoutout to our Campaigner Samantha Floreani who organised and put together the final panel of day 1 dealing with censorship and expression. You can tune in at 3:45pm (AEST). Now, this is a line-up you won’t want to miss!
+  * Australia's annual Internet Governance Conference, NetThing, is coming up next week over 1-2 October. There are two full days of discussions and workshops on issues all about the Internet! Be sure to register for your FREE ticket on the [NetThing website][9].
+  * Lizzie O'Shea will be talking on the first panel of day 1 at 9:30am (AEST) on, "the growing role of digital platforms in our economy—how are governments responding and how should they?"
+  * And a special shoutout to our Campaigner Samantha Floreani who organised and put together the final panel of day 1 dealing with censorship and expression. You can tune in at 3:45pm (AEST). Now, this is a line-up you won't want to miss!
 
 <div class="wp-block-image">
   <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Netthing_inclusionpanel.png" alt="" class="wp-image-7299" width="484" height="242" srcset="/wp-content/uploads/2020/10/Netthing_inclusionpanel.png 1024w, /wp-content/uploads/2020/10/Netthing_inclusionpanel-300x150.png 300w, /wp-content/uploads/2020/10/Netthing_inclusionpanel-768x384.png 768w" sizes="(max-width: 484px) 100vw, 484px" /></figure>
@@ -78,15 +78,15 @@ From our perspective, too much of this conversation has been around which tech g
   <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/WEB_FB_BANNER_withtext_HIGHRES-02-1024x576.png" alt="" class="wp-image-7301" width="479" height="270" srcset="/wp-content/uploads/2020/10/WEB_FB_BANNER_withtext_HIGHRES-02-1024x576.png 1024w, /wp-content/uploads/2020/10/WEB_FB_BANNER_withtext_HIGHRES-02-300x169.png 300w, /wp-content/uploads/2020/10/WEB_FB_BANNER_withtext_HIGHRES-02-768x432.png 768w, /wp-content/uploads/2020/10/WEB_FB_BANNER_withtext_HIGHRES-02-1536x864.png 1536w, /wp-content/uploads/2020/10/WEB_FB_BANNER_withtext_HIGHRES-02-2048x1152.png 2048w" sizes="(max-width: 479px) 100vw, 479px" /></figure>
 </div>
 
-**A smart city that protects, promotes and monitors residents’ and visitors’ rights begins with your local government.**
+**A smart city that protects, promotes and monitors residents' and visitors' rights begins with your local government.**
 
-We believe that local councils have a huge opportunity to play a fundamental role in how our rights are upheld on a community level. That’s why we’re calling on Australian councils to embed human rights into their digital initiatives.
+We believe that local councils have a huge opportunity to play a fundamental role in how our rights are upheld on a community level. That's why we're calling on Australian councils to embed human rights into their digital initiatives.
 
-We’re using the United Nations Cities for Digital Rights framework to encourage and assist local governments ensure that their cities are truly smart. But to do it, we need your help to let them know it’s something you care about!
+We're using the United Nations Cities for Digital Rights framework to encourage and assist local governments ensure that their cities are truly smart. But to do it, we need your help to let them know it's something you care about!
 
-The fight for digital rights doesn’t have to be a gargantuan task. We think some of the most important changes can, and should, happen locally, in our communities.
+The fight for digital rights doesn't have to be a gargantuan task. We think some of the most important changes can, and should, happen locally, in our communities.
 
-[**Head to our campaign page and we’ll help you get in touch with your local council!**][10]
+[**Head to our campaign page and we'll help you get in touch with your local council!**][10]
 
 <div class="wp-block-image">
   <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-02-1024x171.png" alt="" class="wp-image-7302" width="579" height="96" srcset="/wp-content/uploads/2020/10/Email_headers_highres-02-1024x171.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-02-300x50.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-02-768x128.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-02-1536x256.png 1536w, /wp-content/uploads/2020/10/Email_headers_highres-02-2048x342.png 2048w" sizes="(max-width: 579px) 100vw, 579px" /></figure>
@@ -94,9 +94,9 @@ The fight for digital rights doesn’t have to be a gargantuan task. We think so
 
 This week the OAIC released the findings of its [2020 Australian Community Attitudes to Privacy Survey][11]. The survey has been running for 30 years, and captures an interesting snapshot into the attitudes and habits of Austalians regarding privacy. Take a peek!
 
-Finally, if you’ve recently watched the Netflix documentary, The Social Dilemma, and are feeling outraged by the issues it raised— we hear you. If you’re thinking about removing yourself from social media, we get it, here’s an article on [what to do before you break up with Facebook][12]. If you’re not ready to leave social media just yet that’s totally fine too (tbh, we don’t think that disconnecting from social networks will solve the bigger, underlying issues). There are many ways you can make a difference and take action! For example, by actively supporting Digital Rights Watch (through [making a donation][13], following us [on Twitter][14], sharing our posts, and participating in [our campaigns][15]), you help us continue to push for real, systemic change.  
-Well, that&#8217;s a wrap for September,  
-  
+Finally, if you've recently watched the Netflix documentary, The Social Dilemma, and are feeling outraged by the issues it raised— we hear you. If you're thinking about removing yourself from social media, we get it, here's an article on [what to do before you break up with Facebook][12]. If you're not ready to leave social media just yet that's totally fine too (tbh, we don't think that disconnecting from social networks will solve the bigger, underlying issues). There are many ways you can make a difference and take action! For example, by actively supporting Digital Rights Watch (through [making a donation][13], following us [on Twitter][14], sharing our posts, and participating in [our campaigns][15]), you help us continue to push for real, systemic change.
+Well, that&#8217;s a wrap for September,
+
 Sam, Lucie and your whole DRW team.
 
  [1]: https://u1584542.ct.sendgrid.net/ss/c/atcYNHk4Eh2YdGnwBh-YDA2XqZ4BvKfwqMjhJ3bRLIppcYPJx_bns_axIHLV2hZHCg2HKGacmdLRmLClMiF9o4MLS-3l-_v-w1OO3Z8f-V9S3P8dawS_iO5Pvd_k9zc3eaYJKHRdfPYcMmkUKCBFaVnqppMA5v0ZnB5HhZZmjGBaHC2IbmwwEGJS8Th3xQMLQitx-Jo_ScwNBoQfQ_zGzB4I-ikq4cM32K1uYBfotHRforme0yGxFr6kiowztBrX2TemWtENJypudffxF2XC8FNKLYaSQ1aLzVpGgJrFNns/35h/THqqqrIgRbaFcZmRTaKWsQ/h0/OcJ0WXyBBQKIP4-OCNpnwLAvatAlWQ7E9MGvup9FRuA

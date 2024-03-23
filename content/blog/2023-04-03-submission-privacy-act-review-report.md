@@ -25,9 +25,9 @@ tags:
   - privacy reform
 
 ---
-After over two years of consultation and review of the Privacy Act, the Attorney General’s Department <a href="https://click.actionnetwork.org/ss/c/atcYNHk4Eh2YdGnwBh-YDPUdjIpgwFTofeA8KSTYjU7p858XPVLT6NUSetMX8nXKsFzj3GnYQHPX17Lbhtc6TCO1lpBRRU1YuMXscjGpm98xd7P6dNz36lGlNCrSDB01dyHXYBFKNl3e1Qj1epPcrFMpJISWobp2xr8qez_sZDk42DRassQq4KLOQRiaecj8T5ZakP_WO6_ZYsY833AP7koWV-JngzbBXGfI8-KYkibC41lVf-I8kEzEZS8QnlURT6C_uafAu4kEyAKs7dKLFlF0HGRmqAF2A_vCWpUVMPyzluaTE4uNTrejWib2bzO-Ng2VNmMP9L5P76E8UQjjszJF88UJm58J7dHqFmCpOGmqMAgSJPrvsELiZNLzRLSuMpkHR6VXwcSx5RdqFtYxyw/3ua/ZHV1JrTTT22pIvKCwB5Z9A/h1/HoXUfkSgZB4evd2kgWm3QDYWItpF34g_pWzXmMoOuqo" target="_blank" rel="noreferrer noopener">released the final report</a> in February 2023 and sought public feedback to shape the final direction of the Privacy Act review.
+After over two years of consultation and review of the Privacy Act, the Attorney General's Department <a href="https://click.actionnetwork.org/ss/c/atcYNHk4Eh2YdGnwBh-YDPUdjIpgwFTofeA8KSTYjU7p858XPVLT6NUSetMX8nXKsFzj3GnYQHPX17Lbhtc6TCO1lpBRRU1YuMXscjGpm98xd7P6dNz36lGlNCrSDB01dyHXYBFKNl3e1Qj1epPcrFMpJISWobp2xr8qez_sZDk42DRassQq4KLOQRiaecj8T5ZakP_WO6_ZYsY833AP7koWV-JngzbBXGfI8-KYkibC41lVf-I8kEzEZS8QnlURT6C_uafAu4kEyAKs7dKLFlF0HGRmqAF2A_vCWpUVMPyzluaTE4uNTrejWib2bzO-Ng2VNmMP9L5P76E8UQjjszJF88UJm58J7dHqFmCpOGmqMAgSJPrvsELiZNLzRLSuMpkHR6VXwcSx5RdqFtYxyw/3ua/ZHV1JrTTT22pIvKCwB5Z9A/h1/HoXUfkSgZB4evd2kgWm3QDYWItpF34g_pWzXmMoOuqo" target="_blank" rel="noreferrer noopener">released the final report</a> in February 2023 and sought public feedback to shape the final direction of the Privacy Act review.
 
-This follows two previous rounds of consultation on an Issues Paper and a Discussion paper. We anticipate that the next phase of reform will be legislation. 
+This follows two previous rounds of consultation on an Issues Paper and a Discussion paper. We anticipate that the next phase of reform will be legislation.
 
 You can read our submission below, or <span style="text-decoration: underline;"><a href="/wp-content/uploads/2023/04/Submission_-Privacy-Act-Review-Report-March-2023.pdf" target="_blank" rel="noreferrer noopener">download a PDF here</a></span>.
 

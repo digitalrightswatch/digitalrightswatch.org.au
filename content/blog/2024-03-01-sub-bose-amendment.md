@@ -28,7 +28,7 @@ tags:
   - reccomender systems
 
 ---
-The BOSE outline the Australian Government&#8217;s expectations that apps, websites, social media and other services will take reasonable steps to keep Australians safe. <a href="https://www.esafety.gov.au/industry/basic-online-safety-expectations" target="_blank" rel="noreferrer noopener">Read more about the BOSE on the eSafety website here.</a> 
+The BOSE outline the Australian Government&#8217;s expectations that apps, websites, social media and other services will take reasonable steps to keep Australians safe. <a href="https://www.esafety.gov.au/industry/basic-online-safety-expectations" target="_blank" rel="noreferrer noopener">Read more about the BOSE on the eSafety website here.</a>
 
 In late 2023 the Department of Infrastructure, Transport, Regional Development, Communications and the Arts announced they would be amending the Basic Online Safety Expectations (BOSE) Determination. A range of changes to the original BOSE have been proposed, including expectations related to generative AI and recommender systems. Digital Rights Watch provided feedback which you can read below, or <a href="/wp-content/uploads/2024/03/DRW-Submission-BOSE-Amendment-February-2024.pdf" target="_blank" rel="noreferrer noopener">download a PDF here</a>.
 

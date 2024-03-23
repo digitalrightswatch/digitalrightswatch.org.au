@@ -25,7 +25,7 @@ tags:
   - digital identity; privacy; biometrics
 
 ---
-In October 2023 the Digital ID Taskforce (in the Department of Finance) closed a <span style="text-decoration: underline;"><a href="https://www.finance.gov.au/about-us/news/2023/digital-identity-bill-2023-consultation" target="_blank" rel="noreferrer noopener">public consultation on the exposure draft</a></span> of a proposed **_Digital ID Bill 2023._** This follows their previous consultation on a 2021 exposure draft of the Trusted Digital Identity Framework (<span style="text-decoration: underline;"><a href="https://digitalrightswatch.org.au/2021/10/28/submission-digital-identity-exposure-draft/" target="_blank" rel="noreferrer noopener">see our submission for that consultation here</a></span>). 
+In October 2023 the Digital ID Taskforce (in the Department of Finance) closed a <span style="text-decoration: underline;"><a href="https://www.finance.gov.au/about-us/news/2023/digital-identity-bill-2023-consultation" target="_blank" rel="noreferrer noopener">public consultation on the exposure draft</a></span> of a proposed **_Digital ID Bill 2023._** This follows their previous consultation on a 2021 exposure draft of the Trusted Digital Identity Framework (<span style="text-decoration: underline;"><a href="https://digitalrightswatch.org.au/2021/10/28/submission-digital-identity-exposure-draft/" target="_blank" rel="noreferrer noopener">see our submission for that consultation here</a></span>).
 
 Following the Optus and Medibank breaches, the idea of a digital identity that enables government bodies and companies to verify people&#8217;s identity without each company collecting and holding identity documents has become more popular. Still, it&#8217;s not without its privacy and security concerns, and as always, the devil will be in the detail (and implementation).
 
@@ -39,7 +39,7 @@ The Digital ID system must:
   * take a decentralised approach;
   * be genuinely voluntary, with practical non-digital alternatives available;
   * prioritise accessibility, interoperability and inclusivity;
-  * work for First Nations people and non-Eurocentric models of a person’s identity;
+  * work for First Nations people and non-Eurocentric models of a person's identity;
   * provide actionable pathways for redress where harm or misuse occurs;
   * include meaningful accountability, oversight, audit and review mechanisms.
 

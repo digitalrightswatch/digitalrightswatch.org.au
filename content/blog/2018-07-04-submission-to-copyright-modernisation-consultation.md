@@ -11,7 +11,7 @@ categories:
 ---
 The Department of Communication and the Arts undertook [a consultation into copyright modernisation][1], and Digital Rights Watch provided a submission to this process.
 
-We believe that meaningful modernisation of Australian copyright laws requires new, and overdue, exceptions to copyright infringement for ‘fair use’ and use of orphan works. These exceptions must be robust and certain. They should not be susceptible to ‘contracting out’.
+We believe that meaningful modernisation of Australian copyright laws requires new, and overdue, exceptions to copyright infringement for 'fair use' and use of orphan works. These exceptions must be robust and certain. They should not be susceptible to 'contracting out'.
 
 Our key points:
 

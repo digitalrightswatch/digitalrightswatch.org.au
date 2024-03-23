@@ -28,6 +28,6 @@ Our 2020 Annual Report below documents the work of Digital Rights Watch for the 
 <div class="wp-block-embed__wrapper">
   <div data-url="https://issuu.com/digitalrightswatch/docs/annual_report_2020" style="width: 500px; height: 354px;" class="issuuembed">
   </div>
-</div></figure> 
+</div></figure>
 
 Click here to download the PDF.

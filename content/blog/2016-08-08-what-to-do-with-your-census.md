@@ -21,9 +21,9 @@ Obviously that&#8217;s a big concern to a lot of people. The Australian Privacy 
 
 This is a complex area. Some organisations advocate for a boycott of the census on the grounds of privacy concerns, but we recognise the immense social value of the insights and robust analysis provided through our national census. This puts us all in a difficult situation, where individuals are forced to accept invasions of privacy in return for a broader social benefit &#8211; an equation that is very unsatisfying.
 
-[We&#8217;ve written a piece in the Sydney Morning Herald today,][1] outlining our thoughts on the privacy concerns raised by these changes. We&#8217;re calling on people to complete the census, but make their concerns heard loud and clear to policy makers in Canberra. We are most disappointed that the ABS has refused to take these concerns seriously, but are optimistic that, with your help, this might change.
+[We&#8217;ve written a piece in the Sydney Morning Herald today,][1] outlining our thoughts on the privacy concerns raised by these changes. We&#8217;re calling on people to complete the census, but make their concerns heard loud and clear to policy makers in Canberra. We are most disappointed that the ABS has refused to take these concerns seriously, but are optimistic that, with your help, this might change.
 
-We&#8217;ve made it easier for you to [**write to the head of the ABS David Kalisch, expressing your privacy concerns.**][2]
+We&#8217;ve made it easier for you to [**write to the head of the ABS David Kalisch, expressing your privacy concerns.**][2]
 
 If you&#8217;re after more information, there are a number of excellent resources that you should read:
 

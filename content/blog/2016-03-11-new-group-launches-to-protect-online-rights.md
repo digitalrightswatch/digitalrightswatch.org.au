@@ -15,21 +15,21 @@ With the backing of human and consumer rights organizations including CHOICE, Th
 
 Digital Rights Watch Chair Tim Singleton Norton said the organization is committed to ensuring a free and open Internet as the cornerstone of a modern approach to human rights.
 
-“The federal government is pursuing a number of schemes that will grossly infringe Australians’ human rights while they are using digital technology.
+"The federal government is pursuing a number of schemes that will grossly infringe Australians' human rights while they are using digital technology.
 
-“The mandatory data retention scheme and mass surveillance operations such as the plan for a national facial biometric data capability have massive consequences for the privacy of ordinary people.
+"The mandatory data retention scheme and mass surveillance operations such as the plan for a national facial biometric data capability have massive consequences for the privacy of ordinary people.
 
-“Australian’s human rights to privacy are being compromised by widespread warrantless surveillance without adequate safeguards.
+"Australian's human rights to privacy are being compromised by widespread warrantless surveillance without adequate safeguards.
 
-“Digital Rights Watch has formed because Australians need a strong advocate for their rights when they are online.
+"Digital Rights Watch has formed because Australians need a strong advocate for their rights when they are online.
 
-“We stand for privacy, democracy, fairness and freedom in a digital age, ” said Mr Singleton Norton.
+"We stand for privacy, democracy, fairness and freedom in a digital age, " said Mr Singleton Norton.
 
 The first actions of Digital Rights Watch will be the roll out of a fortnightly policy briefing for the community on key issues that impact on their rights.
 
-“Everyone who uses a telephone, has an email address, a Twitter account or any interaction with the Internet should know how their information is used and stored and be protected from abuse. Digital rights are important to everyone,” concluded Mr Singleton Norton.
+"Everyone who uses a telephone, has an email address, a Twitter account or any interaction with the Internet should know how their information is used and stored and be protected from abuse. Digital rights are important to everyone," concluded Mr Singleton Norton.
 
-For further information or interviews call Erin Farley on 0404 864 593
+For further information or interviews call Erin Farley on 0404 864 593
 
 &#8212;
 

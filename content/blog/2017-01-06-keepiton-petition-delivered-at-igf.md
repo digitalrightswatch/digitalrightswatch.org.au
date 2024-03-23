@@ -13,10 +13,10 @@ tags:
 ---
 Today, our friends at Access Now successfully delivered [the #KeepitOn petition][1] today at the Internet Governance Forum in Guadalajara, Mexico.
 
-They presented remarks at a session of the Freedom Online Coalition (a coalition of 30 governments supporting human rights in the digital age), and then delivered the 1,006-page petition to government officials, which reads:  
-**&#8220;To the world’s governments, I urge you to publicly commit to keep the internet on. Internet shutdowns harm human rights and the economy.&#8221;**
+They presented remarks at a session of the Freedom Online Coalition (a coalition of 30 governments supporting human rights in the digital age), and then delivered the 1,006-page petition to government officials, which reads:
+**&#8220;To the world's governments, I urge you to publicly commit to keep the internet on. Internet shutdowns harm human rights and the economy.&#8221;**
 
-Thanks to everyone who signed the petition and to those who are fighting against shutdowns everyday.  
+Thanks to everyone who signed the petition and to those who are fighting against shutdowns everyday.
 #KeepitOn.
 
  [1]: https://www.accessnow.org/keepiton
