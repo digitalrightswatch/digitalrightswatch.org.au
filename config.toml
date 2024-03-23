@@ -1,4 +1,73 @@
-baseURL = 'https://digitalrightswatch.org.au/'
-languageCode = 'en-us'
-title = 'Digital Rights Watch'
+# MAIN base
+baseURL = "/"
+languageCode = "en-us"
+title = "Digital Rights Watch"
 theme = "apsho"
+
+[taxonomies]
+  category = 'category'
+
+# Navigation Bar
+[[menu.main]]
+    name = "Home"
+    url = "#hero"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "#feature"
+    weight = 2
+[[menu.main]]
+    name = "Services"
+    url = "#faq"
+    weight = 3
+[[menu.main]]
+    name = "Blog"
+    url = "#blog"
+    weight = 4
+
+# Footer Sitemap
+[[menu.sitemap]]
+    name = "Home"
+    url = "#"
+    weight = 1
+[[menu.sitemap]]
+    name = "Latest Article"
+    url = "/blog"
+    weight = 2
+[[menu.sitemap]]
+    name = "Privacy & Policy"
+    url = "/privacy"
+    weight = 3
+[[menu.sitemap]]
+    name = "Contact"
+    url = "/contact"
+    weight = 4
+
+# Footer Address
+[params.address]
+address = "23 Khan Niketon, Grand Street, NYK."
+email = "apsho@example.com"
+phone = "+(448) 833 5272 332"
+
+# Footer Social
+[params.social]
+facebook = "https://www.facebook.com/DigiRightsWatch"
+instagram = "https://www.instagram.com/drwaus"
+twitter = "https://twitter.com/drwaus"
+github = "https://github.com/digitalrightswatch"
+mastodon = "https://aus.social/@drwaus"
+
+[params]
+
+# Header
+logo = "/wp-content/uploads/2019/07/DRWLogo_black_w_yellow-300x123.png"
+fabFormURL = "https://fabform.io/f/zWMBVeW"
+googleAnalytics = "UA-175025671-2"
+
+# Footer
+footerTitle = "Get the latest app updates"
+copyright1 = "All right reserved"
+copyright2 = "Copyright ©  <a href=\"https://staticmania.com/\" target=\"_blank\">StaticMania </a> {year}"
+
+#contact
+email = "help@staticmania.com"
