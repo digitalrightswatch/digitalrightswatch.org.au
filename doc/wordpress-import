@@ -24,7 +24,17 @@ mv content/privacy-policy-2.md content/privacy-policy.md
 # Delete remaining (empty) dirs from export
 find hugo-export -empty -delete
 # Use correct variable name for hero/feature imager
-find content/ -name '*.md' -exec sed -i 's/featured_image/featureImage/' {} +
+# Remove literal non-breaking spaces
+# Remove wp line-based css classes
+# Fix broken absolute links
+# Remove explicit type declaration in blog posts
+find content/ -type f -name '*.md' -exec sed -i \
+    -e 's/featured_image/featureImage/' \
+    -e 's/\&nbsp;//g' \
+    -e 's/ {[^}]*}//' \
+    -e 's/http:\/\/localhost\//\//g' \
+    -e '/^type: post/d' \
+    {} +
 # Add an author thumbnail for Samantha
 sed -i '/^author: Samantha$/a authorThumb: /wp-content\/uploads\/2019\/08\/SamFloreani-150x150.png' content/*/*
 # Set site URL and title
@@ -33,9 +43,6 @@ sed -i \
     -e 's/\(^title = \).*/\1"Digital Rights Watch"/' \
     -e 's/\(^logo = \).*/\1"\/wp-content\/uploads\/2019\/07\/DRWLogo_black_w_yellow-300x123.png"/' \
     config.toml
-
-# Fix broken absolute links
-sed -i 's/http:\/\/localhost\//\//g' content/*/*
 
 # Compress PNG images
 #for f in static/wp-content/uploads/*/*/*.png; do pngcrush "$f" && mv pngout.png "$f"; done

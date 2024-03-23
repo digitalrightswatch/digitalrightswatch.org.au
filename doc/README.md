@@ -16,3 +16,20 @@ The previous version of the website was a WordPress site. Here's how we got here
 ## The CMS
 
 This website can be managed using [Decap CMS](https://decapcms.org/). Browsing to https://digitalrightswatch.org.au/admin accesses the CMS, and you can log in using your GitHub credentials, assuming you have access to the GitHub repository for this site.
+
+## MVP
+
+- Home page
+- Store files in Fastmail file storage for now
+- Blog
+    - make sure Sam knows how to get in and use the CMS
+- Links to donation/campaign pages
+- Ensure not to break active links
+
+
+```
+tailscale funnel --set-path=/decap --bg 8081; sudo tailscale funnel --bg 8000
+tailscale funnel --https=443 off
+python -m http.server -d public/
+npx decap-server
+```
