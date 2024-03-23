@@ -1,0 +1,20 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+# title: You can benefit more than you think
+services:
+  - icon: ti-lock
+    title: Privacy & Security
+    description: We believe in the fundamental right to privacy for all.
+
+  - icon: ti-files
+    title: Personal Information & Data Rights
+    description: We believe governments, corporations and organisations should uphold basic privacy rights.
+
+  - icon: ti-signal
+    title: Power, Access & Technology
+    description: We advocate for increased transparency, accountability and oversight over the use of data.
+
+  - icon: ti-write
+    title: Journalism & Information Flows
+    description: We believe in the value of strong, effective & accountable journalism.
