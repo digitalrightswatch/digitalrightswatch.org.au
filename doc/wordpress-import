@@ -60,3 +60,7 @@ hugo
 # Remove example blog posts and pages
 for f in themes/apsho/exampleSite/content/blog/[^_]*; do rm content/blog/"${f##*/}"; done
 rm content/privacy.md content/contact/_index.md
+
+
+# Use offsite images instead of storing in Git
+#find content/ -type f -name '*.md' -exec sed -i 's|/wp-content/|https://static.digitalrightswatch.org.au/wp-content/|g' {} +
