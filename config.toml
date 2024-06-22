@@ -4,6 +4,9 @@ languageCode = "en-us"
 title = "Digital Rights Watch"
 theme = "apsho"
 
+[permalinks]
+  posts = '/:year/:month/:day/:title/'
+
 [taxonomies]
   category = 'category'
 
