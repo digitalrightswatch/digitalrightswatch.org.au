@@ -1,8 +1,8 @@
 ---
 draft: false
-title: test post ✨
+title: test post
 date: 2024-06-22T07:32:57.159Z
-summary: this is a test post summary
+summary: this is a test post summary ✨
 description: this is a test post blurb
 author: test
 ---
