@@ -5,7 +5,7 @@ title = "Digital Rights Watch"
 theme = "apsho"
 
 [permalinks]
-  posts = '/:year/:month/:day/:title/'
+  blog = '/:year/:month/:day/:title/'
 
 [taxonomies]
   category = 'category'
