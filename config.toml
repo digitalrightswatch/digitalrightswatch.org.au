@@ -46,6 +46,9 @@ theme = "apsho"
     url = "/contact"
     weight = 4
 
+[markup.goldmark.renderer]
+    unsafe = true
+
 # Footer Address
 [params.address]
 address = "23 Khan Niketon, Grand Street, NYK."
