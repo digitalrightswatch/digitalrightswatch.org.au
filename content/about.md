@@ -5,74 +5,81 @@ type: page
 date: 2017-07-07T08:35:19+00:00
 x_demo_content:
   - tco.nonprofit|a736af07af2c48ecaaa5ec5d90126fd5
+---
+## Our People
 
 ---
-\[cs\_content\]\[cs\_element\_section \_id=&#8221;1&#8243; \]\[cs\_element\_layout\_row \_id=&#8221;2&#8243; \]\[cs\_element\_layout\_column \_id=&#8221;3&#8243; \]\[cs\_element\_headline \_id=&#8221;4&#8243; \]\[/cs\_element\_layout\_column\]\[cs\_element\_layout\_column \_id=&#8221;5&#8243; \]\[cs\_element\_headline \_id=&#8221;6&#8243; \]\[/cs\_element\_layout\_column\]\[/cs\_element\_layout\_row\]\[/cs\_element\_section\]\[cs\_element\_section \_id=&#8221;7&#8243; \]\[cs\_element\_layout\_row \_id=&#8221;8&#8243; \]\[cs\_element\_layout\_column \_id=&#8221;9&#8243; \]\[cs\_element\_headline \_id=&#8221;10&#8243; \]\[/cs\_element\_layout\_column\]\[cs\_element\_layout\_column \_id=&#8221;11&#8243; \]\[cs\_element\_line \_id=&#8221;12&#8243; \]\[cs\_element\_text \_id=&#8221;13&#8243; \]\[/cs\_element\_layout\_column\]\[/cs\_element\_layout\_row\]\[/cs\_element\_section\]\[cs\_element\_section \_id=&#8221;14&#8243; \]\[cs\_element\_layout\_row \_id=&#8221;15&#8243; \]\[cs\_element\_layout\_column \_id=&#8221;16&#8243; \]\[cs\_element\_global\_block \_id=&#8221;17&#8243; \]\[/cs\_element\_layout\_column\]\[/cs\_element\_layout\_row\]\[/cs\_element\_section\]\[cs\_element\_section \_id=&#8221;18&#8243; \]\[cs\_element\_layout\_row \_id=&#8221;19&#8243; \]\[cs\_element\_layout\_column \_id=&#8221;20&#8243; \]\[cs\_element\_headline \_id=&#8221;21&#8243; \]\[/cs\_element\_layout\_column\]\[cs\_element\_layout\_column \_id=&#8221;22&#8243; \]\[cs\_element\_accordion \_id=&#8221;23&#8243; \]\[cs\_element\_accordion\_item \_id=&#8221;24&#8243; \]\[cs\_element\_accordion\_item \_id=&#8221;25&#8243; \]\[cs\_element\_accordion\_item \_id=&#8221;26&#8243; \]\[cs\_element\_accordion\_item \_id=&#8221;27&#8243; \]\[cs\_element\_accordion\_item \_id=&#8221;28&#8243; \]\[cs\_element\_accordion\_item \_id=&#8221;29&#8243; \]\[/cs\_element\_accordion\]\[/cs\_element\_layout\_column\]\[/cs\_element\_layout\_row\]\[/cs\_element\_section\]\[cs\_element\_section \_id=&#8221;30&#8243; \]\[cs\_element\_layout\_row \_id=&#8221;31&#8243; \]\[cs\_element\_layout\_column \_id=&#8221;32&#8243; \]\[cs\_element\_image \_id=&#8221;33&#8243; \]\[cs\_element\_button \_id=&#8221;34&#8243; \]\[/cs\_element\_layout\_column\]\[cs\_element\_layout\_column \_id=&#8221;35&#8243; \]\[cs\_element\_image \_id=&#8221;36&#8243; \]\[cs\_element\_button \_id=&#8221;37&#8243; \]\[/cs\_element\_layout\_column\]\[/cs\_element\_layout\_row\]\[/cs\_element\_section\]\[cs\_element\_section \_id=&#8221;38&#8243; \]\[cs\_element\_layout\_row \_id=&#8221;39&#8243; \]\[cs\_element\_layout\_column \_id=&#8221;40&#8243; \]\[cs\_element\_headline \_id=&#8221;41&#8243; \]\[/cs\_element\_layout\_column\]\[cs\_element\_layout\_column \_id=&#8221;42&#8243; \]\[cs\_element\_button \_id=&#8221;43&#8243; \]\[/cs\_element\_layout\_column\]\[/cs\_element\_layout\_row\]\[/cs\_element\_section\]\[cs\_element\_section \_id=&#8221;44&#8243; \]\[cs\_element\_layout\_row \_id=&#8221;45&#8243; \]\[cs\_element\_layout\_column \_id=&#8221;46&#8243; \]\[cs\_element\_text \_id=&#8221;47&#8243; \]\[cs\_element\_gap \_id=&#8221;48&#8243; \]\[cs\_element\_image \_id=&#8221;49&#8243; \]\[/cs\_element\_layout\_column\]\[/cs\_element\_layout\_row\]\[/cs\_element\_section\]\[cs\_responsive\_text selector=&#8221;.h-responsive .x-text-content-text-primary&#8221; compression=&#8221;1.25&#8243; min\_size=&#8221;36px&#8221; max\_size=&#8221;56px&#8221; type=&#8221;classic:responsive-text&#8221; istrusted=&#8221;1&#8243;\]\[cs\_responsive\_text selector=&#8221;.h-responsive-2 .x-text-content-text-primary&#8221; compression=&#8221;0.575&#8243; min\_size=&#8221;36px&#8221; max\_size=&#8221;56px&#8221; type=&#8221;classic:responsive-text&#8221; istrusted=&#8221;1&#8243;\]\[/cs\_content\][cs\_content\_seo]Video source missing
 
-Human Rights Champions
+We have a small, dedicated group of individuals who work hard in the fight for digital rights. They come from a range of fields: politics, technology, academia, legal and media, lending their expertise to our advocacy, campaigns and research.
 
-Digital Rights Watch strategically defends digital rights in Australia.
+## Our Board
 
-Our Vision
+Lizzie O'Shea
 
-Our vision is for a digital world where all humanity can thrive, and where diversity and creativity flourishes.
+Chair
 
-To ensure this, our digital world must be underpinned by equality, freedom and established human rights principles. Its evolution and future must be guided and driven by the interests of all people and the environments we live in.
+[Lizzie is a human rights lawyer](https://digitalrightswatch.org.au/2020/03/09/an-introduction-from-drws-new-chairperson/) specialising in public interest litigation. Lizzie has local and international experience in a wide array of court jurisdictions, and is passionate about equality before the law and that the rule of law should be protected, particularly given the incursions on civil liberties that have become a staple part of the war on terror. In 2019, Lizzie received the Human Rights Hero Award for her work campaigning against Australia's encryption laws.
 
-Digital Rights Watch exists to defend and promote this vision – to ensure fairness, freedoms and fundamental rights for all people who engage in the digital world.
+[![](https://digitalrightswatch.org.au/wp-content/plugins/team-members/inc/img/links/twitter.png)](https://twitter.com/Lizzie_OShea)[![](https://digitalrightswatch.org.au/wp-content/plugins/team-members/inc/img/links/website.png)](https://lizzieoshea.com/)
 
-Our mission is to ensure that Australians are equipped, empowered and enabled to uphold their digital rights. We believe that digital rights are human rights which see their expression online.
+Tom Sulston
 
-Privacy & Security
+Deputy Chair
 
-We believe in the fundamental right to privacy for all.
+Tom is a software delivery consultant for Thoughtworks Australia, working on continuous delivery, devops culture, and the psychology of failure. He also helps people secure their systems and data from unethical and illegal snooping.
 
-Personal Information & Data Rights
+[![](https://digitalrightswatch.org.au/wp-content/plugins/team-members/inc/img/links/twitter.png)](https://twitter.com/tomsulston)
 
-We believe governments, corporations and organisations should uphold basic privacy rights.
+Lilly Ryan
 
-Power, Access & Technology
+Treasurer
 
-We advocate for increased transparency, accountability and oversight over the use of data.
+Lilly is a digital security consultant and public speaker. She specialises in web application security, privacy education, and the history of technology-related issues, bringing these topics to an international audience. Lilly believes in the power of consumer and tech worker action to help the technology industry better serve the people it affects.
 
-Journalism & Information Flows
+[![](https://digitalrightswatch.org.au/wp-content/plugins/team-members/inc/img/links/twitter.png)](https://twitter.com/attacus_au)[![](https://digitalrightswatch.org.au/wp-content/plugins/team-members/inc/img/links/website.png)](https://www.attacus.net/)
 
-We believe in the value of strong, effective & accountable journalism.
+Piotr Debowski
 
-Our guiding principles
+Secretary
 
-Accountable
+Piotr is a privacy specialist and advocate who is particularly passionate about helping individuals exercise their privacy rights and receive meaningful remedies. Piotr draws on his experience having worked across a number of industries – including at a privacy regulator, as a Privacy Officer, and as a consultant – and legislation - including Victoria, Australia, and the European Union.
 
-We are trustworthy, honest and have integrity. Our funding sources will be public domain and we will be transparent on how our financial expenditure and work contributes to our purpose.
+Mark Andrejevic
 
-Solidarity
+Board member
 
-Our work will be driven by the interests of the public, and we will work in partnership with civil society and grassroots initiatives that share our vision.
+Mark is a Professor with the School of Media, Film, and Journalism at Monash University, and contributes expertise in the social and cultural implications of data mining, and online monitoring.
 
-Collaboration
+[![](https://digitalrightswatch.org.au/wp-content/plugins/team-members/inc/img/links/twitter.png)](https://twitter.com/MarkAndrejevic)
 
-We recognise there are other organisations working in the space of defending and promoting digital rights, and we will strive to work in partnership, in a non-competitive way with others.
+Lucie Krahulcova
 
-Lean approach
+Board member
 
-We are committed to implementing projects and activities in an efficient and cost-effective way, and incorporating lessons learned to improve our impact.
+Lucie is a professional activist and digital rights advocate. She specialises in surveillance, law enforcement powers in the digital era, export controls, encryption, data retention and telecoms regulation. Lucie previously worked in Ottawa and Brussels, and spent five years at the digital rights NGO Access Now, bringing an international dimension to our team.
 
-Innovation
+[![](https://digitalrightswatch.org.au/wp-content/plugins/team-members/inc/img/links/twitter.png)](https://twitter.com/nomadiclucie)
 
-We will aim to push boundaries and use tactics and strategies that are 'outside-the-box'. We will work with artists and the creative community to help drive positive change.
+Caitlin McGrane
 
-Global to local
+Board Member
 
-We recognise that the digital world is borderless and we will work with allies from around the world to contribute to a global digital rights movement and maximise the local impact of our work.
+Caitlin McGrane is a Postdoctoral Research Fellow at RMIT University. Her research expertise is in gender, identity and technology in everyday life. She has also led innovative research projects addressing gendered online harassment of women and gender diverse people in the public eye.
 
-Donate to our work
+## Our Staff
 
-Find out more
+Samantha Floreani
 
-Get in touch with us.
+Head of Policy
 
-Contact Us
+Sam is a dedicated digital rights activist, privacy advocate and writer who regularly contributes to public debate on technology, power and human rights. She is currently undertaking a PhD at Monash University, researching the impact of emerging technologies on housing justice in Australia.
 
-Digital Rights Watch acknowledges the traditional owners of country throughout Australia and their continuing connection to land and community. We acknowledge the Aboriginal and Torres Strait Islander People as the true custodians of this land that was never ceded and pay our respects to their cultures, and to elders past, present and emerging.
-Unless otherwise noted, all content on this website and otherwise produced by Digital Rights Watch is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
-Digital Rights Watch Inc. is an incorporated association in Victoria and operates nationally as a registered charity. ABN 90 509 129 914<img loading="lazy" decoding="async" alt="Image" src="http://localhost:9210/wp-content/uploads/2020/02/vision-icon-1.png" width="120" height="120" /><img loading="lazy" decoding="async" alt="Image" src="/wp-content/uploads/2020/02/vision-icon-2.png" width="120" height="120" /><img loading="lazy" decoding="async" alt="Image" src="/wp-content/uploads/2020/02/vision-icon-3.png" width="120" height="120" /><img loading="lazy" decoding="async" alt="Image" src="/wp-content/uploads/2020/02/vision-icon-4.png" width="120" height="120" /><img loading="lazy" decoding="async" alt="Image" src="/wp-content/uploads/2020/02/new-level-1.png" width="200" height="200" /><img loading="lazy" decoding="async" alt="Image" src="/wp-content/uploads/2020/02/stats-2.png" width="100" height="100" /><img loading="lazy" decoding="async" alt="Image" src="/wp-content/uploads/2016/02/ACNC-Registered-Charity-Tick.jpg" width="179" height="169" />[/cs\_content\_seo]
+[![](https://digitalrightswatch.org.au/wp-content/plugins/team-members/inc/img/links/twitter.png)](https://twitter.com/samfloreani)[![](https://digitalrightswatch.org.au/wp-content/plugins/team-members/inc/img/links/email.png)](mailto:samantha@digitalrightswatch.org.au)[![](https://digitalrightswatch.org.au/wp-content/plugins/team-members/inc/img/links/website.png)](https://www.samanthafloreani.com/)
+
+Kathryn Gledhill-Tucker
+
+Campaigns & Advocacy Manager
+
+Kathryn Gledhill-Tucker is a Nyungar technologist, writer, and digital rights activist with a broad experience in the tech industry, including working with teams to build privacy-preserving development practices. They write poetry, science fiction, and occasionally essays that explore surveillance, digital colonialism, and our relationship with machines.
+
+[![](https://digitalrightswatch.org.au/wp-content/plugins/team-members/inc/img/links/email.png)](mailto:kat@digitalrightswatch.org.au)[![](https://digitalrightswatch.org.au/wp-content/plugins/team-members/inc/img/links/website.png)](https://kgt.dev/)
