@@ -20,7 +20,7 @@ eg_visibility:
   - '{"1":false}'
 cybocfi_hide_featureImage:
   - yes
-categories:
+category:
   - Uncategorised
 tags:
   - ACCC

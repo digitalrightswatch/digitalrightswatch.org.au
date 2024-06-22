@@ -5,7 +5,7 @@ date: 2018-08-13T11:00:51+00:00
 excerpt: Our submission to the federal inquiry into the 2016 Federal Election.
 url: /2018/08/13/submission-to-inquiry-into-the-conduct-of-the-2016-federal-election/
 featureImage: /wp-content/uploads/2018/07/4792462-3x2-700x467-1.jpg
-categories:
+category:
   - Submissions
 
 ---

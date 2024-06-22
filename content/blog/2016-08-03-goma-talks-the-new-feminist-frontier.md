@@ -5,7 +5,7 @@ date: 2016-08-03T12:06:59+00:00
 excerpt: Our own Nic Suzor was talking about feminism, online abuse, and regulation at Brisbane's Gallery of Modern Art recently.
 url: /2016/08/03/goma-talks-the-new-feminist-frontier/
 featureImage: /wp-content/uploads/2017/03/GOMA-Talks-The-New-Feminist-Frontier.jpeg
-categories:
+category:
   - Events
   - News
 

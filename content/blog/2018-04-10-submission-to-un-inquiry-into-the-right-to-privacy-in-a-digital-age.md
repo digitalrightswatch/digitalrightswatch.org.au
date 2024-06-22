@@ -5,7 +5,7 @@ date: 2018-04-10T02:05:18+00:00
 excerpt: "Digital Rights Watch's submission to the UN High Commissioner for Human Rights' inquiry into human rights challenges relating to the right to privacy in the digital age."
 url: /2018/04/10/submission-to-un-inquiry-into-the-right-to-privacy-in-a-digital-age/
 featureImage: /wp-content/uploads/2016/10/download-1.jpeg
-categories:
+category:
   - Submissions
 tags:
   - privacy

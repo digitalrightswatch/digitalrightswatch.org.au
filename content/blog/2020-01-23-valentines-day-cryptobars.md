@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2020-01-23T02:22:22+00:00
 url: /2020/01/23/valentines-day-cryptobars/
 featureImage: /wp-content/uploads/2020/01/LinkedIn-Heart-Crypto-Bar-Post.png
-categories:
+category:
   - Events
 
 ---

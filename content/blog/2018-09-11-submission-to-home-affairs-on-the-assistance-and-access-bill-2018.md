@@ -4,7 +4,7 @@ author: David Paris
 date: 2018-09-10T22:52:58+00:00
 url: /2018/09/11/submission-to-home-affairs-on-the-assistance-and-access-bill-2018/
 featureImage: /wp-content/uploads/2016/03/iStock_000005053756Small-1000x350-1.jpg
-categories:
+category:
   - Submissions
 tags:
   - encryption

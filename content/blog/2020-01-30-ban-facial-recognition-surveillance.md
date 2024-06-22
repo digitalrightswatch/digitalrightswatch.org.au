@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2020-01-30T00:51:07+00:00
 url: /2020/01/30/ban-facial-recognition-surveillance/
 featureImage: /wp-content/uploads/2020/01/nick-loggie-fRVPzBYcd5A-unsplash-scaled-1.jpg
-categories:
+category:
   - News
   - Take Action
 tags:

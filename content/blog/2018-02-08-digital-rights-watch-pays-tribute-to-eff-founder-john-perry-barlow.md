@@ -5,7 +5,7 @@ date: 2018-02-08T02:07:55+00:00
 excerpt: 'We at Digital Rights Watch wish to pay our respects to the late John Perry Barlow, and share our sympathies with his family, friends, colleagues, and fellow activists. '
 url: /2018/02/08/digital-rights-watch-pays-tribute-to-eff-founder-john-perry-barlow/
 featureImage: /wp-content/uploads/2018/02/download.jpeg
-categories:
+category:
   - News
 
 ---

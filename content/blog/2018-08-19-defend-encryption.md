@@ -5,7 +5,7 @@ date: 2018-08-19T02:22:17+00:00
 excerpt: "Stand up and tell the government that you don't support efforts to break encryption."
 url: /2018/08/19/defend-encryption/
 featureImage: /wp-content/uploads/2017/10/DigitalPrivacy.jpg
-categories:
+category:
   - News
   - Take Action
 tags:

@@ -5,7 +5,7 @@ date: 2017-09-18T10:23:01+00:00
 excerpt: A global coalition of civil society organisations have submitted to the Council of Europe its comments on how protect human rights when developing new rules on cross-border access to electronic evidence.
 url: /2017/09/18/cross-border-access-to-data-council-of-europe-submission/
 featureImage: /wp-content/uploads/2017/09/49888_002-1024x682-1.jpeg
-categories:
+category:
   - Media releases
   - Reports
 

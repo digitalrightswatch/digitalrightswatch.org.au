@@ -5,7 +5,7 @@ date: 2018-02-05T13:40:27+00:00
 excerpt: Safer Internet Day is an opportunity to raise awareness of the safe and positive use of digital technology, and to explore the role we can all play in creating a better and safer online community.
 url: /2018/02/06/safer-internet-day/
 featureImage: /wp-content/uploads/2018/02/SID18_WebBanner_700x230px.png
-categories:
+category:
   - Events
   - News
 

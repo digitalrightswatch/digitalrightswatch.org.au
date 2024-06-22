@@ -5,7 +5,7 @@ date: 2017-03-16T13:13:28+00:00
 excerpt: After one full year of operations, Digital Rights Watch has released its inaugural annual report.
 url: /2017/03/17/digital-rights-watch-releases-inaugural-annual-report/
 featureImage: /wp-content/uploads/2017/03/IMG_2793-1.jpg
-categories:
+category:
   - Media releases
 
 ---

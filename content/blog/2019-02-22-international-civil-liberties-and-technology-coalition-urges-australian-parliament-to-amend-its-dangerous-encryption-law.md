@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2019-02-22T01:58:58+00:00
 url: /2019/02/22/international-civil-liberties-and-technology-coalition-urges-australian-parliament-to-amend-its-dangerous-encryption-law/
 featureImage: /wp-content/uploads/2019/02/cybersecurity-for-a-new-america-2016_image.width-800.jpg
-categories:
+category:
   - Media releases
 
 ---

@@ -5,7 +5,7 @@ date: 2017-10-14T05:28:00+00:00
 excerpt: A report on our recent event held at QUT on the state of encryption in Australia.
 url: /2017/10/14/attacks-on-encryption/
 featureImage: /wp-content/uploads/2017/10/608CD73C-65E7-418D-828C-4E8C4B046884.png
-categories:
+category:
   - Events
   - News
 tags:

@@ -5,7 +5,7 @@ date: 2016-12-06T23:33:49+00:00
 excerpt: 'Snitch Hunt: get a taste of the power of metadata surveillance, and compete to see who can best abuse it.'
 url: /2016/12/07/snitch-hunt-10th-december-2016/
 featureImage: /wp-content/uploads/2016/12/network-analysis-snipped.png
-categories:
+category:
   - Events
   - News
 

@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2019-05-13T10:50:15+00:00
 url: /2019/05/13/save-australian-tech/
 featureImage: /wp-content/uploads/2019/05/aaaa.jpg
-categories:
+category:
   - News
   - Take Action
 

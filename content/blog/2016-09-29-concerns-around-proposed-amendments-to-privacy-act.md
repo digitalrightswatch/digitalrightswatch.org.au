@@ -5,7 +5,7 @@ date: 2016-09-28T23:21:25+00:00
 excerpt: Digital Rights Watch have raised deep concerns over proposed changes to the Privacy Act, citing the need for community and expert consultation before any legislation is introduced.
 url: /2016/09/29/concerns-around-proposed-amendments-to-privacy-act/
 featureImage: /wp-content/uploads/2016/03/Computer_Screen_Eye-1.jpg
-categories:
+category:
   - Media releases
 tags:
   - privacy

@@ -5,7 +5,7 @@ date: 2018-09-26T01:11:41+00:00
 excerpt: "Stand up and tell Labor that you don't support efforts to break encryption."
 url: /2018/09/26/tell-labor-to-defend-encryption/
 featureImage: /wp-content/uploads/2017/10/DigitalPrivacy.jpg
-categories:
+category:
   - News
   - Take Action
 tags:

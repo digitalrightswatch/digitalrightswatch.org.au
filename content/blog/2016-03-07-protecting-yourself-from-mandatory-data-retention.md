@@ -63,7 +63,7 @@ cv_comp_cornerstone_content:
     File encryption of sensitive data is also really important. <a title="Lifehacker" href="http://lifehacker.com/five-best-file-encryption-tools-5677725" target="_blank">Here&#8217;s more information</a>.</p>
     <p><a href="http://scott-ludlam.greensmps.org.au/stopdataretention">Provided by Office of Senator Scott Ludlam.</a></p>
     ";}
-categories:
+category:
   - 'Tools &amp; Guides'
 tags:
   - Get a VPN

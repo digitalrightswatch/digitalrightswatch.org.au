@@ -5,7 +5,7 @@ date: 2016-07-14T12:37:27+00:00
 excerpt: Bloomberg's cybersecurity reporters outline your options to improve online privacy on a scale from "sane" to "Snowden".
 url: /2016/07/14/the-not-crazy-persons-guide-to-online-privacy/
 featureImage: /wp-content/uploads/2016/10/1.jpg
-categories:
+category:
   - 'Tools &amp; Guides'
 tags:
   - privacy

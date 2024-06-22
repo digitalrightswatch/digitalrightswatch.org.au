@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2018-12-04T05:57:18+00:00
 url: /2018/12/04/better-oversight-and-limits-to-power-are-an-important-first-step-but-encryption-bill-is-still-deeply-flawed/
 featureImage: /wp-content/uploads/2018/08/locks-1000x440-1.jpg
-categories:
+category:
   - Media releases
 tags:
   - encryption

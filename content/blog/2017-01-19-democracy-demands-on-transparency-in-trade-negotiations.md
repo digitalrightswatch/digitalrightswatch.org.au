@@ -5,7 +5,7 @@ date: 2017-01-19T03:24:42+00:00
 excerpt: "It's copyright week! This week, we're joining a group of organisations in reflecting on how copyright policy can promote, and not diminish, a robust, accessible public domain."
 url: /2017/01/19/democracy-demands-on-transparency-in-trade-negotiations/
 featureImage: /wp-content/uploads/2017/01/10832002856_afdb8cfde6_z.jpg
-categories:
+category:
   - News
 
 ---

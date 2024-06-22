@@ -5,7 +5,7 @@ date: 2018-01-19T03:26:00+00:00
 excerpt: Encryption is essential to the digital society, and encryption is only effective if it is robust. A new memo on the Role of Encryption in Australia from Access Now.
 url: /2018/01/19/the-role-of-encryption-in-australia/
 featureImage: /wp-content/uploads/2018/01/encryption.jpeg
-categories:
+category:
   - News
   - Reports
 tags:

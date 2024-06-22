@@ -5,7 +5,7 @@ date: 2018-07-04T11:18:00+00:00
 excerpt: The Department of Communication and the Arts undertook a consultation into copyright modernisation, and Digital Rights Watch provided a submission to this process.
 url: /2018/07/04/submission-to-copyright-modernisation-consultation/
 featureImage: /wp-content/uploads/2018/07/copyright-389901_1280.jpg
-categories:
+category:
   - Submissions
 
 ---

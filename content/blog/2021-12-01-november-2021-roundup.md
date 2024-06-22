@@ -19,7 +19,7 @@ eg_youtube_ratio:
   - 1
 eg_vimeo_ratio:
   - 1
-categories:
+category:
   - Monthly updates
 
 ---

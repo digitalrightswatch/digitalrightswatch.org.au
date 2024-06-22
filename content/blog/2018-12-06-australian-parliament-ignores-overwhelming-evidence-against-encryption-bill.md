@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2018-12-06T02:21:37+00:00
 url: /2018/12/06/australian-parliament-ignores-overwhelming-evidence-against-encryption-bill/
 featureImage: /wp-content/uploads/2018/07/4792462-3x2-700x467-1.jpg
-categories:
+category:
   - Media releases
 tags:
   - encryption

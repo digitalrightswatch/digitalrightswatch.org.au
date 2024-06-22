@@ -15,7 +15,7 @@ eg_soundcloud_ratio:
   - 1
 eg_custom_meta_216:
   - 'true'
-categories:
+category:
   - Take Action
 tags:
   - Facial recognition

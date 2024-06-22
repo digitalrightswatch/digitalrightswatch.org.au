@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2019-02-06T02:59:38+00:00
 url: /2019/02/06/victorian-pushback-on-surveillance-of-students-welcomed-by-privacy-experts/
 featureImage: /wp-content/uploads/2016/03/spook_camera.jpg
-categories:
+category:
   - Media releases
 
 ---

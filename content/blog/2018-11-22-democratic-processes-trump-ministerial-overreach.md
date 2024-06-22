@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2018-11-22T05:15:31+00:00
 url: /2018/11/22/democratic-processes-trump-ministerial-overreach/
 featureImage: /wp-content/uploads/2018/11/img-ac2ab0c9c20aeb3845ccc24e905fcb08.jpg
-categories:
+category:
   - Media releases
 tags:
   - encryption

@@ -5,7 +5,7 @@ date: 2017-11-12T07:10:45+00:00
 excerpt: How forgetting passwords can be a good thing
 url: /2017/11/12/password-managers/
 featureImage: /wp-content/uploads/2017/11/stickynotes.jpg
-categories:
+category:
   - 'Tools &amp; Guides'
 
 ---

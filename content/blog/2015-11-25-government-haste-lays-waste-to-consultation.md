@@ -5,7 +5,7 @@ date: 2015-11-25T09:24:50+00:00
 excerpt: Inadequate consultation and seemingly unnecessary haste in drafting and passing certain laws has been a shared frustration linking diverse policy issues in the past year.
 url: /2015/11/25/government-haste-lays-waste-to-consultation/
 featureImage: /wp-content/uploads/2016/03/45721.jpg
-categories:
+category:
   - Articles
 
 ---

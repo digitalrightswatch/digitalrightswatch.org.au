@@ -5,7 +5,7 @@ date: 2016-05-12T00:55:58+00:00
 excerpt: Part CryptoParty, part symposium, Only Truth is a series of talks and practical guides that will equip the average internet user with information and open source tools to protect their communication, privacy, and security.
 url: /2016/05/12/only-truth-a-symposium-on-internet-privacy/
 featureImage: /wp-content/uploads/2016/05/ben-landau-misfits-02-1924x1186-1.jpg
-categories:
+category:
   - Events
   - News
 tags:

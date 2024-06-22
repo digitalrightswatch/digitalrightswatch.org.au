@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2018-12-11T23:57:37+00:00
 url: /2018/12/12/submission-to-the-comprehensive-review-legal-framework-of-the-national-intelligence-community/
 featureImage: /wp-content/uploads/2018/10/33091154720_a8cc890c65_z.jpg
-categories:
+category:
   - Submissions
 
 ---

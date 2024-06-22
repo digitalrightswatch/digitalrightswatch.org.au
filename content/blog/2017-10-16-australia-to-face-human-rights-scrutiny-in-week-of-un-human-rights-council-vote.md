@@ -5,7 +5,7 @@ date: 2017-10-16T00:55:39+00:00
 excerpt: During the same week that Australia is expected to be granted a seat on the United Nations Human Rights Council, an expert UN Committee will grill the Australian Government over its own human rights record.
 url: /2017/10/16/australia-to-face-human-rights-scrutiny-in-week-of-un-human-rights-council-vote/
 featureImage: /wp-content/uploads/2017/10/HRLC_website_banner_ICCPR_report.jpg
-categories:
+category:
   - Media releases
 
 ---

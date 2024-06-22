@@ -17,7 +17,7 @@ eg_html5_ratio:
   - 1
 eg_soundcloud_ratio:
   - 1
-categories:
+category:
   - Articles
 tags:
   - data protection

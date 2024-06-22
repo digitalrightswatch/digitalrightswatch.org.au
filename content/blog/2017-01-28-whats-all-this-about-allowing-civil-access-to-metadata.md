@@ -5,7 +5,7 @@ date: 2017-01-28T04:29:03+00:00
 excerpt: The Attorney General recently asked for submissions about the potential use of metadata collected for the purposes of the data retention regime in civil cases. For those interested, this is a quick summary.
 url: /2017/01/28/whats-all-this-about-allowing-civil-access-to-metadata/
 featureImage: /wp-content/uploads/2017/01/Cable_racks_at_grid_computing_center_Fermilab_with_blue_lights.jpg
-categories:
+category:
   - News
 tags:
   - Ending Mandatory Metadata Retention

@@ -5,7 +5,7 @@ date: 2016-08-05T02:23:11+00:00
 excerpt: "One of Australia's richest sources of statistical data has had both its reputation and trust destroyed by the decision to retain name and address data – a decision made with little consultation and with no regard to the ramifications for individual's right to privacy. But does this warrant an overall boycott of the census?"
 url: /2016/08/05/the-census-is-too-important-to-boycott-despite-serious-privacy-concerns/
 featureImage: /wp-content/uploads/2016/08/1470455774159.jpg
-categories:
+category:
   - Articles
 tags:
   - privacy

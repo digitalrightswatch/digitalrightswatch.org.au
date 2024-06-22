@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2019-07-18T04:55:28+00:00
 url: /2019/07/18/submission-to-pjcis-review-of-mandatory-metadata-retention-regime/
 featureImage: /wp-content/uploads/2017/05/digital_surveillance.jpg
-categories:
+category:
   - Submissions
 
 ---

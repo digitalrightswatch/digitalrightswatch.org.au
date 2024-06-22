@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2016-03-01T12:17:21+00:00
 url: /2016/03/01/urging-sweden-and-the-uk-to-free-julian-assange/
 featureImage: /wp-content/uploads/2016/03/Sydney_Wikileaks_2010-Dec-10.jpg
-categories:
+category:
   - News
 
 ---

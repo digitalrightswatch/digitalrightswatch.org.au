@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2019-08-06T04:40:43+00:00
 url: /2019/08/06/digital-rights-meetup/
 featureImage: /wp-content/uploads/2018/02/download-1.jpeg
-categories:
+category:
   - Events
   - News
 

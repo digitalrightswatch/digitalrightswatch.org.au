@@ -16,7 +16,7 @@ eg_html5_ratio:
   - 1
 eg_soundcloud_ratio:
   - 1
-categories:
+category:
   - Media releases
 tags:
   - covid-19

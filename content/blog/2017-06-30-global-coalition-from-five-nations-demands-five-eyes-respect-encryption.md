@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2017-06-30T11:06:55+00:00
 url: /2017/06/30/global-coalition-from-five-nations-demands-five-eyes-respect-encryption/
 featureImage: /wp-content/uploads/2017/04/o-CROWD-OF-PEOPLE-facebook.jpg
-categories:
+category:
   - Media releases
 tags:
   - encryption

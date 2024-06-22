@@ -5,7 +5,7 @@ date: 2016-12-15T23:33:40+00:00
 excerpt: Digital Rights Watch have expressed their concern over a Federal Court ruling that Australian ISPs must block access to domains registered by file-sharing websites.
 url: /2016/12/16/site-blocking-is-not-the-solution-to-illegal-downloading/
 featureImage: /wp-content/uploads/2016/12/download.jpeg
-categories:
+category:
   - Media releases
 
 ---

@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2018-10-02T14:01:13+00:00
 url: /2018/10/03/slow-down-stop-and-listen-consumers-human-rights-groups-industry-telcos-and-technology-companies-join-forces-to-sound-alarm-at-governments-spyware-legislation/
 featureImage: /wp-content/uploads/2017/10/DigitalPrivacy.jpg
-categories:
+category:
   - Media releases
   - News
 tags:

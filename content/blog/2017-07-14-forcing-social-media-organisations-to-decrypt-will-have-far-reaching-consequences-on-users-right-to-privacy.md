@@ -5,7 +5,7 @@ date: 2017-07-14T04:30:12+00:00
 excerpt: Digital Rights Watch has expressed concerns at the Government's announcement of new legislation designed to compel social media companies to hand over access to user's encrypted content.
 url: /2017/07/14/forcing-social-media-organisations-to-decrypt-will-have-far-reaching-consequences-on-users-right-to-privacy/
 featureImage: /wp-content/uploads/2016/10/muo-security-freak-https.jpg
-categories:
+category:
   - Media releases
 tags:
   - privacy

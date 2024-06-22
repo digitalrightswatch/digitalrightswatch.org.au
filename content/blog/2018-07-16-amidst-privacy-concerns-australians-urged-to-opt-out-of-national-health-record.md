@@ -5,7 +5,7 @@ date: 2018-07-15T21:30:27+00:00
 excerpt: Civil rights group Digital Rights Watch have urged Australian citizens to be aware of deeply concerning privacy issues in the Government's planned digital health record system, as the opt-out period begins today.
 url: /2018/07/16/amidst-privacy-concerns-australians-urged-to-opt-out-of-national-health-record/
 featureImage: /wp-content/uploads/2018/07/medical-781422_1280.jpg
-categories:
+category:
   - Media releases
 tags:
   - My Health Record

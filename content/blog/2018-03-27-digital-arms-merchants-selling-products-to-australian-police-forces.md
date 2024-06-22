@@ -5,7 +5,7 @@ date: 2018-03-27T00:30:21+00:00
 excerpt: Digital rights experts have expressed concerns over reports that the international firm Hacking Team have been allowed to showcase their wares at an Australian Police technology conference today.
 url: /2018/03/27/digital-arms-merchants-selling-products-to-australian-police-forces/
 featureImage: /wp-content/uploads/2018/03/33870031091_e7a638f7a8_z.jpg
-categories:
+category:
   - Media releases
 
 ---

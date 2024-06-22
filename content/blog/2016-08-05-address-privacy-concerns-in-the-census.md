@@ -5,7 +5,7 @@ date: 2016-08-05T00:47:48+00:00
 excerpt: Take action and stand up on privacy concerns in the 2016 Census.
 url: /2016/08/05/address-privacy-concerns-in-the-census/
 featureImage: /wp-content/uploads/2016/08/Australian-2011-Census-sample-cropped.jpg
-categories:
+category:
   - Take Action
 tags:
   - privacy

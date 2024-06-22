@@ -5,7 +5,7 @@ date: 2017-01-23T12:59:19+00:00
 excerpt: Our submission to the Attorney-General's review into access to telecommunications data in civil proceedings.
 url: /2017/01/23/attorney-generals-department-consultation-into-access-to-telecommunications-data-in-civil-proceedings/
 featureImage: /wp-content/uploads/2016/03/iStock_000005053756Small-1000x350-1.jpg
-categories:
+category:
   - News
   - Submissions
 

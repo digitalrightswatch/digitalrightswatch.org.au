@@ -4,7 +4,7 @@ author: "Lizzie O'Shea"
 date: 2019-03-21T05:56:05+00:00
 url: /2019/03/21/australias-role-in-the-christchurch-attacks-and-the-work-to-be-done/
 featureImage: /wp-content/uploads/2019/03/Racism-sucks-600x250-1.jpg
-categories:
+category:
   - Articles
 
 ---

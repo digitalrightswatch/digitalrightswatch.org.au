@@ -5,7 +5,7 @@ date: 2017-05-24T02:53:21+00:00
 excerpt: Right now the government is considering whether to introduce fair use. Let's tell them – we need fair use now.
 url: /2017/05/24/fair-copyright/
 featureImage: /wp-content/uploads/2017/05/18622488_1349156741836908_8126302163115749940_n.png
-categories:
+category:
   - News
   - Take Action
 tags:

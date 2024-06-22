@@ -5,7 +5,7 @@ date: 2018-02-15T04:51:41+00:00
 excerpt: "Our submission to the Parliamentary Joint Committee's review of the National Security Legislation Amendment (Espionage and Foreign Interference) Bill 2017."
 url: /2018/02/15/submission-to-the-inquiry-into-the-national-security-legislation-amendment-espionage-and-foreign-interference-bill-2017/
 featureImage: /wp-content/uploads/2018/02/download-1.jpeg
-categories:
+category:
   - Submissions
 
 ---

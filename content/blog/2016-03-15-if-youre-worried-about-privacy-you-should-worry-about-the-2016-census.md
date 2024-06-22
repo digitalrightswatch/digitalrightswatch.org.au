@@ -5,7 +5,7 @@ date: 2016-03-15T04:17:45+00:00
 excerpt: "The debate over warrantless mandatory data retention was just the tip of the iceberg, as the ABS's removal of census anonymity demonstrates, writes Chris Berg."
 url: /2016/03/15/if-youre-worried-about-privacy-you-should-worry-about-the-2016-census/
 featureImage: /wp-content/uploads/2016/03/2827670-3x2-940x627-1.jpg
-categories:
+category:
   - Articles
 tags:
   - privacy

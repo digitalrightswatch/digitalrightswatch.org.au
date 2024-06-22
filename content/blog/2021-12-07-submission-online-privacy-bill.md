@@ -19,7 +19,7 @@ cybocfi_hide_featureImage:
   - yes
 eg_vimeo_ratio:
   - 1
-categories:
+category:
   - Submissions
 tags:
   - privacy

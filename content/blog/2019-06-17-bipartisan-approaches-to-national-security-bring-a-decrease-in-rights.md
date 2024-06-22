@@ -4,7 +4,7 @@ author: Tim Singleton Norton
 date: 2019-06-17T00:14:41+00:00
 url: /2019/06/17/bipartisan-approaches-to-national-security-bring-a-decrease-in-rights/
 featureImage: /wp-content/uploads/2019/06/data-encryption.png
-categories:
+category:
   - Articles
 
 ---

@@ -5,7 +5,7 @@ date: 2018-05-13T19:00:48+00:00
 excerpt: Australians' human rights are being severely breached through the exploitation of online data according to a landmark report released today by Digital Rights Watch.
 url: /2018/05/14/new-digital-rights-report-foreshadows-an-eroding-human-rights-landscape-online/
 featureImage: /wp-content/uploads/2018/05/State-of-Digital-Rights-cover.jpg
-categories:
+category:
   - Media releases
 tags:
   - encryption

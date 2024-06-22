@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2019-01-31T00:19:48+00:00
 url: /2019/01/31/defending-encryption/
 featureImage: /wp-content/uploads/2017/10/DigitalPrivacy.jpg
-categories:
+category:
   - Take Action
 
 ---

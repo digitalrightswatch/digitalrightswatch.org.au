@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2019-12-12T01:01:00+00:00
 url: /2019/12/12/help-stop-the-sale-of-dot-org/
 featureImage: /wp-content/uploads/2019/12/dot-org-starburst-1.jpg
-categories:
+category:
   - News
   - Take Action
 

@@ -5,7 +5,7 @@ date: 2016-10-19T15:05:30+00:00
 excerpt: A graphic novel from European Digital Rights, designed to help young people between 10-14 years understand how to protect their privacy.
 url: /2016/10/20/digital-defenders-graphic-novel/
 featureImage: /wp-content/uploads/2016/10/P4K_booklet_covers-1024x784-1.jpg
-categories:
+category:
   - News
 tags:
   - privacy

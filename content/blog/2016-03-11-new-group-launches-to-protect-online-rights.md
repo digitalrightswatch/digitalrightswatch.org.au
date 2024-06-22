@@ -5,7 +5,7 @@ date: 2016-03-11T00:30:18+00:00
 excerpt: A new advocacy organization has launched to fight to protect the human rights of Australian internet users.
 url: /2016/03/11/new-group-launches-to-protect-online-rights/
 featureImage: /wp-content/uploads/2016/03/DRW_default.jpg
-categories:
+category:
   - Media releases
 
 ---

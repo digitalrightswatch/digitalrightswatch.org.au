@@ -5,7 +5,7 @@ date: 2017-07-10T23:18:11+00:00
 excerpt: On July 12th, the Internet will come together to defend net neutrality. Join us.
 url: /2017/07/11/internet-wide-day-of-action-for-net-neutrality/
 featureImage: /wp-content/uploads/2017/07/39263CF7-1A85-4E15-A806-408DCAEA9236-4699-0000069F727E578D.png
-categories:
+category:
   - News
   - Take Action
 

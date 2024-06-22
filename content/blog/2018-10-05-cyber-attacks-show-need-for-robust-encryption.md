@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2018-10-05T03:45:00+00:00
 url: /2018/10/05/cyber-attacks-show-need-for-robust-encryption/
 featureImage: /wp-content/uploads/2018/10/7016112399_c2456b936c_z.jpg
-categories:
+category:
   - Media releases
 tags:
   - encryption

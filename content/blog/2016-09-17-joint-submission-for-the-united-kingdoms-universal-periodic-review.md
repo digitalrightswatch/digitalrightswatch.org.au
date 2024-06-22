@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2016-09-16T15:51:20+00:00
 url: /2016/09/17/joint-submission-for-the-united-kingdoms-universal-periodic-review/
 featureImage: /wp-content/uploads/2016/10/download.jpeg
-categories:
+category:
   - News
 
 ---

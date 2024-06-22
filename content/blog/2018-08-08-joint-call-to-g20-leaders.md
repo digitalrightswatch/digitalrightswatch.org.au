@@ -5,7 +5,7 @@ date: 2018-08-08T00:32:12+00:00
 excerpt: Digital Rights Watch has joined over 100 organisations in appealing to G20 leaders to bring human rights to the centre of our digital future.
 url: /2018/08/08/joint-call-to-g20-leaders/
 featureImage: /wp-content/uploads/2018/08/G20_crowd.jpg
-categories:
+category:
   - News
 
 ---

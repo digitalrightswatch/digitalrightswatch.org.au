@@ -5,7 +5,7 @@ date: 2017-12-15T01:22:10+00:00
 excerpt: Australian digital rights advocates today condemned the decision of the United States Federal Communications Commission to dismantle the agency's 2015 Open Internet Order which required internet service providers to treat all internet traffic equally.
 url: /2017/12/15/u-s-fcc-repeal-of-net-neutrality-will-have-global-consequences/
 featureImage: /wp-content/uploads/2017/12/1_3Kg5H97UwkKHKNq86G1WAg.jpeg
-categories:
+category:
   - Media releases
 
 ---

@@ -5,7 +5,7 @@ date: 2018-11-14T05:16:57+00:00
 excerpt: Digital Rights Watch has welcomed the news that the Government will extend the opt-out period of the My Health Record system through to January 31, 2019.
 url: /2018/11/14/extension-of-my-health-record-opt-out-period-welcomed-by-privacy-advocates/
 featureImage: /wp-content/uploads/2018/07/medical-781422_1280.jpg
-categories:
+category:
   - Media releases
 tags:
   - My Health Record

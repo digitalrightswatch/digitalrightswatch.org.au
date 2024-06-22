@@ -5,7 +5,7 @@ date: 2016-05-19T14:34:50+00:00
 excerpt: "Didn't get a chance to come to our panel discussion about Australia's Privacy laws? You can still watch the whole discussion here."
 url: /2016/05/20/beyond-privacy-video/
 featureImage: /wp-content/uploads/2016/05/pine-gap-au-ge-003.jpg
-categories:
+category:
   - Events
   - News
 tags:

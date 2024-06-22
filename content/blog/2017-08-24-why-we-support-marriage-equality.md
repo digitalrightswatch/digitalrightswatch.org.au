@@ -5,7 +5,7 @@ date: 2017-08-24T13:15:44+00:00
 excerpt: Digital Rights Watch supports marriage equality.
 url: /2017/08/24/why-we-support-marriage-equality/
 featureImage: /wp-content/uploads/2017/08/header-JJM-103224-Edit-scaled.jpg
-categories:
+category:
   - News
 
 ---

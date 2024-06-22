@@ -19,7 +19,7 @@ eg_vimeo_ratio:
   - 1
 cybocfi_hide_featureImage:
   - yes
-categories:
+category:
   - Monthly updates
 tags:
   - ACCC

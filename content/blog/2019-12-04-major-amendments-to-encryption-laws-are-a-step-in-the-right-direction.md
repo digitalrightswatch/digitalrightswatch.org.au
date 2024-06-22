@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2019-12-04T05:15:00+00:00
 url: /2019/12/04/major-amendments-to-encryption-laws-are-a-step-in-the-right-direction/
 featureImage: /wp-content/uploads/2019/02/cybersecurity-for-a-new-america-2016_image.width-800.jpg
-categories:
+category:
   - Media releases
 
 ---

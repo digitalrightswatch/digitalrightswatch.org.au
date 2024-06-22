@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2019-04-12T03:29:13+00:00
 url: /2019/04/12/statement-on-arrest-of-julian-assange-in-london/
 featureImage: /wp-content/uploads/2019/04/56905041_2120006061367828_3026489868092964864_n.jpg
-categories:
+category:
   - Media releases
 
 ---

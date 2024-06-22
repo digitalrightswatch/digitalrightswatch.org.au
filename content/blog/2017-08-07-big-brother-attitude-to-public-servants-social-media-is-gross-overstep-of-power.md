@@ -5,7 +5,7 @@ date: 2017-08-07T05:26:25+00:00
 excerpt: Online advocacy group Digital Rights Watch has expressed serious concerns over social media guidelines for federal public servants released today.
 url: /2017/08/07/big-brother-attitude-to-public-servants-social-media-is-gross-overstep-of-power/
 featureImage: /wp-content/uploads/2017/01/Cable_racks_at_grid_computing_center_Fermilab_with_blue_lights.jpg
-categories:
+category:
   - Media releases
 tags:
   - privacy

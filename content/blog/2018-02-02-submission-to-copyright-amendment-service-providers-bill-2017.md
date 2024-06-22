@@ -5,7 +5,7 @@ date: 2018-02-02T10:28:00+00:00
 excerpt: "Digital Rights Watch's submission to the Senate Environment and Communications Legislation Committee in relation to the Copyright Amendment (Service Providers) Bill 2017."
 url: /2018/02/02/submission-to-copyright-amendment-service-providers-bill-2017/
 featureImage: /wp-content/uploads/2016/06/copyright.jpg
-categories:
+category:
   - Submissions
 
 ---

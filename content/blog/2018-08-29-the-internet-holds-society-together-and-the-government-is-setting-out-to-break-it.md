@@ -5,7 +5,7 @@ date: 2018-08-29T12:30:15+00:00
 excerpt: The Australian Government has finally released its draft bill on encryption, which would see law enforcement granted unprecedented new powers, including the ability to crack open encrypted communication.
 url: /2018/08/29/the-internet-holds-society-together-and-the-government-is-setting-out-to-break-it/
 featureImage: /wp-content/uploads/2018/08/locks-1000x440-1.jpg
-categories:
+category:
   - Articles
   - News
 tags:

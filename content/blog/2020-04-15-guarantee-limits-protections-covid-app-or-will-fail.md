@@ -16,7 +16,7 @@ eg_soundcloud_ratio:
   - 1
 eg_vimeo_ratio:
   - 1
-categories:
+category:
   - Media releases
 tags:
   - contact tracing app

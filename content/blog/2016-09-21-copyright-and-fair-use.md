@@ -5,7 +5,7 @@ date: 2016-09-21T12:46:40+00:00
 excerpt: Much of the content we share on the web, such as articles, pictures and videos, is subject to copyright law. Australia does not currently have a system of fair use in copyright.
 url: /2016/09/21/copyright-and-fair-use/
 featureImage: /wp-content/uploads/2016/09/103633923_99ca33a379_o.jpg
-categories:
+category:
   - News
 tags:
   - Reforming Copyright

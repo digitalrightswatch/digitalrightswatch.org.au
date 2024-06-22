@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2019-07-19T05:00:19+00:00
 url: /2019/07/19/sweeping-metadata-laws-must-be-scaled-back/
 featureImage: /wp-content/uploads/2018/02/Police.gif
-categories:
+category:
   - Media releases
 
 ---

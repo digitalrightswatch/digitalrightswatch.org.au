@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2019-03-20T14:20:50+00:00
 url: /2019/03/21/there-are-no-easy-fixes-for-the-live-streaming-of-real-life-hate/
 featureImage: /wp-content/uploads/2019/03/15946168851_4389317dc5_z.jpg
-categories:
+category:
   - Articles
 
 ---

@@ -5,7 +5,7 @@ date: 2018-03-22T03:42:29+00:00
 excerpt: Digital Rights Watch has signed on an open letter to Australian Parliamentarians about the ability of charities and nonprofits to operate effectively.
 url: /2018/03/22/open-letter-to-australian-parliamentarians-in-regards-to-charity-advocacy/
 featureImage: /wp-content/uploads/2018/03/our_charities-01_1_1-scaled.jpg
-categories:
+category:
   - News
 
 ---

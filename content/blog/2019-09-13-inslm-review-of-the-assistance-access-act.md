@@ -4,7 +4,7 @@ author: "Lizzie O'Shea"
 date: 2019-09-13T05:56:03+00:00
 url: /2019/09/13/inslm-review-of-the-assistance-access-act/
 featureImage: /wp-content/uploads/2018/08/locks-1000x440-1.jpg
-categories:
+category:
   - Submissions
 
 ---

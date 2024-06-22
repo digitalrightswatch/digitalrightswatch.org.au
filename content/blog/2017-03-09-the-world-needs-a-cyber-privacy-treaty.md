@@ -5,7 +5,7 @@ date: 2017-03-09T11:49:57+00:00
 excerpt: "Digital Rights Watch has welcomed the release of a UN report calling for a global treaty to protect internet user's right to privacy."
 url: /2017/03/09/the-world-needs-a-cyber-privacy-treaty/
 featureImage: /wp-content/uploads/2016/03/DRW_default.jpg
-categories:
+category:
   - Media releases
 
 ---

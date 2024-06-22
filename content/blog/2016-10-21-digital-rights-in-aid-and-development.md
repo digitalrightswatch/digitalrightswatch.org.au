@@ -5,7 +5,7 @@ date: 2016-10-21T10:38:27+00:00
 excerpt: Digital Rights Watch will join a panel discussion at the annual conference of the Australian Council for International Development in Melbourne.
 url: /2016/10/21/digital-rights-in-aid-and-development/
 featureImage: /wp-content/uploads/2017/03/Conference-Program-Image-Test4.png
-categories:
+category:
   - Events
   - News
 

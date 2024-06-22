@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2016-08-12T03:34:33+00:00
 url: /2016/08/12/open-letter-from-privacy-advocates-calls-for-inquiry-into-census-2016/
 featureImage: /wp-content/uploads/2016/08/external.jpg
-categories:
+category:
   - Media releases
 tags:
   - privacy

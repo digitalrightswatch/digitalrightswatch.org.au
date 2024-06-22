@@ -4,7 +4,7 @@ author: "Lizzie O'Shea"
 date: 2018-03-19T22:24:05+00:00
 url: /2018/03/20/time-to-cut-ties-with-the-digital-oligarchs-and-rewire-the-web/
 featureImage: /wp-content/uploads/2018/10/3047.jpg
-categories:
+category:
   - Articles
 
 ---

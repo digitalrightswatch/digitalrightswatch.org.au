@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2019-05-01T19:00:57+00:00
 url: /2019/05/02/federal-election-2019/
 featureImage: /wp-content/uploads/2018/07/4792462-3x2-700x467-1.jpg
-categories:
+category:
   - News
   - Take Action
 

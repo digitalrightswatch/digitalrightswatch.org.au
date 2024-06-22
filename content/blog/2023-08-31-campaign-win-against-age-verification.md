@@ -19,7 +19,7 @@ eg_custom_meta_216:
   - 'true'
 cybocfi_hide_featureImage:
   - yes
-categories:
+category:
   - Articles
 
 ---

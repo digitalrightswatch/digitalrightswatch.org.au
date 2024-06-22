@@ -5,7 +5,7 @@ date: 2016-06-29T19:56:58+00:00
 excerpt: 'Digital Rights Watch has joined global calls for the UN Human Rights Council to adopt by consensus a resolution aimed at strengthening protections for freedom of expression, the right to privacy, and other human rights online. '
 url: /2016/06/30/un-human-rights-council-must-support-resolution-on-human-rights-on-the-internet/
 featureImage: /wp-content/uploads/2016/06/img.jpeg
-categories:
+category:
   - News
 
 ---

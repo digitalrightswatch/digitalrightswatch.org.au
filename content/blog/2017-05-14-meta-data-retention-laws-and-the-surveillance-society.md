@@ -5,7 +5,7 @@ date: 2017-05-13T15:28:09+00:00
 excerpt: "In which our own Tom Sulston speaks to 3CR about the threat of Australia's meta data retention scheme."
 url: /2017/05/14/meta-data-retention-laws-and-the-surveillance-society/
 featureImage: /wp-content/uploads/2017/05/digital_surveillance.jpg
-categories:
+category:
   - News
 tags:
   - Ending Mandatory Metadata Retention

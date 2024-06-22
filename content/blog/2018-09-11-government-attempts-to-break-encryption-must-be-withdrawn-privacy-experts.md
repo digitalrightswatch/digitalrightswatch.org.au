@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2018-09-11T04:38:21+00:00
 url: /2018/09/11/government-attempts-to-break-encryption-must-be-withdrawn-privacy-experts/
 featureImage: /wp-content/uploads/2017/10/DigitalPrivacy.jpg
-categories:
+category:
   - Media releases
 tags:
   - encryption

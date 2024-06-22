@@ -10,7 +10,7 @@ cv_comp_cornerstone_content:
     a:2:{s:7:"expires";i:1582163698;s:4:"data";s:238:"<p><img class="aligncenter wp-image-541 size-full" src="http://digitalrightswatch.org.au/wp-content/uploads/2017/01/ooqGh9G.gif" width="400" height="4500" /></p>
     <p><a href="http://imgur.com/gallery/ooqGh9G">Originally from Imgur</a></p>
     ";}
-categories:
+category:
   - 'Tools &amp; Guides'
 
 ---

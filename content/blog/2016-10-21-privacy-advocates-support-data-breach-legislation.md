@@ -5,7 +5,7 @@ date: 2016-10-20T21:00:28+00:00
 excerpt: Digital Rights Watch welcomes the Government's move to introduce a mandatory data breach notification scheme.
 url: /2016/10/21/privacy-advocates-support-data-breach-legislation/
 featureImage: /wp-content/uploads/2016/06/cabling2.png
-categories:
+category:
   - Media releases
 tags:
   - privacy

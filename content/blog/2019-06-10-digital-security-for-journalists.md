@@ -145,7 +145,7 @@ cv_comp_cornerstone_content:
 
     <ul><li><a href="https://ssd.eff.org/">Surveillance Self-Defence guide</a> by EFF</li><li><a href="https://rsf.org/sites/default/files/guide_journaliste_rsf_2015_en_0.pdf">Safety Guide for Journalists</a> from Reporters Without Borders</li><li><a href="https://securityplanner.org">Security Planner</a> tool from Citizen Lab</li><li><a href="https://securityinabox.org/en/">Security In A Box</a> from Tactical Technical Collective and Front Line Defenders</li></ul>
     ";}
-categories:
+category:
   - 'Tools &amp; Guides'
 
 ---

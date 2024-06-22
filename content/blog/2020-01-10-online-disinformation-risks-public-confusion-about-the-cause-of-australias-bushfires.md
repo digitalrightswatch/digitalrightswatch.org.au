@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2020-01-10T04:18:52+00:00
 url: /2020/01/10/online-disinformation-risks-public-confusion-about-the-cause-of-australias-bushfires/
 featureImage: /wp-content/uploads/2020/01/hamish-weir-aYEUXnVG8tg-unsplash-scaled-1.jpg
-categories:
+category:
   - Media releases
 
 ---

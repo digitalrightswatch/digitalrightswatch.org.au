@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2019-05-10T11:03:26+00:00
 url: /2019/05/10/digital-skills-investment-undermined-by-major-parties-digital-rights-legislation/
 featureImage: /wp-content/uploads/2018/10/33091154720_a8cc890c65_z.jpg
-categories:
+category:
   - Media releases
 
 ---

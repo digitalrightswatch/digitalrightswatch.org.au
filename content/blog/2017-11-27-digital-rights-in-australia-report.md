@@ -5,7 +5,7 @@ date: 2017-11-27T11:53:53+00:00
 excerpt: The University of Sydney have published a report into Digital Rights in Australia, which explores urgent questions about the nature of our rights now and into the future.
 url: /2017/11/27/digital-rights-in-australia-report/
 featureImage: /wp-content/uploads/2017/11/Cover-DigitalRightsReport-723x1024-1.jpg
-categories:
+category:
   - News
 
 ---

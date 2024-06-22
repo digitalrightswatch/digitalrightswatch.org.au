@@ -5,7 +5,7 @@ date: 2016-06-08T14:42:16+00:00
 excerpt: 'Today, Digital Rights Watch joined with nearly 70 organizations from five continents in launched the #KeepitOn campaign to fight internet shutdowns worldwide.'
 url: /2016/06/09/launch-of-global-keepiton-campaign-with-nearly-70-organizations-committing-to-fight-internet-shutdowns/
 featureImage: /wp-content/uploads/2016/06/KeepItOn_Twitter_Banner-1340x260-1.jpg
-categories:
+category:
   - Media releases
 tags:
   - Stopping Internet Shutdowns

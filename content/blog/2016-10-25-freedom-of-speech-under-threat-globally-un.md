@@ -5,7 +5,7 @@ date: 2016-10-24T23:16:38+00:00
 excerpt: New UN report details the widespread global assault on the freedom of expression, including digital rights and access to the internet.
 url: /2016/10/25/freedom-of-speech-under-threat-globally-un/
 featureImage: /wp-content/uploads/2016/10/unitednationswall.jpg
-categories:
+category:
   - News
 
 ---

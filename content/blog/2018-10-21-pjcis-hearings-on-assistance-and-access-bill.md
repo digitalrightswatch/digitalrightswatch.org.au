@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2018-10-20T14:27:55+00:00
 url: /2018/10/21/pjcis-hearings-on-assistance-and-access-bill/
 featureImage: /wp-content/uploads/2018/10/aaaa.jpg
-categories:
+category:
   - News
 tags:
   - encryption

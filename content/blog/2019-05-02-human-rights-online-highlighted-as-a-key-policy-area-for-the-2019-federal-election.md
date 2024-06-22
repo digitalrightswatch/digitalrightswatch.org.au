@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2019-05-01T23:00:59+00:00
 url: /2019/05/02/human-rights-online-highlighted-as-a-key-policy-area-for-the-2019-federal-election/
 featureImage: /wp-content/uploads/2019/01/7651364100_e28b600eb6_b_blue.jpg
-categories:
+category:
   - Media releases
 
 ---

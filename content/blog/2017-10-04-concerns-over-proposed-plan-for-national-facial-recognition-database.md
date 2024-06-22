@@ -5,7 +5,7 @@ date: 2017-10-04T03:23:10+00:00
 excerpt: Digital Rights Watch has expressed deep concerns over proposed plans that would require drivers license photographs to be included in a national facial recognition database.
 url: /2017/10/04/concerns-over-proposed-plan-for-national-facial-recognition-database/
 featureImage: /wp-content/uploads/2017/03/Conference-Program-Image-Test4.png
-categories:
+category:
   - Media releases
 
 ---

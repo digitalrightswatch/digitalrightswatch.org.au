@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2018-09-18T02:09:09+00:00
 url: /2018/09/18/encryption-legislation-being-introduced-to-parliament-ignores-active-consultation/
 featureImage: /wp-content/uploads/2018/08/locks-1000x440-1.jpg
-categories:
+category:
   - Media releases
 tags:
   - encryption

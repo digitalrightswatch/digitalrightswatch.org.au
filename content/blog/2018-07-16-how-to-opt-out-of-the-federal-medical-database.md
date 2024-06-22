@@ -5,7 +5,7 @@ date: 2018-07-16T06:52:44+00:00
 excerpt: From today, you can choose whether or not you will be included in the largest mandatory medical database in Australian history. We're encouraging you to consider opting out.
 url: /2018/07/16/how-to-opt-out-of-the-federal-medical-database/
 featureImage: /wp-content/uploads/2018/07/medical-781422_1280.jpg
-categories:
+category:
   - News
   - Take Action
 tags:

@@ -19,7 +19,7 @@ eg_custom_meta_216:
   - 'true'
 eg_vimeo_ratio:
   - 1
-categories:
+category:
   - Submissions
 tags:
   - Abhorrent Violent Material

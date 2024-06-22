@@ -5,7 +5,7 @@ date: 2016-03-09T13:40:36+00:00
 excerpt: Big data can tell us a lot about the problems and people human rights advocates are working with, but we have to ensure we use this information responsibly. Lizzie O'Shea writes on the Human Rights Opportunities and Challenges Presented by Big Data.
 url: /2016/03/09/big-data-big-opportunities/
 featureImage: /wp-content/uploads/2016/03/6914441342_775b4ab9a7_o.jpg
-categories:
+category:
   - Articles
 
 ---

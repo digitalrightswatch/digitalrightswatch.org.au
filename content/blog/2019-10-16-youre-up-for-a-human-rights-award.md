@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2019-10-16T06:21:47+00:00
 url: /2019/10/16/youre-up-for-a-human-rights-award/
 featureImage: /wp-content/uploads/2019/10/human-rights-award-digital-rights-watch.jpg
-categories:
+category:
   - News
 
 ---

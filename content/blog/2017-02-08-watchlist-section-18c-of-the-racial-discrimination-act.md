@@ -5,7 +5,7 @@ date: 2017-02-08T10:09:48+00:00
 excerpt: "Section 18C of Australia's Racial Discrimination Act makes it unlawful for a person to commit an act that offends, insults, humiliates or intimidates another based-on race on the internet. Why is this so controversial? Allow us to explain."
 url: /2017/02/08/watchlist-section-18c-of-the-racial-discrimination-act/
 featureImage: /wp-content/uploads/2017/02/RDA1-480x229-1.jpg
-categories:
+category:
   - News
 
 ---

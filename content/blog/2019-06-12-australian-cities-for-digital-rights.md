@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2019-06-12T05:05:22+00:00
 url: /2019/06/12/australian-cities-for-digital-rights/
 featureImage: /wp-content/uploads/2019/06/Screen-Shot-2019-06-13-at-3.08.02-pm.png
-categories:
+category:
   - News
 tags:
   - Facial recognition

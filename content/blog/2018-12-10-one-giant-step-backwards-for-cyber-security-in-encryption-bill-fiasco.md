@@ -4,7 +4,7 @@ author: Tim Singleton Norton
 date: 2018-12-10T12:59:45+00:00
 url: /2018/12/10/one-giant-step-backwards-for-cyber-security-in-encryption-bill-fiasco/
 featureImage: /wp-content/uploads/2018/12/89598922bfb5c08b1d3c22ca134f945c1a0bec3a.jpg
-categories:
+category:
   - Articles
 tags:
   - encryption

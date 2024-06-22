@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2019-10-21T22:39:00+00:00
 url: /2019/10/22/whyid-protecting-our-identity-in-the-digital-age/
 featureImage: /wp-content/uploads/2019/11/Screen-Shot-2019-11-19-at-5.37.35-pm.png
-categories:
+category:
   - News
 
 ---

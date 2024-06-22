@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2018-11-27T08:45:41+00:00
 url: /2018/11/27/charities-welcome-new-electoral-laws/
 featureImage: /wp-content/uploads/2018/03/our_charities-01_1_1-scaled.jpg
-categories:
+category:
   - Media releases
 
 ---

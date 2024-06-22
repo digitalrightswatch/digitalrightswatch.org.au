@@ -5,7 +5,7 @@ date: 2017-10-05T04:38:01+00:00
 excerpt: "Australian Attorney General George Brandis has been awarded a 'villain' award in a global digital rights ceremony"
 url: /2017/10/05/attorney-general-george-brandis-declared-villain-by-access-now-for-comments-undermining-encryption/
 featureImage: /wp-content/uploads/2017/10/IMG_5401.jpg
-categories:
+category:
   - Media releases
   - News
 tags:

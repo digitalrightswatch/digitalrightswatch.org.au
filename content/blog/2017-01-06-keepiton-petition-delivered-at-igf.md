@@ -5,7 +5,7 @@ date: 2017-01-06T04:19:33+00:00
 excerpt: 'Today, our friends at Access Now successfully delivered the #KeepitOn petition today at the Internet Governance Forum in Guadalajara, Mexico.'
 url: /2017/01/06/keepiton-petition-delivered-at-igf/
 featureImage: /wp-content/uploads/2017/01/FOC_Delivery_GUS-copy.jpg
-categories:
+category:
   - News
 tags:
   - Stopping Internet Shutdowns

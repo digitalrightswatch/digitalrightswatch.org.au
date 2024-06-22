@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2019-07-14T10:54:21+00:00
 url: /2019/07/14/xconf-australia/
 featureImage: /wp-content/uploads/2019/07/inline_image_desktop-b5d4dc61ea2b64578892c8e5ecd8539b.png
-categories:
+category:
   - News
 
 ---

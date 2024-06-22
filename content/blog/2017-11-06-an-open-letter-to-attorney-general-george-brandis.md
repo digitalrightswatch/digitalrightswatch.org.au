@@ -5,7 +5,7 @@ date: 2017-11-06T04:01:25+00:00
 excerpt: "An open letter in relation to the treatment of peaceful activists protesting United States military operations facilitated by surveillance conducted at Australia's Pine Gap facility."
 url: /2017/11/06/an-open-letter-to-attorney-general-george-brandis/
 featureImage: /wp-content/uploads/2017/11/peace-pilgrims-letter.jpg
-categories:
+category:
   - News
 
 ---

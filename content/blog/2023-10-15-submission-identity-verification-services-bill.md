@@ -19,7 +19,7 @@ eg_soundcloud_ratio:
   - 1
 eg_custom_meta_216:
   - 'true'
-categories:
+category:
   - Submissions
 tags:
   - Identity; digital identity; privacy; biometrics

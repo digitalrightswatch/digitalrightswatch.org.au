@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2019-08-26T00:23:22+00:00
 url: /2019/08/26/doctors-lawyers-and-privacy-experts-denounce-sharing-patient-health-data-for-secondary-use/
 featureImage: /wp-content/uploads/2018/07/medical-781422_1280.jpg
-categories:
+category:
   - Media releases
 
 ---

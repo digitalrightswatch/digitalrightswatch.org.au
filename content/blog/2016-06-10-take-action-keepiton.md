@@ -5,7 +5,7 @@ date: 2016-06-09T14:49:25+00:00
 excerpt: "We've joined forces with Access Now and 70+ other organisations around the world in the #KeepItOn campaign."
 url: /2016/06/10/take-action-keepiton/
 featureImage: /wp-content/uploads/2016/06/KeepItOn_Avatar1.jpg
-categories:
+category:
   - Take Action
 tags:
   - Stopping Internet Shutdowns

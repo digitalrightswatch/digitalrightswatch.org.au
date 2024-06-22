@@ -5,7 +5,7 @@ date: 2016-10-03T23:24:30+00:00
 excerpt: More and more people talk about big data and algorithms to do all sorts of things. What are these concepts and what do they tell us about the world we live in?
 url: /2016/10/04/algorithms-and-big-data/
 featureImage: /wp-content/uploads/2016/10/14557566204_4c674ab019_z.jpg
-categories:
+category:
   - News
 
 ---

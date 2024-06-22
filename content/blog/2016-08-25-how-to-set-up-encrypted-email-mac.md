@@ -5,7 +5,7 @@ date: 2016-08-25T11:54:48+00:00
 excerpt: Setting up end-to-end encryption on your emails is a good start to protecting your privacy from snooping eyes. Access Now have put together a great guide for how to do this on your Mac computer.
 url: /2016/08/25/how-to-set-up-encrypted-email-mac/
 featureImage: /wp-content/uploads/2016/10/macPgpGpgToolsDownload.png
-categories:
+category:
   - 'Tools &amp; Guides'
 tags:
   - encryption

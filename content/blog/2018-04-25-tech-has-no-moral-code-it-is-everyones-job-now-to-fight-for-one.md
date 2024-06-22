@@ -4,7 +4,7 @@ author: "Lizzie O'Shea"
 date: 2018-04-24T23:26:35+00:00
 url: /2018/04/25/tech-has-no-moral-code-it-is-everyones-job-now-to-fight-for-one/
 featureImage: /wp-content/uploads/2018/10/3154.jpg
-categories:
+category:
   - Articles
 
 ---

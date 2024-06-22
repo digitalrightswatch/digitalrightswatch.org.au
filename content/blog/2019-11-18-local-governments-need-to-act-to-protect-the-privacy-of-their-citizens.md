@@ -4,7 +4,7 @@ author: Digital Rights Watch
 date: 2019-11-17T22:07:00+00:00
 url: /2019/11/18/local-governments-need-to-act-to-protect-the-privacy-of-their-citizens/
 featureImage: /wp-content/uploads/2019/10/australian-cities-fordigital-rights-surveillance-facial-recognition-feature-blue.jpg
-categories:
+category:
   - Media releases
 tags:
   - Facial recognition

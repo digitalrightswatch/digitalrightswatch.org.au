@@ -4,7 +4,7 @@ author: David Paris
 date: 2018-03-25T22:08:56+00:00
 url: /2018/03/26/how-do-you-solve-a-problem-like-analytica/
 featureImage: /wp-content/uploads/2018/10/Cambridge-Analytica-header.png
-categories:
+category:
   - Articles
 tags:
   - Cambridge Analytica
