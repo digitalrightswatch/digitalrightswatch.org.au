@@ -8,7 +8,7 @@ theme = "apsho"
   blog = '/:year/:month/:day/:title/'
 
 [taxonomies]
-  category = 'category'
+  category = 'categories'
 
 # Navigation Bar
 [[menu.main]]
