@@ -9,5 +9,10 @@
 <body>
   <!-- Include the script that builds the page and powers Decap CMS -->
   <script src="https://unpkg.com/decap-cms@3.1.0-beta.2/dist/decap-cms.js"></script>
+  <script>
+      CMS.registerPreviewStyle("/themify/themify.css");
+      CMS.registerPreviewStyle("/scss/critical.min.css");
+      CMS.registerPreviewStyle("/scss/non-critical.min.css");
+  </script>
 </body>
 </html>
