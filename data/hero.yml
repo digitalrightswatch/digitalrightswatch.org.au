@@ -7,6 +7,6 @@ description: |
 
   Digital Rights Watch exists to ensure fairness, freedoms and fundamental rights for all people who engage in the digital world.
 buttonName: Available on
-# button1text: Apple Store
-# button2text: Google Play
+button1text:
+button2text:
 image: images/hero/hero-image.svg
