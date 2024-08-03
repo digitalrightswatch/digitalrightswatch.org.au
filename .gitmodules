@@ -1,3 +1,6 @@
 [submodule "themes/apsho"]
 	path = themes/apsho
 	url = https://github.com/digitalrightswatch/hugo-apsho.git
+[submodule "themes/hugo-components-matomo"]
+	path = themes/hugo-components-matomo
+	url = https://github.com/holehan/hugo-components-matomo.git
