@@ -122,6 +122,15 @@ collections: # A list of collections the CMS should be able to edit
   - name: "data_files"
     label: "Data Files"
     files:
+      - file: "data/donate.yml"
+        label: "Donate"
+        name: donate
+        fields:
+          - { label: "Enable", name: "enable", widget: "boolean" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "text" }
+          - { label: "Button Text", name: "buttonText", widget: "string" }
+          - { label: "Button URL", name: "buttonURL", widget: "string" }
       - file: "data/faq.yml"
         label: "FAQs"
         name: faq
