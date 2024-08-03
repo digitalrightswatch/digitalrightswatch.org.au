@@ -51,7 +51,7 @@ This piece of technology is a prime example of "just because you can, doesn't me
 If you are looking to really ingrain some early development capitalism AND surveillance (surveillance capitalism, if you will) into the children in your life, then this is the toy for you. For them. For literally everyone who walks into your home from now on.
 
 <div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/11/Screen-Shot-2020-11-30-at-8.48.25-am-1024x994.png" alt="" class="wp-image-7555" width="220" height="214" srcset="/wp-content/uploads/2020/11/Screen-Shot-2020-11-30-at-8.48.25-am-1024x994.png 1024w, /wp-content/uploads/2020/11/Screen-Shot-2020-11-30-at-8.48.25-am-300x291.png 300w, /wp-content/uploads/2020/11/Screen-Shot-2020-11-30-at-8.48.25-am-768x746.png 768w, /wp-content/uploads/2020/11/Screen-Shot-2020-11-30-at-8.48.25-am.png 1030w" sizes="(max-width: 220px) 100vw, 220px" /><figcaption>Image credit: Amazon</figcaption></figure>
+{{< figure src="/wp-content/uploads/2020/11/Screen-Shot-2020-11-30-at-8.48.25-am.png" >}}
 </div>
 
 _"KidKraft brings the magic of make believe to children through the KidKraft skill for Alexa. Kids and families can interact in a safe, imaginative way using their compatible Echo device, including cooking meals, checking out at the grocery store, playing games and more!"_
@@ -63,7 +63,7 @@ All [the regular concerns about smart speakers][3]—which FYI, cost extra—rem
 #### **Dogness iPet Robot**
 
 <div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/11/Screen-Shot-2020-11-30-at-8.50.56-am-1024x713.png" alt="" class="wp-image-7556" width="205" height="144" srcset="/wp-content/uploads/2020/11/Screen-Shot-2020-11-30-at-8.50.56-am-1024x713.png 1024w, /wp-content/uploads/2020/11/Screen-Shot-2020-11-30-at-8.50.56-am-300x209.png 300w, /wp-content/uploads/2020/11/Screen-Shot-2020-11-30-at-8.50.56-am-768x535.png 768w, /wp-content/uploads/2020/11/Screen-Shot-2020-11-30-at-8.50.56-am.png 1316w" sizes="(max-width: 205px) 100vw, 205px" /><figcaption>Image credit: Dogness</figcaption></figure>
+{{< figure src="/wp-content/uploads/2020/11/Screen-Shot-2020-11-30-at-8.50.56-am.png" >}}
 </div>
 
 Do you know someone who bought a pet on a whim and doesn&#8217;t actually have time to give it the love and attention a living creature deserves? Would they perhaps like having a [small robot][4] with a HD camera with night vision roaming around your house to record <s>anything and everything</s> the adorable antics of the neglected pet? Cool! This one&#8217;s for them.
@@ -101,7 +101,7 @@ We don't think it should be up to individuals to have an information security de
 #### **Tamagotchi**
 
 <div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/11/Screen-Shot-2020-11-30-at-8.53.54-am.png" alt="" class="wp-image-7557" width="135" height="150" srcset="/wp-content/uploads/2020/11/Screen-Shot-2020-11-30-at-8.53.54-am.png 920w, /wp-content/uploads/2020/11/Screen-Shot-2020-11-30-at-8.53.54-am-270x300.png 270w, /wp-content/uploads/2020/11/Screen-Shot-2020-11-30-at-8.53.54-am-768x853.png 768w" sizes="(max-width: 135px) 100vw, 135px" /><figcaption>Image credit: Bandai</figcaption></figure>
+{{< figure src="/wp-content/uploads/2020/11/Screen-Shot-2020-11-30-at-8.53.54-am.png" >}}
 </div>
 
 Stephen King once said, "sooner or later, everything old is <s>cool</s> new again." So it's about time the Tamagotchi makes a comeback!
@@ -121,7 +121,7 @@ You can read about the benefits of a VPN [here][7], and the importance of a priv
 #### **Donate to Digital Rights Watch**
 
 <div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><a href="https://digitalrightswatch.org.au/donate/"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/09/DRWLogo_white_square_w_crowd-1024x1024.jpg" alt="" class="wp-image-7139" width="103" height="103" srcset="/wp-content/uploads/2020/09/DRWLogo_white_square_w_crowd-1024x1024.jpg 1024w, /wp-content/uploads/2020/09/DRWLogo_white_square_w_crowd-300x300.jpg 300w, /wp-content/uploads/2020/09/DRWLogo_white_square_w_crowd-150x150.jpg 150w, /wp-content/uploads/2020/09/DRWLogo_white_square_w_crowd-768x768.jpg 768w, /wp-content/uploads/2020/09/DRWLogo_white_square_w_crowd-1536x1536.jpg 1536w, /wp-content/uploads/2020/09/DRWLogo_white_square_w_crowd.jpg 1772w" sizes="(max-width: 103px) 100vw, 103px" /></a></figure>
+{{< figure src="/wp-content/uploads/2020/09/DRWLogo_white_square_w_crowd.jpg" >}}
 </div>
 
 Yes, yes, we know, we are shamelessly plugging ourselves in this post. But hey, what better way to tell someone you care about them by supporting a civil society organisation that actively fights for their rights all year round?

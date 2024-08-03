@@ -44,7 +44,7 @@ There are two easy ways to do this:
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-15 wp-block-columns-is-layout-flex">
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
-    <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="515" height="1024" src="/wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.11.04-pm-1-515x1024.png" alt="" class="wp-image-8668" srcset="/wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.11.04-pm-1-515x1024.png 515w, /wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.11.04-pm-1-151x300.png 151w, /wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.11.04-pm-1-768x1526.png 768w, /wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.11.04-pm-1-773x1536.png 773w, /wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.11.04-pm-1.png 904w" sizes="(max-width: 515px) 100vw, 515px" /></figure>
+{{< figure src="/wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.11.04-pm-1.png" >}}
   </div>
 
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
@@ -70,7 +70,7 @@ There are two easy ways to do this:
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-16 wp-block-columns-is-layout-flex">
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
-    <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="512" height="1024" src="/wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.11.10-pm-512x1024.png" alt="" class="wp-image-8667" srcset="/wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.11.10-pm-512x1024.png 512w, /wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.11.10-pm-150x300.png 150w, /wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.11.10-pm-768x1536.png 768w, /wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.11.10-pm.png 894w" sizes="(max-width: 512px) 100vw, 512px" /></figure>
+{{< figure src="/wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.11.10-pm.png" >}}
   </div>
 
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
@@ -107,11 +107,11 @@ Here are some wonderful examples provided by Hiero Badge:<figure class="wp-block
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-17 wp-block-columns-is-layout-flex">
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-    <figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.07.37-pm-902x1024.png" alt="" class="wp-image-8663" width="392" height="445" srcset="/wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.07.37-pm-902x1024.png 902w, /wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.07.37-pm-264x300.png 264w, /wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.07.37-pm-768x872.png 768w, /wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.07.37-pm.png 1152w" sizes="(max-width: 392px) 100vw, 392px" /></figure>
+{{< figure src="/wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.07.37-pm.png" >}}
   </div>
 
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-    <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="839" height="1024" src="/wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.07.24-pm-1-839x1024.png" alt="" class="wp-image-8665" srcset="/wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.07.24-pm-1-839x1024.png 839w, /wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.07.24-pm-1-246x300.png 246w, /wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.07.24-pm-1-768x937.png 768w, /wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.07.24-pm-1.png 1142w" sizes="(max-width: 839px) 100vw, 839px" /></figure>
+{{< figure src="/wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.07.24-pm-1.png" >}}
   </div>
 </div>
 

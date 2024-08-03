@@ -26,7 +26,7 @@ category:
 As we wind up 2021 and distract ourselves with family and friends, it is―as per the Australian government's worst tradition―the season for under the radar policy changes.
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-04-1024x366.png" alt="" class="wp-image-7295" width="360" height="128" srcset="/wp-content/uploads/2020/10/Email_headers_highres-04-1024x366.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-04-300x107.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-04-768x275.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-04.png 1168w" sizes="(max-width: 360px) 100vw, 360px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/Email_headers_highres-04.png" >}}
 </div>
 
 #### **Anonym****ity―w****hy it matters**
@@ -52,7 +52,7 @@ The main feature of the Online Privacy Bill is a strong focus on children's priv
 Now, we agree that children's privacy is important. But we also think that the best way to protect kids online is to improve privacy protections for _everyone._ Age verification introduces __privacy and security risk, which goes against the very goal of the draft bill. Stay tuned for more from us on this. <a href="https://u1584542.ct.sendgrid.net/ss/c/Mqag7sW8TIW-nixyBdulQjLX13aJrTakH9p9ey6O-ZEHPBEq3hdfure0I8i9AktEzQ_2CGCPr4J9GkyWosonoH5mpNxUdMSu5jJgIBUjTLTzLav4o27lp6IQP9b0AeR9SgCTW3e9_BnSFLPJnLX2S4ywGcmlVrjJuZZtmZJsvAkcHN4YWGBIuTNP-aSqvIrnZho0n7wOe4OUuVAAo8ocbxYkKmIfC_pXTBNp-QZbwjLSoAoTfDRlwz-eCeYoouMbwbkb-4RwnW8uGD9GvoOwlFpoDs07ZfS9wsgjQ_03-iftW33xEvPkqGIkojpXRVT5tlowYzs-NVSlEdwWqmN-w73tZMmOZX-J7pNtj2VsVe6knQTZ0eD_o2KSmC8v6S2_FxCn3KVuJ9IdLnn1sROacw7YvQ9W_TFdJDPkuKUMOWR7O6Jej5WkgASaC3fAcpEX/3hg/MiBQS1pFSdaX-9_LuhArOA/h6/yu50KeUTBmkqMZTUOBhdzZwjQlTR5X8tl8ly1boRWxQ" target="_blank" rel="noreferrer noopener">Submissions on the draft are due 10 December.</a>
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png" alt="" class="wp-image-7296" width="424" height="128" srcset="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-01-300x91.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-01-768x233.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-01.png 1376w" sizes="(max-width: 424px) 100vw, 424px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/Email_headers_highres-01.png" >}}
 </div>
 
 #### **What Digital Rights Watch has been up to over the past month&#8230;**
@@ -65,7 +65,7 @@ Now, we agree that children's privacy is important. But we also think that the b
   * As always, Lizzie has been joining the fortnightly Burning Platforms. This month included a chat with <a href="https://u1584542.ct.sendgrid.net/ss/c/atcYNHk4Eh2YdGnwBh-YDGPAHpOHpqATgY5qrC-ZkjbHmRFyvB60vx1jk9VZdEGKzJMiLphpz2oznxUZZxLTkQq3q2ewt0SGh-WjkP84YgONWzBidimVyx9_s2Ayc_CjHEwygqMxdFsMiJmYIvelm-6NygORZefp05635peG8ntHVeBZQiViq0PRCvie96oq9uQRoN6iwy4vaioY1AOMKU3yH-J36Q_XWLoDAqz5DTUnA5Ed149D088vNu8hq1YKmdd98SOPEJbloEXUdWd9e2o2JovOuFE4Qm6TUGMgLekXTzMPlnPDc_yMi05RUjPB-VvTe03yM0RjqqYdOoFv9_dhm1tijQFa9zAVXqYtsJg_-tnDvKSu8sxeyW2BxNx3BgEHuicQl9qlCPLEAIsulXXUW9QSdJ0sTj2ZrrQsRoH-JGlw2_zfCnVX7Prf29p7/3hg/MiBQS1pFSdaX-9_LuhArOA/h14/6QwyWYVsInnzJmMYEM3xz49FJyxRG1dGsX4mGi5IAO0" target="_blank" rel="noreferrer noopener">DuckDuckGo about Google's dominance online.</a>
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/09/Email_headers_highres-06-1024x342.png" alt="" class="wp-image-7275" width="384" height="128" srcset="/wp-content/uploads/2020/09/Email_headers_highres-06-1024x342.png 1024w, /wp-content/uploads/2020/09/Email_headers_highres-06-300x100.png 300w, /wp-content/uploads/2020/09/Email_headers_highres-06-768x257.png 768w, /wp-content/uploads/2020/09/Email_headers_highres-06.png 1250w" sizes="(max-width: 384px) 100vw, 384px" /></figure>
+{{< figure src="/wp-content/uploads/2020/09/Email_headers_highres-06.png" >}}
 </div>
 
 #### **Don't miss out—mark these upcoming events in your calendar!**

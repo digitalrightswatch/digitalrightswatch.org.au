@@ -45,7 +45,7 @@ The Government have jumped the gun, and introduced the Bill into Parliament with
 The Bill is before the Parliamentary Joint Committee on Intelligence and Security, who will be looking at it in detail over the coming weeks. This is our opportunity to make it clear to our MPs that we do not support this attempt to break encryption and violate our privacy.
 
 <div class="wp-block-image">
-  <figure class="aligncenter"><img loading="lazy" decoding="async" width="860" height="218" src="/wp-content/uploads/2018/10/LaborCommittee.jpg" alt="Call your Labor MP" class="wp-image-1332" srcset="/wp-content/uploads/2018/10/LaborCommittee.jpg 860w, /wp-content/uploads/2018/10/LaborCommittee-300x76.jpg 300w, /wp-content/uploads/2018/10/LaborCommittee-768x195.jpg 768w" sizes="(max-width: 860px) 100vw, 860px" /></figure>
+{{< figure src="/wp-content/uploads/2018/10/LaborCommittee.jpg" >}}
 </div>
 
 We need the Labor opposition to stop this Bill becoming law.  **Can you take 5 minutes to call your Labor MP now?**

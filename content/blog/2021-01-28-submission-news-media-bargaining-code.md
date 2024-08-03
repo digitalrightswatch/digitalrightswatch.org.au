@@ -36,28 +36,28 @@ Summary of recommendations:
 
 <ul class="blocks-gallery-grid">
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/09/MEDIACODE-01-3-1024x1024.png" alt="" data-id="7235" data-full-url="/wp-content/uploads/2020/09/MEDIACODE-01-3.png" data-link="https://digitalrightswatch.org.au/2020/09/15/blog-the-news-media-bargaining-code-is-not-fit-for-any-purpose/mediacode-01-3/" class="wp-image-7235" srcset="/wp-content/uploads/2020/09/MEDIACODE-01-3-1024x1024.png 1024w, /wp-content/uploads/2020/09/MEDIACODE-01-3-300x300.png 300w, /wp-content/uploads/2020/09/MEDIACODE-01-3-150x150.png 150w, /wp-content/uploads/2020/09/MEDIACODE-01-3-768x768.png 768w, /wp-content/uploads/2020/09/MEDIACODE-01-3.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/09/MEDIACODE-01-3.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/09/MEDIACODE-02-1-1024x1024.png" alt="" data-id="7225" data-full-url="/wp-content/uploads/2020/09/MEDIACODE-02-1.png" data-link="https://digitalrightswatch.org.au/2020/09/15/blog-the-news-media-bargaining-code-is-not-fit-for-any-purpose/mediacode-02-1/" class="wp-image-7225" srcset="/wp-content/uploads/2020/09/MEDIACODE-02-1-1024x1024.png 1024w, /wp-content/uploads/2020/09/MEDIACODE-02-1-300x300.png 300w, /wp-content/uploads/2020/09/MEDIACODE-02-1-150x150.png 150w, /wp-content/uploads/2020/09/MEDIACODE-02-1-768x768.png 768w, /wp-content/uploads/2020/09/MEDIACODE-02-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/09/MEDIACODE-02-1.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/09/MEDIACODE-03-1-1024x1024.png" alt="" data-id="7226" data-full-url="/wp-content/uploads/2020/09/MEDIACODE-03-1.png" data-link="https://digitalrightswatch.org.au/2020/09/15/blog-the-news-media-bargaining-code-is-not-fit-for-any-purpose/mediacode-03-1/" class="wp-image-7226" srcset="/wp-content/uploads/2020/09/MEDIACODE-03-1-1024x1024.png 1024w, /wp-content/uploads/2020/09/MEDIACODE-03-1-300x300.png 300w, /wp-content/uploads/2020/09/MEDIACODE-03-1-150x150.png 150w, /wp-content/uploads/2020/09/MEDIACODE-03-1-768x768.png 768w, /wp-content/uploads/2020/09/MEDIACODE-03-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/09/MEDIACODE-03-1.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/09/MEDIACODE-04-1024x1024.png" alt="" data-id="7227" data-full-url="/wp-content/uploads/2020/09/MEDIACODE-04.png" data-link="https://digitalrightswatch.org.au/2020/09/15/blog-the-news-media-bargaining-code-is-not-fit-for-any-purpose/mediacode-04/" class="wp-image-7227" srcset="/wp-content/uploads/2020/09/MEDIACODE-04-1024x1024.png 1024w, /wp-content/uploads/2020/09/MEDIACODE-04-300x300.png 300w, /wp-content/uploads/2020/09/MEDIACODE-04-150x150.png 150w, /wp-content/uploads/2020/09/MEDIACODE-04-768x768.png 768w, /wp-content/uploads/2020/09/MEDIACODE-04.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/09/MEDIACODE-04.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/09/MEDIACODE-05-1024x1024.png" alt="" data-id="7229" data-full-url="/wp-content/uploads/2020/09/MEDIACODE-05.png" data-link="https://digitalrightswatch.org.au/2020/09/15/blog-the-news-media-bargaining-code-is-not-fit-for-any-purpose/mediacode-05/" class="wp-image-7229" srcset="/wp-content/uploads/2020/09/MEDIACODE-05-1024x1024.png 1024w, /wp-content/uploads/2020/09/MEDIACODE-05-300x300.png 300w, /wp-content/uploads/2020/09/MEDIACODE-05-150x150.png 150w, /wp-content/uploads/2020/09/MEDIACODE-05-768x768.png 768w, /wp-content/uploads/2020/09/MEDIACODE-05.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/09/MEDIACODE-05.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/09/MEDIACODE-06-1024x1024.png" alt="" data-id="7230" data-full-url="/wp-content/uploads/2020/09/MEDIACODE-06.png" data-link="https://digitalrightswatch.org.au/2020/09/15/blog-the-news-media-bargaining-code-is-not-fit-for-any-purpose/mediacode-06/" class="wp-image-7230" srcset="/wp-content/uploads/2020/09/MEDIACODE-06-1024x1024.png 1024w, /wp-content/uploads/2020/09/MEDIACODE-06-300x300.png 300w, /wp-content/uploads/2020/09/MEDIACODE-06-150x150.png 150w, /wp-content/uploads/2020/09/MEDIACODE-06-768x768.png 768w, /wp-content/uploads/2020/09/MEDIACODE-06.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/09/MEDIACODE-06.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/09/MEDIACODE-07-1024x1024.png" alt="" data-id="7231" data-full-url="/wp-content/uploads/2020/09/MEDIACODE-07.png" data-link="https://digitalrightswatch.org.au/2020/09/15/blog-the-news-media-bargaining-code-is-not-fit-for-any-purpose/mediacode-07/" class="wp-image-7231" srcset="/wp-content/uploads/2020/09/MEDIACODE-07-1024x1024.png 1024w, /wp-content/uploads/2020/09/MEDIACODE-07-300x300.png 300w, /wp-content/uploads/2020/09/MEDIACODE-07-150x150.png 150w, /wp-content/uploads/2020/09/MEDIACODE-07-768x768.png 768w, /wp-content/uploads/2020/09/MEDIACODE-07.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/09/MEDIACODE-07.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/09/MEDIACODE-08-1024x1024.png" alt="" data-id="7232" data-full-url="/wp-content/uploads/2020/09/MEDIACODE-08.png" data-link="https://digitalrightswatch.org.au/2020/09/15/blog-the-news-media-bargaining-code-is-not-fit-for-any-purpose/mediacode-08/" class="wp-image-7232" srcset="/wp-content/uploads/2020/09/MEDIACODE-08-1024x1024.png 1024w, /wp-content/uploads/2020/09/MEDIACODE-08-300x300.png 300w, /wp-content/uploads/2020/09/MEDIACODE-08-150x150.png 150w, /wp-content/uploads/2020/09/MEDIACODE-08-768x768.png 768w, /wp-content/uploads/2020/09/MEDIACODE-08.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/09/MEDIACODE-08.png" >}}
   </li>
 </ul></figure>
 

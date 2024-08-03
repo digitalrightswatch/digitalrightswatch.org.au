@@ -30,7 +30,7 @@ tags:
 We're back for another edition of our monthly Digital Rights Watch update! We've been keeping busy building out our campaigns and movement―did you notice even [our website][1] got a little makeover?
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-04-1-1024x366.png" alt="" class="wp-image-7494" width="375" height="134" srcset="/wp-content/uploads/2020/10/Email_headers_highres-04-1-1024x366.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-04-1-300x107.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-04-1-768x275.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-04-1.png 1168w" sizes="(max-width: 375px) 100vw, 375px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/Email_headers_highres-04-1.png" >}}
 </div>
 
 **Five eyes have their eye(s) on encryption (still)**
@@ -44,7 +44,7 @@ The long awaited Parliamentary report reviewing Australia's controversial data r
 For more details on our demands of the review you can head to the 2019 [submission][6] we made to the inquiry with our friends at Human Rights Law Centre (HRLC) and Access Now. The next question is, what will the Aus government do with the recommendations in the report?
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png" alt="" class="wp-image-7296" width="449" height="136" srcset="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-01-300x91.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-01-768x233.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-01.png 1376w" sizes="(max-width: 449px) 100vw, 449px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/Email_headers_highres-01.png" >}}
 </div>
 
 **What Digital Rights Watch has been up to**
@@ -59,7 +59,7 @@ For more details on our demands of the review you can head to the 2019 [submissi
   * And of course, if you've read the previous few monthly roundups you know that Sama loves to talk about TikTok. You can catch her talking about the political power of TikTok in the lead up to the US election in this SBS News video [here][17].
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-06-1024x342.png" alt="" class="wp-image-7298" width="415" height="138" srcset="/wp-content/uploads/2020/10/Email_headers_highres-06-1024x342.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-06-300x100.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-06-768x257.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-06.png 1250w" sizes="(max-width: 415px) 100vw, 415px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/Email_headers_highres-06.png" >}}
 </div>
 
 **Don&#8217;t miss out, mark these in your calendar!**

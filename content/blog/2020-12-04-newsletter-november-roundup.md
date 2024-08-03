@@ -38,7 +38,7 @@ _We are looking forward to a brighter 2021, a year in which we have big plans to
 </p>
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-04-1-1024x366.png" alt="" class="wp-image-7494" width="375" height="134" srcset="/wp-content/uploads/2020/10/Email_headers_highres-04-1-1024x366.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-04-1-300x107.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-04-1-768x275.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-04-1.png 1168w" sizes="(max-width: 375px) 100vw, 375px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/Email_headers_highres-04-1.png" >}}
 </div>
 
 **The long awaited review of The Privacy Act!**
@@ -62,7 +62,7 @@ We think that normalising the use of QR codes without also educating the public 
 The Digital Transformation Agency has kicked off a [public consultation on proposed laws for the government's digital identity platform][10]. We want to emphasise that digital identity is a human rights issue! The potential benefits of a robust and secure identity system are real, but we need our government to put our rights ahead of the private sector, and ensure that people are not forced to trade their rights for convenience as part of a digitisation initiative. You can find more information on our Twitter and [Instagram][11]. Submissions are due on the 18th of December.
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png" alt="" class="wp-image-7296" width="449" height="136" srcset="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-01-300x91.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-01-768x233.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-01.png 1376w" sizes="(max-width: 449px) 100vw, 449px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/Email_headers_highres-01.png" >}}
 </div>
 
 **What Digital Rights Watch has been up to** **this month&#8230;**

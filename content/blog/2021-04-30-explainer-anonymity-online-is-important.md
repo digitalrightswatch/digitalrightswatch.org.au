@@ -30,10 +30,10 @@ tags:
 
 <ul class="blocks-gallery-grid">
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/05/anonymity-1024x1024.png" alt="" data-id="7798" data-link="https://digitalrightswatch.org.au/2021/04/30/explainer-anonymity-online-is-important/anonymity/" class="wp-image-7798" srcset="/wp-content/uploads/2021/05/anonymity-1024x1024.png 1024w, /wp-content/uploads/2021/05/anonymity-300x300.png 300w, /wp-content/uploads/2021/05/anonymity-150x150.png 150w, /wp-content/uploads/2021/05/anonymity-768x768.png 768w, /wp-content/uploads/2021/05/anonymity-1536x1536.png 1536w, /wp-content/uploads/2021/05/anonymity.png 1620w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/05/anonymity.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/05/5-1024x1024.png" alt="" data-id="7799" data-full-url="/wp-content/uploads/2021/05/5.png" data-link="https://digitalrightswatch.org.au/2021/04/30/explainer-anonymity-online-is-important/5-2/" class="wp-image-7799" srcset="/wp-content/uploads/2021/05/5-1024x1024.png 1024w, /wp-content/uploads/2021/05/5-300x300.png 300w, /wp-content/uploads/2021/05/5-150x150.png 150w, /wp-content/uploads/2021/05/5-768x768.png 768w, /wp-content/uploads/2021/05/5-1536x1536.png 1536w, /wp-content/uploads/2021/05/5.png 1620w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/05/5.png" >}}
   </li>
 </ul></figure>
 
@@ -48,7 +48,7 @@ If you follow our work, you will not be surprised to find out that the Australia
 The most recent shiny idea that was floated [from the government][3] is that in order to bring accountability to domestic violence and sexual abuse, and reduce their occurence, social media users should be required to submit 100 points of ID to digital platforms. This is a new spin, but similar measures have previously been floated as a means to reduce other types of cyber harm (bullying, spread of misinfo, defamation). Once again this reignited a discussion about mandating a "real name policy" which would mean everyone has to use their full name across social media. Well, there's a lot wrong here which we can unpack.
 
 <div class="wp-block-image">
-  <figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2021/05/2-1024x1024.png" alt="" class="wp-image-7794" width="409" height="409" srcset="/wp-content/uploads/2021/05/2-1024x1024.png 1024w, /wp-content/uploads/2021/05/2-300x300.png 300w, /wp-content/uploads/2021/05/2-150x150.png 150w, /wp-content/uploads/2021/05/2-768x768.png 768w, /wp-content/uploads/2021/05/2-1536x1536.png 1536w, /wp-content/uploads/2021/05/2.png 1620w" sizes="(max-width: 409px) 100vw, 409px" /></figure>
+{{< figure src="/wp-content/uploads/2021/05/2.png" >}}
 </div>
 
 But before we get into the details here, let us get out of the way that ANONYMITY IS ABSOLUTELY ESSENTIAL for the free and open internet to function. We cannot [glorify the Arab Spring protests][4] and the might that social media has given to [social movements at critical points in time][5], and then immediately turn around and remove every component which made those movements possible. Of course that is indeed what governments, and many of those in power want, because that is precisely the sort of movement-building capability they don't want individuals to wield. Studies have shown that anonymity is central in enabling individuals to speak up and speak out.
@@ -64,7 +64,7 @@ It was almost surreal to watch the news media report on one of the [biggest brea
 **Anonymity is a (contested) building block of the free and open internet**
 
 <div class="wp-block-image">
-  <figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2021/05/4-1024x1024.png" alt="" class="wp-image-7796" width="423" height="423" srcset="/wp-content/uploads/2021/05/4-1024x1024.png 1024w, /wp-content/uploads/2021/05/4-300x300.png 300w, /wp-content/uploads/2021/05/4-150x150.png 150w, /wp-content/uploads/2021/05/4-768x768.png 768w, /wp-content/uploads/2021/05/4-1536x1536.png 1536w, /wp-content/uploads/2021/05/4.png 1620w" sizes="(max-width: 423px) 100vw, 423px" /></figure>
+{{< figure src="/wp-content/uploads/2021/05/4.png" >}}
 </div>
 
 [In his 2015 report to the United Nations General Assembly][10], David Kaye, former Special Rapporteur on Freedom of Expression, studied the use of encryption and anonymity in digital communications. The report concluded that encryption and anonymity act as key enablers for individuals to exercise their rights to freedom of opinion and expression in the digital age and, as such, deserve strong protection.
@@ -80,7 +80,7 @@ Australia has had its own struggle with what data about us online is subject to 
 We note that the government's 100 ID points proposal doesn't necessarily require a real name policy, however, tying identity documents to any identity increases the likelihood of that information being linked. Digital platforms continue to hemorrhage our personal data in massive leaks (with impunity), and the end effect not only risks de-anonymizing individuals, but also leaking additional private information like addresses, phone numbers, birthdays… every piece of information stored on the identification documents which were submitted. **The proposal essentially doubles down on creating risk and vulnerabilities for individuals.**
 
 <div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2021/05/3-1024x1024.png" alt="" class="wp-image-7795" width="376" height="376" srcset="/wp-content/uploads/2021/05/3-1024x1024.png 1024w, /wp-content/uploads/2021/05/3-300x300.png 300w, /wp-content/uploads/2021/05/3-150x150.png 150w, /wp-content/uploads/2021/05/3-768x768.png 768w, /wp-content/uploads/2021/05/3-1536x1536.png 1536w, /wp-content/uploads/2021/05/3.png 1620w" sizes="(max-width: 376px) 100vw, 376px" /></figure>
+{{< figure src="/wp-content/uploads/2021/05/3.png" >}}
 </div>
 
 Those who use or want to use pseudonyms, are not a small minority. Almost half of the population belongs to a social group that can benefit from pseudonyms. The most cited examples are victim-survivors of domestic violence who are hiding from their abuser—and it's a strong example because there is [a shocking amount of people][15] victim to domestic violence in Australia. But the category is a lot broader and includes children and teens exploring their identities, journalists, political dissidents and activists… [the list is long][16].

@@ -29,21 +29,21 @@ tags:
 ---
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-11 wp-block-columns-is-layout-flex">
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-    <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2022/01/privacy-reform-tiles-1-1024x1024.png" alt="" class="wp-image-8221" srcset="/wp-content/uploads/2022/01/privacy-reform-tiles-1-1024x1024.png 1024w, /wp-content/uploads/2022/01/privacy-reform-tiles-1-300x300.png 300w, /wp-content/uploads/2022/01/privacy-reform-tiles-1-150x150.png 150w, /wp-content/uploads/2022/01/privacy-reform-tiles-1-768x768.png 768w, /wp-content/uploads/2022/01/privacy-reform-tiles-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2022/01/privacy-reform-tiles-1.png" >}}
   </div>
 
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-    <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2022/01/2-1-1024x1024.png" alt="" class="wp-image-8223" srcset="/wp-content/uploads/2022/01/2-1-1024x1024.png 1024w, /wp-content/uploads/2022/01/2-1-300x300.png 300w, /wp-content/uploads/2022/01/2-1-150x150.png 150w, /wp-content/uploads/2022/01/2-1-768x768.png 768w, /wp-content/uploads/2022/01/2-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2022/01/2-1.png" >}}
   </div>
 </div>
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-12 wp-block-columns-is-layout-flex">
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-    <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2022/01/3-2-1024x1024.png" alt="" class="wp-image-8231" srcset="/wp-content/uploads/2022/01/3-2-1024x1024.png 1024w, /wp-content/uploads/2022/01/3-2-300x300.png 300w, /wp-content/uploads/2022/01/3-2-150x150.png 150w, /wp-content/uploads/2022/01/3-2-768x768.png 768w, /wp-content/uploads/2022/01/3-2.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2022/01/3-2.png" >}}
   </div>
 
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-    <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1080" height="1080" src="/wp-content/uploads/2022/01/4-1024x1024.png" alt="" class="wp-image-8233" srcset="/wp-content/uploads/2022/01/4-1024x1024.png 1024w, /wp-content/uploads/2022/01/4-300x300.png 300w, /wp-content/uploads/2022/01/4-150x150.png 150w, /wp-content/uploads/2022/01/4-768x768.png 768w, /wp-content/uploads/2022/01/4.png 1080w" sizes="(max-width: 1080px) 100vw, 1080px" /></figure>
+{{< figure src="/wp-content/uploads/2022/01/4.png" >}}
   </div>
 </div>
 
@@ -76,7 +76,7 @@ All excellent questions. So, let's go over how this all stacks up together… It
   </div>
 
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
-    <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2022/01/8-1024x1024.png" alt="" class="wp-image-8237" srcset="/wp-content/uploads/2022/01/8-1024x1024.png 1024w, /wp-content/uploads/2022/01/8-300x300.png 300w, /wp-content/uploads/2022/01/8-150x150.png 150w, /wp-content/uploads/2022/01/8-768x768.png 768w, /wp-content/uploads/2022/01/8.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2022/01/8.png" >}}
   </div>
 </div>
 
@@ -92,15 +92,15 @@ At the moment it's being presented as a complementary legislative instrument to 
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-14 wp-block-columns-is-layout-flex">
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-    <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2022/01/5-1024x1024.png" alt="" class="wp-image-8234" srcset="/wp-content/uploads/2022/01/5-1024x1024.png 1024w, /wp-content/uploads/2022/01/5-300x300.png 300w, /wp-content/uploads/2022/01/5-150x150.png 150w, /wp-content/uploads/2022/01/5-768x768.png 768w, /wp-content/uploads/2022/01/5.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2022/01/5.png" >}}
   </div>
 
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-    <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2022/01/6-1024x1024.png" alt="" class="wp-image-8235" srcset="/wp-content/uploads/2022/01/6-1024x1024.png 1024w, /wp-content/uploads/2022/01/6-300x300.png 300w, /wp-content/uploads/2022/01/6-150x150.png 150w, /wp-content/uploads/2022/01/6-768x768.png 768w, /wp-content/uploads/2022/01/6.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2022/01/6.png" >}}
   </div>
 
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-    <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2022/01/7-1024x1024.png" alt="" class="wp-image-8236" srcset="/wp-content/uploads/2022/01/7-1024x1024.png 1024w, /wp-content/uploads/2022/01/7-300x300.png 300w, /wp-content/uploads/2022/01/7-150x150.png 150w, /wp-content/uploads/2022/01/7-768x768.png 768w, /wp-content/uploads/2022/01/7.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2022/01/7.png" >}}
   </div>
 </div>
 

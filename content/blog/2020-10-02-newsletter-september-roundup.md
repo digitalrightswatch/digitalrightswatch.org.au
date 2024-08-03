@@ -45,7 +45,7 @@ In the end, Oracle, the relatively old-school database software company, has eme
 From our perspective, too much of this conversation has been around which tech giant (and which government) gets to consolidate more power, rather than grappling with the actual problems created by the underlying data-hungry, privacy-invasive models these platforms are run on.
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png" alt="" class="wp-image-7296" width="412" height="124" srcset="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-01-300x91.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-01-768x233.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-01.png 1376w" sizes="(max-width: 412px) 100vw, 412px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/Email_headers_highres-01.png" >}}
 </div>
 
 **What Digital Rights Watch has been up to**
@@ -57,7 +57,7 @@ From our perspective, too much of this conversation has been around which tech g
   * We officially launched our Digital Rights Cities campaign! See below for more details and how you can be involved!
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-06-1024x342.png" alt="" class="wp-image-7298" width="400" height="133" srcset="/wp-content/uploads/2020/10/Email_headers_highres-06-1024x342.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-06-300x100.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-06-768x257.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-06.png 1250w" sizes="(max-width: 400px) 100vw, 400px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/Email_headers_highres-06.png" >}}
 </div>
 
 **Don&#8217;t miss out, mark these in your calendar!**

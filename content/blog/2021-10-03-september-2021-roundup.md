@@ -27,7 +27,7 @@ tags:
 
 ---
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-04-1024x366.png" alt="" class="wp-image-7295" width="360" height="128" srcset="/wp-content/uploads/2020/10/Email_headers_highres-04-1024x366.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-04-300x107.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-04-768x275.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-04.png 1168w" sizes="(max-width: 360px) 100vw, 360px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/Email_headers_highres-04.png" >}}
 </div>
 
 **Identity and Disrupt petition hits 125+k**
@@ -45,7 +45,7 @@ The eSafety Commissioner's Basic Online Safety Expectations (BOSE) will outline 
 If you're curious, you can read more about our concerns in [this explainer][3] or in our initial [submission][4]. Justin Warren from EFA has done an [initial exploration][5] into the proposed BOSE for more info, and **this Thursday at 6pm AEST** **we will be joining him to host a workshop on how to write a submission** on this topic! We will send a link to join on the night. [Submissions are due 12 November][6].
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png" alt="" class="wp-image-7296" width="424" height="128" srcset="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-01-300x91.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-01-768x233.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-01.png 1376w" sizes="(max-width: 424px) 100vw, 424px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/Email_headers_highres-01.png" >}}
 </div>
 
 #### **What Digital Rights Watch has been up to over the past month&#8230;**
@@ -58,7 +58,7 @@ If you're curious, you can read more about our concerns in [this explainer][3] o
   * Our Board Member Lauren Kelly spoke with the [ABC][17] about supermarket automation and what it means for workers—an extremely important topic as the pandemic rolls on!
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/09/Email_headers_highres-06-1024x342.png" alt="" class="wp-image-7275" width="384" height="128" srcset="/wp-content/uploads/2020/09/Email_headers_highres-06-1024x342.png 1024w, /wp-content/uploads/2020/09/Email_headers_highres-06-300x100.png 300w, /wp-content/uploads/2020/09/Email_headers_highres-06-768x257.png 768w, /wp-content/uploads/2020/09/Email_headers_highres-06.png 1250w" sizes="(max-width: 384px) 100vw, 384px" /></figure>
+{{< figure src="/wp-content/uploads/2020/09/Email_headers_highres-06.png" >}}
 </div>
 
 #### **Don't miss out—mark these upcoming events in your calendar!**

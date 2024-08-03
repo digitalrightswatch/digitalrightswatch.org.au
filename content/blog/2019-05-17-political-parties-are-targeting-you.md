@@ -17,16 +17,16 @@ We used Facebook&#8217;s own targeting algorithms to identify certain people, an
 
 <ul class="wp-block-gallery columns-3 is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="806" height="730" src="/wp-content/uploads/2019/05/Screen-Shot-2019-05-15-at-10.49.26-am.png" alt="" data-id="1615" data-link="https://digitalrightswatch.org.au/?attachment_id=1615" class="wp-image-1615" srcset="/wp-content/uploads/2019/05/Screen-Shot-2019-05-15-at-10.49.26-am.png 806w, /wp-content/uploads/2019/05/Screen-Shot-2019-05-15-at-10.49.26-am-300x272.png 300w, /wp-content/uploads/2019/05/Screen-Shot-2019-05-15-at-10.49.26-am-768x696.png 768w" sizes="(max-width: 806px) 100vw, 806px" /></figure>
+{{< figure src="/wp-content/uploads/2019/05/Screen-Shot-2019-05-15-at-10.49.26-am.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="768" height="668" src="/wp-content/uploads/2019/05/Screen-Shot-2019-05-15-at-10.56.41-am.png" alt="" data-id="1616" data-link="https://digitalrightswatch.org.au/?attachment_id=1616" class="wp-image-1616" srcset="/wp-content/uploads/2019/05/Screen-Shot-2019-05-15-at-10.56.41-am.png 768w, /wp-content/uploads/2019/05/Screen-Shot-2019-05-15-at-10.56.41-am-300x261.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+{{< figure src="/wp-content/uploads/2019/05/Screen-Shot-2019-05-15-at-10.56.41-am.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="768" height="680" src="/wp-content/uploads/2019/05/Screen-Shot-2019-05-15-at-11.59.16-am.png" alt="" data-id="1617" data-link="https://digitalrightswatch.org.au/?attachment_id=1617" class="wp-image-1617" srcset="/wp-content/uploads/2019/05/Screen-Shot-2019-05-15-at-11.59.16-am.png 768w, /wp-content/uploads/2019/05/Screen-Shot-2019-05-15-at-11.59.16-am-300x266.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+{{< figure src="/wp-content/uploads/2019/05/Screen-Shot-2019-05-15-at-11.59.16-am.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="818" height="714" src="/wp-content/uploads/2019/05/Screen-Shot-2019-05-15-at-12.03.35-pm.png" alt="" data-id="1618" data-link="https://digitalrightswatch.org.au/?attachment_id=1618" class="wp-image-1618" srcset="/wp-content/uploads/2019/05/Screen-Shot-2019-05-15-at-12.03.35-pm.png 818w, /wp-content/uploads/2019/05/Screen-Shot-2019-05-15-at-12.03.35-pm-300x262.png 300w, /wp-content/uploads/2019/05/Screen-Shot-2019-05-15-at-12.03.35-pm-768x670.png 768w" sizes="(max-width: 818px) 100vw, 818px" /></figure>
+{{< figure src="/wp-content/uploads/2019/05/Screen-Shot-2019-05-15-at-12.03.35-pm.png" >}}
   </li>
 </ul>
 

@@ -18,7 +18,7 @@ eg_custom_meta_216:
 
 ---
 <div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:45% auto">
-  <figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/05/Square-tiles-ISOC-1-1024x1024.png" alt="" class="wp-image-7837 size-full" srcset="/wp-content/uploads/2021/05/Square-tiles-ISOC-1-1024x1024.png 1024w, /wp-content/uploads/2021/05/Square-tiles-ISOC-1-300x300.png 300w, /wp-content/uploads/2021/05/Square-tiles-ISOC-1-150x150.png 150w, /wp-content/uploads/2021/05/Square-tiles-ISOC-1-768x768.png 768w, /wp-content/uploads/2021/05/Square-tiles-ISOC-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/05/Square-tiles-ISOC-1.png" >}}
 
   <div class="wp-block-media-text__content">
     <p class="has-large-font-size">
@@ -71,10 +71,10 @@ We want to paint an accurate picture of the local internet economy and codesign 
 
 <ul class="blocks-gallery-grid">
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/05/v2-_-website-4-1024x1024.png" alt="" data-id="7844" data-link="https://digitalrightswatch.org.au/?attachment_id=7844" class="wp-image-7844" srcset="/wp-content/uploads/2021/05/v2-_-website-4-1024x1024.png 1024w, /wp-content/uploads/2021/05/v2-_-website-4-300x300.png 300w, /wp-content/uploads/2021/05/v2-_-website-4-150x150.png 150w, /wp-content/uploads/2021/05/v2-_-website-4-768x768.png 768w, /wp-content/uploads/2021/05/v2-_-website-4.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/05/v2-_-website-4.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/05/v2-_-website-3-1-1024x1024.png" alt="" data-id="7845" data-full-url="/wp-content/uploads/2021/05/v2-_-website-3-1.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7845" class="wp-image-7845" srcset="/wp-content/uploads/2021/05/v2-_-website-3-1-1024x1024.png 1024w, /wp-content/uploads/2021/05/v2-_-website-3-1-300x300.png 300w, /wp-content/uploads/2021/05/v2-_-website-3-1-150x150.png 150w, /wp-content/uploads/2021/05/v2-_-website-3-1-768x768.png 768w, /wp-content/uploads/2021/05/v2-_-website-3-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/05/v2-_-website-3-1.png" >}}
   </li>
 </ul></figure>
 
@@ -86,10 +86,10 @@ We want to paint an accurate picture of the local internet economy and codesign 
 
         <ul class="blocks-gallery-grid">
           <li class="blocks-gallery-item">
-            <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/05/v2-_-website-2-1024x1024.png" alt="" data-id="7840" data-full-url="/wp-content/uploads/2021/05/v2-_-website-2.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7840" class="wp-image-7840" srcset="/wp-content/uploads/2021/05/v2-_-website-2-1024x1024.png 1024w, /wp-content/uploads/2021/05/v2-_-website-2-300x300.png 300w, /wp-content/uploads/2021/05/v2-_-website-2-150x150.png 150w, /wp-content/uploads/2021/05/v2-_-website-2-768x768.png 768w, /wp-content/uploads/2021/05/v2-_-website-2.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/05/v2-_-website-2.png" >}}
           </li>
           <li class="blocks-gallery-item">
-            <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/05/v2-_-website-1024x1024.png" alt="" data-id="7838" data-link="https://digitalrightswatch.org.au/?attachment_id=7838" class="wp-image-7838" srcset="/wp-content/uploads/2021/05/v2-_-website-1024x1024.png 1024w, /wp-content/uploads/2021/05/v2-_-website-300x300.png 300w, /wp-content/uploads/2021/05/v2-_-website-150x150.png 150w, /wp-content/uploads/2021/05/v2-_-website-768x768.png 768w, /wp-content/uploads/2021/05/v2-_-website.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/05/v2-_-website.png" >}}
           </li>
         </ul></figure>
       </div>

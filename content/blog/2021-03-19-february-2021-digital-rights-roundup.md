@@ -26,7 +26,7 @@ category:
 What a wild few weeks in the digital rights space! Have you been reading the news? As the government, news media, and tech companies fight it out, we've been working hard to keep bringing human rights back into focus. Here's our take on February.
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-04-1-1024x366.png" alt="" class="wp-image-7494" width="375" height="134" srcset="/wp-content/uploads/2020/10/Email_headers_highres-04-1-1024x366.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-04-1-300x107.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-04-1-768x275.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-04-1.png 1168w" sizes="(max-width: 375px) 100vw, 375px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/Email_headers_highres-04-1.png" >}}
 </div>
 
 **An update on the News Media Bargaining Code (again, always, forever)**
@@ -62,7 +62,7 @@ The Bill was introduced to the House of Reps on Wednesday 24 February, which mak
 But it's not over yet. If you share our concern about the Bill, we encourage you to call or email your MP. We'll be doing the same, but it's so much more powerful when the community gets involved. If you need some tips about what to say, [check out our explainer on the Bill here][10]!
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png" alt="" class="wp-image-7296" width="449" height="136" srcset="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-01-300x91.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-01-768x233.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-01.png 1376w" sizes="(max-width: 449px) 100vw, 449px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/Email_headers_highres-01.png" >}}
 </div>
 
 **What Digital Rights Watch has been up to over the past month&#8230;**

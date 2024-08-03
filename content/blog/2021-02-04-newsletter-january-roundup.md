@@ -30,7 +30,7 @@ Happy New Year from the Digital Rights Watch team.
 We are thrilled to kick off 2021 with the launch of our State of Digital Rights Report: A 2020 Retrospective—and you're invited!
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2021/01/save-the-date-6-1024x1024.png" alt="" class="wp-image-7656" width="278" height="278" srcset="/wp-content/uploads/2021/01/save-the-date-6-1024x1024.png 1024w, /wp-content/uploads/2021/01/save-the-date-6-300x300.png 300w, /wp-content/uploads/2021/01/save-the-date-6-150x150.png 150w, /wp-content/uploads/2021/01/save-the-date-6-768x768.png 768w, /wp-content/uploads/2021/01/save-the-date-6.png 1080w" sizes="(max-width: 278px) 100vw, 278px" /></figure>
+{{< figure src="/wp-content/uploads/2021/01/save-the-date-6.png" >}}
 </div>
 
 If you're a long term supporter, you may remember that we published our [first State of Digital Rights Report in 2018][1], which explored a range of issues such as metadata retention, consumer rights, the fight to protect encryption and children's rights in the digital age. Throughout 2020 we worked with a fantastic mix of activists, writers, and critical thinkers to contribute to the report, which highlights the many ways Australians' rights are being impacted by the activities of private companies and governments in the digital world.
@@ -39,7 +39,7 @@ If you're a long term supporter, you may remember that we published our [first S
 **We hope you will join us in launching the report next Friday, 5 February at 1-2pm AEDT. It's free, but make sure you <a href="https://u1584542.ct.sendgrid.net/ss/c/P8Elou2Rvc0qoMPEUZrMXQOdkwYPfWp1lSbdBGL8OQkZBIAwRpAMXO0VP8S7qG9njUBnOiLzp6GpnuqlQpso1yU1mXOPC7mY4cxajAMm0ldBHva91VhUWSTSd4mhbOix7DjrW3D3JrAC8P1jTi69QsEs9Jzh-AvNezFPq_Tw6-GpBwhLE-qtbXItKEqLkVodri7xlXZFhGsx34NLSHbOoKDuDwUEUxkDeNEZTkRW1p7dg2ObRkWcLLBGTufQij79JBeJ2byAhAsew5efN_Ot7E8CEH6JjWCy3r98As8_uowZwxdR3GitUxUobG-H-XCXexRlhDe_MY2-OLLYA7Y6HphwQeF5kaQDyQt2IqeQ7pzr1I-ke3C5yXSSYNQy1L0x2jvT3EbLe56WDX1IyKQaLA/38z/GX_Due5YTwW4Mc7oRznFxg/h1/3OjDMMAk56stztfw3iLXsGzzW6RLdCou5ehKwYjAAgM" target="_blank" rel="noreferrer noopener">register here.</a>**
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-04-1-1024x366.png" alt="" class="wp-image-7494" width="375" height="134" srcset="/wp-content/uploads/2020/10/Email_headers_highres-04-1-1024x366.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-04-1-300x107.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-04-1-768x275.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-04-1.png 1168w" sizes="(max-width: 375px) 100vw, 375px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/Email_headers_highres-04-1.png" >}}
 </div>
 
 **Security, Intelligence and spies, oh my!**
@@ -62,7 +62,7 @@ We will continue to watch closely and will keep you updated.
 
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png" alt="" class="wp-image-7296" width="449" height="136" srcset="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-01-300x91.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-01-768x233.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-01.png 1376w" sizes="(max-width: 449px) 100vw, 449px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/Email_headers_highres-01.png" >}}
 </div>
 
 **What Digital Rights Watch has been up to** **since November 2020&#8230;**

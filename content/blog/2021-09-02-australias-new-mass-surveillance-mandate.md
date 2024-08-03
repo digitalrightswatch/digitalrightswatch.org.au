@@ -39,7 +39,7 @@ The [bill was passed][2] just over a week later by both houses. Needless to say,
   3. Network Activity Warrants
 
 <div class="wp-block-image">
-  <figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2021/09/8-1-1024x1024.png" alt="" class="wp-image-8029" width="386" height="386" srcset="/wp-content/uploads/2021/09/8-1-1024x1024.png 1024w, /wp-content/uploads/2021/09/8-1-300x300.png 300w, /wp-content/uploads/2021/09/8-1-150x150.png 150w, /wp-content/uploads/2021/09/8-1-768x768.png 768w, /wp-content/uploads/2021/09/8-1.png 1080w" sizes="(max-width: 386px) 100vw, 386px" /></figure>
+{{< figure src="/wp-content/uploads/2021/09/8-1.png" >}}
 </div>
 
 **A DATA DISRUPTION WARRANT** enables the agencies to "add, copy, delete or alter" data on devices. And while it's called a warrant, there is an emergency authorisation process for cases when it is "not practicable" to get a warrant. So a data disruption "warrant" can be issued under something referred to as an emergency authorisation; a new power which the PJCIS insisted in their report should be reserved for a superior court judge. This was ignored and so emergency authorisations remain — which means that Australia now has a **warrantless surveillance** regime on the books.
@@ -62,7 +62,7 @@ In the final text of Identify and Disrupt, the AAT is given a massive task when 
   * There are alternative ways to access the data or otherwise proceed with the investigation.
 
 <div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2021/09/11-1-1024x1024.png" alt="" class="wp-image-8027" width="333" height="333" srcset="/wp-content/uploads/2021/09/11-1-1024x1024.png 1024w, /wp-content/uploads/2021/09/11-1-300x300.png 300w, /wp-content/uploads/2021/09/11-1-150x150.png 150w, /wp-content/uploads/2021/09/11-1-768x768.png 768w, /wp-content/uploads/2021/09/11-1.png 1080w" sizes="(max-width: 333px) 100vw, 333px" /></figure>
+{{< figure src="/wp-content/uploads/2021/09/11-1.png" >}}
 </div>
 
 On the last point, it is not the responsibility of the officers to present that to the tribunal members, just as it is not up to them to run a full privacy impact assessment, or consult software developers or engineers before compromising a piece of equipment. Ultimately, the tribunal members of the AAT who are overseeing these overbroad hacking powers are expected to have a level of technical expertise which many actual subject experts, let alone judges, would struggle to be certain of.
@@ -97,31 +97,31 @@ Finally, it should be noted that Australia's electronic surveillance regime will
 
 <ul class="blocks-gallery-grid">
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/09/4-2-1024x1024.png" alt="" data-id="8030" data-link="https://digitalrightswatch.org.au/?attachment_id=8030" class="wp-image-8030" srcset="/wp-content/uploads/2021/09/4-2-1024x1024.png 1024w, /wp-content/uploads/2021/09/4-2-300x300.png 300w, /wp-content/uploads/2021/09/4-2-150x150.png 150w, /wp-content/uploads/2021/09/4-2-768x768.png 768w, /wp-content/uploads/2021/09/4-2.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/09/4-2.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/09/5-1024x1024.png" alt="" data-id="8031" data-link="https://digitalrightswatch.org.au/?attachment_id=8031" class="wp-image-8031" srcset="/wp-content/uploads/2021/09/5-1024x1024.png 1024w, /wp-content/uploads/2021/09/5-300x300.png 300w, /wp-content/uploads/2021/09/5-150x150.png 150w, /wp-content/uploads/2021/09/5-768x768.png 768w, /wp-content/uploads/2021/09/5.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/09/5.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/09/6-1024x1024.png" alt="" data-id="8032" data-link="https://digitalrightswatch.org.au/?attachment_id=8032" class="wp-image-8032" srcset="/wp-content/uploads/2021/09/6-1024x1024.png 1024w, /wp-content/uploads/2021/09/6-300x300.png 300w, /wp-content/uploads/2021/09/6-150x150.png 150w, /wp-content/uploads/2021/09/6-768x768.png 768w, /wp-content/uploads/2021/09/6.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/09/6.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/09/7-1024x1024.png" alt="" data-id="8033" data-link="https://digitalrightswatch.org.au/?attachment_id=8033" class="wp-image-8033" srcset="/wp-content/uploads/2021/09/7-1024x1024.png 1024w, /wp-content/uploads/2021/09/7-300x300.png 300w, /wp-content/uploads/2021/09/7-150x150.png 150w, /wp-content/uploads/2021/09/7-768x768.png 768w, /wp-content/uploads/2021/09/7.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/09/7.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/09/9-1024x1024.png" alt="" data-id="8035" data-link="https://digitalrightswatch.org.au/?attachment_id=8035" class="wp-image-8035" srcset="/wp-content/uploads/2021/09/9-1024x1024.png 1024w, /wp-content/uploads/2021/09/9-300x300.png 300w, /wp-content/uploads/2021/09/9-150x150.png 150w, /wp-content/uploads/2021/09/9-768x768.png 768w, /wp-content/uploads/2021/09/9.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/09/9.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/09/10-1024x1024.png" alt="" data-id="8036" data-link="https://digitalrightswatch.org.au/?attachment_id=8036" class="wp-image-8036" srcset="/wp-content/uploads/2021/09/10-1024x1024.png 1024w, /wp-content/uploads/2021/09/10-300x300.png 300w, /wp-content/uploads/2021/09/10-150x150.png 150w, /wp-content/uploads/2021/09/10-768x768.png 768w, /wp-content/uploads/2021/09/10.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/09/10.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/09/11-2-1024x1024.png" alt="" data-id="8037" data-link="https://digitalrightswatch.org.au/?attachment_id=8037" class="wp-image-8037" srcset="/wp-content/uploads/2021/09/11-2-1024x1024.png 1024w, /wp-content/uploads/2021/09/11-2-300x300.png 300w, /wp-content/uploads/2021/09/11-2-150x150.png 150w, /wp-content/uploads/2021/09/11-2-768x768.png 768w, /wp-content/uploads/2021/09/11-2.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/09/11-2.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/09/12-1024x1024.png" alt="" data-id="8038" data-link="https://digitalrightswatch.org.au/?attachment_id=8038" class="wp-image-8038" srcset="/wp-content/uploads/2021/09/12-1024x1024.png 1024w, /wp-content/uploads/2021/09/12-300x300.png 300w, /wp-content/uploads/2021/09/12-150x150.png 150w, /wp-content/uploads/2021/09/12-768x768.png 768w, /wp-content/uploads/2021/09/12.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/09/12.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/09/13-1024x1024.png" alt="" data-id="8039" data-full-url="/wp-content/uploads/2021/09/13.png" data-link="https://digitalrightswatch.org.au/?attachment_id=8039" class="wp-image-8039" srcset="/wp-content/uploads/2021/09/13-1024x1024.png 1024w, /wp-content/uploads/2021/09/13-300x300.png 300w, /wp-content/uploads/2021/09/13-150x150.png 150w, /wp-content/uploads/2021/09/13-768x768.png 768w, /wp-content/uploads/2021/09/13.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/09/13.png" >}}
   </li>
 </ul></figure>
 

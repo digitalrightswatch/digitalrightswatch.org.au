@@ -31,10 +31,10 @@ tags:
 
 <ul class="blocks-gallery-grid">
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/04/MKW_Insta_v1-2-1024x1024.png" alt="" data-id="7768" data-full-url="/wp-content/uploads/2021/04/MKW_Insta_v1-2.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7768" class="wp-image-7768" srcset="/wp-content/uploads/2021/04/MKW_Insta_v1-2-1024x1024.png 1024w, /wp-content/uploads/2021/04/MKW_Insta_v1-2-300x300.png 300w, /wp-content/uploads/2021/04/MKW_Insta_v1-2-150x150.png 150w, /wp-content/uploads/2021/04/MKW_Insta_v1-2-768x768.png 768w, /wp-content/uploads/2021/04/MKW_Insta_v1-2-1536x1536.png 1536w, /wp-content/uploads/2021/04/MKW_Insta_v1-2.png 1620w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/04/MKW_Insta_v1-2.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/04/CoM_MKW2021_Partner_SocialMediaTiles_Question_04-1024x1024.jpg" alt="" data-id="7765" class="wp-image-7765" srcset="/wp-content/uploads/2021/04/CoM_MKW2021_Partner_SocialMediaTiles_Question_04-1024x1024.jpg 1024w, /wp-content/uploads/2021/04/CoM_MKW2021_Partner_SocialMediaTiles_Question_04-300x300.jpg 300w, /wp-content/uploads/2021/04/CoM_MKW2021_Partner_SocialMediaTiles_Question_04-150x150.jpg 150w, /wp-content/uploads/2021/04/CoM_MKW2021_Partner_SocialMediaTiles_Question_04-768x768.jpg 768w, /wp-content/uploads/2021/04/CoM_MKW2021_Partner_SocialMediaTiles_Question_04.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/04/CoM_MKW2021_Partner_SocialMediaTiles_Question_04.jpg" >}}
   </li>
   <li class="blocks-gallery-item">
     <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/04/Copy-of-Copy-of-sale-1024x1024.png" alt="" data-id="7767" data-link="https://digitalrightswatch.org.au/?attachment_id=7767" class="wp-image-7767" srcset="/wp-content/uploads/2021/04/Copy-of-Copy-of-sale-1024x1024.png 1024w, /wp-content/uploads/2021/04/Copy-of-Copy-of-sale-300x300.png 300w, /wp-content/uploads/2021/04/Copy-of-Copy-of-sale-150x150.png 150w, /wp-content/uploads/2021/04/Copy-of-Copy-of-sale-768x768.png 768w, /wp-content/uploads/2021/04/Copy-of-Copy-of-sale-1536x1536.png 1536w, /wp-content/uploads/2021/04/Copy-of-Copy-of-sale-2048x2048.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
@@ -60,7 +60,7 @@ The tour lasts approximately 1 hour. There are plenty of other great events happ
 **Truly &#8216;smart&#8217; cities are digital rights cities**
 
 <div class="wp-block-image">
-  <figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/09/119466690_779380226180762_7860189079536778637_n-1024x1024.jpg" alt="" class="wp-image-7217" width="266" height="266" srcset="/wp-content/uploads/2020/09/119466690_779380226180762_7860189079536778637_n-1024x1024.jpg 1024w, /wp-content/uploads/2020/09/119466690_779380226180762_7860189079536778637_n-300x300.jpg 300w, /wp-content/uploads/2020/09/119466690_779380226180762_7860189079536778637_n-150x150.jpg 150w, /wp-content/uploads/2020/09/119466690_779380226180762_7860189079536778637_n-768x769.jpg 768w, /wp-content/uploads/2020/09/119466690_779380226180762_7860189079536778637_n.jpg 1080w" sizes="(max-width: 266px) 100vw, 266px" /></figure>
+{{< figure src="/wp-content/uploads/2020/09/119466690_779380226180762_7860189079536778637_n.jpg" >}}
 </div>
 
 There&#8217;s nothing smart about eroding our rights. We think technology can and should play a role in making our lives better; making systems more efficient, and protecting the environment. But too often &#8216;smart&#8217; data-centric projects focus on constant generation, collection, and processing of data, ultimately contributing to a broad system of surveillance. We want to see technology being used in our cities in a way that enhances and protects human rights.

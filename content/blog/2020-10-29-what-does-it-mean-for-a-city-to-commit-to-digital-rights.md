@@ -53,13 +53,13 @@ We've broken down each of these areas in more detail to help you know what you'd
 
 <ul class="blocks-gallery-grid">
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/DC_EqualAccess3-01-1024x1024.png" alt="" data-id="7453" data-full-url="/wp-content/uploads/2020/10/DC_EqualAccess3-01.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7453" class="wp-image-7453" srcset="/wp-content/uploads/2020/10/DC_EqualAccess3-01-1024x1024.png 1024w, /wp-content/uploads/2020/10/DC_EqualAccess3-01-300x300.png 300w, /wp-content/uploads/2020/10/DC_EqualAccess3-01-150x150.png 150w, /wp-content/uploads/2020/10/DC_EqualAccess3-01-768x768.png 768w, /wp-content/uploads/2020/10/DC_EqualAccess3-01-1536x1536.png 1536w, /wp-content/uploads/2020/10/DC_EqualAccess3-01-2048x2048.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/DC_EqualAccess3-01.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/DC_EqualAccess3-02-1024x1024.png" alt="" data-id="7454" data-full-url="/wp-content/uploads/2020/10/DC_EqualAccess3-02.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7454" class="wp-image-7454" srcset="/wp-content/uploads/2020/10/DC_EqualAccess3-02-1024x1024.png 1024w, /wp-content/uploads/2020/10/DC_EqualAccess3-02-300x300.png 300w, /wp-content/uploads/2020/10/DC_EqualAccess3-02-150x150.png 150w, /wp-content/uploads/2020/10/DC_EqualAccess3-02-768x768.png 768w, /wp-content/uploads/2020/10/DC_EqualAccess3-02-1536x1536.png 1536w, /wp-content/uploads/2020/10/DC_EqualAccess3-02-2048x2048.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/DC_EqualAccess3-02.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/DC_EqualAccess3-03-1024x1024.png" alt="" data-id="7455" data-full-url="/wp-content/uploads/2020/10/DC_EqualAccess3-03.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7455" class="wp-image-7455" srcset="/wp-content/uploads/2020/10/DC_EqualAccess3-03-1024x1024.png 1024w, /wp-content/uploads/2020/10/DC_EqualAccess3-03-300x300.png 300w, /wp-content/uploads/2020/10/DC_EqualAccess3-03-150x150.png 150w, /wp-content/uploads/2020/10/DC_EqualAccess3-03-768x768.png 768w, /wp-content/uploads/2020/10/DC_EqualAccess3-03-1536x1536.png 1536w, /wp-content/uploads/2020/10/DC_EqualAccess3-03-2048x2048.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/DC_EqualAccess3-03.png" >}}
   </li>
 </ul></figure>
 
@@ -71,13 +71,13 @@ The internet is a part of our everyday lives, and is often (and increasingly) th
 
 <ul class="blocks-gallery-grid">
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/DC_Privacy-01-1024x1024.png" alt="" data-id="7457" data-full-url="/wp-content/uploads/2020/10/DC_Privacy-01.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7457" class="wp-image-7457" srcset="/wp-content/uploads/2020/10/DC_Privacy-01-1024x1024.png 1024w, /wp-content/uploads/2020/10/DC_Privacy-01-300x300.png 300w, /wp-content/uploads/2020/10/DC_Privacy-01-150x150.png 150w, /wp-content/uploads/2020/10/DC_Privacy-01-768x768.png 768w, /wp-content/uploads/2020/10/DC_Privacy-01-1536x1536.png 1536w, /wp-content/uploads/2020/10/DC_Privacy-01-2048x2048.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/DC_Privacy-01.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/DC_Privacy-02-1024x1024.png" alt="" data-id="7458" data-full-url="/wp-content/uploads/2020/10/DC_Privacy-02.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7458" class="wp-image-7458" srcset="/wp-content/uploads/2020/10/DC_Privacy-02-1024x1024.png 1024w, /wp-content/uploads/2020/10/DC_Privacy-02-300x300.png 300w, /wp-content/uploads/2020/10/DC_Privacy-02-150x150.png 150w, /wp-content/uploads/2020/10/DC_Privacy-02-768x768.png 768w, /wp-content/uploads/2020/10/DC_Privacy-02-1536x1536.png 1536w, /wp-content/uploads/2020/10/DC_Privacy-02-2048x2048.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/DC_Privacy-02.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/DC_Privacy-03-1024x1024.png" alt="" data-id="7460" data-full-url="/wp-content/uploads/2020/10/DC_Privacy-03.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7460" class="wp-image-7460" srcset="/wp-content/uploads/2020/10/DC_Privacy-03-1024x1024.png 1024w, /wp-content/uploads/2020/10/DC_Privacy-03-300x300.png 300w, /wp-content/uploads/2020/10/DC_Privacy-03-150x150.png 150w, /wp-content/uploads/2020/10/DC_Privacy-03-768x768.png 768w, /wp-content/uploads/2020/10/DC_Privacy-03-1536x1536.png 1536w, /wp-content/uploads/2020/10/DC_Privacy-03-2048x2048.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/DC_Privacy-03.png" >}}
   </li>
 </ul></figure>
 
@@ -89,13 +89,13 @@ Privacy is a human right in and of itself, and it's also integral to how people 
 
 <ul class="blocks-gallery-grid">
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/DC_Transparency-01-1024x1024.png" alt="" data-id="7465" data-full-url="/wp-content/uploads/2020/10/DC_Transparency-01.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7465" class="wp-image-7465" srcset="/wp-content/uploads/2020/10/DC_Transparency-01-1024x1024.png 1024w, /wp-content/uploads/2020/10/DC_Transparency-01-300x300.png 300w, /wp-content/uploads/2020/10/DC_Transparency-01-150x150.png 150w, /wp-content/uploads/2020/10/DC_Transparency-01-768x768.png 768w, /wp-content/uploads/2020/10/DC_Transparency-01-1536x1536.png 1536w, /wp-content/uploads/2020/10/DC_Transparency-01-2048x2048.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/DC_Transparency-01.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/DC_Transparency-02-1024x1024.png" alt="" data-id="7467" data-full-url="/wp-content/uploads/2020/10/DC_Transparency-02.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7467" class="wp-image-7467" srcset="/wp-content/uploads/2020/10/DC_Transparency-02-1024x1024.png 1024w, /wp-content/uploads/2020/10/DC_Transparency-02-300x300.png 300w, /wp-content/uploads/2020/10/DC_Transparency-02-150x150.png 150w, /wp-content/uploads/2020/10/DC_Transparency-02-768x768.png 768w, /wp-content/uploads/2020/10/DC_Transparency-02-1536x1536.png 1536w, /wp-content/uploads/2020/10/DC_Transparency-02-2048x2048.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/DC_Transparency-02.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/DC_Transparency-03-1024x1024.png" alt="" data-id="7468" data-full-url="/wp-content/uploads/2020/10/DC_Transparency-03.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7468" class="wp-image-7468" srcset="/wp-content/uploads/2020/10/DC_Transparency-03-1024x1024.png 1024w, /wp-content/uploads/2020/10/DC_Transparency-03-300x300.png 300w, /wp-content/uploads/2020/10/DC_Transparency-03-150x150.png 150w, /wp-content/uploads/2020/10/DC_Transparency-03-768x768.png 768w, /wp-content/uploads/2020/10/DC_Transparency-03-1536x1536.png 1536w, /wp-content/uploads/2020/10/DC_Transparency-03-2048x2048.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/DC_Transparency-03.png" >}}
   </li>
 </ul></figure>
 
@@ -107,13 +107,13 @@ As more connected services become essential to our everyday lives, it becomes in
 
 <ul class="blocks-gallery-grid">
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/DC_Democracy-01-1024x1024.png" alt="" data-id="7471" data-full-url="/wp-content/uploads/2020/10/DC_Democracy-01.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7471" class="wp-image-7471" srcset="/wp-content/uploads/2020/10/DC_Democracy-01-1024x1024.png 1024w, /wp-content/uploads/2020/10/DC_Democracy-01-300x300.png 300w, /wp-content/uploads/2020/10/DC_Democracy-01-150x150.png 150w, /wp-content/uploads/2020/10/DC_Democracy-01-768x768.png 768w, /wp-content/uploads/2020/10/DC_Democracy-01-1536x1536.png 1536w, /wp-content/uploads/2020/10/DC_Democracy-01-2048x2048.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/DC_Democracy-01.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/DC_Democracy-02-1024x1024.png" alt="" data-id="7472" data-full-url="/wp-content/uploads/2020/10/DC_Democracy-02.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7472" class="wp-image-7472" srcset="/wp-content/uploads/2020/10/DC_Democracy-02-1024x1024.png 1024w, /wp-content/uploads/2020/10/DC_Democracy-02-300x300.png 300w, /wp-content/uploads/2020/10/DC_Democracy-02-150x150.png 150w, /wp-content/uploads/2020/10/DC_Democracy-02-768x768.png 768w, /wp-content/uploads/2020/10/DC_Democracy-02-1536x1536.png 1536w, /wp-content/uploads/2020/10/DC_Democracy-02-2048x2048.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/DC_Democracy-02.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/DC_Democracy-03-1024x1024.png" alt="" data-id="7473" data-full-url="/wp-content/uploads/2020/10/DC_Democracy-03.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7473" class="wp-image-7473" srcset="/wp-content/uploads/2020/10/DC_Democracy-03-1024x1024.png 1024w, /wp-content/uploads/2020/10/DC_Democracy-03-300x300.png 300w, /wp-content/uploads/2020/10/DC_Democracy-03-150x150.png 150w, /wp-content/uploads/2020/10/DC_Democracy-03-768x768.png 768w, /wp-content/uploads/2020/10/DC_Democracy-03-1536x1536.png 1536w, /wp-content/uploads/2020/10/DC_Democracy-03-2048x2048.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/DC_Democracy-03.png" >}}
   </li>
 </ul></figure>
 
@@ -127,13 +127,13 @@ Technology can be a wonderful tool when used in creative, safe, and ethical ways
 
 <ul class="blocks-gallery-grid">
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/DC_Ethical-01-1024x1024.png" alt="" data-id="7476" data-full-url="/wp-content/uploads/2020/10/DC_Ethical-01.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7476" class="wp-image-7476" srcset="/wp-content/uploads/2020/10/DC_Ethical-01-1024x1024.png 1024w, /wp-content/uploads/2020/10/DC_Ethical-01-300x300.png 300w, /wp-content/uploads/2020/10/DC_Ethical-01-150x150.png 150w, /wp-content/uploads/2020/10/DC_Ethical-01-768x768.png 768w, /wp-content/uploads/2020/10/DC_Ethical-01-1536x1536.png 1536w, /wp-content/uploads/2020/10/DC_Ethical-01-2048x2048.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/DC_Ethical-01.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/DC_Ethical-02-1024x1024.png" alt="" data-id="7478" data-full-url="/wp-content/uploads/2020/10/DC_Ethical-02.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7478" class="wp-image-7478" srcset="/wp-content/uploads/2020/10/DC_Ethical-02-1024x1024.png 1024w, /wp-content/uploads/2020/10/DC_Ethical-02-300x300.png 300w, /wp-content/uploads/2020/10/DC_Ethical-02-150x150.png 150w, /wp-content/uploads/2020/10/DC_Ethical-02-768x768.png 768w, /wp-content/uploads/2020/10/DC_Ethical-02-1536x1536.png 1536w, /wp-content/uploads/2020/10/DC_Ethical-02-2048x2048.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/DC_Ethical-02.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2020/10/DC_Ethical-03-1024x1024.png" alt="" data-id="7479" data-full-url="/wp-content/uploads/2020/10/DC_Ethical-03.png" data-link="https://digitalrightswatch.org.au/?attachment_id=7479" class="wp-image-7479" srcset="/wp-content/uploads/2020/10/DC_Ethical-03-1024x1024.png 1024w, /wp-content/uploads/2020/10/DC_Ethical-03-300x300.png 300w, /wp-content/uploads/2020/10/DC_Ethical-03-150x150.png 150w, /wp-content/uploads/2020/10/DC_Ethical-03-768x768.png 768w, /wp-content/uploads/2020/10/DC_Ethical-03-1536x1536.png 1536w, /wp-content/uploads/2020/10/DC_Ethical-03-2048x2048.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/DC_Ethical-03.png" >}}
   </li>
 </ul></figure>
 

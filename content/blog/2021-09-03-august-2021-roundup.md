@@ -28,7 +28,7 @@ category:
 Strap in, August has been a huge month for digital rights! From the passage of the Identify and Disrupt Bill, to Apple's announcement of its surveillance software update, to the launch of several consultations by the eSafety Commission—and we're here to tell you all about it.
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-04-1024x366.png" alt="" class="wp-image-7295" width="360" height="128" srcset="/wp-content/uploads/2020/10/Email_headers_highres-04-1024x366.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-04-300x107.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-04-768x275.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-04.png 1168w" sizes="(max-width: 360px) 100vw, 360px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/Email_headers_highres-04.png" >}}
 </div>
 
 #### **The Identify and Disrupt Bill introduces warrantless mass surveillance**
@@ -49,7 +49,7 @@ We will be writing in submissions, and we encourage you to do so too! First, the
 Second, the **Basic Online Safety Expectations** (BOSE) will outline core and additional expectations for large social media platforms around cyber-bullying, abuse, and unlawful or harmful digital content. These expectations are likely to incentivise broad and proactive monitoring and removal of content. You can read more about our concerns in [this explainer][8] or in our initial [submission][9]. Our friend Justin Warren from EFA has done an [initial exploration][10] into the proposed BOSE for more info, and you can expect to see more from us soon! [Submissions due 15 October][11].
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png" alt="" class="wp-image-7296" width="424" height="128" srcset="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-01-300x91.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-01-768x233.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-01.png 1376w" sizes="(max-width: 424px) 100vw, 424px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/Email_headers_highres-01.png" >}}
 </div>
 
 #### **What Digital Rights Watch has been up to over the past month&#8230;**
@@ -64,7 +64,7 @@ Second, the **Basic Online Safety Expectations** (BOSE) will outline core and ad
   * Our Deputy Chair Tom Sulston joined [Diffusion Radio][24] to discuss the 2021 Census, and Board Member Lilly Ryan joined [this YouTube stream][25] to do a deep dive into the privacy and inclusion issues!
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/09/Email_headers_highres-06-1024x342.png" alt="" class="wp-image-7275" width="384" height="128" srcset="/wp-content/uploads/2020/09/Email_headers_highres-06-1024x342.png 1024w, /wp-content/uploads/2020/09/Email_headers_highres-06-300x100.png 300w, /wp-content/uploads/2020/09/Email_headers_highres-06-768x257.png 768w, /wp-content/uploads/2020/09/Email_headers_highres-06.png 1250w" sizes="(max-width: 384px) 100vw, 384px" /></figure>
+{{< figure src="/wp-content/uploads/2020/09/Email_headers_highres-06.png" >}}
 </div>
 
 #### **Don't miss out—mark these upcoming events in your calendar!**
@@ -86,13 +86,13 @@ Once the new functionality (a hash scan for photos) is built into Apple products
 
 <ul class="blocks-gallery-grid">
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/09/2-1024x1024.png" alt="" data-id="8067" data-link="https://digitalrightswatch.org.au/?attachment_id=8067" class="wp-image-8067" srcset="/wp-content/uploads/2021/09/2-1024x1024.png 1024w, /wp-content/uploads/2021/09/2-300x300.png 300w, /wp-content/uploads/2021/09/2-150x150.png 150w, /wp-content/uploads/2021/09/2-768x768.png 768w, /wp-content/uploads/2021/09/2-1536x1536.png 1536w, /wp-content/uploads/2021/09/2.png 1620w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/09/2.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/09/5-2-1024x1024.png" alt="" data-id="8070" data-full-url="/wp-content/uploads/2021/09/5-2.png" data-link="https://digitalrightswatch.org.au/?attachment_id=8070" class="wp-image-8070" srcset="/wp-content/uploads/2021/09/5-2-1024x1024.png 1024w, /wp-content/uploads/2021/09/5-2-300x300.png 300w, /wp-content/uploads/2021/09/5-2-150x150.png 150w, /wp-content/uploads/2021/09/5-2-768x768.png 768w, /wp-content/uploads/2021/09/5-2-1536x1536.png 1536w, /wp-content/uploads/2021/09/5-2.png 1620w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/09/5-2.png" >}}
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/09/6-1-1024x1024.png" alt="" data-id="8069" data-link="https://digitalrightswatch.org.au/?attachment_id=8069" class="wp-image-8069" srcset="/wp-content/uploads/2021/09/6-1-1024x1024.png 1024w, /wp-content/uploads/2021/09/6-1-300x300.png 300w, /wp-content/uploads/2021/09/6-1-150x150.png 150w, /wp-content/uploads/2021/09/6-1-768x768.png 768w, /wp-content/uploads/2021/09/6-1-1536x1536.png 1536w, /wp-content/uploads/2021/09/6-1.png 1620w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+{{< figure src="/wp-content/uploads/2021/09/6-1.png" >}}
   </li>
 </ul></figure>
 

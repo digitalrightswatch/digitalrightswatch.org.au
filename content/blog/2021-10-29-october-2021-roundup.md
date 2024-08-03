@@ -26,7 +26,7 @@ category:
 It's the end of October which means it's Halloween season for those who celebrate and oh has it been a positively spooky month for digital rights!
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-04-1024x366.png" alt="" class="wp-image-7295" width="360" height="128" srcset="/wp-content/uploads/2020/10/Email_headers_highres-04-1024x366.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-04-300x107.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-04-768x275.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-04.png 1168w" sizes="(max-width: 360px) 100vw, 360px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/Email_headers_highres-04.png" >}}
 </div>
 
 #### **Privacy Act review is finally here! So is everything else actually.**
@@ -58,7 +58,7 @@ We teamed up with the Human Rights Law Centre to write a joint letter to the fed
 You can read our [statement and the full letter here][12]. It was also featured in [The Guardian][13], [The Canberra Times][14], and [InnovationAus][15].
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png" alt="" class="wp-image-7296" width="424" height="128" srcset="/wp-content/uploads/2020/10/Email_headers_highres-01-1024x310.png 1024w, /wp-content/uploads/2020/10/Email_headers_highres-01-300x91.png 300w, /wp-content/uploads/2020/10/Email_headers_highres-01-768x233.png 768w, /wp-content/uploads/2020/10/Email_headers_highres-01.png 1376w" sizes="(max-width: 424px) 100vw, 424px" /></figure>
+{{< figure src="/wp-content/uploads/2020/10/Email_headers_highres-01.png" >}}
 </div>
 
 #### **What Digital Rights Watch has been up to over the past month&#8230;**
@@ -75,7 +75,7 @@ You can read our [statement and the full letter here][12]. It was also featured 
   * Sam penned an article, '[Online anonymity is really important, actually][25]' for Overland, in response to comments from politicians threatening to undermine it.
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="/wp-content/uploads/2020/09/Email_headers_highres-06-1024x342.png" alt="" class="wp-image-7275" width="384" height="128" srcset="/wp-content/uploads/2020/09/Email_headers_highres-06-1024x342.png 1024w, /wp-content/uploads/2020/09/Email_headers_highres-06-300x100.png 300w, /wp-content/uploads/2020/09/Email_headers_highres-06-768x257.png 768w, /wp-content/uploads/2020/09/Email_headers_highres-06.png 1250w" sizes="(max-width: 384px) 100vw, 384px" /></figure>
+{{< figure src="/wp-content/uploads/2020/09/Email_headers_highres-06.png" >}}
 </div>
 
 #### **Don't miss out—mark these upcoming events in your calendar!**
