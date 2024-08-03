@@ -102,6 +102,10 @@
 
     img {
       margin-bottom: 20px;
+      width: 154px;
+      @include mobile {
+        width: 120px;
+      }
     }
 
     p {
