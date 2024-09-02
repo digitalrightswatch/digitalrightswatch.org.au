@@ -14,6 +14,8 @@ We have a small, dedicated group of individuals who work hard in the fight for d
 
 ## Our Board
 
+![photo of Lizzie O'Shea](/wp-content/uploads/2019/02/0.jpg)
+
 Lizzie O'Shea
 
 Chair
@@ -21,6 +23,8 @@ Chair
 [Lizzie is a human rights lawyer](/2020/03/09/an-introduction-from-drws-new-chairperson/) specialising in public interest litigation. Lizzie has local and international experience in a wide array of court jurisdictions, and is passionate about equality before the law and that the rule of law should be protected, particularly given the incursions on civil liberties that have become a staple part of the war on terror. In 2019, Lizzie received the Human Rights Hero Award for her work campaigning against Australia's encryption laws.
 
 [![](/wp-content/plugins/team-members/inc/img/links/twitter.png)](https://twitter.com/Lizzie_OShea)[![](/wp-content/plugins/team-members/inc/img/links/website.png)](https://lizzieoshea.com/)
+
+![photo of Tom Sulston](/wp-content/uploads/2019/02/Screen-Shot-2019-02-26-at-6.22.43-pm.png)
 
 Tom Sulston
 
@@ -30,6 +34,8 @@ Tom is a software delivery consultant for Thoughtworks Australia, working on con
 
 [![](/wp-content/plugins/team-members/inc/img/links/twitter.png)](https://twitter.com/tomsulston)
 
+![photo of Lilly Ryan](/wp-content/uploads/2019/03/drw-headshot.jpeg)
+
 Lilly Ryan
 
 Treasurer
@@ -38,11 +44,15 @@ Lilly is a digital security consultant and public speaker. She specialises in we
 
 [![](/wp-content/plugins/team-members/inc/img/links/twitter.png)](https://twitter.com/attacus_au)[![](/wp-content/plugins/team-members/inc/img/links/website.png)](https://www.attacus.net/)
 
+![photo of Piotr Debowski](/wp-content/uploads/2017/10/PD-photo.jpg)
+
 Piotr Debowski
 
 Secretary
 
 Piotr is a privacy specialist and advocate who is particularly passionate about helping individuals exercise their privacy rights and receive meaningful remedies. Piotr draws on his experience having worked across a number of industries – including at a privacy regulator, as a Privacy Officer, and as a consultant – and legislation - including Victoria, Australia, and the European Union.
+
+![photo of Mark Andrejevic](/wp-content/uploads/2017/10/Screen-Shot-2020-04-27-at-5.31.27-pm.png)
 
 Mark Andrejevic
 
@@ -52,6 +62,8 @@ Mark is a Professor with the School of Media, Film, and Journalism at Monash Uni
 
 [![](/wp-content/plugins/team-members/inc/img/links/twitter.png)](https://twitter.com/MarkAndrejevic)
 
+![photo of Lucie Krahulcova](/wp-content/uploads/2019/08/Lucie-photo.jpg)
+
 Lucie Krahulcova
 
 Board member
@@ -59,6 +71,8 @@ Board member
 Lucie is a professional activist and digital rights advocate. She specialises in surveillance, law enforcement powers in the digital era, export controls, encryption, data retention and telecoms regulation. Lucie previously worked in Ottawa and Brussels, and spent five years at the digital rights NGO Access Now, bringing an international dimension to our team.
 
 [![](/wp-content/plugins/team-members/inc/img/links/twitter.png)](https://twitter.com/nomadiclucie)
+
+![photo of Caitlin McGrane](/wp-content/uploads/2017/10/CMGbyTL-15032020-2722-copy.jpg)
 
 Caitlin McGrane
 
@@ -68,6 +82,8 @@ Caitlin McGrane is a Postdoctoral Research Fellow at RMIT University. Her resear
 
 ## Our Staff
 
+![photo of Samantha Floreani](/wp-content/uploads/2019/08/SFloreani2023-2.png)
+
 Samantha Floreani
 
 Head of Policy
@@ -75,6 +91,8 @@ Head of Policy
 Sam is a dedicated digital rights activist, privacy advocate and writer who regularly contributes to public debate on technology, power and human rights. She is currently undertaking a PhD at Monash University, researching the impact of emerging technologies on housing justice in Australia.
 
 [![](/wp-content/plugins/team-members/inc/img/links/twitter.png)](https://twitter.com/samfloreani)[![](/wp-content/plugins/team-members/inc/img/links/email.png)](mailto:samantha@digitalrightswatch.org.au)[![](/wp-content/plugins/team-members/inc/img/links/website.png)](https://www.samanthafloreani.com/)
+
+![photo of Kathryn Gledhill-Tucker](/wp-content/uploads/2019/08/kgt_headshot2-e1716175748463.jpeg)
 
 Kathryn Gledhill-Tucker
 
