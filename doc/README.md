@@ -53,13 +53,12 @@ In the CMS, the Collections on the left give access to different parts of the si
 
 This is a [Hugo](https://gohugo.io/) static site using the [Apsho](https://jamstackthemes.dev/theme/hugo-apsho/) theme.
 
-We've made a [few customisations to the theme](https://github.com/StaticMania/hugo-apsho/compare/master...digitalrightswatch:hugo-apsho:drw-theme), but after getting a better understanding of how Hugo's themes work, this was not the best approach, and we should instead be overriding specific theme files in the website repository itself. @mattcen intends to spend some time tidying this up soon.
-
 Any commits to the `main` branch of this Github repository are automatically detected by [Netlify](https://netlify.com) and deployed to <https://digitalrightswatch.netlify.app/>. These commits could be made via the GitHub web interface, or by cloning the repository locally with Git, making commits, and pushing them, or by using [Decap CMS](https://decapcms.org/).
 
 The website layout is as follows:
 
 - **config.toml**: The main Hugo configuration file for the whole website
+- **assets/**: Files which are processed in some way by Hugo at build time. For example, CSS or JavaScript files might be minified and combined, and image files might be converted to one or more different dimensions, or compressed. At time of writing, the only files in here are overrides of equivalent files within the theme
 - **archetypes/**: Templates for files that Hugo creates within `content/`. Note this is *not* used by DecapCMS
 - **content/**: Website content Markdown format. Files in this directory are usually of `type: page`
   - **category/**: Configurations for the list pages of different page categories…
