@@ -28,7 +28,7 @@ tags:
 ---
 Australians are sitting with anticipation awaiting August 2024, when the Commonwealth Government promised to deliver a draft bill to update the _Privacy Act 1988_ (Cth) (**Privacy Act**). But there's another bill that's poised to outshine the Commonwealth's and champion state privacy rights.
 
-In May 2024, Western Australia (**WA**) tabled its [_Privacy and Responsible Information Sharing Bill 2024_][1] __(Wa.) (**Bill**). We're delighted by this development and in this blog post, our Board member Piotr Debowski will walk you through what we love about the Bill, what we are less keen on, and what we think the WA government needs to do some more thinking on. We focus our attention on the privacy aspects of the Bill, but the Bill does also contain provisions facilitating the sharing of information within the WA government.
+In May 2024, Western Australia (**WA**) tabled its [_Privacy and Responsible Information Sharing Bill 2024_][1] (Wa.) (**Bill**). We're delighted by this development and in this blog post, our Board member Piotr Debowski will walk you through what we love about the Bill, what we are less keen on, and what we think the WA government needs to do some more thinking on. We focus our attention on the privacy aspects of the Bill, but the Bill does also contain provisions facilitating the sharing of information within the WA government.
 
 The Bill is currently in front of the WA Legislative Assembly. If it passes, it will be handed to the Legislative Council for consideration.
 
