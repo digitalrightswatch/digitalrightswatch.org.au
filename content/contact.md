@@ -18,7 +18,7 @@ type: page
 ---
 # Contact us
 
-Got a question, or just want to get in touch with us? Use one of the options below and we’ll get back to you as soon as we can.
+Got a question, or just want to get in touch with us? Use one of the options below and we'll get back to you as soon as we can.
 
 - - -
 
@@ -26,7 +26,7 @@ Got a question, or just want to get in touch with us? Use one of the options bel
 
 - - -
 
-For all media needs please contact: **[media@digitalrightswatch.org.au](mailto:malito:media@digitalrightswatch.org.au)** 
+For all media needs please contact: **[media@digitalrightswatch.org.au](mailto:malito:media@digitalrightswatch.org.au)**
 
 For all other inquiries please contact: **[info@digitalrightswatch.org.au](mailto:info@digitalrightswatch.org.au)**
 
@@ -44,13 +44,13 @@ Keep up to date with our work and opportunities to take action by joining our ma
 
 - - -
 
-To make a donation to Digital Rights Watch, you can do so **[here.](http://www.donate.digitalrightswatch.org.au)** 
+To make a donation to Digital Rights Watch, you can do so **[here.](http://www.donate.digitalrightswatch.org.au)**
 
 - - -
 
 - - -
 
-You can also follow us on **[Mastodon](https://aus.social/@drwaus), [Instagram](https://www.instagram.com/drwaus/), [LinkedIn](https://www.linkedin.com/company/drwaus),** and **[Twitter](http://www.twitter.com/drwaus).**
+You can also follow us on **[Mastodon](https://aus.social/@drwaus), [Instagram](https://www.instagram.com/drwaus/), [LinkedIn](https://www.linkedin.com/company/drwaus),** and **[Twitter](http://www.twitter.com/drwaus).**
 
 **Resources for assistance**
 
