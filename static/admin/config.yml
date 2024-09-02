@@ -240,3 +240,29 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "Button 2 Text", name: "button2text", widget: "string" }
           - { label: "Image", name: "image", widget: "image" }
           - { label: "Video", name: "video", widget: "string" }
+      - file: "data/our_people.yml"
+        label: "Our People"
+        name: our_people
+        fields:
+          - { label: "Enable", name: "enable", widget: "boolean" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "markdown", required: false }
+          - label: "Sections"
+            name: "sections"
+            widget: "list"
+            summary: "{{fields.name}}"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - label: "People"
+                name: "people"
+                widget: "list"
+                summary: "{{fields.name}}"
+                fields:
+                  - { label: "Name", name: "name", widget: "string" }
+                  - { label: "Role", name: "role", widget: "string", required: false }
+                  - { label: "Image", name: "image", widget: "image", required: false }
+                  - { label: "Twitter", name: "twitter", widget: "string", required: false }
+                  - { label: "Web", name: "web", widget: "string", required: false }
+                  - { label: "Email", name: "email", widget: "string", required: false }
+                  - { label: "Fediverse", name: "fediverse", widget: "string", required: false }
+                  - { label: "Description", name: "description", widget: "markdown", required: false }
