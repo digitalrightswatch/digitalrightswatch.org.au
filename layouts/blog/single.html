@@ -4,7 +4,9 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <img alt="" src="{{ .Params.featureImage | absURL }}" class="img-fluid mb-5 mx-auto">
+        {{ if .Params.featureImage }} {{ with resources.Get .Params.featureImage }} {{ with .Resize "1920x" }}
+        <img class="img-fluid mb-5 mx-auto" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+        {{ end }} {{ end }} {{ end }}
         <h2>
           {{ .Title }}
         </h2>
