@@ -40,7 +40,7 @@ This is a [Hugo](https://gohugo.io/) static site using the [Apsho](https://jamst
 
 Any changes to the `main` branch of this Github repository are automatically detected by [Netlify](https://netlify.com) and deployed to <https://digitalrightswatch.netlify.app/>.
 
-While it's possible to contribute updates using the GitHub web interface or by cloning the repository with git, the simplest approach is to use the configured [Decap CMS](https://decapcms.org/). Browse to <https://digitalrightswatch.netlify.app/admin> accesses the CMS, and log in using your GitHub credentials, assuming you have access to the GitHub repository for this site.
+While it's possible to contribute updates using the GitHub web interface or by cloning the repository with git, the simplest approach is to use the configured [Decap CMS](https://decapcms.org/). Browse to <https://digitalrightswatch.netlify.app/admin> to access the CMS, and log in using your GitHub credentials, assuming you have access to the GitHub repository for this site.
 
 In the CMS, the Collections on the left give access to different parts of the site:
 
