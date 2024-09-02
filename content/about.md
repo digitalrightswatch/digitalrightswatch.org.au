@@ -2,102 +2,19 @@
 title: About Us
 author: Digital Rights Watch
 type: page
-date: 2017-07-07T08:35:19+00:00
-x_demo_content:
-  - tco.nonprofit|a736af07af2c48ecaaa5ec5d90126fd5
----
-## Our People
-
+date: 2020-10-19T00:37:27+00:00
 ---
 
-We have a small, dedicated group of individuals who work hard in the fight for digital rights. They come from a range of fields: politics, technology, academia, legal and media, lending their expertise to our advocacy, campaigns and research.
+# Human Rights Champions
 
-## Our Board
+# Digital Rights Watch strategically defends digital rights in Australia.
 
-![photo of Lizzie O'Shea](/wp-content/uploads/2019/02/0.jpg)
+## Our Vision
 
-Lizzie O'Shea
+Our vision is for a digital world where all humanity can thrive, and where diversity and creativity flourishes.
 
-Chair
+To ensure this, our digital world must be underpinned by equality, freedom and established human rights principles. Its evolution and future must be guided and driven by the interests of all people and the environments we live in.
 
-[Lizzie is a human rights lawyer](/2020/03/09/an-introduction-from-drws-new-chairperson/) specialising in public interest litigation. Lizzie has local and international experience in a wide array of court jurisdictions, and is passionate about equality before the law and that the rule of law should be protected, particularly given the incursions on civil liberties that have become a staple part of the war on terror. In 2019, Lizzie received the Human Rights Hero Award for her work campaigning against Australia's encryption laws.
+Digital Rights Watch exists to defend and promote this vision – to ensure fairness, freedoms and fundamental rights for all people who engage in the digital world.
 
-[![](/wp-content/plugins/team-members/inc/img/links/twitter.png)](https://twitter.com/Lizzie_OShea)[![](/wp-content/plugins/team-members/inc/img/links/website.png)](https://lizzieoshea.com/)
-
-![photo of Tom Sulston](/wp-content/uploads/2019/02/Screen-Shot-2019-02-26-at-6.22.43-pm.png)
-
-Tom Sulston
-
-Deputy Chair
-
-Tom is a software delivery consultant for Thoughtworks Australia, working on continuous delivery, devops culture, and the psychology of failure. He also helps people secure their systems and data from unethical and illegal snooping.
-
-[![](/wp-content/plugins/team-members/inc/img/links/twitter.png)](https://twitter.com/tomsulston)
-
-![photo of Lilly Ryan](/wp-content/uploads/2019/03/drw-headshot.jpeg)
-
-Lilly Ryan
-
-Treasurer
-
-Lilly is a digital security consultant and public speaker. She specialises in web application security, privacy education, and the history of technology-related issues, bringing these topics to an international audience. Lilly believes in the power of consumer and tech worker action to help the technology industry better serve the people it affects.
-
-[![](/wp-content/plugins/team-members/inc/img/links/twitter.png)](https://twitter.com/attacus_au)[![](/wp-content/plugins/team-members/inc/img/links/website.png)](https://www.attacus.net/)
-
-![photo of Piotr Debowski](/wp-content/uploads/2017/10/PD-photo.jpg)
-
-Piotr Debowski
-
-Secretary
-
-Piotr is a privacy specialist and advocate who is particularly passionate about helping individuals exercise their privacy rights and receive meaningful remedies. Piotr draws on his experience having worked across a number of industries – including at a privacy regulator, as a Privacy Officer, and as a consultant – and legislation - including Victoria, Australia, and the European Union.
-
-![photo of Mark Andrejevic](/wp-content/uploads/2017/10/Screen-Shot-2020-04-27-at-5.31.27-pm.png)
-
-Mark Andrejevic
-
-Board member
-
-Mark is a Professor with the School of Media, Film, and Journalism at Monash University, and contributes expertise in the social and cultural implications of data mining, and online monitoring.
-
-[![](/wp-content/plugins/team-members/inc/img/links/twitter.png)](https://twitter.com/MarkAndrejevic)
-
-![photo of Lucie Krahulcova](/wp-content/uploads/2019/08/Lucie-photo.jpg)
-
-Lucie Krahulcova
-
-Board member
-
-Lucie is a professional activist and digital rights advocate. She specialises in surveillance, law enforcement powers in the digital era, export controls, encryption, data retention and telecoms regulation. Lucie previously worked in Ottawa and Brussels, and spent five years at the digital rights NGO Access Now, bringing an international dimension to our team.
-
-[![](/wp-content/plugins/team-members/inc/img/links/twitter.png)](https://twitter.com/nomadiclucie)
-
-![photo of Caitlin McGrane](/wp-content/uploads/2017/10/CMGbyTL-15032020-2722-copy.jpg)
-
-Caitlin McGrane
-
-Board Member
-
-Caitlin McGrane is a Postdoctoral Research Fellow at RMIT University. Her research expertise is in gender, identity and technology in everyday life. She has also led innovative research projects addressing gendered online harassment of women and gender diverse people in the public eye.
-
-## Our Staff
-
-![photo of Samantha Floreani](/wp-content/uploads/2019/08/SFloreani2023-2.png)
-
-Samantha Floreani
-
-Head of Policy
-
-Sam is a dedicated digital rights activist, privacy advocate and writer who regularly contributes to public debate on technology, power and human rights. She is currently undertaking a PhD at Monash University, researching the impact of emerging technologies on housing justice in Australia.
-
-[![](/wp-content/plugins/team-members/inc/img/links/twitter.png)](https://twitter.com/samfloreani)[![](/wp-content/plugins/team-members/inc/img/links/email.png)](mailto:samantha@digitalrightswatch.org.au)[![](/wp-content/plugins/team-members/inc/img/links/website.png)](https://www.samanthafloreani.com/)
-
-![photo of Kathryn Gledhill-Tucker](/wp-content/uploads/2019/08/kgt_headshot2-e1716175748463.jpeg)
-
-Kathryn Gledhill-Tucker
-
-Campaigns & Advocacy Manager
-
-Kathryn Gledhill-Tucker is a Nyungar technologist, writer, and digital rights activist with a broad experience in the tech industry, including working with teams to build privacy-preserving development practices. They write poetry, science fiction, and occasionally essays that explore surveillance, digital colonialism, and our relationship with machines.
-
-[![](/wp-content/plugins/team-members/inc/img/links/email.png)](mailto:kat@digitalrightswatch.org.au)[![](/wp-content/plugins/team-members/inc/img/links/website.png)](https://kgt.dev/)
+Our mission is to ensure that Australians are equipped, empowered and enabled to uphold their digital rights. We believe that digital rights are human rights which see their expression online.
