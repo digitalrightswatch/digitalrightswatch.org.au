@@ -3,6 +3,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Digital Rights Watch"
 theme = "apsho"
+summaryLength = 18
 
 [permalinks]
   blog = '/:year/:month/:day/:title/'
