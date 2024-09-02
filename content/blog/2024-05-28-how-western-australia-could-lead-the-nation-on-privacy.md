@@ -32,89 +32,17 @@ In May 2024, Western Australia (**WA**) tabled its [_Privacy and Responsible Inf
 
 The Bill is currently in front of the WA Legislative Assembly. If it passes, it will be handed to the Legislative Council for consideration.
 
-### Summary<figure class="wp-block-table">
+### Summary
 
-<table>
-  <tr>
-    <td>
-      <strong>Item</strong>
-    </td>
-
-    <td>
-      <strong>Our thoughts</strong>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      The scope of the Bill: IPP entities
-    </td>
-
-    <td>
-      ✅ The Bill will apply to all three branches of WA government, with some exceptions.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      The scope of the Bill: personal, health, and sensitive information
-    </td>
-
-    <td>
-      ✅ The Bill will regulate the handling of all three types of information, being personal, health and sensitive and this will all sit with one regulator.<br />✅ The Bill will regulate the handling of information not only about living persons, but deceased persons. <br />❌ The definition of 'personal information' needs some tidying up as in its current form it can create some ambiguity.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Notifiable data breach scheme
-    </td>
-
-    <td>
-      ✅ The Bill will impose a variety of mandatory requirements on IPP entities to assess, contain, mitigate, and notify regarding a data breach.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Mandatory PIAs for 'high privacy impact' activities
-    </td>
-
-    <td>
-      ✅ The Bill will require IPP entities to carry out a Privacy Impact Assessmenton 'high privacy impact' activities.<br />❌ The definition of 'high privacy impact' activities needs timely and clear guidance to prevent circumvention from compliance.<br />❌ There's no requirement for IPP entities to consult with members of the public when carrying out a Privacy Impact Assessment.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Enforcement
-    </td>
-
-    <td>
-      ✅ The Bill introduces the ability of aggrieved individuals to raise complaints with the WA Information Commissioner who will have powers to conciliate and determine privacy complaints.<br />✅ The Bill recognises both economic and non-economic loss as compensable.<br />❌ The Bill does not introduce a direct right of action for individuals or groups to litigate outside of the privacy complaints process.<br />❌ The Bill sets a maximum of $75,000 on compensation, which is less than other jurisdictions.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Fair and reasonable test
-    </td>
-
-    <td>
-      ✅ The Bill requires IPP entities to comply with lawful basis for collection, use and disclosure as well as imposes a 'fair and reasonable' test.<br />❌ The Bill contains some unnecessary exceptions to the fair and reasonable test.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Automated decision-making technology
-    </td>
-
-    <td>
-      ✅ The Bill imposes a variety of obligations on IPP entities who employ ADM technology to make a 'significant decision' about an individual, aimed at eliminating harms such as bias and discrimination.<br />✅ The definition of 'significant decision' is broad and encompasses a wide variety of decisions that affect a person's legal rights as well as life circumstances, opportunities, behavior or wellbeing.
-    </td>
-  </tr>
-</table></figure>
+| Item                                                               | Our thoughts                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The scope of the Bill: IPP entities                                | ✅ The Bill will apply to all three branches of WA government, with some exceptions.                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| The scope of the Bill: personal, health, and sensitive information | ✅ The Bill will regulate the handling of all three types of information, being personal, health and sensitive and this will all sit with one regulator.  <br>✅ The Bill will regulate the handling of information not only about living persons, but deceased persons.   <br>❌ The definition of 'personal information' needs some tidying up as in its current form it can create some ambiguity.                                                                                                                      |
+| Notifiable data breach scheme                                      | ✅ The Bill will impose a variety of mandatory requirements on IPP entities to assess, contain, mitigate, and notify regarding a data breach.                                                                                                                                                                                                                                                                                                                                                                            |
+| Mandatory PIAs for 'high privacy impact' activities                | ✅ The Bill will require IPP entities to carry out a Privacy Impact Assessmenton 'high privacy impact' activities.  <br>❌ The definition of 'high privacy impact' activities needs timely and clear guidance to prevent circumvention from compliance.  <br>❌ There's no requirement for IPP entities to consult with members of the public when carrying out a Privacy Impact Assessment.                                                                                                                               |
+| Enforcement                                                        | ✅ The Bill introduces the ability of aggrieved individuals to raise complaints with the WA Information Commissioner who will have powers to conciliate and determine privacy complaints.  <br>✅ The Bill recognises both economic and non-economic loss as compensable.  <br>❌ The Bill does not introduce a direct right of action for individuals or groups to litigate outside of the privacy complaints process.  <br>❌ The Bill sets a maximum of $75,000 on compensation, which is less than other jurisdictions. |
+| Fair and reasonable test                                           | ✅ The Bill requires IPP entities to comply with lawful basis for collection, use and disclosure as well as imposes a 'fair and reasonable' test.  <br>❌ The Bill contains some unnecessary exceptions to the fair and reasonable test.                                                                                                                                                                                                                                                                                  |
+| Automated decision-making technology                               | ✅ The Bill imposes a variety of obligations on IPP entities who employ ADM technology to make a 'significant decision' about an individual, aimed at eliminating harms such as bias and discrimination.  <br>✅ The definition of 'significant decision' is broad and encompasses a wide variety of decisions that affect a person's legal rights as well as life circumstances, opportunities, behavior or wellbeing.                                                                                                   |
 
 ### Detail
 
