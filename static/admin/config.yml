@@ -14,32 +14,32 @@ collections: # A list of collections the CMS should be able to edit
   - name: "posts" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
     folder: "content/blog" # The path to the folder where the documents are stored
-    preview_path:  "{{year}}/{{month}}/{{day}}/{{slug}}"
+    preview_path: "{{year}}/{{month}}/{{day}}/{{slug}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Draft", name: "draft", widget: "boolean", default: true}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Summary", name: "summary", widget: "text", required: false}
-      - {label: "Intro Blurb", name: "description", widget: "text", required: false}
-      - {label: "Author", name: "author", widget: "text", required: false}
-      - {label: "Author Thumbnail", name: "authorThumb", widget: "image", required: false}
-      - {label: "Image", name: "featureImage", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Draft", name: "draft", widget: "boolean", default: true }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Summary", name: "summary", widget: "text", required: false }
+      - { label: "Intro Blurb", name: "description", widget: "text", required: false }
+      - { label: "Author", name: "author", widget: "text", required: false }
+      - { label: "Author Thumbnail", name: "authorThumb", widget: "image", required: false }
+      - { label: "Image", name: "featureImage", widget: "image", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Page"
     folder: "content" # The path to the folder where the documents are stored
-    preview_path:  "{{slug}}"
+    preview_path: "{{slug}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Summary", name: "summary", widget: "text", required: false}
-      - {label: "Intro Blurb", name: "description", widget: "text", required: false}
-      - {label: "Author", name: "author", widget: "text", required: false}
-      - {label: "Author Thumbnail", name: "authorThumb", widget: "image", required: false}
-      - {label: "Image", name: "featureImage", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Summary", name: "summary", widget: "text", required: false }
+      - { label: "Intro Blurb", name: "description", widget: "text", required: false }
+      - { label: "Author", name: "author", widget: "text", required: false }
+      - { label: "Author Thumbnail", name: "authorThumb", widget: "image", required: false }
+      - { label: "Image", name: "featureImage", widget: "image", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
       #files:
       #  - file: "content/_index.md"
       #    label: "Home Page"
@@ -110,7 +110,7 @@ collections: # A list of collections the CMS should be able to edit
         editor:
           preview: false
         fields:
-          - {label: Site Title for Browser Tab, name: title, widget: string}
+          - { label: Site Title for Browser Tab, name: title, widget: string }
           - label: Params
             name: params
             widget: object
@@ -146,12 +146,7 @@ collections: # A list of collections the CMS should be able to edit
               - { label: "Question", name: "question", widget: "text" }
               - { label: "Answer", name: "answer", widget: "text" }
               - { label: "Data Target", name: "dataTarget", widget: "string" }
-              - {
-                  label: "Show",
-                  name: "show",
-                  widget: "select",
-                  options: ["", "show"],
-                }
+              - { label: "Show", name: "show", widget: "select", options: ["", "show"] }
       - file: "data/feature.yml"
         label: "Feature"
         name: feature
@@ -189,11 +184,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: "Enable", name: "enable", widget: "boolean" }
           - { label: "Title", name: "title", widget: "string" }
-          - {
-              label: "Blog Button Text",
-              name: "blogButtonText",
-              widget: "string",
-            }
+          - { label: "Blog Button Text", name: "blogButtonText", widget: "string" }
       - file: "data/screenshots.yml"
         label: "Screenshots"
         name: screenshots
