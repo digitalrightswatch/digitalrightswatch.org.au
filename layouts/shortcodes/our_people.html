@@ -1,0 +1,66 @@
+{{ with .Site.Data.our_people }} {{ if .enable }}
+<section class="our-people">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col">
+        <div class="our-people-content">
+          <h2>{{ .title }}</h2>
+          <p>{{ .description | markdownify }}</p>
+        </div>
+      </div>
+      <div class="row align-items-center">
+        <div class="col">
+          {{ range .sections }}
+          <div class="our-people-section">
+            <h3>{{ .name }}</h3>
+            <ul>
+              {{ range .people }}
+              <li>
+                <div class="person">
+                  <h4>{{ .name }}</h4>
+                  <h5>{{ .role }}</h5>
+                  <div class="thumb">
+                    <img src="{{ .image }}" alt="Photo of {{ .name }}" />
+                  </div>
+                  <p>{{ .description | markdownify }}</p>
+                  <div class="person-links">
+                    <ul>
+                      {{ if .web }}
+                      <li>
+                        <a href="{{ .web }}">
+                          <img src="/wp-content/plugins/team-members/inc/img/links/website.png" alt="Website of {{ .name }}" />
+                        </a>
+                      </li>
+                      {{ end }} {{ if .twitter }}
+                      <li>
+                        <a href="https://twitter.com/{{ .twitter }}">
+                          <img src="/wp-content/plugins/team-members/inc/img/links/twitter.png" alt="Twitter account of {{ .name }}" />
+                        </a>
+                      </li>
+                      {{ end }} {{ if .email }}
+                      <li>
+                        <a href="mailto:{{ .email }}">
+                          <img src="/wp-content/plugins/team-members/inc/img/links/email.png" alt="Email {{ .name }}" />
+                        </a>
+                      </li>
+                      {{ end }} {{ if .fediverse }}
+                      <li>
+                        <a href="{{ .fediverse }}">
+                          <img src="" alt="Find {{ .name }} on the Fediverse" />
+                        </a>
+                      </li>
+                      {{ end }}
+                    </ul>
+                  </div>
+                </div>
+              </li>
+              {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }} {{ end }}

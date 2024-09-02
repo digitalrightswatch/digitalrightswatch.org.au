@@ -16,3 +16,10 @@ $black: #000;
 
 // Font Variables
 $primary-font: "Open Sans", sans-serif;
+
+section.our-people {
+  & ul {
+    list-style-type: none;
+    padding: 0;
+  }
+}
