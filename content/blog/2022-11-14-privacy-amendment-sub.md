@@ -29,6 +29,4 @@ The Bill was referred to the Senate Standing Committee on Legal and Constitution
 
 You can read our submission below, or download a PDF version <a href="/wp-content/uploads/2022/11/DRW-Submission-Privacy-Legislation-Amendment-Bill.pdf" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">here</span></a>.
 
-<div data-wp-interactive="" class="wp-block-file">
-  <a id="wp-block-file--media-58b28dde-9b0c-4cc9-a399-8fd74f0f0d8c" href="/wp-content/uploads/2022/11/DRW-Submission-Privacy-Legislation-Amendment-Bill.pdf">DRW-Submission-Privacy-Legislation-Amendment-Bill</a><a href="/wp-content/uploads/2022/11/DRW-Submission-Privacy-Legislation-Amendment-Bill.pdf" class="wp-block-file__button" download aria-describedby="wp-block-file--media-58b28dde-9b0c-4cc9-a399-8fd74f0f0d8c">Download</a>
-</div>
+{{< pdfReader "/wp-content/uploads/2022/11/DRW-Submission-Privacy-Legislation-Amendment-Bill.pdf" >}}

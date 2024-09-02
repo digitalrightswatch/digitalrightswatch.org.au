@@ -36,6 +36,4 @@ We focus primarily on the question of privacy, safety and public interest when o
 
 You can read our submission below, or <span style="text-decoration: underline;"><a href="/wp-content/uploads/2022/09/DRW-Submission-Model-Defamation-Provisions-September-2022.pdf">download the PDF here</a>.</span>
 
-<div data-wp-interactive="" class="wp-block-file">
-  <a id="wp-block-file--media-75208ed1-613a-4b24-a7e5-45eff600dd35" href="/wp-content/uploads/2022/09/DRW-Submission-Model-Defamation-Provisions-September-2022.pdf">DRW-Submission-Model-Defamation-Provisions-September-2022</a><a href="/wp-content/uploads/2022/09/DRW-Submission-Model-Defamation-Provisions-September-2022.pdf" class="wp-block-file__button" download aria-describedby="wp-block-file--media-75208ed1-613a-4b24-a7e5-45eff600dd35">Download</a>
-</div>
+{{< pdfReader "/wp-content/uploads/2022/09/DRW-Submission-Model-Defamation-Provisions-September-2022.pdf" >}}

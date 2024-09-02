@@ -55,6 +55,4 @@ Consumer and Business Services of SA are accepting submissions and survey respon
   * <a href="https://www.sbs.com.au/news/article/advocates-had-warned-of-the-dangers-of-a-real-estate-data-breach-it-just-happened/6mlieq0g0" target="_blank" rel="noreferrer noopener">&#8216;Advocates had warned of the dangers of a real estate data breach. It just happened&#8217;</a>, SBS News, 3 November 2022
   * <a href="https://www.theguardian.com/australia-news/2022/nov/17/imperfect-match-australian-renters-in-the-dark-over-use-of-data-by-tech-company-snug" target="_blank" rel="noreferrer noopener">&#8216;Imperfect match: Australian renters in the dark over use of data by tech company Snug&#8217;</a>, The Guardian, 17 November 2022
 
-<div data-wp-interactive="" class="wp-block-file">
-  <a id="wp-block-file--media-8cfc2862-bc41-4cf1-bd7b-ad6b3fc4a0ab" href="/wp-content/uploads/2022/11/DRW-Submission-SA-Rental-Law-Reform-Dec-2022.pdf">DRW-Submission-SA-Rental-Law-Reform-Dec-2022</a><a href="/wp-content/uploads/2022/11/DRW-Submission-SA-Rental-Law-Reform-Dec-2022.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-8cfc2862-bc41-4cf1-bd7b-ad6b3fc4a0ab">Download</a>
-</div>
+{{< pdfReader "/wp-content/uploads/2022/11/DRW-Submission-SA-Rental-Law-Reform-Dec-2022.pdf" >}}

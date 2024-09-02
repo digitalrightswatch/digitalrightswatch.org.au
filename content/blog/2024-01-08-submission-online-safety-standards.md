@@ -47,6 +47,4 @@ In response to the proposed standards, Digital Rights Watch also teamed up with 
 
 Read our full submission below, or <span style="text-decoration: underline;"><a href="/wp-content/uploads/2024/01/DRW-Submission-Draft-Online-Safety-Industry-Standards-Dec-2023.pdf" target="_blank" rel="noreferrer noopener">download a PDF here.</a></span>
 
-<div data-wp-interactive="" class="wp-block-file">
-  <a id="wp-block-file--media-1218fb1e-597d-4ad0-bb27-f8333cb53fce" href="/wp-content/uploads/2024/01/DRW-Submission-Draft-Online-Safety-Industry-Standards-Dec-2023.pdf">DRW-Submission-Draft-Online-Safety-Industry-Standards-Dec-2023</a><a href="/wp-content/uploads/2024/01/DRW-Submission-Draft-Online-Safety-Industry-Standards-Dec-2023.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-1218fb1e-597d-4ad0-bb27-f8333cb53fce">Download</a>
-</div>
+{{< pdfReader "/wp-content/uploads/2024/01/DRW-Submission-Draft-Online-Safety-Industry-Standards-Dec-2023.pdf" >}}

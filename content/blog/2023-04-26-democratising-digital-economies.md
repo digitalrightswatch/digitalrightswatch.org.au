@@ -56,6 +56,4 @@ You can read our full submission outlining what we think would start to democrat
 
 You can also read our joint letter with Electronic Frontiers Australia, Professionals Australia, Per Capita's Centre for New Industry, The Australia Institute's Centre for Responsible Technology and ANU's Tech Policy Design Centre <span style="text-decoration: underline;"><a href="/wp-content/uploads/2023/04/Joint-letter-on-a-Digital-Affairs-Committee.pdf" target="_blank" rel="noreferrer noopener">here</a></span>.
 
-<div data-wp-interactive="" class="wp-block-file">
-  <a id="wp-block-file--media-5e299b1a-442f-4592-9fda-e58263a69345" href="/wp-content/uploads/2023/04/Submission-on-democratising-digital-economies.pdf">Submission-on-democratising-digital-economies</a><a href="/wp-content/uploads/2023/04/Submission-on-democratising-digital-economies.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-5e299b1a-442f-4592-9fda-e58263a69345">Download</a>
-</div>
+{{< pdfReader "/wp-content/uploads/2023/04/Submission-on-democratising-digital-economies.pdf" >}}

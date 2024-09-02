@@ -52,6 +52,4 @@ Namrata Maheshwari, Access Now namrata@accessnow.org
 
 **The full text of the joint letter and signatories is included below** [<span style="text-decoration: underline;"><a href="/wp-content/uploads/2023/12/AUS-ESafety-GEC-Submission_final.pdf" target="_blank" rel="noreferrer noopener">Download PDF Here</a></span>]
 
-<div data-wp-interactive="" class="wp-block-file">
-  <a id="wp-block-file--media-a26906ef-1317-41dd-a584-ee8f24e6a003" href="/wp-content/uploads/2023/12/AUS-ESafety-GEC-Submission_final.pdf">AUS-ESafety-GEC-Submission_final</a><a href="/wp-content/uploads/2023/12/AUS-ESafety-GEC-Submission_final.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-a26906ef-1317-41dd-a584-ee8f24e6a003">Download</a>
-</div>
+{{< pdfReader "/wp-content/uploads/2023/12/AUS-ESafety-GEC-Submission_final.pdf" >}}

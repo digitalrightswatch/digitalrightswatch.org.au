@@ -32,6 +32,4 @@ In early 2022, Digital Rights Watch responded to an Issues Paper published by th
 
 You can read the full submission below, or <a href="/wp-content/uploads/2023/07/Submission_-AI-and-ADM-Regulation-April-2022.pdf" target="_blank" rel="noreferrer noopener">download the PDF here</a>.
 
-<div data-wp-interactive="" class="wp-block-file">
-  <a id="wp-block-file--media-1429054e-ac2f-47f2-bc56-2bf2325115b1" href="/wp-content/uploads/2023/07/Submission_-AI-and-ADM-Regulation-April-2022.pdf">Submission_-AI-and-ADM-Regulation-April-2022</a><a href="/wp-content/uploads/2023/07/Submission_-AI-and-ADM-Regulation-April-2022.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-1429054e-ac2f-47f2-bc56-2bf2325115b1">Download</a>
-</div>
+{{< pdfReader "/wp-content/uploads/2023/07/Submission_-AI-and-ADM-Regulation-April-2022.pdf" >}}

@@ -37,6 +37,4 @@ In March 2023 the Attorney-General asked the Parliamentary Joint Committee on Hu
 
 **You can read our submission in full below, or <span style="text-decoration: underline;"><a href="/wp-content/uploads/2023/07/DRW-EFA-Submission-Inquiry-into-Human-Rights-Framework-July-2023.pdf" target="_blank" rel="noreferrer noopener">download a PDF here</a></span>**.
 
-<div data-wp-interactive="" class="wp-block-file">
-  <a id="wp-block-file--media-efb94a9e-567b-4395-8de8-78b52a2541d9" href="/wp-content/uploads/2023/07/DRW-EFA-Submission-Inquiry-into-Human-Rights-Framework-July-2023.pdf">DRW-EFA-Submission-Inquiry-into-Human-Rights-Framework-July-2023</a><a href="/wp-content/uploads/2023/07/DRW-EFA-Submission-Inquiry-into-Human-Rights-Framework-July-2023.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-efb94a9e-567b-4395-8de8-78b52a2541d9">Download</a>
-</div>
+{{< pdfReader "/wp-content/uploads/2023/07/DRW-EFA-Submission-Inquiry-into-Human-Rights-Framework-July-2023.pdf" >}}

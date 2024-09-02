@@ -34,8 +34,4 @@ In late 2023 the Department of Infrastructure, Transport, Regional Development, 
 
 The original BOSE Determination was made in 2022. <a href="https://digitalrightswatch.org.au/2021/11/04/submission-draft-basic-online-safety-expectations/" target="_blank" rel="noreferrer noopener">You can read Digital Rights Watch&#8217;s submission in response to the original draft BOSE here.</a>
 
-
-
-<div data-wp-interactive="" class="wp-block-file">
-  <a id="wp-block-file--media-88e47cb4-132f-4018-add7-cc3ae613e11b" href="/wp-content/uploads/2024/03/DRW-Submission-BOSE-Amendment-February-2024.pdf">DRW-Submission-BOSE-Amendment-February-2024</a><a href="/wp-content/uploads/2024/03/DRW-Submission-BOSE-Amendment-February-2024.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-88e47cb4-132f-4018-add7-cc3ae613e11b">Download</a>
-</div>
+{{< pdfReader "/wp-content/uploads/2024/03/DRW-Submission-BOSE-Amendment-February-2024.pdf" >}}

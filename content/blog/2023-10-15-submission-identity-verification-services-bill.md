@@ -39,6 +39,4 @@ The new IVS Bill has since then been moved out of the hands of Home Affairs, and
 
 You can read our full submission to the Inquiry below, or <span style="text-decoration: underline;"><a href="/wp-content/uploads/2023/10/DRW-Submission-Identity-Verification-Services-Bill-2023.pdf" target="_blank" rel="noreferrer noopener">download the PDF here.</a></span>
 
-<div data-wp-interactive="" class="wp-block-file">
-  <a id="wp-block-file--media-76fb0f16-73c7-4c45-9cfa-42b2d90db78f" href="/wp-content/uploads/2023/10/DRW-Submission-Identity-Verification-Services-Bill-2023.pdf">DRW-Submission-Identity-Verification-Services-Bill-2023</a><a href="/wp-content/uploads/2023/10/DRW-Submission-Identity-Verification-Services-Bill-2023.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-76fb0f16-73c7-4c45-9cfa-42b2d90db78f">Download</a>
-</div>
+{{< pdfReader "/wp-content/uploads/2023/10/DRW-Submission-Identity-Verification-Services-Bill-2023.pdf" >}}

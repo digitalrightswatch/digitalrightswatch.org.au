@@ -38,6 +38,4 @@ In January, the Minister for Communications announced that the Australian Govern
 
 Read our submission in full below, or <a href="/wp-content/uploads/2023/08/DRW-Submission-Communications-Legislation-Amendment-Combatting-Misinformation-and-Disinformation-Bill-2023-August-2023.pdf" target="_blank" rel="noreferrer noopener">download a PDF here.</a>
 
-<div data-wp-interactive="" class="wp-block-file">
-  <a id="wp-block-file--media-42bf0eb6-9cad-41da-a084-e8ab671d1e5f" href="/wp-content/uploads/2023/08/DRW-Submission-Communications-Legislation-Amendment-Combatting-Misinformation-and-Disinformation-Bill-2023-August-2023.pdf">DRW-Submission-Communications-Legislation-Amendment-Combatting-Misinformation-and-Disinformation-Bill-2023-August-2023</a><a href="/wp-content/uploads/2023/08/DRW-Submission-Communications-Legislation-Amendment-Combatting-Misinformation-and-Disinformation-Bill-2023-August-2023.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-42bf0eb6-9cad-41da-a084-e8ab671d1e5f">Download</a>
-</div>
+{{< pdfReader "/wp-content/uploads/2023/08/DRW-Submission-Communications-Legislation-Amendment-Combatting-Misinformation-and-Disinformation-Bill-2023-August-2023.pdf" >}}

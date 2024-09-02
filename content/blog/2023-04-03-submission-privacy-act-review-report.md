@@ -46,6 +46,4 @@ You can read our submission below, or <span style="text-decoration: underline;">
   * <a href="https://digitalrightswatch.org.au/2022/09/26/optus-data-breach-shows-need-for-stronger-privacy-laws/" target="_blank" rel="noreferrer noopener">Optus data breach shows need for stronger privacy laws &#8211; September 2022</a>
   * <a href="https://digitalrightswatch.org.au/2022/01/20/explainer-privacy-reform-in-australia/" target="_blank" rel="noreferrer noopener">Privacy Reform in Australia Explainer &#8211; January 2022</a>
 
-<div data-wp-interactive="" class="wp-block-file">
-  <a id="wp-block-file--media-12099754-794c-444b-a90a-ba92e0980a41" href="/wp-content/uploads/2023/04/Submission_-Privacy-Act-Review-Report-March-2023.pdf">Submission_-Privacy-Act-Review-Report-March-2023</a><a href="/wp-content/uploads/2023/04/Submission_-Privacy-Act-Review-Report-March-2023.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-12099754-794c-444b-a90a-ba92e0980a41">Download</a>
-</div>
+{{< pdfReader "/wp-content/uploads/2023/04/Submission_-Privacy-Act-Review-Report-March-2023.pdf" >}}

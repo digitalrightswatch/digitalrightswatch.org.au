@@ -54,6 +54,4 @@ To arrange an interview contact media@digitalrightswatch.org.au
 
 **The full text of the letter and organisational signatories are included below. (<span style="text-decoration: underline;"><a href="/wp-content/uploads/2024/02/For-Print-DRW-Open-Letter-3.pdf" target="_blank" rel="noreferrer noopener">Download PDF here</a></span>)**
 
-<div data-wp-interactive="" class="wp-block-file">
-  <a id="wp-block-file--media-eb073235-2344-453b-987f-8063193fc55d" href="/wp-content/uploads/2024/02/For-Print-DRW-Open-Letter-3.pdf">For-Print-DRW-Open-Letter-3</a><a href="/wp-content/uploads/2024/02/For-Print-DRW-Open-Letter-3.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-eb073235-2344-453b-987f-8063193fc55d">Download</a>
-</div>
+{{< pdfReader "/wp-content/uploads/2024/02/For-Print-DRW-Open-Letter-3.pdf" >}}

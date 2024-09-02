@@ -35,6 +35,4 @@ You can read the letter in full below.
 
 
 
-<div data-wp-interactive="" class="wp-block-file">
-  <a id="wp-block-file--media-0799837c-076c-4238-9b6a-b194b1824f68" href="/wp-content/uploads/2022/09/DRW-Letter-to-NSW-Department-of-Education-regarding-student-fingerprint-scanning.pdf">DRW-Letter-to-NSW-Department-of-Education-regarding-student-fingerprint-scanning</a><a href="/wp-content/uploads/2022/09/DRW-Letter-to-NSW-Department-of-Education-regarding-student-fingerprint-scanning.pdf" class="wp-block-file__button" download aria-describedby="wp-block-file--media-0799837c-076c-4238-9b6a-b194b1824f68">Download</a>
-</div>
+{{< pdfReader "/wp-content/uploads/2022/09/DRW-Letter-to-NSW-Department-of-Education-regarding-student-fingerprint-scanning.pdf" >}}

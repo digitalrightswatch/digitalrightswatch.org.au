@@ -40,6 +40,4 @@ The current phase of consultation is broad, and we plan to weigh in in further d
   * Generally speaking, we are not in favour of voluntary codes. We don&#8217;t trust AI companies to self-regulate.
   * Some technologies and applications should be &#8216;no-go zones&#8217; or outright prohibited. One-to-many facial recognition technology, or FRT used in real-time, should be banned.
 
-<div data-wp-interactive="" class="wp-block-file">
-  <a id="wp-block-file--media-05a51c5b-ce89-4b85-845c-606e27182483" href="/wp-content/uploads/2023/08/DRW-Submission-Safe-and-Responsible-AI-July-2023.pdf">DRW-Submission-Safe-and-Responsible-AI-July-2023</a><a href="/wp-content/uploads/2023/08/DRW-Submission-Safe-and-Responsible-AI-July-2023.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-05a51c5b-ce89-4b85-845c-606e27182483">Download</a>
-</div>
+{{< pdfReader "/wp-content/uploads/2023/08/DRW-Submission-Safe-and-Responsible-AI-July-2023.pdf" >}}

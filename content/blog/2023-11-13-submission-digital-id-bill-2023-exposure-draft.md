@@ -45,6 +45,4 @@ The Digital ID system must:
 
 **You can see our full submission below, or <span style="text-decoration: underline;"><a href="/wp-content/uploads/2023/11/Submission-Digital-ID-Bill-2023-exposure-draft.pdf" target="_blank" rel="noreferrer noopener">download a PDF here.</a></span>**
 
-<div data-wp-interactive="" class="wp-block-file">
-  <a id="wp-block-file--media-93829f2e-cf85-47fd-b09b-bb0818547833" href="/wp-content/uploads/2023/11/Submission-Digital-ID-Bill-2023-exposure-draft.pdf">Submission-Digital-ID-Bill-2023-exposure-draft</a><a href="/wp-content/uploads/2023/11/Submission-Digital-ID-Bill-2023-exposure-draft.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-93829f2e-cf85-47fd-b09b-bb0818547833">Download</a>
-</div>
+{{< pdfReader "/wp-content/uploads/2023/11/Submission-Digital-ID-Bill-2023-exposure-draft.pdf" >}}

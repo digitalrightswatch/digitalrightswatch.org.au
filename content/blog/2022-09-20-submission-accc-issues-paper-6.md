@@ -36,9 +36,7 @@ You can read our submission below, or <span style="text-decoration: underline;">
 
 
 
-<div data-wp-interactive="" class="wp-block-file">
-  <a id="wp-block-file--media-b2d7f2f6-199f-4da0-b9ab-7c672f467d38" href="/wp-content/uploads/2022/09/DRW-Submission-ACCC-Digital-Platforms-Inquiry-Social-media-services-September-2022.pdf">DRW-Submission-ACCC-Digital-Platforms-Inquiry-Social-media-services-September-2022</a><a href="/wp-content/uploads/2022/09/DRW-Submission-ACCC-Digital-Platforms-Inquiry-Social-media-services-September-2022.pdf" class="wp-block-file__button" download aria-describedby="wp-block-file--media-b2d7f2f6-199f-4da0-b9ab-7c672f467d38">Download</a>
-</div>
+{{< pdfReader "/wp-content/uploads/2022/09/DRW-Submission-ACCC-Digital-Platforms-Inquiry-Social-media-services-September-2022.pdf" >}}
 
  [1]: https://www.accc.gov.au/focus-areas/inquiries-ongoing/digital-platform-services-inquiry-2020-2025
  [2]: https://www.accc.gov.au/focus-areas/inquiries-ongoing/digital-platform-services-inquiry-2020-2025/march-2023-interim-report

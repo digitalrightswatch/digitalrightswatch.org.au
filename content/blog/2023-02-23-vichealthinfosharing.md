@@ -37,6 +37,4 @@ The new bill has been re-introduced with no substantive changes, showing that th
 
 Our Chari, Lizzie O&#8217;Shea, wrote to the Greens and crossbench members of the Victorian Parliament to urge them to propose significant amendments to the bill or oppose it entirely.
 
-<div data-wp-interactive="" class="wp-block-file">
-  <a id="wp-block-file--media-1de87148-41bc-4c30-a266-99ee971a17f6" href="/wp-content/uploads/2023/02/20230222-DRW-Letter-Vic-Health-Info-Sharing-Bill.pdf">20230222-DRW-Letter-Vic-Health-Info-Sharing-Bill</a><a href="/wp-content/uploads/2023/02/20230222-DRW-Letter-Vic-Health-Info-Sharing-Bill.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-1de87148-41bc-4c30-a266-99ee971a17f6">Download</a>
-</div>
+{{< pdfReader "/wp-content/uploads/2023/02/20230222-DRW-Letter-Vic-Health-Info-Sharing-Bill.pdf" >}}

@@ -36,8 +36,6 @@ The codes cover an immensely broad scope — including social media, email, priv
 
 #### **You can read our submission below, or [download a PDF here][1].**
 
-<div data-wp-interactive="" class="wp-block-file">
-  <a id="wp-block-file--media-d475108c-bded-4bfd-b0d4-40dfa90bd834" href="/wp-content/uploads/2022/10/DRW-Submission-Online-safety-industry-codes.pdf">DRW-Submission-Online-safety-industry-codes</a><a href="/wp-content/uploads/2022/10/DRW-Submission-Online-safety-industry-codes.pdf" class="wp-block-file__button" download aria-describedby="wp-block-file--media-d475108c-bded-4bfd-b0d4-40dfa90bd834">Download</a>
-</div>
+{{< pdfReader "/wp-content/uploads/2022/10/DRW-Submission-Online-safety-industry-codes.pdf" >}}
 
  [1]: /wp-content/uploads/2022/10/DRW-Submission-Online-safety-industry-codes.pdf

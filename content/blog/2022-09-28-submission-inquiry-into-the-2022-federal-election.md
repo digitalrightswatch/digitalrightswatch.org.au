@@ -38,6 +38,4 @@ In particular, we call for the committee to address the issue of political party
 
 #### You can read our submission in full below, or <span style="text-decoration: underline;"><a href="/wp-content/uploads/2022/09/DRW-Submission-JSCEM-2022-Election-Inquiry-September-2022.pdf" target="_blank" rel="noreferrer noopener">download a PDF here</a></span>.
 
-<div data-wp-interactive="" class="wp-block-file">
-  <a id="wp-block-file--media-f0f47ef5-03e8-4022-8907-236a5f2db530" href="/wp-content/uploads/2022/09/DRW-Submission-JSCEM-2022-Election-Inquiry-September-2022.pdf">DRW-Submission-JSCEM-2022-Election-Inquiry-September-2022</a><a href="/wp-content/uploads/2022/09/DRW-Submission-JSCEM-2022-Election-Inquiry-September-2022.pdf" class="wp-block-file__button" download aria-describedby="wp-block-file--media-f0f47ef5-03e8-4022-8907-236a5f2db530">Download</a>
-</div>
+{{< pdfReader "/wp-content/uploads/2022/09/DRW-Submission-JSCEM-2022-Election-Inquiry-September-2022.pdf" >}}
