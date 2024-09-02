@@ -77,3 +77,11 @@ copyright2 = "Copyright ©  <a href=\"https://staticmania.com/\" target=\"_blank
 
 #contact
 email = "help@staticmania.com"
+
+[module]
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
+    source = 'static'
+    target = 'assets'
