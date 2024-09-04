@@ -14,19 +14,19 @@ summaryLength = 18
 # Navigation Bar
 [[menu.main]]
     name = "Home"
-    url = "#hero"
+    url = "/#hero"
     weight = 1
 [[menu.main]]
     name = "About"
-    url = "#feature"
+    pageRef = "about"
     weight = 2
 [[menu.main]]
-    name = "Services"
-    url = "#faq"
+    name = "Donate"
+    url = "https://privacy.raisely.com/"
     weight = 3
 [[menu.main]]
     name = "Blog"
-    url = "#blog"
+    url = "/#blog"
     weight = 4
 
 # Footer Sitemap
@@ -36,15 +36,15 @@ summaryLength = 18
     weight = 1
 [[menu.sitemap]]
     name = "Latest Article"
-    url = "/blog"
+    pageRef = "blog"
     weight = 2
 [[menu.sitemap]]
     name = "Privacy & Policy"
-    url = "/privacy"
+    pageRef = "privacy"
     weight = 3
 [[menu.sitemap]]
     name = "Contact"
-    url = "/contact"
+    pageRef = "contact"
     weight = 4
 
 [markup.goldmark.renderer]
