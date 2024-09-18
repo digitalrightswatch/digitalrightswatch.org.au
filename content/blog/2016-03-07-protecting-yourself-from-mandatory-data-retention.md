@@ -64,7 +64,7 @@ cv_comp_cornerstone_content:
     <p><a href="http://scott-ludlam.greensmps.org.au/stopdataretention">Provided by Office of Senator Scott Ludlam.</a></p>
     ";}
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 tags:
   - Get a VPN
 

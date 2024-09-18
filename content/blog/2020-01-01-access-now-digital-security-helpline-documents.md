@@ -17,7 +17,7 @@ eg_soundcloud_ratio:
 eg_custom_meta_216:
   - 'true'
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 
 ---
 Access Now have compiled all the guides they use to handle different kinds of cases for their Digital Security Helpline.

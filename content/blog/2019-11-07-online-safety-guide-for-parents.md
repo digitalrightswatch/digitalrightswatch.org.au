@@ -17,7 +17,7 @@ eg_soundcloud_ratio:
 eg_custom_meta_216:
   - 'true'
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 
 ---
 Australia&#8217;s eSafety Commissioner has released this handy guide for parents.

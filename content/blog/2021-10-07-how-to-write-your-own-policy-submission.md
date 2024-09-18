@@ -21,7 +21,7 @@ eg_custom_meta_216:
   - 'true'
 category:
   - Events
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 tags:
   - policy
   - submission

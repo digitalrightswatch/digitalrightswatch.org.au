@@ -6,7 +6,7 @@ excerpt: "Me and My Shadow is a project from the Tactical Technical Collective t
 url: /2016/07/25/me-and-my-shadow/
 featureImage: /wp-content/uploads/2016/10/myshadow_ttcwebsite.png
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 tags:
   - privacy
 

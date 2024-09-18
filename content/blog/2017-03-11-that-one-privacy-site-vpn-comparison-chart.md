@@ -6,7 +6,7 @@ excerpt: "This crowd-sourced comparison of VPN providers is the most honest and 
 url: /2017/03/11/that-one-privacy-site-vpn-comparison-chart/
 featureImage: /wp-content/uploads/2017/04/Untitled.jpeg
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 tags:
   - Get a VPN
 

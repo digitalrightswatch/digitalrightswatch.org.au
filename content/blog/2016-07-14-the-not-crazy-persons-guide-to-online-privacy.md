@@ -6,7 +6,7 @@ excerpt: Bloomberg's cybersecurity reporters outline your options to improve onl
 url: /2016/07/14/the-not-crazy-persons-guide-to-online-privacy/
 featureImage: /wp-content/uploads/2016/10/1.jpg
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 tags:
   - privacy
 

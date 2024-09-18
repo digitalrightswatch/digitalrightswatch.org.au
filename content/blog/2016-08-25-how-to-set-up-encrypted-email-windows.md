@@ -6,7 +6,7 @@ excerpt: Setting up end-to-end encryption on your emails is a good start to prot
 url: /2016/08/25/how-to-set-up-encrypted-email-windows/
 featureImage: /wp-content/uploads/2016/10/windowsPgpEnigmailSearch.png
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 tags:
   - encryption
 

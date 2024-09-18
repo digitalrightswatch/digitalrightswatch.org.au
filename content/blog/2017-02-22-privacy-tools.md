@@ -6,7 +6,7 @@ excerpt: privacytools.io is a socially motivated website that provides informati
 url: /2017/02/22/privacy-tools/
 featureImage: /wp-content/uploads/2017/02/logo.png
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 tags:
   - Get a VPN
 

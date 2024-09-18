@@ -19,7 +19,7 @@ eg_custom_meta_216:
   - 'true'
 category:
   - Articles
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 
 ---
 Whether you're stringing up Christmas lights, getting out the Menorah, or just enjoying the end of the rollercoaster of a year that was 2020, just about everyone will partake in a bit of capitalist indulgence in December—that's right, the season of shopping!

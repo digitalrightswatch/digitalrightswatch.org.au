@@ -6,7 +6,7 @@ excerpt: There are a few steps journalists, activists, and everyone else can tak
 url: /2017/02/27/surveillance-self-defense-checklist/
 featureImage: /wp-content/uploads/2017/02/1-dp8s_dZNZ2dpwnmu66AAAg.gif
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 tags:
   - Get a VPN
 

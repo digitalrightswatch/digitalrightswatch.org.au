@@ -6,7 +6,7 @@ excerpt: "Modern technology has given those in power new abilities to eavesdrop 
 url: /2016/06/25/surveillance-self-defense/
 featureImage: /wp-content/uploads/2016/10/logo.png
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 tags:
   - Get a VPN
 

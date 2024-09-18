@@ -17,7 +17,7 @@ eg_soundcloud_ratio:
 eg_custom_meta_216:
   - 'true'
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 
 ---
 _CounterAct encourages the progressive and radical movements on the Australian continent to get better at digital privacy and security_

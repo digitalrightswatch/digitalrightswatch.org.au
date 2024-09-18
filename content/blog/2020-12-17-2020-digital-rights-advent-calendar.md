@@ -20,7 +20,7 @@ eg_custom_meta_216:
 cybocfi_hide_featureImage:
   - yes
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 
 ---
 #### It&#8217;s just what you wished for!

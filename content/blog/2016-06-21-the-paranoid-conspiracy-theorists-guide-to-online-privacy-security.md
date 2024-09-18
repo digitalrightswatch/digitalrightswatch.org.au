@@ -6,7 +6,7 @@ excerpt: "In putting together the Paranoid Conspiracy-Theorist's Guide To Online
 url: /2016/06/21/the-paranoid-conspiracy-theorists-guide-to-online-privacy-security/
 featureImage: /wp-content/uploads/2016/10/muo-security-freak-https.jpg
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 tags:
   - privacy
 

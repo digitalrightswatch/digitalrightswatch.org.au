@@ -20,7 +20,7 @@ eg_custom_meta_216:
 cybocfi_hide_featureImage:
   - yes
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 
 ---
 Thank you to everyone who has written to their local Council urging them to sign on to be a Digital Rights City!

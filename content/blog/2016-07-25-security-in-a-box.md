@@ -6,7 +6,7 @@ excerpt: Security in-a-Box was created by Front Line Defenders in partnership wi
 url: /2016/07/25/security-in-a-box/
 featureImage: /wp-content/uploads/2016/10/siab_home.jpg
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 tags:
   - privacy
 

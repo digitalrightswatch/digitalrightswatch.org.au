@@ -6,7 +6,7 @@ excerpt: This is a list-in-progress of resources to use with children and young 
 url: /2018/04/10/digital-rights-resources-for-children-and-young-people/
 featureImage: /wp-content/uploads/2018/04/download.jpeg
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 
 ---
 This is a list-in-progress of resources to use with children and young people to educate them about digital literacy and digital rights.

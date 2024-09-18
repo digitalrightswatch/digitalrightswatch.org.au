@@ -17,7 +17,7 @@ eg_soundcloud_ratio:
 eg_custom_meta_216:
   - 'true'
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 
 ---
 This guide is **designed for beginners** and non-technical people with the aim of increasing security across our whole community. The content is based on research, working with security experts and on the ground experience working with community activists and people who believe government and corporations do not have the right to spy on people by default.

@@ -19,7 +19,7 @@ eg_custom_meta_216:
   - 'true'
 category:
   - Articles
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 tags:
   - protest; privacy; biometric data; facial recognition
 

@@ -17,7 +17,7 @@ eg_soundcloud_ratio:
 eg_custom_meta_216:
   - 'true'
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 
 ---
 A VR Experience from EFF for Keeping an Eye on Big Brother

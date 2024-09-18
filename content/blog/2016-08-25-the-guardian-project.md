@@ -6,7 +6,7 @@ excerpt: The Guardian Project creates easy to use secure apps, open-source softw
 url: /2016/08/25/the-guardian-project/
 featureImage: /wp-content/uploads/2016/10/cropped-DSC01246.jpg
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 
 ---
 [The Guardian Project][1] creates easy to use secure apps, open-source software libraries, and customized mobile devices that can be used around the world by any person looking to protect their communications and personal data from unjust intrusion, interception and monitoring.

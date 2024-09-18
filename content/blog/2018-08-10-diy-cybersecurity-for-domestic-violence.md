@@ -5,7 +5,7 @@ date: 2018-08-10T08:41:18+00:00
 url: /2018/08/10/diy-cybersecurity-for-domestic-violence/
 featureImage: /wp-content/uploads/2018/08/safe_image.php_.jpg
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 tags:
   - Online Protection
   - privacy

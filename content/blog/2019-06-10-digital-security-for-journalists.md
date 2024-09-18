@@ -146,7 +146,7 @@ cv_comp_cornerstone_content:
     <ul><li><a href="https://ssd.eff.org/">Surveillance Self-Defence guide</a> by EFF</li><li><a href="https://rsf.org/sites/default/files/guide_journaliste_rsf_2015_en_0.pdf">Safety Guide for Journalists</a> from Reporters Without Borders</li><li><a href="https://securityplanner.org">Security Planner</a> tool from Citizen Lab</li><li><a href="https://securityinabox.org/en/">Security In A Box</a> from Tactical Technical Collective and Front Line Defenders</li></ul>
     ";}
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 
 ---
 A free press is a cornerstone of any democracy, with journalism playing an integral role in the transparency and debate that is so important to protecting and maintaining society. Increasingly, we are seeing journalists forced to comply with authoritarian government orders, and repressive regimes of secrecy and gagging designed to hamper the freedoms of the Third Estate.

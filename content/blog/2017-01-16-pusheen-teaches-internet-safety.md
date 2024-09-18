@@ -11,7 +11,7 @@ cv_comp_cornerstone_content:
     <p><a href="http://imgur.com/gallery/ooqGh9G">Originally from Imgur</a></p>
     ";}
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 
 ---
 <img loading="lazy" decoding="async" class="aligncenter wp-image-541 size-full" src="/wp-content/uploads/2017/01/ooqGh9G.gif" width="400" height="4500" />

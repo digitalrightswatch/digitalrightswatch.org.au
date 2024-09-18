@@ -5,7 +5,7 @@ date: 2019-04-02T04:13:09+00:00
 url: /2019/04/02/de-google-ify-internet/
 featureImage: /wp-content/uploads/2019/05/Peha-Banquet-CC-By-1920.jpg
 category:
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 
 ---
 On the way to your digital independance… ? The road is clear!

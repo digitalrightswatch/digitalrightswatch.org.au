@@ -18,7 +18,7 @@ eg_custom_meta_216:
   - 'true'
 category:
   - News
-  - 'Tools &amp; Guides'
+  - 'Tools and Guides'
 tags:
   - contact tracing app
   - covid-19
