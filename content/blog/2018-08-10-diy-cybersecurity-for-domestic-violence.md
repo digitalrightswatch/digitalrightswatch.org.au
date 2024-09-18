@@ -4,6 +4,7 @@ author: Digital Rights Watch
 date: 2018-08-10T08:41:18+00:00
 url: /2018/08/10/diy-cybersecurity-for-domestic-violence/
 featureImage: /wp-content/uploads/2018/08/safe_image.php_.jpg
+redirect_url: https://hackblossom.org/domestic-violence/
 category:
   - 'Tools and Guides'
 tags:

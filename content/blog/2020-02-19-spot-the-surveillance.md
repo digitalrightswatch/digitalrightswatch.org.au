@@ -4,6 +4,7 @@ author: Digital Rights Watch
 date: 2020-02-19T02:50:24+00:00
 url: /2020/02/19/spot-the-surveillance/
 featureImage: /wp-content/uploads/2020/02/safe_image.php_.png
+redirect_url: https://www.eff.org/pages/spot-surveillance-vr-experience-keeping-eye-big-brother
 eg_vimeo_ratio:
   - 1
 eg_youtube_ratio:

@@ -4,6 +4,7 @@ author: Digital Rights Watch
 date: 2017-10-26T01:48:30+00:00
 url: /2017/10/26/actionskills/
 featureImage: /wp-content/uploads/2017/10/crypto2-1024x483-1.jpg
+redirect_url: https://actionskills.au/resources/digital-security/
 eg_vimeo_ratio:
   - 1
 eg_youtube_ratio:

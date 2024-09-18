@@ -4,6 +4,7 @@ author: Digital Rights Watch
 date: 2020-01-01T02:58:00+00:00
 url: /2020/01/01/access-now-digital-security-helpline-documents/
 featureImage: /wp-content/uploads/2020/02/AccessNow_Helplin_cover.gif
+redirect_url: https://communitydocs.accessnow.org/
 eg_vimeo_ratio:
   - 1
 eg_youtube_ratio:

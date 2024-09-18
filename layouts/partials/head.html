@@ -2,6 +2,10 @@
   <meta charset="utf-8" />
   <title>{{ .Title }}</title>
 
+  {{/* If we have a redirect_url parameter in the page frontmatter, use it */}}
+  {{ with .Params.redirect_url }}
+  <meta http-equiv="refresh" content="0; url={{ . }}">
+  {{ end }}
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1" />

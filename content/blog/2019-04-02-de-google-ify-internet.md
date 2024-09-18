@@ -4,6 +4,7 @@ author: Digital Rights Watch
 date: 2019-04-02T04:13:09+00:00
 url: /2019/04/02/de-google-ify-internet/
 featureImage: /wp-content/uploads/2019/05/Peha-Banquet-CC-By-1920.jpg
+redirect_url: https://degooglisons-internet.org/en/
 category:
   - 'Tools and Guides'
 
