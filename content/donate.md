@@ -3,7 +3,7 @@ title: Donate
 author: Digital Rights Watch
 type: page
 date: 2016-08-10T12:48:10+00:00
-#redirect_url: https://donate.digitalrightswatch.org.au/
+redirect_url: https://donate.digitalrightswatch.org.au/
 eg_vimeo_ratio:
   - 1
 eg_youtube_ratio:
