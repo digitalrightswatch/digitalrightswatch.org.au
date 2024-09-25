@@ -25,21 +25,13 @@ tags:
   - digital rights cities
   - smart city
   - surveillance
+summary: As our world becomes more digitally dependent, how can we take an active role in shaping the kind of 'smart city' we want to live in?
 
 ---
-<figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-11 is-layout-flex wp-block-gallery-is-layout-flex">
 
-<ul class="blocks-gallery-grid">
-  <li class="blocks-gallery-item">
-{{< figure src="/wp-content/uploads/2021/04/MKW_Insta_v1-2.png" >}}
-  </li>
-  <li class="blocks-gallery-item">
-{{< figure src="/wp-content/uploads/2021/04/CoM_MKW2021_Partner_SocialMediaTiles_Question_04.jpg" >}}
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2021/04/Copy-of-Copy-of-sale-1024x1024.png" alt="" data-id="7767" data-link="https://digitalrightswatch.org.au/?attachment_id=7767" class="wp-image-7767" srcset="/wp-content/uploads/2021/04/Copy-of-Copy-of-sale-1024x1024.png 1024w, /wp-content/uploads/2021/04/Copy-of-Copy-of-sale-300x300.png 300w, /wp-content/uploads/2021/04/Copy-of-Copy-of-sale-150x150.png 150w, /wp-content/uploads/2021/04/Copy-of-Copy-of-sale-768x768.png 768w, /wp-content/uploads/2021/04/Copy-of-Copy-of-sale-1536x1536.png 1536w, /wp-content/uploads/2021/04/Copy-of-Copy-of-sale-2048x2048.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-  </li>
-</ul></figure>
+{{< figure height="256" width="256" src="/wp-content/uploads/2021/04/MKW_Insta_v1-2.png" >}}
+{{< figure height="256" width="256" src="/wp-content/uploads/2021/04/CoM_MKW2021_Partner_SocialMediaTiles_Question_04.jpg" >}}
+{{< figure height="256" width="256" src="/wp-content/uploads/2021/04/Copy-of-Copy-of-sale-1024x1024.png" >}}
 
 As our world becomes more digitally dependent, how can we take an active role in shaping the kind of 'smart city' we want to live in?
 
