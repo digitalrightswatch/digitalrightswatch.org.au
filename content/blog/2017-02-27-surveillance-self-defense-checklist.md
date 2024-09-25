@@ -1,6 +1,7 @@
 ---
 title: Surveillance Self-Defense Checklist
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2017-02-27T10:13:40+00:00
 excerpt: There are a few steps journalists, activists, and everyone else can take to maximize their security. These recommendations from the Intercept are grouped by difficulty level, starting with resources for beginners.
 url: /2017/02/27/surveillance-self-defense-checklist/

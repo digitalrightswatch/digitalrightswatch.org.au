@@ -1,6 +1,7 @@
 ---
 title: Amnesty ranks technology companies on encryption and human rights
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2016-10-22T11:41:25+00:00
 excerpt: In this report, Amnesty International ranks 11 technology companies on whether they are meeting their human rights responsibilities by using encryption to protect users' right to privacy online.
 url: /2016/10/22/amnesty-ranks-technology-companies-on-encryption-and-human-rights/

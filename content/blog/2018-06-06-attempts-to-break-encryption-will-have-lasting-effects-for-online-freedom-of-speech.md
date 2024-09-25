@@ -1,6 +1,7 @@
 ---
 title: Attempts to break encryption will have lasting effects for online freedom of speech
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2018-06-06T04:18:14+00:00
 excerpt: Digital Rights Watch has warned of wider impacts on freedom of speech and the right of Australian citizens to hold private conversations, after the Government announced plans to introduce legislation that would give law enforcement the power to break encryption protocols.
 url: /2018/06/06/attempts-to-break-encryption-will-have-lasting-effects-for-online-freedom-of-speech/

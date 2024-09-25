@@ -1,6 +1,7 @@
 ---
 title: Urgent reform of digital rights frameworks required, warn online human rights experts
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2018-07-23T23:32:30+00:00
 excerpt: Digital Rights Watch has warned of an increasingly hostile digital rights environment in which Australian citizens risk having their human rights eroded, unless a radical rethink of government policy is implemented.
 url: /2018/07/24/urgent-reform-of-digital-rights-frameworks-required-warn-online-human-rights-experts/

@@ -1,6 +1,7 @@
 ---
 title: Me and My Shadow
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2016-07-25T11:51:31+00:00
 excerpt: "Me and My Shadow is a project from the Tactical Technical Collective that helps you explore and minimise your 'digital shadows': the information traces you leave behind when you use the internet and mobile phones."
 url: /2016/07/25/me-and-my-shadow/

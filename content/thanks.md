@@ -1,6 +1,7 @@
 ---
 title: Thanks
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 type: page
 date: 2017-08-10T13:53:08+00:00
 

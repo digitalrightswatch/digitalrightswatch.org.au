@@ -1,6 +1,7 @@
 ---
 title: New group launches to protect online rights
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2016-03-11T00:30:18+00:00
 excerpt: A new advocacy organization has launched to fight to protect the human rights of Australian internet users.
 url: /2016/03/11/new-group-launches-to-protect-online-rights/

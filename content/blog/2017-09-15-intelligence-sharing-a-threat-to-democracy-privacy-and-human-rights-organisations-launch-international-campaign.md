@@ -1,6 +1,7 @@
 ---
 title: 'Intelligence sharing a threat to democracy: privacy and human rights organisations launch international campaign'
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2017-09-14T20:01:30+00:00
 excerpt: An international coalition of 30+ organisations led by Privacy International (PI) has written to national intelligence oversight bodies in over 40 countries, including Australia, seeking information on the intelligence sharing activities of their governments.
 url: /2017/09/15/intelligence-sharing-a-threat-to-democracy-privacy-and-human-rights-organisations-launch-international-campaign/

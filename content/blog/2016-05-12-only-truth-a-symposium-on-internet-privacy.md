@@ -1,6 +1,7 @@
 ---
 title: 'Only truth: a symposium on Internet privacy'
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2016-05-12T00:55:58+00:00
 excerpt: Part CryptoParty, part symposium, Only Truth is a series of talks and practical guides that will equip the average internet user with information and open source tools to protect their communication, privacy, and security.
 url: /2016/05/12/only-truth-a-symposium-on-internet-privacy/

@@ -1,6 +1,7 @@
 ---
 title: Defend privacy and encryption from the Five Eyes
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2017-06-25T20:00:04+00:00
 excerpt: Digital Rights Watch has called for Australian citizens to defend the right to privacy and resist any plans to undermine encryption that may result from the meeting of the Five Eyes governments today.
 url: /2017/06/26/defend-privacy-and-encryption-from-the-five-eyes/

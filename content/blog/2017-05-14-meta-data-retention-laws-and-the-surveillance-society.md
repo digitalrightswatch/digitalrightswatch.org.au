@@ -1,6 +1,7 @@
 ---
 title: Meta data retention laws and the surveillance society
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2017-05-13T15:28:09+00:00
 excerpt: "In which our own Tom Sulston speaks to 3CR about the threat of Australia's meta data retention scheme."
 url: /2017/05/14/meta-data-retention-laws-and-the-surveillance-society/

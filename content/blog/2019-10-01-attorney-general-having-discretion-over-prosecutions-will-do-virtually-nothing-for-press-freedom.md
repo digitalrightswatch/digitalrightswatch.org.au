@@ -1,6 +1,7 @@
 ---
 title: Attorney General having discretion over prosecutions will do virtually nothing for press freedom
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2019-10-01T02:12:57+00:00
 url: /2019/10/01/attorney-general-having-discretion-over-prosecutions-will-do-virtually-nothing-for-press-freedom/
 featureImage: /wp-content/uploads/2019/10/absolutvision-WYd_PkCa1BY-unsplash-scaled.jpg

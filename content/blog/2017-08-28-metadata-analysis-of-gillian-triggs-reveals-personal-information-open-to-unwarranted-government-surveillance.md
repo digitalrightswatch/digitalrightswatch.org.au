@@ -1,6 +1,7 @@
 ---
 title: Metadata analysis of Gillian Triggs reveals personal information open to unwarranted government surveillance
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2017-08-27T20:00:28+00:00
 excerpt: An assessment of the metadata of former President of the Australian Human Rights Commission Gillian Triggs over the course of just one day provided enough information to reveal her home city, age details, and confidential details of upcoming speeches, board meetings and conversations.
 url: /2017/08/28/metadata-analysis-of-gillian-triggs-reveals-personal-information-open-to-unwarranted-government-surveillance/

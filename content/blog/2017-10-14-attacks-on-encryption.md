@@ -1,6 +1,7 @@
 ---
 title: Attacks on encryption
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2017-10-14T05:28:00+00:00
 excerpt: A report on our recent event held at QUT on the state of encryption in Australia.
 url: /2017/10/14/attacks-on-encryption/

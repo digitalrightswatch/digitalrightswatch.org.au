@@ -1,6 +1,7 @@
 ---
 title: Save Australian Tech
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2019-05-13T10:50:15+00:00
 url: /2019/05/13/save-australian-tech/
 featureImage: /wp-content/uploads/2019/05/aaaa.jpg

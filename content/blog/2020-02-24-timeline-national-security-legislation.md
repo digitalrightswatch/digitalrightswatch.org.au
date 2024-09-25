@@ -1,6 +1,7 @@
 ---
 title: 'Timeline: national security legislation'
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2020-02-24T00:10:44+00:00
 url: /2020/02/24/timeline-national-security-legislation/
 featureImage: /wp-content/uploads/2018/02/Police.gif

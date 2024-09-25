@@ -1,6 +1,7 @@
 ---
 title: Refer a friend
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 type: page
 date: 2017-08-10T13:43:40+00:00
 

@@ -1,6 +1,7 @@
 ---
 title: A farewell from the founding Chair
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2020-07-01T01:27:00+00:00
 url: /2020/07/01/a-farewell-from-the-founding-chair/
 featureImage: /wp-content/uploads/2020/07/49191970682_623685303f_o-scaled-1.jpg

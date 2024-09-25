@@ -1,6 +1,7 @@
 ---
 title: PJCIS hearings on Assistance and Access Bill
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2018-10-20T14:27:55+00:00
 url: /2018/10/21/pjcis-hearings-on-assistance-and-access-bill/
 featureImage: /wp-content/uploads/2018/10/aaaa.jpg

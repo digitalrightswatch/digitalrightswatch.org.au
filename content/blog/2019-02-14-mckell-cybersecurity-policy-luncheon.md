@@ -1,6 +1,7 @@
 ---
 title: McKell Cybersecurity Policy Luncheon
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2019-02-13T22:35:50+00:00
 url: /2019/02/14/mckell-cybersecurity-policy-luncheon/
 featureImage: /wp-content/uploads/2019/02/McKell-CyberSecurity-Lunch-March-2019.jpg

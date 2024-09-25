@@ -1,6 +1,7 @@
 ---
 title: Submission to Inquiry into the conduct of the 2016 Federal Election
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2018-08-13T11:00:51+00:00
 excerpt: Our submission to the federal inquiry into the 2016 Federal Election.
 url: /2018/08/13/submission-to-inquiry-into-the-conduct-of-the-2016-federal-election/

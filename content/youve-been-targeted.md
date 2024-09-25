@@ -1,6 +1,7 @@
 ---
 title: You've been targeted
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 type: page
 date: 2019-05-13T00:17:27+00:00
 featureImage: /wp-content/uploads/2019/05/targeting-definition-t.jpg

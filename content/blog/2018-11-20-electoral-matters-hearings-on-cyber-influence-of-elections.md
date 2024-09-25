@@ -1,6 +1,7 @@
 ---
 title: Electoral Matters hearings on cyber influence of elections
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2018-11-20T09:45:02+00:00
 url: /2018/11/20/electoral-matters-hearings-on-cyber-influence-of-elections/
 featureImage: /wp-content/uploads/2018/07/4792462-3x2-700x467-1.jpg

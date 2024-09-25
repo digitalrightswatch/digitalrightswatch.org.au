@@ -1,6 +1,7 @@
 ---
 title: Penalties for extremist social media content needs further thought
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2019-03-26T19:45:40+00:00
 url: /2019/03/27/penalties-for-extremist-social-media-content-needs-further-thought/
 featureImage: /wp-content/uploads/2018/02/Police.gif

@@ -1,6 +1,7 @@
 ---
 title: Home
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 type: page
 date: 2017-07-07T05:53:52+00:00
 x_demo_content:

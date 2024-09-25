@@ -1,6 +1,7 @@
 ---
 title: Privacy advocates support data breach legislation
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2016-10-20T21:00:28+00:00
 excerpt: Digital Rights Watch welcomes the Government's move to introduce a mandatory data breach notification scheme.
 url: /2016/10/21/privacy-advocates-support-data-breach-legislation/

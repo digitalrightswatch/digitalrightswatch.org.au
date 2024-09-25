@@ -1,6 +1,7 @@
 ---
 title: Fair copyright
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2017-05-24T02:53:21+00:00
 excerpt: Right now the government is considering whether to introduce fair use. Let's tell them – we need fair use now.
 url: /2017/05/24/fair-copyright/

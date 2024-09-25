@@ -1,6 +1,7 @@
 ---
 title: 'Take Action: #KeepItOn'
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2016-06-09T14:49:25+00:00
 excerpt: "We've joined forces with Access Now and 70+ other organisations around the world in the #KeepItOn campaign."
 url: /2016/06/10/take-action-keepiton/

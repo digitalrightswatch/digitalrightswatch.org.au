@@ -1,6 +1,7 @@
 ---
 title: Strong encryption serves Australia's national interests and creates more robust systems
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2018-01-25T00:16:30+00:00
 excerpt: Digital rights groups are urging the Australian government to protect and strengthen encryption in a detailed briefing submitted to the Parliamentary Joint Committee on Law Enforcement inquiry.
 url: /2018/01/25/strong-encryption-serves-australias-national-interests-and-creates-more-robust-systems/

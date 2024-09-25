@@ -1,6 +1,7 @@
 ---
 title: Police drones on public beaches are a gross privacy violation
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2019-11-29T03:46:24+00:00
 url: /2019/11/29/police-drones-on-public-beaches-are-a-gross-privacy-violation/
 featureImage: /wp-content/uploads/2019/11/kelli-mcclintock-e2EaVZBRQgI-unsplash-scaled-scaled-1.jpg

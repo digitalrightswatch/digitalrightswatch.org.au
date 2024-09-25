@@ -1,6 +1,7 @@
 ---
 title: WhatsApp uses for campaigning
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2018-08-10T06:16:53+00:00
 url: /2018/08/10/whatsapp-uses-for-campaigning/
 featureImage: /wp-content/uploads/2019/07/christian-wiediger-ZYLmudR28SA-unsplash-1080x720-1.jpg

@@ -1,6 +1,7 @@
 ---
 title: Major privacy concerns around national facial recognition database
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2019-09-17T01:53:25+00:00
 url: /2019/09/17/major-privacy-concerns-around-national-facial-recognition-database/
 featureImage: /wp-content/uploads/2018/03/33870031091_e7a638f7a8_z.jpg

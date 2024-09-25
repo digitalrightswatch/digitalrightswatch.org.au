@@ -1,6 +1,7 @@
 ---
 title: Digital Rights experts welcome Labor standing up to protect encryption﻿
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2018-11-30T05:13:06+00:00
 url: /2018/11/30/digital-rights-experts-welcome-labor-standing-up-to-protect-encryption/
 featureImage: /wp-content/uploads/2018/02/Police.gif

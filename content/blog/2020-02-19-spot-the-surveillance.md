@@ -1,6 +1,7 @@
 ---
 title: Spot the surveillance
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2020-02-19T02:50:24+00:00
 url: /2020/02/19/spot-the-surveillance/
 featureImage: /wp-content/uploads/2020/02/safe_image.php_.png

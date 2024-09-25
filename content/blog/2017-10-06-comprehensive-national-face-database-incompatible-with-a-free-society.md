@@ -1,6 +1,7 @@
 ---
 title: Comprehensive national face database incompatible with a free society
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2017-10-06T01:55:16+00:00
 excerpt: Australia's leading privacy and civil liberties organisations condemn the decision by the Council of Australian Governments (COAG) to provide all images from state and territory driver's licence databases to the federal National Facial Biometric Matching Capability.
 url: /2017/10/06/comprehensive-national-face-database-incompatible-with-a-free-society/

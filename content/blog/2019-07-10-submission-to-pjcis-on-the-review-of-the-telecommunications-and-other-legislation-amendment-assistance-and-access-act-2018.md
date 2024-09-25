@@ -1,6 +1,7 @@
 ---
 title: Submission to PJCIS on the Review of the Telecommunications and Other Legislation Amendment (Assistance and Access) Act 2018
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2019-07-10T03:02:09+00:00
 url: /2019/07/10/submission-to-pjcis-on-the-review-of-the-telecommunications-and-other-legislation-amendment-assistance-and-access-act-2018/
 featureImage: /wp-content/uploads/2017/03/iStock_000005053756Small-1000x350-1.jpg

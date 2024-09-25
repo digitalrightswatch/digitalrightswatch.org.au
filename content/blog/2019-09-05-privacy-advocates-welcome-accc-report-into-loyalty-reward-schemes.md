@@ -1,6 +1,7 @@
 ---
 title: Privacy advocates welcome ACCC report into loyalty reward schemes
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2019-09-05T05:28:04+00:00
 url: /2019/09/05/privacy-advocates-welcome-accc-report-into-loyalty-reward-schemes/
 featureImage: /wp-content/uploads/2019/09/web-hosting-em37kS8WJJQ-unsplash.jpg

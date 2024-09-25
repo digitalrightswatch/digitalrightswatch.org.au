@@ -1,6 +1,7 @@
 ---
 title: Defending Encryption
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2019-01-31T00:19:48+00:00
 url: /2019/01/31/defending-encryption/
 featureImage: /wp-content/uploads/2017/10/DigitalPrivacy.jpg

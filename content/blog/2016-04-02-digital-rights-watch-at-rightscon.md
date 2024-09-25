@@ -1,6 +1,7 @@
 ---
 title: Digital Rights Watch at RightsCon
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2016-04-02T05:49:11+00:00
 excerpt: "Digital Rights Watch board member Lizzie O'Shea has been talking all things privacy, security, surveillance and copyright at the US RightsCon event in Silicon Valley."
 url: /2016/04/02/digital-rights-watch-at-rightscon/

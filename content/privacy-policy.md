@@ -1,6 +1,7 @@
 ---
 title: Privacy policy
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 type: page
 date: 2016-03-06T11:56:20+00:00
 sharing_disabled:

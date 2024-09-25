@@ -1,6 +1,7 @@
 ---
 title: Australian digital rights organisations defend encryption
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2019-10-04T02:48:45+00:00
 url: /2019/10/04/australian-digital-rights-organisations-defend-encryption/
 featureImage: /wp-content/uploads/2019/03/15946168851_4389317dc5_z.jpg

@@ -1,6 +1,7 @@
 ---
 title: Protecting Yourself From Mandatory Data Retention
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2016-03-07T13:50:29+00:00
 excerpt: 'The Government and ALP regime of mass electronic surveillance - mandatory data retention for every man, woman and child, and every device in the country - started in October 2015. Senator Scott Ludlam explains how to get around it.'
 url: /2016/03/07/protecting-yourself-from-mandatory-data-retention/

@@ -1,6 +1,7 @@
 ---
 title: The census was an 'immense failure of management' that lacked basic planning
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2016-08-10T11:49:01+00:00
 excerpt: "Digital Rights Watch's Amy Gray speaks to ABC NewsRadio about the Census."
 url: /2016/08/10/the-census-was-an-immense-failure-of-management-that-lacked-basic-planning/

@@ -1,6 +1,7 @@
 ---
 title: 'Independent inquiry needed into #Censusfail'
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2016-08-09T23:39:19+00:00
 excerpt: An independent inquiry is needed to restore faith in the Australian Bureau of Statistics and Government's ability to handle online privacy, according to online advocacy organization Digital Rights Watch.
 url: /2016/08/10/independent-inquiry-needed-into-censusfail/

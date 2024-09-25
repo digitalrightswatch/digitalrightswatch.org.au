@@ -1,6 +1,7 @@
 ---
 title: Lizzie O'Shea declared "Hero" for mobilizing the Australian public against the government's anti-encryption legislation
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2019-06-10T01:21:00+00:00
 url: /2019/06/10/lizzie-oshea-declared-hero-for-mobilizing-the-australian-public-against-the-governments-anti-encryption-legislation/
 featureImage: /wp-content/uploads/2019/06/Lizzie-Award-on-Stage.png

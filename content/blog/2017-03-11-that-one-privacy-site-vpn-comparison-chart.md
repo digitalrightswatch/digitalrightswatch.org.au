@@ -1,6 +1,7 @@
 ---
 title: VPN comparison chart
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2017-03-11T11:55:57+00:00
 excerpt: "This crowd-sourced comparison of VPN providers is the most honest and comprehensive one we've encountered. A++"
 url: /2017/03/11/that-one-privacy-site-vpn-comparison-chart/

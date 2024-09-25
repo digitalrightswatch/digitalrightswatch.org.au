@@ -1,6 +1,7 @@
 ---
 title: Submission to Inquiry into new Information Communication Technologies and Law Enforcement
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2018-02-09T05:51:29+00:00
 excerpt: "Our joint submission to the Joint Committee on Law Enforcement's Inquiry into new Information Communication Technologies (ICTs) and the challenges facing law enforcement agencies."
 url: /2018/02/09/submission-to-inquiry-into-new-information-communication-technologies-and-law-enforcement/

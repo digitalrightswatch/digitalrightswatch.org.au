@@ -1,6 +1,7 @@
 ---
 title: Supporters
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 type: page
 date: 2017-04-26T11:32:53+00:00
 

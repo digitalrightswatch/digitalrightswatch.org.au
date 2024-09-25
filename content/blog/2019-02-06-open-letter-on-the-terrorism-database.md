@@ -1,6 +1,7 @@
 ---
 title: Open letter on the Terrorism Database
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2019-02-06T06:08:55+00:00
 url: /2019/02/06/open-letter-on-the-terrorism-database/
 featureImage: /wp-content/uploads/2017/03/iStock_000005053756Small-1000x350-1.jpg

@@ -1,6 +1,7 @@
 ---
 title: Submission to the Comprehensive Review – Legal Framework of the National Intelligence Community
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2018-12-11T23:57:37+00:00
 url: /2018/12/12/submission-to-the-comprehensive-review-legal-framework-of-the-national-intelligence-community/
 featureImage: /wp-content/uploads/2018/10/33091154720_a8cc890c65_z.jpg

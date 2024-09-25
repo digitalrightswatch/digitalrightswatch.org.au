@@ -1,6 +1,7 @@
 ---
 title: Budget 2017 – a missed opportunity to act on digital rights
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2017-05-09T11:21:45+00:00
 excerpt: Digital Rights Watch responds to initiatives within the 2017-18 Federal Budget.
 url: /2017/05/09/budget-2017-a-missed-opportunity-to-act-on-digital-rights/

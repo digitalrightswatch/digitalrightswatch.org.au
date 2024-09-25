@@ -1,6 +1,7 @@
 ---
 title: Breach of trust shows metadata retention scheme must be repealed
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2020-02-07T03:14:34+00:00
 url: /2020/02/07/breach-of-trust-shows-metadata-retention-scheme-must-be-repealed/
 featureImage: /wp-content/uploads/2018/10/7016112399_c2456b936c_z.jpg

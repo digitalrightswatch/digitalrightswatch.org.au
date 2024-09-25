@@ -1,6 +1,7 @@
 ---
 title: De-google-ify Internet
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2019-04-02T04:13:09+00:00
 url: /2019/04/02/de-google-ify-internet/
 featureImage: /wp-content/uploads/2019/05/Peha-Banquet-CC-By-1920.jpg

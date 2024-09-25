@@ -1,6 +1,7 @@
 ---
 title: Australian Human Rights Award Finalist
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2019-12-13T21:52:16+00:00
 url: /2019/12/14/australian-human-rights-award-finalist/
 featureImage: /wp-content/uploads/2019/12/IMG_3977-scaled-1.jpg

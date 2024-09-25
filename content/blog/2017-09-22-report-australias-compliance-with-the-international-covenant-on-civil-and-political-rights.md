@@ -1,6 +1,7 @@
 ---
 title: "Report: Australia's Compliance with the International Covenant on Civil and Political Rights"
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2017-09-22T11:19:26+00:00
 excerpt: This report to the United Nations Human Rights Committee examines Australia's compliance with the International Covenant on Civil and Political Rights.
 url: /2017/09/22/report-australias-compliance-with-the-international-covenant-on-civil-and-political-rights/

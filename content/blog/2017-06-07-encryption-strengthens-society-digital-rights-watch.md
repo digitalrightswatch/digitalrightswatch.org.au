@@ -1,6 +1,7 @@
 ---
 title: 'Encryption strengthens society: Digital Rights Watch'
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2017-06-07T01:21:35+00:00
 excerpt: Digital Rights Watch has called on the Australian Government to clarify their position on law enforcement agencies accessing Australian citizens' encrypted devices and communications.
 url: /2017/06/07/encryption-strengthens-society-digital-rights-watch/

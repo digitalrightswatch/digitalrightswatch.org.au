@@ -1,6 +1,7 @@
 ---
 title: City Councillors For Digital Rights
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 type: page
 date: 2020-01-30T04:52:04+00:00
 featureImage: /wp-content/uploads/2019/10/australian-cities-fordigital-rights-surveillance-facial-recognition-feature-blue.jpg

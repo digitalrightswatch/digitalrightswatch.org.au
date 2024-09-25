@@ -1,6 +1,7 @@
 ---
 title: PJCIS review of mandatory metadata retention
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2020-02-14T12:49:00+00:00
 url: /2020/02/14/pjcis-review-of-mandatory-metadata-retention/
 featureImage: /wp-content/uploads/2018/10/33091154720_a8cc890c65_z.jpg

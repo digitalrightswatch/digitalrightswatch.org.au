@@ -1,6 +1,7 @@
 ---
 title: Publications
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 type: page
 date: 2020-02-03T04:37:57+00:00
 

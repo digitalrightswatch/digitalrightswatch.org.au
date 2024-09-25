@@ -1,6 +1,7 @@
 ---
 title: Greens call for Digital Rights Commissioner
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2016-06-23T10:03:50+00:00
 excerpt: "Interesting proposal from the Australian Greens: a new role to sit within the Australian Human Rights Commission, solely focused on upholding Australian citizen's digital rights."
 url: /2016/06/23/greens-call-for-digital-rights-commissioner/

@@ -1,6 +1,7 @@
 ---
 title: Digital Defenders guide to privacy
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2016-10-19T15:05:30+00:00
 excerpt: A graphic novel from European Digital Rights, designed to help young people between 10-14 years understand how to protect their privacy.
 url: /2016/10/20/digital-defenders-graphic-novel/

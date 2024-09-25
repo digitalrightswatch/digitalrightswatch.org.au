@@ -1,6 +1,7 @@
 ---
 title: Digital Rights Watch and Electronic Frontiers Australia urge the Australian Government to reinstate phone and internet access to asylum seekers
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2017-11-06T11:10:04+00:00
 excerpt: Digital Rights Watch and Electronic Frontiers Australia urge the Australian Government to ensure that the human rights of asylum seekers and refugees being held in offshore detention camps on Manus Island (Papua New Guinea) and Nauru are respected.
 url: /2017/11/06/digital-rights-watch-and-electronic-frontiers-australia-urge-the-australian-government-to-reinstate-phone-and-internet-access-to-asylum-seekers/

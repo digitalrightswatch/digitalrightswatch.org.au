@@ -1,6 +1,7 @@
 ---
 title: Privacy advocates release satirical video on proposed encryption legislation
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2018-09-04T22:00:07+00:00
 url: /2018/09/05/privacy-advocates-release-satirical-video-on-proposed-encryption-legislation/
 featureImage: /wp-content/uploads/2018/09/AssAccessVid_BG.jpg

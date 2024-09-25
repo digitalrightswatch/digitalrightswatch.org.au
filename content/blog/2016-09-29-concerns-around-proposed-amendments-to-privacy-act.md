@@ -1,6 +1,7 @@
 ---
 title: Concerns around proposed amendments to Privacy Act
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2016-09-28T23:21:25+00:00
 excerpt: Digital Rights Watch have raised deep concerns over proposed changes to the Privacy Act, citing the need for community and expert consultation before any legislation is introduced.
 url: /2016/09/29/concerns-around-proposed-amendments-to-privacy-act/

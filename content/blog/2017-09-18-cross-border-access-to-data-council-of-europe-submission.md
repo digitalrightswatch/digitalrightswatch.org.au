@@ -1,6 +1,7 @@
 ---
 title: 'Cross-border access to data: Council of Europe submission'
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2017-09-18T10:23:01+00:00
 excerpt: A global coalition of civil society organisations have submitted to the Council of Europe its comments on how protect human rights when developing new rules on cross-border access to electronic evidence.
 url: /2017/09/18/cross-border-access-to-data-council-of-europe-submission/

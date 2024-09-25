@@ -1,6 +1,7 @@
 ---
 title: Become a member
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 type: page
 date: 2022-10-25T04:10:49+00:00
 draft: true

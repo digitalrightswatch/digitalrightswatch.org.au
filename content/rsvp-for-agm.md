@@ -1,6 +1,7 @@
 ---
 title: RSVP for the 2020 AGM
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 type: page
 date: 2019-02-07T01:23:36+00:00
 

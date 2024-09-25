@@ -1,6 +1,7 @@
 ---
 title: Global coalition warns against internet shutdowns in Hong Kong
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2019-09-06T05:34:56+00:00
 url: /2019/09/06/global-coalition-warns-against-internet-shutdowns-in-hong-kong/
 featureImage: /wp-content/uploads/2019/09/joseph-chan-I23WeOTsA8M-unsplash.jpg

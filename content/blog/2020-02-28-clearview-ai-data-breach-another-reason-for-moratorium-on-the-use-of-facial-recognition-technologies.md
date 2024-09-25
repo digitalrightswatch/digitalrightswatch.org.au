@@ -1,6 +1,7 @@
 ---
 title: Clearview AI Data Breach – Another reason for moratorium on the use of facial recognition technologies
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2020-02-28T04:48:00+00:00
 url: /2020/02/28/clearview-ai-data-breach-another-reason-for-moratorium-on-the-use-of-facial-recognition-technologies/
 featureImage: /wp-content/uploads/2020/02/93e60f8342dc40e980af8d55e6a02960_18.jpg

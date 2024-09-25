@@ -1,6 +1,7 @@
 ---
 title: Australians denied their right to hear Chelsea Manning speak
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2018-08-29T20:00:31+00:00
 excerpt: Digital rights activists have expressed outrage at reports that the Australian Government plans to refuse a visa to US citizen Chelsea Manning.
 url: /2018/08/30/australians-denied-their-right-to-hear-chelsea-manning-speak/

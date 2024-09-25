@@ -1,6 +1,7 @@
 ---
 title: Digital privacy advocates declare 13 April national day of action against data retention
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2017-04-11T21:34:29+00:00
 excerpt: As Australia's mandatory data retention scheme comes into effect, Digital Rights Watch is urging citizens to protect themselves from unwarranted mass surveillance, declaring Thursday 13 April as 'National Get A VPN Day'.
 url: /2017/04/12/digital-privacy-advocates-declare-13-april-national-day-of-action-against-data-retention/

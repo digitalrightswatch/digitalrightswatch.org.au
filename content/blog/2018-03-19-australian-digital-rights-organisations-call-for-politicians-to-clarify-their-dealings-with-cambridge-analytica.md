@@ -1,6 +1,7 @@
 ---
 title: Australian Digital Rights Organisations Call For Politicians To Clarify Their Dealings With Cambridge Analytica
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2018-03-18T23:17:41+00:00
 excerpt: In light of the revelations that Cambridge Analytica has reportedly misused the data of over 50 million people on Facebook, Australia's leading digital and civil rights advocates call on all Australian governments and political parties to categorically answer several questions.
 url: /2018/03/19/australian-digital-rights-organisations-call-for-politicians-to-clarify-their-dealings-with-cambridge-analytica/

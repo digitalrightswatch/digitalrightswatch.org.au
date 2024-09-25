@@ -1,6 +1,7 @@
 ---
 title: The State of Digital Rights
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2018-05-13T19:05:40+00:00
 excerpt: Today, we're proud to release the State of Digital Rights report, which outlines the many ways Australians' rights are being impacted by the activities of private companies and governments in the online world.
 url: /2018/05/14/the-state-of-digital-rights/

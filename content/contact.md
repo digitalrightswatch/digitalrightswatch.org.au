@@ -1,5 +1,6 @@
 ---
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 eg_custom_meta_216:
   - "true"
 date: 2016-03-07T02:50:39+00:00

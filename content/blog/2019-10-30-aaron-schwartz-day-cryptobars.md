@@ -1,6 +1,7 @@
 ---
 title: Aaron Schwartz Day CryptoBars
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2019-10-30T00:24:00+00:00
 url: /2019/10/30/aaron-schwartz-day-cryptobars/
 featureImage: /wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-11.23.33-am.png

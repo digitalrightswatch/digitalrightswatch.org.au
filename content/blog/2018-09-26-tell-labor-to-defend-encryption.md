@@ -1,6 +1,7 @@
 ---
 title: Tell Labor to defend encryption
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2018-09-26T01:11:41+00:00
 excerpt: "Stand up and tell Labor that you don't support efforts to break encryption."
 url: /2018/09/26/tell-labor-to-defend-encryption/

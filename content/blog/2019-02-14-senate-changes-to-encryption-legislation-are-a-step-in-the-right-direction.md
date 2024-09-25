@@ -1,6 +1,7 @@
 ---
 title: Senate changes to encryption legislation are a step in the right direction
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2019-02-14T01:31:32+00:00
 url: /2019/02/14/senate-changes-to-encryption-legislation-are-a-step-in-the-right-direction/
 featureImage: /wp-content/uploads/2018/10/33091154720_a8cc890c65_z.jpg

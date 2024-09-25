@@ -1,6 +1,7 @@
 ---
 title: Joint call to G20 Leaders
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2018-08-08T00:32:12+00:00
 excerpt: Digital Rights Watch has joined over 100 organisations in appealing to G20 leaders to bring human rights to the centre of our digital future.
 url: /2018/08/08/joint-call-to-g20-leaders/

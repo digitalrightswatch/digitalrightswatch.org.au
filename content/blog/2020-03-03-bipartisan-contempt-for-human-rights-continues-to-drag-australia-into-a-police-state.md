@@ -1,6 +1,7 @@
 ---
 title: Bipartisan contempt for human rights continues to drag Australia into a police state
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2020-03-03T00:48:26+00:00
 url: /2020/03/03/bipartisan-contempt-for-human-rights-continues-to-drag-australia-into-a-police-state/
 featureImage: /wp-content/uploads/2018/07/4792462-3x2-700x467-1.jpg

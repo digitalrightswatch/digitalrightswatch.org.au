@@ -1,6 +1,7 @@
 ---
 title: Lack of oversight on offshoring of data retention shows scheme should be scrapped
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2017-02-16T05:44:38+00:00
 url: /2017/02/16/lack-of-oversight-on-offshoring-of-data-retention-shows-scheme-should-be-scrapped/
 featureImage: /wp-content/uploads/2016/03/DRW_default.jpg

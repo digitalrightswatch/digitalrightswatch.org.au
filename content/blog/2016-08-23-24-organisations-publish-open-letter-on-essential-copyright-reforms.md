@@ -1,6 +1,7 @@
 ---
 title: 24 Organisations Publish Open Letter on Essential Copyright Reforms
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2016-08-23T12:14:13+00:00
 excerpt: An Open Letter from a diverse group of 24 organisations to Senator Fifield, urging the prompt tabling of the Copyright Amendment (Disability Access and Other Measures) Bill.
 url: /2016/08/23/24-organisations-publish-open-letter-on-essential-copyright-reforms/

@@ -1,6 +1,7 @@
 ---
 title: Australian Cities For Digital Rights
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 type: page
 date: 2019-11-07T03:42:09+00:00
 eg_vimeo_ratio:

@@ -1,6 +1,7 @@
 ---
 title: Human rights groups and experts call on the Australian government to reject plans to undermine encryption
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2018-07-17T02:32:20+00:00
 excerpt: Today, a global coalition led by civil society and technology experts sent a letter asking the government of Australia to abandon plans to introduce legislation that would undermine strong encryption. The letter calls on government officials to become proponents of digital security and work collaboratively to help law enforcement adapt to the digital era.
 url: /2018/07/17/human-rights-groups-and-experts-call-on-the-australian-government-to-reject-plans-to-undermine-encryption/

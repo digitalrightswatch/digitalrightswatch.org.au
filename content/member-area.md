@@ -1,6 +1,7 @@
 ---
 title: Member Area
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 type: page
 date: 2019-02-24T23:27:40+00:00
 

@@ -1,6 +1,7 @@
 ---
 title: Online disinformation risks public confusion about the cause of Australia's bushfires
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2020-01-10T04:18:52+00:00
 url: /2020/01/10/online-disinformation-risks-public-confusion-about-the-cause-of-australias-bushfires/
 featureImage: /wp-content/uploads/2020/01/hamish-weir-aYEUXnVG8tg-unsplash-scaled-1.jpg

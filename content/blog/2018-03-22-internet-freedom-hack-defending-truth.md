@@ -1,6 +1,7 @@
 ---
 title: 'Internet Freedom Hack: Defending Truth'
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2018-03-22T04:42:37+00:00
 excerpt: Digital Rights Watch is proud to support the Internet Freedom Hack, happening this year in Melbourne and Brisbane between 20-22 April.
 url: /2018/03/22/internet-freedom-hack-defending-truth/

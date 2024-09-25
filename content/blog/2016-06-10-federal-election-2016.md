@@ -1,6 +1,7 @@
 ---
 title: Federal election 2016
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2016-06-09T15:16:42+00:00
 excerpt: The Federal Election is coming up fast, and here at Digital Rights Watch we wanted to delve into where each of the major political parties stand on key issues relating to digital rights. Check out our Election Scorecard.
 url: /2016/06/10/federal-election-2016/

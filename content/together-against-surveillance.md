@@ -1,6 +1,7 @@
 ---
 title: Together against surveillance
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 type: page
 date: 2020-01-30T05:13:46+00:00
 eg_vimeo_ratio:

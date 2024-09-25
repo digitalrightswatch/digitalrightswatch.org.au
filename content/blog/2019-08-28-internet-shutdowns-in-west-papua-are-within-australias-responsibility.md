@@ -1,6 +1,7 @@
 ---
 title: Internet shutdowns in West Papua are within Australia's responsibility
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2019-08-28T04:17:08+00:00
 url: /2019/08/28/internet-shutdowns-in-west-papua-are-within-australias-responsibility/
 featureImage: /wp-content/uploads/2019/08/digital-rights-watch-west-papua-restore-internet.jpg

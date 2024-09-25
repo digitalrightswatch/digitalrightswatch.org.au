@@ -1,6 +1,7 @@
 ---
 title: The Digital Rights Feed
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 type: page
 date: 2017-03-30T12:04:48+00:00
 

@@ -1,6 +1,7 @@
 ---
 title: Tools for More Secure Activism
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2019-10-19T02:55:56+00:00
 url: /2019/10/19/tools-for-more-secure-activism/
 featureImage: /wp-content/uploads/2020/02/93e60f8342dc40e980af8d55e6a02960_18.jpg

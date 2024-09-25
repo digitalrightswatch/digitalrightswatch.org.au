@@ -1,6 +1,7 @@
 ---
 title: What to do with your Census
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2016-08-08T01:53:24+00:00
 excerpt: "By now, you've probably noticed the huge amount of chatter surrounding the 2016 National Census, and the changes that put individual privacy at risk. But does this warrant a full boycott?"
 url: /2016/08/08/what-to-do-with-your-census/

@@ -1,6 +1,7 @@
 ---
 title: Pusheen teaches internet safety
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 date: 2017-01-16T10:52:24+00:00
 excerpt: Pusheen knows all about how to protect himself online. Let him teach you!
 url: /2017/01/16/pusheen-teaches-internet-safety/
