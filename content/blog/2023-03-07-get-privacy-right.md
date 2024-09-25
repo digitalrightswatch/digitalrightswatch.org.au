@@ -1,5 +1,5 @@
 ---
-title: 'Tell the Australian government: get privacy right'
+title: The Australian govt needs to get privacy reform right
 author: Samantha
 authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
 date: 2023-03-07T03:38:25+00:00
@@ -19,8 +19,10 @@ eg_custom_meta_216:
   - 'true'
 category:
   - Articles
+  - Campaigns
 tags:
   - privacy reform
+summary: Learn more about the campaign for privacy law reform in Australia to keep Australians safe online.
 
 ---
 #### _**Our right to privacy is essential to uphold our democracy, rein in corporate power, and for a safe and fair digital future. It's time to get privacy right.**_
