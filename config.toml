@@ -22,7 +22,7 @@ summaryLength = 18
     weight = 2
 [[menu.main]]
     name = "Donate"
-    url = "https://privacy.raisely.com/"
+    url = "https://donate.digitalrightswatch.org.au"
     weight = 3
 [[menu.main]]
     name = "Blog"
