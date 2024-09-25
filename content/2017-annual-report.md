@@ -1,11 +1,15 @@
 ---
 title: 2017 Annual Report
 author: Digital Rights Watch
+authorThumb: /images/drw-logo.jpg
 type: page
 date: 2018-03-13T01:50:43+00:00
+featureImage: /wp-content/uploads/2020/02/MWF-event-scaled.jpg
+category:
+  - "Annual Reports"
 
 ---
-2017 was a long year &#8211; for most working in the human rights sector, but particularly for digital rights.
+2017 was a long year -- for most working in the human rights sector, but particularly for digital rights.
 
 In our second year of operations, we launched a national awareness project in our 'Get a VPN Day' to draw attention to the introduction of Australia's mandatory metadata retention scheme, ran events at festivals, universities and institutions and made several detailed submissions to both domestic and international bodies on key digital rights issues.
 
@@ -17,11 +21,6 @@ We were also sad that 2017 saw the departure from the Australian Senate of Senat
 
 There is still much to be done to ensure that there is an understanding, respect and willingness to act when it comes to digital rights in Australia, but we're committed to continuing that work, in partnership with others in the human rights space.
 
-<div data-configid="29076025/59172787" style="width:100%; height:1000px;" class="issuuembed">
-</div>
+[Read about our work in our 2017 Annual Report](/wp-content/uploads/2018/03/DRW_annual_report_2017_web.pdf)
 
-
-
-<p class="p1">
-  <a href="/wp-content/uploads/2018/03/DRW_annual_report_2017_web.pdf">Read about our work in our 2017 Annual Report</a>
-</p>
+{{< pdfReader "/wp-content/uploads/2018/03/DRW_annual_report_2017_web.pdf" >}}
