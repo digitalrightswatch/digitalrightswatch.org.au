@@ -3,18 +3,7 @@ title: Join
 author: Digital Rights Watch
 type: page
 date: 2016-02-26T15:08:53+00:00
-eg_vimeo_ratio:
-  - 1
-eg_youtube_ratio:
-  - 1
-eg_wistia_ratio:
-  - 1
-eg_html5_ratio:
-  - 1
-eg_soundcloud_ratio:
-  - 1
-eg_custom_meta_216:
-  - 'true'
+redirect_url: https://actionnetwork.org/forms/site-sign-up
 
 ---
 **Join us in defending digital rights in Australia.**
