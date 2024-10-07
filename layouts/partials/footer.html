@@ -58,21 +58,13 @@
             </div>
             <div class="col-lg-4 col-md-4">
                 <div class="footer-widget">
-                    <h4>Address</h4>
+          <h4>Contact</h4>
                     {{ $address := .Site.Params.address }}
                     <div class="footer-widget-list">
                         <ul>
-                            <li>
-                                <a href="tel:{{ $address.phone }}"><i class="ti-mobile"></i>{{ $address.phone }}</a>
-                            </li>
-                            <li>
-                                <a href="mailto:{{ $address.email }}"><i class="ti-email"></i>{{ $address.email }}</a>
-                            </li>
-                            <li>
-                                <p>
-                                    <i class="ti-pin"></i>{{ $address.address }}
-                                </p>
-                            </li>
+              {{ if $address.phone }}<li><a href="tel:{{ $address.phone }}"><i class="ti-mobile"></i>{{ $address.phone }}</a></li>{{ end }}
+              {{ if $address.email }}<li><a href="mailto:{{ $address.email }}"><i class="ti-email"></i>{{ $address.email }}</a></li>{{ end }}
+              {{ if $address.address }}<li><p><i class="ti-pin"></i>{{ $address.address }}</p></li>{{ end }}
                         </ul>
                     </div>
                 </div>

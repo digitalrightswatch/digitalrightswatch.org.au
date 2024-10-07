@@ -52,9 +52,9 @@ summaryLength = 18
 
 # Footer Address
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "apsho@example.com"
-phone = "+(448) 833 5272 332"
+#address = "23 Khan Niketon, Grand Street, NYK."
+email = "info@digitalrightswatch.org.au"
+#phone = "+(448) 833 5272 332"
 
 # Footer Social
 [params.social]

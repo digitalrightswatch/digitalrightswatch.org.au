@@ -37,7 +37,7 @@ For all other inquiries please contact: **[info@digitalrightswatch.org.au](mailt
 
 - - -
 
-Keep up to date with our work and opportunities to take action by joining our mailing list **[here.](https://actionnetwork.org/forms/site-sign-up)**
+Keep up to date with our work and opportunities to take action by [joining our mailing list](#footer-title)
 
 - - -
 
@@ -45,9 +45,7 @@ Keep up to date with our work and opportunities to take action by joining our ma
 
 - - -
 
-To make a donation to Digital Rights Watch, you can do so **[here.](http://www.donate.digitalrightswatch.org.au)**
-
-- - -
+We welcome [donations to Digital Rights Watch](http://www.donate.digitalrightswatch.org.au)
 
 - - -
 
