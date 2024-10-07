@@ -17,7 +17,7 @@
                 <div class="footer-description">
                     <img src="{{ .Site.Params.logo | absURL }}" alt="logo">
                     <p>
-                        {{ .Site.Params.copyright1 }}
+                        {{ replace .Site.Params.copyright1 "{year}" now.Year | safeHTML }}
                         </br>
                         {{ replace .Site.Params.copyright2 "{year}" now.Year | safeHTML }}
                     </p>
