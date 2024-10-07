@@ -23,3 +23,36 @@ section.our-people {
     padding: 0;
   }
 }
+
+div#can_embed_form_inner {
+  & h2 {
+    text-align: center;
+  }
+
+  & input,
+  .js-form-country {
+    border-radius: 10px !important;
+    padding: 0 30px 0 20px;
+  }
+
+  & input {
+
+    &[type="text"],
+    &[type="email"] {
+      padding: 20px;
+    }
+
+    &[type="submit"] {
+
+      &,
+      &:hover {
+        background: #0b32af;
+      }
+
+      text-transform: inherit;
+      height: 60px;
+      padding: 10px 30px;
+      font-weight: 600;
+    }
+  }
+}
