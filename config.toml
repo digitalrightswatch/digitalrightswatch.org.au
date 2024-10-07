@@ -74,7 +74,7 @@ googleAnalytics = "UA-175025671-2"
 # Footer
 footerTitle = "Get the latest updates"
 copyright1 = "All right reserved"
-copyright2 = "Copyright ©  <a href=\"https://staticmania.com/\" target=\"_blank\">StaticMania </a> {year}"
+copyright2 = "Copyright © Digital Rights Watch {year}"
 
 #contact
 email = "help@staticmania.com"
