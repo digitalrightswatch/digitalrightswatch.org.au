@@ -76,9 +76,6 @@ footerTitle = "Get the latest updates"
 copyright1 = "Copyright © Digital Rights Watch {year}"
 copyright2 = "Built using <a href=\"https://github.com/StaticMania/hugo-apsho\" target=\"_blank\">Apsho</a> with <a href=\"https://gohugo.io\" target=\"_blank\">Hugo</a>"
 
-#contact
-email = "help@staticmania.com"
-
 [module]
   [[module.mounts]]
     source = 'assets'
