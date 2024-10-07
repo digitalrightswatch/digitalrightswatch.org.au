@@ -25,6 +25,11 @@ section.our-people {
 }
 
 div#can_embed_form_inner {
+  /*
+  & h2, & h4 {
+    display: none;
+  }
+  */
   & h2 {
     text-align: center;
   }
