@@ -25,6 +25,7 @@ section.our-people {
 }
 
 div#can_embed_form_inner {
+
   /*
   & h2, & h4 {
     display: none;
@@ -49,11 +50,13 @@ div#can_embed_form_inner {
 
     &[type="submit"] {
 
-      &,
+
       &:hover {
+        transform: scale(1.04);
         background: #0b32af;
       }
 
+      background: #0b32af;
       text-transform: inherit;
       height: 60px;
       padding: 10px 30px;
