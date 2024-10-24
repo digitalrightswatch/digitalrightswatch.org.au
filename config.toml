@@ -18,7 +18,7 @@ summaryLength = 18
     weight = 1
 [[menu.main]]
     name = "About"
-    pageRef = "about"
+    pageRef = "/about"
     weight = 2
 [[menu.main]]
     name = "Donate"
@@ -36,7 +36,7 @@ summaryLength = 18
     weight = 1
 [[menu.sitemap]]
     name = "Latest Article"
-    pageRef = "blog"
+    pageRef = "/blog"
     weight = 2
 [[menu.sitemap]]
     name = "Privacy & Policy"
