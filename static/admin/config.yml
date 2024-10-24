@@ -2,7 +2,7 @@
 backend:
   name: github
   #name: git-gateway
-  repo: digitalrightswatch/website # Path to your GitHub repository
+  repo: digitalrightswatch/digitalrightswatch.org.au # Path to your GitHub repository
   # optional, defaults to master
   branch: main
 
