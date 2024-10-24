@@ -8,3 +8,4 @@ aliases: /about/our-people/
 ---
 
 {{< our_people >}}
+{{/* To edit the list of people, go to the "our-people" section of the CMS Data Files page */}}
