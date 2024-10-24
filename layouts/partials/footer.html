@@ -29,8 +29,10 @@
                             <a href="{{ .Site.Params.social.facebook }}"><i class="ti-facebook"></i></a>
                         </li>
                         <li>
-                            <!-- FIXME: Use correct mastodon icon -->
-                            <a href="{{ .Site.Params.social.mastodon }}">🐘</a>
+                            <a href="{{ .Site.Params.social.mastodon }}">
+                                <svg width="16" height="16" class="icon"><use
+                                    xlink:href="/images/mastodon.svg#mastodon"/></svg>
+                            </a>
                         </li>
                         <li>
                             <a href="{{ .Site.Params.social.twitter }}"><i class="ti-twitter-alt"></i></a>
