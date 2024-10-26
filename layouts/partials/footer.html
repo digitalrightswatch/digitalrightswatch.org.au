@@ -21,26 +21,28 @@
                         </br>
                         {{ replace .Site.Params.copyright2 "{year}" now.Year | safeHTML }}
                     </p>
-                    <ul class="footer-description-social">
-                        <li>
-                            <a href="{{ .Site.Params.social.instagram }}"><i class="ti-instagram"></i></a>
-                        </li>
-                        <li>
-                            <a href="{{ .Site.Params.social.facebook }}"><i class="ti-facebook"></i></a>
-                        </li>
-                        <li>
-                            <a href="{{ .Site.Params.social.mastodon }}">
-                                <svg width="16" height="16" class="icon"><use
-                                    xlink:href="/images/mastodon.svg#mastodon"/></svg>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="{{ .Site.Params.social.twitter }}"><i class="ti-twitter-alt"></i></a>
-                        </li>
-                        <li>
-                            <a href="{{ .Site.Params.social.github }}"><i class="ti-github"></i></a>
-                        </li>
-                    </ul>
+                    {{ with .Site.Params.social }}
+                      <ul class="footer-description-social">
+                        {{ with .instagram }}
+                          <li><a href="{{ . }}"><i class="ti-instagram"></i></a></li>
+                        {{ end }}
+                        {{ with .facebook }}
+                          <li><a href="{{ . }}"><i class="ti-facebook"></i></a></li>
+                        {{ end }}
+                        {{ with .twitter }}
+                          <li><a href="{{ . }}"><i class="ti-twitter-alt"></i></a></li>
+                        {{ end }}
+                        {{ with .github }}
+                          <li><a href="{{ . }}"><i class="ti-github"></i></a></li>
+                        {{ end }}
+                        {{ with .mastodon }}
+                          <li><a href="{{ . }}"><svg width="16" height="16" class="icon"><use xlink:href="/images/icons.svg#mastodon"/></svg></a></li>
+                        {{ end }}
+                        {{ with .bsky }}
+                          <li><a href="{{ . }}"><svg width="16" height="16" class="icon"><use xlink:href="/images/icons.svg#bluesky"/></svg></a></li>
+                        {{ end }}
+                      </ul>
+                    {{ end }}
                 </div>
             </div>
             <div class="col-lg-4 col-md-4">
