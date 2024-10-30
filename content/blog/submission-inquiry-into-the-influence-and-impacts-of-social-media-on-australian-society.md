@@ -20,4 +20,4 @@ Our recent submissions relevant to this inquiry include:
 * Submission on the [draft online safety Industry Codes](https://digitalrightswatch.org.au/wp-content/uploads/2022/10/DRW-Submission-Online-safety-industry-codes.pdf) (October 2022) and the [subsequent draft Industry Standards ](https://digitalrightswatch.org.au/wp-content/uploads/2024/01/DRW-Submission-Draft-Online-Safety-Industry-Standards-Dec-2023.pdf)(January 2024)
 * Submission in response to the Restricted Access Systems [discussion paper](https://digitalrightswatch.org.au/wp-content/uploads/2021/09/20210917_DRWSubmission_RAS-eSafetyCommission.pdf) (September 2021) and subsequent [draft declaration](https://digitalrightswatch.org.au/wp-content/uploads/2021/11/Submission_-Draft-Restricted-Access-System-Declaration-eSafety-Commissioner-November-2021.pdf) (November 2021)
 
-{{< pdfReader "/static/images/sub_017-drw.pdf" >}}
+{{< pdfReader "/images/sub_017-drw.pdf" >}}
