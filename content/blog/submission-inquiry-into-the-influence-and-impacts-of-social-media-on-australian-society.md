@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Submission: Inquiry into the influence and impacts of social media on
   Australian society"
 date: 2024-09-23T01:18:58.538Z
