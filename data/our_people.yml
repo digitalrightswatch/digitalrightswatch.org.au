@@ -7,6 +7,7 @@ sections:
   - name: "Our Board"
     people:
       - name: "Lizzie O'Shea"
+        username: lizzie
         role: "Chair"
         image: /wp-content/uploads/2019/02/0.jpg
         twitter: Lizzie_OShea
@@ -17,6 +18,7 @@ sections:
           [Lizzie is a human rights lawyer](/2020/03/09/an-introduction-from-drws-new-chairperson/) specialising in public interest litigation. Lizzie has local and international experience in a wide array of court jurisdictions, and is passionate about equality before the law and that the rule of law should be protected, particularly given the incursions on civil liberties that have become a staple part of the war on terror. In 2019, Lizzie received the Human Rights Hero Award for her work campaigning against Australia's encryption laws.
 
       - name: "Tom Sulston"
+        username: tom
         role: "Deputy Chair"
         image: /wp-content/uploads/2019/02/Screen-Shot-2019-02-26-at-6.22.43-pm.png
         twitter: tomsulston
@@ -27,6 +29,7 @@ sections:
           Tom is a software delivery consultant for Thoughtworks Australia, working on continuous delivery, devops culture, and the psychology of failure. He also helps people secure their systems and data from unethical and illegal snooping.
 
       - name: "Lilly Ryan"
+        username: lilly
         role: "Treasurer"
         image: /wp-content/uploads/2019/03/drw-headshot.jpeg
         twitter: attacus_au
@@ -37,6 +40,7 @@ sections:
           Lilly is a digital security consultant and public speaker. She specialises in web application security, privacy education, and the history of technology-related issues, bringing these topics to an international audience. Lilly believes in the power of consumer and tech worker action to help the technology industry better serve the people it affects.
 
       - name: "Piotr Debowski"
+        username: piotr
         role: "Secretary"
         image: /wp-content/uploads/2017/10/PD-photo.jpg
         twitter:
@@ -46,6 +50,7 @@ sections:
         description: |
           Piotr is a privacy specialist and advocate who is particularly passionate about helping individuals exercise their privacy rights and receive meaningful remedies. Piotr draws on his experience having worked across a number of industries – including at a privacy regulator, as a Privacy Officer, and as a consultant – and legislation - including Victoria, Australia, and the European Union.
       - name: "Mark Andrejevic"
+        username: mark
         role: "Board member"
         image: /wp-content/uploads/2017/10/Screen-Shot-2020-04-27-at-5.31.27-pm.png
         twitter: MarkAndrejevic
@@ -56,6 +61,7 @@ sections:
           Mark is a Professor with the School of Media, Film, and Journalism at Monash University, and contributes expertise in the social and cultural implications of data mining, and online monitoring.
 
       - name: "Lucie Krahulcova"
+        username: lucie
         role: "Board member"
         image: /wp-content/uploads/2019/08/Lucie-photo.jpg
         twitter: nomadiclucie
@@ -66,6 +72,7 @@ sections:
           Lucie is a professional activist and digital rights advocate. She specialises in surveillance, law enforcement powers in the digital era, export controls, encryption, data retention and telecoms regulation. Lucie previously worked in Ottawa and Brussels, and spent five years at the digital rights NGO Access Now, bringing an international dimension to our team.
 
       - name: "Caitlin McGrane"
+        username: caitlin
         role: "Board member"
         image: /wp-content/uploads/2017/10/CMGbyTL-15032020-2722-copy.jpg
         twitter:
@@ -78,6 +85,7 @@ sections:
   - name: "Our Staff"
     people:
       - name: "Samantha Floreani"
+        username: sam
         role: "Head of Policy"
         image: /wp-content/uploads/2019/08/SFloreani2023-2.png
         twitter: samfloreani
@@ -88,6 +96,7 @@ sections:
           Sam is a dedicated digital rights activist, privacy advocate and writer who regularly contributes to public debate on technology, power and human rights. She is currently undertaking a PhD at Monash University, researching the impact of emerging technologies on housing justice in Australia.
 
       - name: "Kathryn Gledhill-Tucker"
+        username: kat
         role: "Campaigns & Advocacy Manager"
         image: /wp-content/uploads/2019/08/kgt_headshot2-e1716175748463.jpeg
         twitter:
