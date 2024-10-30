@@ -1,7 +1,6 @@
 ---
 title: Urging Sweden and the UK to free Julian Assange
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2016-03-01T12:17:21+00:00
 url: /2016/03/01/urging-sweden-and-the-uk-to-free-julian-assange/
 featureImage: /wp-content/uploads/2016/03/Sydney_Wikileaks_2010-Dec-10.jpg

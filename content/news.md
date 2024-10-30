@@ -1,7 +1,6 @@
 ---
 title: News
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 type: page
 date: 2016-03-07T03:00:10+00:00
 the_grid_item_custom_link_target:

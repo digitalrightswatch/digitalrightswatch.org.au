@@ -1,7 +1,6 @@
 ---
 title: The Australian govt needs to get privacy reform right
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2023-03-07T03:38:25+00:00
 url: /2023/03/07/get-privacy-right/
 featureImage: /wp-content/uploads/2023/03/Basic-1.png

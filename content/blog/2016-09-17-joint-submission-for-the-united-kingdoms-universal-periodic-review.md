@@ -1,7 +1,6 @@
 ---
 title: Joint Submission for the United Kingdom's Universal Periodic Review
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2016-09-16T15:51:20+00:00
 url: /2016/09/17/joint-submission-for-the-united-kingdoms-universal-periodic-review/
 featureImage: /wp-content/uploads/2016/10/download.jpeg

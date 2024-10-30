@@ -1,7 +1,6 @@
 ---
 title: Data breach notification scheme an important step towards building trust with public's right to privacy
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2018-02-21T19:00:21+00:00
 excerpt: Privacy advocates Digital Rights Watch have welcomed the start of a national mandatory data breach notification scheme.
 url: /2018/02/22/data-breach-notification-scheme-an-important-step-towards-building-trust-with-publics-right-to-privacy/

@@ -1,7 +1,6 @@
 ---
 title: How to opt-out of the federal medical database
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2018-07-16T06:52:44+00:00
 excerpt: From today, you can choose whether or not you will be included in the largest mandatory medical database in Australian history. We're encouraging you to consider opting out.
 url: /2018/07/16/how-to-opt-out-of-the-federal-medical-database/

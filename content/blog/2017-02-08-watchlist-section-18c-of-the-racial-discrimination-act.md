@@ -1,7 +1,6 @@
 ---
 title: 'Watchlist: Section 18C of the Racial Discrimination Act'
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2017-02-08T10:09:48+00:00
 excerpt: "Section 18C of Australia's Racial Discrimination Act makes it unlawful for a person to commit an act that offends, insults, humiliates or intimidates another based-on race on the internet. Why is this so controversial? Allow us to explain."
 url: /2017/02/08/watchlist-section-18c-of-the-racial-discrimination-act/

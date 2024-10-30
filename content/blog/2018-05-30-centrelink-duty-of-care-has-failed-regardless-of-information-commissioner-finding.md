@@ -1,7 +1,6 @@
 ---
 title: Centrelink duty of care has failed, regardless of Information Commissioner finding
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2018-05-30T01:49:17+00:00
 excerpt: Privacy rights groups Digital Rights Watch, the Australian Privacy Foundation and Electronic Frontiers Australia have slammed a statement by the Office of the Information Commissioner and the Privacy Commissioner that their investigation found no wrongdoing in the release of personal information by a government department.
 url: /2018/05/30/centrelink-duty-of-care-has-failed-regardless-of-information-commissioner-finding/

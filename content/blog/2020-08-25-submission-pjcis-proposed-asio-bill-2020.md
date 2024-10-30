@@ -1,7 +1,6 @@
 ---
 title: 'Submission: the proposed ASIO Amendment Bill 2020'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2020-08-25T04:14:08+00:00
 url: /2020/08/25/submission-pjcis-proposed-asio-bill-2020/
 featureImage: /wp-content/uploads/2020/08/chris-yang-1tnS_BVy9Jk-unsplash-1.jpg

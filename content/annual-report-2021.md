@@ -1,7 +1,6 @@
 ---
 title: Annual Report 2021
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 type: page
 date: 2022-01-20T23:51:04+00:00
 featureImage: /wp-content/uploads/2019/08/SamFloreani.jpg

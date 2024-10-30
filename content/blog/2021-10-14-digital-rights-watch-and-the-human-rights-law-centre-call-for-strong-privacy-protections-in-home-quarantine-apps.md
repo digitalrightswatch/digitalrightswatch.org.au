@@ -1,7 +1,6 @@
 ---
 title: Rights groups call for strong privacy protections in home quarantine apps
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-10-13T20:20:05+00:00
 url: /2021/10/14/digital-rights-watch-and-the-human-rights-law-centre-call-for-strong-privacy-protections-in-home-quarantine-apps/
 featureImage: /wp-content/uploads/2021/10/dogherine-1p7WkGACGw-unsplash-1.jpg

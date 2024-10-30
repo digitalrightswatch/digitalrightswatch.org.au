@@ -1,7 +1,6 @@
 ---
 title: Have your say on the Census inquiry
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2016-09-09T23:21:31+00:00
 excerpt: 'Have your say - help us tell the Senate about privacy concerns in the Census'
 url: /2016/09/10/have-your-say-on-the-census-inquiry/

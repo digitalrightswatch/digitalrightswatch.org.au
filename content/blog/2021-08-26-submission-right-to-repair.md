@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Right to Repair'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-08-25T23:27:10+00:00
 url: /2021/08/26/submission-right-to-repair/
 featureImage: /wp-content/uploads/2021/08/kilian-seiler-PZLgTUAhxMM-unsplash.jpg

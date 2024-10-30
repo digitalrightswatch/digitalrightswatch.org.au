@@ -1,7 +1,6 @@
 ---
 title: Guided Walking Tour – Melbourne Knowledge Week
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-04-17T02:44:14+00:00
 url: /2021/04/17/melbourne-surveillance-track/
 featureImage: /wp-content/uploads/2021/04/MKW_Insta_v1.png

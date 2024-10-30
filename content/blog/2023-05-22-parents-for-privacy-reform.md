@@ -1,7 +1,6 @@
 ---
 title: Sign the open letter for bold privacy law reform
-#author: Samantha
-#authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+#authors: [sam]
 date: 2023-05-22T00:00:00+00:00
 url: /2023/05/22/parents-for-privacy-reform/
 featureImage: /wp-content/uploads/2023/06/Parents-for-privacy-reform-BANNER.png

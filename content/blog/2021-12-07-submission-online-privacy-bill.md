@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Online Privacy Bill'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-12-06T22:31:34+00:00
 url: /2021/12/07/submission-online-privacy-bill/
 featureImage: /wp-content/uploads/2021/12/pexels-eduardo-dutra-2115217.jpg

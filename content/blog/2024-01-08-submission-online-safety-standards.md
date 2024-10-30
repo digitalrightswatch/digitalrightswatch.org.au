@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Online Safety Draft Industry Standards'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2024-01-07T23:09:51+00:00
 url: /2024/01/08/submission-online-safety-standards/
 featureImage: /wp-content/uploads/2021/12/pexels-eduardo-dutra-2115217.jpg

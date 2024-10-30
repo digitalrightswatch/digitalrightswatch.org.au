@@ -1,7 +1,6 @@
 ---
 title: 'The State of Digital Rights: A 2021 Retrospective'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2022-03-02T22:10:00+00:00
 url: /2022/03/03/the-state-of-digital-rights-a-2021-retrospective/
 featureImage: /wp-content/uploads/2022/03/State-of-digital-rights-700-×-400-px-1900-×-1600-px-7.png

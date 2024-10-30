@@ -1,7 +1,6 @@
 ---
 title: February 2021 Roundup
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-03-18T23:18:34+00:00
 url: /2021/03/19/february-2021-digital-rights-roundup/
 featureImage: /wp-content/uploads/2020/10/monthlyroundup-07.png

@@ -1,7 +1,6 @@
 ---
 title: Policy grounded in surveillance won't protect women
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-06-16T07:06:56+00:00
 url: /2021/06/16/policy-grounded-in-surveillance-wont-protect-women/
 featureImage: /wp-content/uploads/2021/06/Tech-policy-based-on-surveillance-will-never-protect-women-1.png

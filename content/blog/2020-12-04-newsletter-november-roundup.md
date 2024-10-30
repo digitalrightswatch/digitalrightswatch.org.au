@@ -1,7 +1,6 @@
 ---
 title: November 2020 Roundup
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2020-12-04T02:33:21+00:00
 url: /2020/12/04/newsletter-november-roundup/
 featureImage: /wp-content/uploads/2020/10/monthlyroundup-07.png

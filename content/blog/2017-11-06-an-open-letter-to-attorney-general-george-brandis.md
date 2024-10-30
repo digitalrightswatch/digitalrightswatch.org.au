@@ -1,7 +1,6 @@
 ---
 title: An open letter to Attorney General George Brandis
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2017-11-06T04:01:25+00:00
 excerpt: "An open letter in relation to the treatment of peaceful activists protesting United States military operations facilitated by surveillance conducted at Australia's Pine Gap facility."
 url: /2017/11/06/an-open-letter-to-attorney-general-george-brandis/

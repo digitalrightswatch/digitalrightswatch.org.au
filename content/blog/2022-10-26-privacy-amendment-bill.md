@@ -1,7 +1,6 @@
 ---
 title: Tougher penalties in the Privacy Act are a good start, but not enough
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2022-10-26T03:55:43+00:00
 url: /2022/10/26/privacy-amendment-bill/
 featureImage: /wp-content/uploads/2021/10/christin-hume-mfB1B1s4sMc-unsplash.jpg

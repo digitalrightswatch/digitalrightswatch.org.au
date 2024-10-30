@@ -1,7 +1,6 @@
 ---
 title: Digital Rights Advent Calendar
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2020-12-17T02:59:42+00:00
 url: /2020/12/17/2020-digital-rights-advent-calendar/
 featureImage: /wp-content/uploads/2020/12/digital-rights-advent-calendar-23.png

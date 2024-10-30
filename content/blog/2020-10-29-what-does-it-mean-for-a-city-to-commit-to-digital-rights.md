@@ -1,7 +1,6 @@
 ---
 title: 'Guide: What does it mean for a city to commit to digital rights?'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2020-10-28T23:34:42+00:00
 url: /2020/10/29/what-does-it-mean-for-a-city-to-commit-to-digital-rights/
 featureImage: /wp-content/uploads/2020/10/banner_isometriccity_v2_withtext_HIGHRES-04.png

@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Online Safety draft Industry Codes'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2022-10-11T01:12:48+00:00
 url: /2022/10/11/submission-online-safety-draft-industry-codes/
 featureImage: /wp-content/uploads/2022/01/victoria-heath-MAGAXAYq_NE-unsplash-scaled-1.jpg

@@ -1,7 +1,6 @@
 ---
 title: Police drones and coronavirus surveillance
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2020-08-27T00:59:05+00:00
 url: /2020/08/27/police-drones-and-coronavirus-surveillance/
 featureImage: /wp-content/uploads/2020/08/annie-spratt-I9TaTsU_VnE-unsplash.jpg

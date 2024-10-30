@@ -1,7 +1,6 @@
 ---
 title: 'Explainer: Privacy reform in Australia'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2022-01-19T22:11:58+00:00
 url: /2022/01/20/explainer-privacy-reform-in-australia/
 featureImage: /wp-content/uploads/2022/01/privacy-reform-tiles-1.png

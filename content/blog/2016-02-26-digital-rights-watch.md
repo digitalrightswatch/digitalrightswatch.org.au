@@ -1,7 +1,6 @@
 ---
 title: Digital Rights Watch
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2016-02-26T12:31:02+00:00
 url: /2016/02/26/digital-rights-watch/
 featureImage: /wp-content/uploads/2016/03/DRW_default.jpg

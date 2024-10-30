@@ -1,7 +1,6 @@
 ---
 title: The Privacy Pledge
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 type: page
 date: 2019-05-15T05:38:58+00:00
 featureImage: /wp-content/uploads/2019/04/privacypledge.jpg

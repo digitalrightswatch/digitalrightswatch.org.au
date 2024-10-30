@@ -1,7 +1,6 @@
 ---
 title: How to write a submission to the Privacy Act Review
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2023-03-16T00:34:59+00:00
 url: /2023/03/16/how-to-sub-privacy-act-review/
 featureImage: /wp-content/uploads/2023/03/disinfo-and-privacy-1500-×-800-px-6.png

@@ -1,7 +1,6 @@
 ---
 title: 'Submission: DIGI Proposed Industry Disinformation Code'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-01-11T06:41:08+00:00
 url: /2021/01/11/submission-digi-proposed-industry-disinformation-code/
 featureImage: /wp-content/uploads/2021/01/camilo-jimenez-qZenO_gQ7QA-unsplash.jpg

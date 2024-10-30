@@ -1,7 +1,6 @@
 ---
 title: The News Media Bargaining Code is not fit for any purpose
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2020-09-15T01:55:59+00:00
 url: /2020/09/15/blog-the-news-media-bargaining-code-is-not-fit-for-any-purpose/
 featureImage: /wp-content/uploads/2020/09/NewsBargainingCodeHeader-09.png

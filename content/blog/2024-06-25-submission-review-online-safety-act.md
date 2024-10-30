@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Statutory Review of the Online Safety Act'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2024-06-25T07:03:47+00:00
 url: /2024/06/25/submission-review-online-safety-act
 featureImage: /wp-content/uploads/2022/01/victoria-heath-MAGAXAYq_NE-unsplash-scaled-1.jpg

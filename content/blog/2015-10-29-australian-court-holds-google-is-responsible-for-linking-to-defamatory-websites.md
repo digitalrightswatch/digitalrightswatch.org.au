@@ -1,7 +1,6 @@
 ---
 title: Australian court holds Google is responsible for linking to defamatory websites
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2015-10-29T12:28:55+00:00
 url: /2015/10/29/australian-court-holds-google-is-responsible-for-linking-to-defamatory-websites/
 featureImage: /wp-content/uploads/2015/10/google.jpg

@@ -1,7 +1,6 @@
 ---
 title: 'WhyID: Protecting Our Identity in the Digital Age'
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2019-10-21T22:39:00+00:00
 url: /2019/10/22/whyid-protecting-our-identity-in-the-digital-age/
 featureImage: /wp-content/uploads/2019/11/Screen-Shot-2019-11-19-at-5.37.35-pm.png

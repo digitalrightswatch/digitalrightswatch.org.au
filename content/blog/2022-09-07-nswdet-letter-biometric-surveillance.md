@@ -1,7 +1,6 @@
 ---
 title: Privacy and data security concerns regarding the use of biometric surveillance technology on children at NSW high school
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2022-09-07T07:22:03+00:00
 url: /2022/09/07/nswdet-letter-biometric-surveillance/
 featureImage: /wp-content/uploads/2022/09/Add-a-subheading-1500-×-800-px-1.png

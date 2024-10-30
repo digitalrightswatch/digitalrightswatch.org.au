@@ -1,7 +1,6 @@
 ---
 title: 'Campaign win: Australian government will not force sites to implement age verification'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2023-08-31T00:18:37+00:00
 url: /2023/08/31/campaign-win-against-age-verification/
 featureImage: /wp-content/uploads/2023/08/celebrate.jpg

@@ -1,7 +1,6 @@
 ---
 title: Defend encryption in Australia
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2018-08-19T02:22:17+00:00
 excerpt: "Stand up and tell the government that you don't support efforts to break encryption."
 url: /2018/08/19/defend-encryption/

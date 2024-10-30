@@ -1,7 +1,6 @@
 ---
 title: Attorney General George Brandis declared "Villain" by Access Now for comments undermining encryption
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2017-10-05T04:38:01+00:00
 excerpt: "Australian Attorney General George Brandis has been awarded a 'villain' award in a global digital rights ceremony"
 url: /2017/10/05/attorney-general-george-brandis-declared-villain-by-access-now-for-comments-undermining-encryption/

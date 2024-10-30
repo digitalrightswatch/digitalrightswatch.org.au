@@ -1,7 +1,6 @@
 ---
 title: Optus data breach shows need for stronger privacy laws
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2022-09-26T04:44:57+00:00
 url: /2022/09/26/optus-data-breach-shows-need-for-stronger-privacy-laws/
 featureImage: /wp-content/uploads/2022/01/tim-gouw-1K9T5YiZ2WU-unsplash-1.jpg

@@ -1,7 +1,6 @@
 ---
 title: Donation transparency
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 type: page
 date: 2019-08-12T05:05:00+00:00
 eg_vimeo_ratio:

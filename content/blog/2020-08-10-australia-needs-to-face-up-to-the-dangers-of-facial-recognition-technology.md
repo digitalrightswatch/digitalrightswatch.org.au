@@ -1,7 +1,6 @@
 ---
 title: Australia needs to face up to the dangers of facial recognition technology
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2020-08-10T04:45:15+00:00
 url: /2020/08/10/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology/
 featureImage: /wp-content/uploads/2020/08/3500.jpg

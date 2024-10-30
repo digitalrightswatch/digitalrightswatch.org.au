@@ -1,7 +1,6 @@
 ---
 title: Submission to Review of the Copyright Online Infringement Amendment
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2018-03-19T04:52:45+00:00
 excerpt: The Department of Communications and the Arts is undertaking a review of the Copyright Online Infringement Amendment, and Digital Rights Watch has provided evidence to this process.
 url: /2018/03/19/submission-to-review-of-the-copyright-online-infringement-amendment/

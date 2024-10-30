@@ -1,7 +1,6 @@
 ---
 title: All I want for Christmas is to stop normalising surveillance
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2020-11-30T05:00:42+00:00
 url: /2020/11/30/all-i-want-for-christmas-is-to-stop-normalising-surveillance/
 featureImage: /wp-content/uploads/2020/11/Copy-of-Who-sees-you-while-youre-sleeping-and-knows-when-youre-awake_-1.png

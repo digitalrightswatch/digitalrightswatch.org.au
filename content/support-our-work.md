@@ -1,7 +1,6 @@
 ---
 title: Support our work
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 type: page
 date: 2018-09-06T23:39:42+00:00
 featureImage: /wp-content/uploads/2019/01/7651364100_e28b600eb6_b_blue.jpg

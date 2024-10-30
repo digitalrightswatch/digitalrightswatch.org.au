@@ -1,7 +1,6 @@
 ---
 title: DRW and EFA team up to support Australian Charter of Human Rights
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2023-07-11T02:53:46+00:00
 url: /2023/07/11/efa-sub-human-rights/
 featureImage: /wp-content/uploads/2019/10/human-rights-award-digital-rights-watch.jpg

@@ -1,7 +1,6 @@
 ---
 title: Site-blocking is not the solution to illegal downloading
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2016-12-15T23:33:40+00:00
 excerpt: Digital Rights Watch have expressed their concern over a Federal Court ruling that Australian ISPs must block access to domains registered by file-sharing websites.
 url: /2016/12/16/site-blocking-is-not-the-solution-to-illegal-downloading/

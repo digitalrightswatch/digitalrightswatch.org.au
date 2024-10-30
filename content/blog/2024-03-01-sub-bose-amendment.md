@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Basic Online Safety Expectations Amendment'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2024-03-01T01:00:37+00:00
 url: /2024/03/01/sub-bose-amendment/
 featureImage: /wp-content/uploads/2023/08/pexels-thisisengineering-3861969-scaled-1.jpg

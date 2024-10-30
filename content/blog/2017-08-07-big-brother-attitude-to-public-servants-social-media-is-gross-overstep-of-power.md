@@ -1,7 +1,6 @@
 ---
 title: Big brother attitude to public servant's social media is gross overstep of power
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2017-08-07T05:26:25+00:00
 excerpt: Online advocacy group Digital Rights Watch has expressed serious concerns over social media guidelines for federal public servants released today.
 url: /2017/08/07/big-brother-attitude-to-public-servants-social-media-is-gross-overstep-of-power/

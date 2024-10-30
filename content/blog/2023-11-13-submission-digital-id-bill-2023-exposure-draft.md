@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Digital ID Bill 2023 exposure draft'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2023-11-13T02:07:59+00:00
 url: /2023/11/13/submission-digital-id-bill-2023-exposure-draft/
 featureImage: /wp-content/uploads/2021/07/Copy-of-digital-identity.png

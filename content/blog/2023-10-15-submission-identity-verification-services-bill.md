@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Identity Verification Services Bill'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2023-10-15T04:27:58+00:00
 url: /2023/10/15/submission-identity-verification-services-bill/
 featureImage: /wp-content/uploads/2020/02/john-schnobrich-yFbyvpEGHFQ-unsplash-scaled-1.jpg

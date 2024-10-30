@@ -1,7 +1,6 @@
 ---
 title: Donations Policy
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 type: page
 date: 2019-12-14T00:16:25+00:00
 

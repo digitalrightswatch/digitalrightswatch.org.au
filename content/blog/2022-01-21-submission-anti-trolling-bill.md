@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Anti-Trolling Bill'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2022-01-21T02:46:46+00:00
 url: /2022/01/21/submission-anti-trolling-bill/
 featureImage: /wp-content/uploads/2022/01/tim-gouw-1K9T5YiZ2WU-unsplash.jpg

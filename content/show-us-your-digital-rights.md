@@ -1,7 +1,6 @@
 ---
 title: Show us your digital rights
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 type: page
 date: 2019-07-23T01:44:23+00:00
 featureImage: /wp-content/uploads/2019/07/Screen-Shot-2019-07-23-at-10.44.19-am.png

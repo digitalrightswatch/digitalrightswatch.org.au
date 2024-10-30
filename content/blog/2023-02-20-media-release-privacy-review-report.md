@@ -1,7 +1,6 @@
 ---
 title: 'Media Release: Privacy Review Report'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2023-02-19T22:43:29+00:00
 url: /2023/02/20/media-release-privacy-review-report/
 featureImage: /wp-content/uploads/2022/02/the-blowup-ZrwLQZ7GUxs-unsplash-scaled-1.jpg

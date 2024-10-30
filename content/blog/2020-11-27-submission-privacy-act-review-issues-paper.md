@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Privacy Act Review Issues Paper'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2020-11-27T06:33:03+00:00
 url: /2020/11/27/submission-privacy-act-review-issues-paper/
 featureImage: /wp-content/uploads/2020/02/john-schnobrich-yFbyvpEGHFQ-unsplash-scaled-1.jpg

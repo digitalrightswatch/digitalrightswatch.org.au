@@ -1,7 +1,6 @@
 ---
 title: Statement on AFP raid of journalist's home
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2019-06-04T04:15:24+00:00
 url: /2019/06/04/statement-on-afp-raid-of-journalists-home/
 featureImage: /wp-content/uploads/2018/02/Police.gif

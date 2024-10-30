@@ -1,7 +1,6 @@
 ---
 title: Techno solutionism—very few things actually need to be an app.
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-03-24T23:05:18+00:00
 url: /2021/03/25/technosolutionism/
 featureImage: /wp-content/uploads/2021/03/Screen-Shot-2021-03-25-at-11.21.24-am.png

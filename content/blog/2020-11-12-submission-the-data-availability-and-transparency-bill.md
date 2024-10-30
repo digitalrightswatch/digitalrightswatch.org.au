@@ -1,7 +1,6 @@
 ---
 title: 'Submission: The Data Availability and Transparency Bill'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2020-11-12T07:05:10+00:00
 url: /2020/11/12/submission-the-data-availability-and-transparency-bill/
 featureImage: /wp-content/uploads/2020/11/Screen-Shot-2020-11-12-at-6.03.14-pm.png

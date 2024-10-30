@@ -1,7 +1,6 @@
 ---
 title: Digital rights meetup
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2019-08-06T04:40:43+00:00
 url: /2019/08/06/digital-rights-meetup/
 featureImage: /wp-content/uploads/2018/02/download-1.jpeg

@@ -1,7 +1,6 @@
 ---
 title: Digital Security for Everyone
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2017-10-26T01:48:30+00:00
 url: /2017/10/26/actionskills/
 featureImage: /wp-content/uploads/2017/10/crypto2-1024x483-1.jpg

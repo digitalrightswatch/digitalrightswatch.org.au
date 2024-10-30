@@ -1,7 +1,6 @@
 ---
 title: Feminist perspectives on cyber security
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2019-08-14T09:52:13+00:00
 url: /2019/08/14/feminist-perspectives-on-cyber-security/
 featureImage: /wp-content/uploads/2019/08/Screen-Shot-2019-08-14-at-7.50.00-pm.png

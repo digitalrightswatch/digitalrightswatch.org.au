@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Inquiry into the 2022 Federal Election'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2022-09-28T06:26:19+00:00
 url: /2022/09/28/submission-inquiry-into-the-2022-federal-election/
 featureImage: /wp-content/uploads/2022/09/aditya-joshi-FOhw4A1CR1Q-unsplash-scaled-1.jpg

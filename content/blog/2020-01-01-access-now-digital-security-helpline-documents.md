@@ -1,7 +1,6 @@
 ---
 title: Access Now Digital Security Helpline documents
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2020-01-01T02:58:00+00:00
 url: /2020/01/01/access-now-digital-security-helpline-documents/
 featureImage: /wp-content/uploads/2020/02/AccessNow_Helplin_cover.gif

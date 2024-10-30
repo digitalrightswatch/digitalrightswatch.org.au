@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Abhorrent Violent Material'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-10-28T23:09:17+00:00
 url: /2021/10/29/submission-abhorrent-violent-material-act/
 featureImage: /wp-content/uploads/2021/10/christin-hume-mfB1B1s4sMc-unsplash.jpg

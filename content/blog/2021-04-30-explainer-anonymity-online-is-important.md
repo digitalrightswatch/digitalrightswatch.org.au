@@ -1,7 +1,6 @@
 ---
 title: Anonymity online is important
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-04-30T02:56:41+00:00
 url: /2021/04/30/explainer-anonymity-online-is-important/
 featureImage: /wp-content/uploads/2021/04/anonymity-1.png

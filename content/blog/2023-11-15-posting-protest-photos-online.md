@@ -1,7 +1,6 @@
 ---
 title: Posting protest photos? Here's how to protect others' identities
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2023-11-15T01:25:53+00:00
 url: /2023/11/15/posting-protest-photos-online/
 featureImage: /wp-content/uploads/2023/11/posting-protest-photos-Twitter-Post.png

@@ -1,7 +1,6 @@
 ---
 title: Address privacy concerns in the Census
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2016-08-05T00:47:48+00:00
 excerpt: Take action and stand up on privacy concerns in the 2016 Census.
 url: /2016/08/05/address-privacy-concerns-in-the-census/

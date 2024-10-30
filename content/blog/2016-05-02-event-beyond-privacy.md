@@ -1,7 +1,6 @@
 ---
 title: 'Event: Beyond Privacy'
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2016-05-02T10:05:34+00:00
 excerpt: "'Lawfulness' is routinely referred to by state agencies as the benchmark for appropriate surveillance. But how might the law, intended as a safeguard, actually be used to undermine a democratic system of checks and balances? This panel explores how laws protect the privacy of Australians against mass surveillance."
 url: /2016/05/02/event-beyond-privacy/

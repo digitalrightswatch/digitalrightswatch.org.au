@@ -1,7 +1,6 @@
 ---
 title: Navigating the COVIDSafe app rhetoric
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2020-05-29T03:03:14+00:00
 url: /2020/05/29/covidsafe-app-rhetoric/
 featureImage: /wp-content/uploads/2020/05/92024.jpg

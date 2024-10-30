@@ -1,7 +1,6 @@
 ---
 title: 'Explainer: The Online Safety Bill'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-02-11T07:21:32+00:00
 url: /2021/02/11/explainer-the-online-safety-bill/
 featureImage: /wp-content/uploads/2021/02/Copy-of-Online-Safety-Bill.png

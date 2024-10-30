@@ -1,7 +1,6 @@
 ---
 title: Ban facial recognition surveillance
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2020-01-30T00:51:07+00:00
 url: /2020/01/30/ban-facial-recognition-surveillance/
 featureImage: /wp-content/uploads/2020/01/nick-loggie-fRVPzBYcd5A-unsplash-scaled-1.jpg

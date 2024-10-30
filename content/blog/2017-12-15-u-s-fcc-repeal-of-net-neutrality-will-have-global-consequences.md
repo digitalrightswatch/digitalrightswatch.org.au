@@ -1,7 +1,6 @@
 ---
 title: U.S. FCC repeal of Net Neutrality will have global consequences
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2017-12-15T01:22:10+00:00
 excerpt: Australian digital rights advocates today condemned the decision of the United States Federal Communications Commission to dismantle the agency's 2015 Open Internet Order which required internet service providers to treat all internet traffic equally.
 url: /2017/12/15/u-s-fcc-repeal-of-net-neutrality-will-have-global-consequences/

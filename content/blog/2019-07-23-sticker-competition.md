@@ -1,7 +1,6 @@
 ---
 title: Sticker competition
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2019-07-23T06:44:21+00:00
 url: /2019/07/23/sticker-competition/
 featureImage: /wp-content/uploads/2019/07/Screen-Shot-2019-07-23-at-10.44.19-am.png

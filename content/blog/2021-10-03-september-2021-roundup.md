@@ -1,7 +1,6 @@
 ---
 title: September 2021 Roundup
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-10-03T00:00:32+00:00
 url: /2021/10/03/september-2021-roundup/
 featureImage: /wp-content/uploads/2020/10/monthlyroundup-07.png

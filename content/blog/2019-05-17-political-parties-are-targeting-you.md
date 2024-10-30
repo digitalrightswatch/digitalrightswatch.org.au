@@ -1,7 +1,6 @@
 ---
 title: Political parties are targeting you
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2019-05-17T07:24:07+00:00
 url: /2019/05/17/political-parties-are-targeting-you/
 featureImage: /wp-content/uploads/2019/05/targeting-definition-t.jpg

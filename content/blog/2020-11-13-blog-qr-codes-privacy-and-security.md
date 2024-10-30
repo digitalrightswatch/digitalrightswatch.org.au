@@ -1,7 +1,6 @@
 ---
 title: QR codes, privacy and security
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2020-11-13T04:51:48+00:00
 url: /2020/11/13/blog-qr-codes-privacy-and-security/
 featureImage: /wp-content/uploads/2020/11/QR_twitter-09.png

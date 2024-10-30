@@ -1,7 +1,6 @@
 ---
 title: 'Submission to the UN: the right to privacy in the digital age'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-06-04T01:56:22+00:00
 url: /2021/06/04/submission-to-the-un-the-right-to-privacy-in-the-digital-age/
 featureImage: /wp-content/uploads/2020/08/mat-reding-yfXhqAW5X0c-unsplash.jpg

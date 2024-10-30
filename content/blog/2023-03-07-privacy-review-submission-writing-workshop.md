@@ -1,7 +1,6 @@
 ---
 title: Privacy Act Review – Submission Writing Workshop
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2023-03-07T04:28:57+00:00
 url: /2023/03/07/privacy-review-submission-writing-workshop/
 featureImage: /wp-content/uploads/2023/03/disinfo-and-privacy-1500-×-800-px-5.png

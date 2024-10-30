@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Privacy Act Review – Report'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2023-04-03T03:41:19+00:00
 url: /2023/04/03/submission-privacy-act-review-report/
 featureImage: /wp-content/uploads/2021/10/christin-hume-mfB1B1s4sMc-unsplash.jpg

@@ -1,7 +1,6 @@
 ---
 title: 'Submission: News Media Bargaining Code'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-01-28T01:38:27+00:00
 url: /2021/01/28/submission-news-media-bargaining-code/
 featureImage: /wp-content/uploads/2020/09/NewsBargainingCodeHeader-09.png

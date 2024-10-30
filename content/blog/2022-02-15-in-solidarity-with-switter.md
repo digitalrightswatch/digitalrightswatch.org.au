@@ -1,7 +1,6 @@
 ---
 title: In solidarity with Switter
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2022-02-15T02:52:03+00:00
 url: /2022/02/15/in-solidarity-with-switter/
 featureImage: /wp-content/uploads/2022/02/Untitled-design-33.png

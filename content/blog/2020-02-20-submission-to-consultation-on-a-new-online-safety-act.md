@@ -1,7 +1,6 @@
 ---
 title: Submission to consultation on a new Online Safety Act
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2020-02-19T23:19:10+00:00
 url: /2020/02/20/submission-to-consultation-on-a-new-online-safety-act/
 featureImage: /wp-content/uploads/2020/02/john-schnobrich-yFbyvpEGHFQ-unsplash-scaled-1.jpg

@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Electronic Surveillance Reform Discussion Paper'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2022-02-24T22:37:30+00:00
 url: /2022/02/25/submission-electronic-surveillance-reform-discussion-paper/
 featureImage: /wp-content/uploads/2022/02/the-blowup-ZrwLQZ7GUxs-unsplash-scaled-1.jpg

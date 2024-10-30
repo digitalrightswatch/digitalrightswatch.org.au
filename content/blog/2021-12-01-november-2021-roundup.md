@@ -1,7 +1,6 @@
 ---
 title: November 2021 Roundup
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-11-30T21:59:33+00:00
 url: /2021/12/01/november-2021-roundup/
 featureImage: /wp-content/uploads/2020/10/monthlyroundup-07.png

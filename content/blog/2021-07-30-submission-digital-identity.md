@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Digital Identity – Position Paper'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-07-30T03:22:32+00:00
 url: /2021/07/30/submission-digital-identity/
 featureImage: /wp-content/uploads/2021/07/Copy-of-digital-identity.png

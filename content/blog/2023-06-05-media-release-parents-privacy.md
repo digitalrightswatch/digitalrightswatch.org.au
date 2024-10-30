@@ -1,7 +1,6 @@
 ---
 title: Organisations publish open letter on behalf of parents calling for bold privacy reform
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2023-06-05T02:39:19+00:00
 url: /2023/06/05/media-release-parents-privacy/
 featureImage: /wp-content/uploads/2023/06/Parents-for-privacy-reform-BANNER.png

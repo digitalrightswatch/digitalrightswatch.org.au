@@ -1,7 +1,6 @@
 ---
 title: Parliament metadata report is a step in the right direction
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2020-11-20T00:35:07+00:00
 url: /2020/11/20/blog-parliament-metadata-report-is-a-step-in-the-right-direction/
 featureImage: /wp-content/uploads/2020/11/markus-spiske-466ENaLuhLY-unsplash.jpg

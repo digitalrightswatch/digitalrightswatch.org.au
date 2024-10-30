@@ -1,7 +1,6 @@
 ---
 title: Restore faith in the Census
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2016-08-12T06:17:25+00:00
 excerpt: "The conduct of this year's census raises serious and pressing ethical, legal, security and technological concerns. Join the call for Prime Minister Turnbull to act."
 url: /2016/08/12/restore-faith-in-the-census/

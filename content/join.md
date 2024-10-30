@@ -1,7 +1,6 @@
 ---
 title: Join
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 type: page
 date: 2016-02-26T15:08:53+00:00
 redirect_url: https://actionnetwork.org/forms/site-sign-up

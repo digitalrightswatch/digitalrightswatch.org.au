@@ -1,7 +1,6 @@
 ---
 title: UK court ruling on mass surveillance serves as a warning to Australian operations, warns digital rights advocates.
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2018-02-01T04:45:18+00:00
 excerpt: Following a legal challenge by UK Labour MP Tom Watson and civil rights group Liberty, the UK Court of Appeal has ruled that accessing retained data without proper oversight, or if there was no serious crime, is inconsistent with EU law.
 url: /2018/02/01/uk-court-ruling-on-mass-surveillance-serves-as-a-warning-to-australian-operations-warns-digital-rights-advocates/

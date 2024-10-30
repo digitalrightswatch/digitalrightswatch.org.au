@@ -1,7 +1,6 @@
 ---
 title: 100+ human rights groups demand global governments not use coronavirus pandemic as cover for expanding digital surveillance
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2020-04-02T23:29:43+00:00
 url: /2020/04/03/100-organisations-tell-governments-dont-use-the-coronavirus-pandemic-as-cover-for-expanding-digital-surveillance/
 featureImage: /wp-content/uploads/2020/03/Untitled-design.png

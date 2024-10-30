@@ -1,7 +1,6 @@
 ---
 title: Digital Rights Watch proposes new Australian Digital Corporation to balance the scales with big tech
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2023-04-26T03:06:37+00:00
 url: /2023/04/26/democratising-digital-economies/
 featureImage: /wp-content/uploads/2023/04/pexels-junior-teixeira-2047905-scaled-e1682478278320.jpg

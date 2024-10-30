@@ -1,7 +1,6 @@
 ---
 title: How to write your own policy submission
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-10-07T00:37:56+00:00
 url: /2021/10/07/how-to-write-your-own-policy-submission/
 featureImage: /wp-content/uploads/2021/10/Workshop-poster-purple-version-1500-x-800-px-1.png

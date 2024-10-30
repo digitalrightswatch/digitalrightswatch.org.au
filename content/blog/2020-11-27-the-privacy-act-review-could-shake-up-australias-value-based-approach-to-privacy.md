@@ -1,7 +1,6 @@
 ---
 title: The Privacy Act review could shake up Australia's value-based approach to privacy
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2020-11-27T06:25:20+00:00
 url: /2020/11/27/the-privacy-act-review-could-shake-up-australias-value-based-approach-to-privacy/
 featureImage: /wp-content/uploads/2020/11/AP_Rune_Fisker_security_2x-scaled-1.jpg

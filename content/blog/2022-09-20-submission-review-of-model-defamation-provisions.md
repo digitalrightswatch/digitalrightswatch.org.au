@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Review of Model Defamation Provisions'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2022-09-20T00:10:57+00:00
 url: /2022/09/20/submission-review-of-model-defamation-provisions/
 featureImage: /wp-content/uploads/2021/12/pexels-eduardo-dutra-2115217.jpg

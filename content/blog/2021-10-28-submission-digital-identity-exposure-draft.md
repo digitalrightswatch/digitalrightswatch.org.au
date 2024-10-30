@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Digital Identity – Exposure Draft'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-10-28T00:55:14+00:00
 url: /2021/10/28/submission-digital-identity-exposure-draft/
 featureImage: /wp-content/uploads/2021/07/Copy-of-digital-identity.png

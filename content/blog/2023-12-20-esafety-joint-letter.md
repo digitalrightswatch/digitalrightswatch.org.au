@@ -1,7 +1,6 @@
 ---
 title: Local and international organisations urge Australia's eSafety Commissioner against requiring the tech industry to scan users' personal files and messages
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2023-12-20T05:23:56+00:00
 url: /2023/12/20/esafety-joint-letter/
 eg_vimeo_ratio:

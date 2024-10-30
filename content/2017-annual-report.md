@@ -1,7 +1,6 @@
 ---
 title: 2017 Annual Report
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 type: page
 date: 2018-03-13T01:50:43+00:00
 featureImage: /wp-content/uploads/2020/02/MWF-event-scaled.jpg

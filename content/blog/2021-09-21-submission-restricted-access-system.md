@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Restricted Access Systems Discussion Paper'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-09-21T05:38:49+00:00
 url: /2021/09/21/submission-restricted-access-system/
 featureImage: /wp-content/uploads/2021/09/charles-deluvio-xgvJlaGnJIw-unsplash.jpg

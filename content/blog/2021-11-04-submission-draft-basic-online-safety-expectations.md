@@ -1,7 +1,6 @@
 ---
 title: 'Submission: draft Basic Online Safety Expectations'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-11-03T23:08:17+00:00
 url: /2021/11/04/submission-draft-basic-online-safety-expectations/
 featureImage: /wp-content/uploads/2021/11/sincerely-media-HL3EOgFiy0k-unsplash-scaled-1.jpg

@@ -1,7 +1,6 @@
 ---
 title: Beyond Privacy video
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2016-05-19T14:34:50+00:00
 excerpt: "Didn't get a chance to come to our panel discussion about Australia's Privacy laws? You can still watch the whole discussion here."
 url: /2016/05/20/beyond-privacy-video/

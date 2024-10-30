@@ -1,7 +1,6 @@
 ---
 title: 'Submission: The Online Safety Bill'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-02-17T21:02:11+00:00
 url: /2021/02/18/submission-the-online-safety-bill/
 featureImage: /wp-content/uploads/2021/02/neonbrand-IhsaTDKzdwg-unsplash-scaled-1.jpg

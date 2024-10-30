@@ -1,7 +1,6 @@
 ---
 title: 'Live Hack: Understanding Metadata'
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2017-08-01T12:14:12+00:00
 excerpt: 'Digital Rights Watch presents a live hack event at the Melbourne Writers Festival: how secure is your personal information? With special guest speakers Scott Ludlam and Gillian Triggs.'
 url: /2017/08/01/live-hack-understanding-metadata/

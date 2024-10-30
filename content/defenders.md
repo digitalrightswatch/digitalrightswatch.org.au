@@ -1,7 +1,6 @@
 ---
 title: Digital Rights Defenders
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 type: page
 date: 2019-10-11T01:05:17+00:00
 featureImage: /wp-content/uploads/2019/11/digital-rights-defenders-feature-min2.jpg

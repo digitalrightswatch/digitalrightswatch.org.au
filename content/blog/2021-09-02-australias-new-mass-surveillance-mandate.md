@@ -1,7 +1,6 @@
 ---
 title: Australia's new mass surveillance mandate
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-09-02T06:18:57+00:00
 url: /2021/09/02/australias-new-mass-surveillance-mandate/
 featureImage: /wp-content/uploads/2021/09/4.png

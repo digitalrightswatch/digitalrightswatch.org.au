@@ -1,7 +1,6 @@
 ---
 title: 'Freedom of speech under threat globally: UN'
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2016-10-24T23:16:38+00:00
 excerpt: New UN report details the widespread global assault on the freedom of expression, including digital rights and access to the internet.
 url: /2016/10/25/freedom-of-speech-under-threat-globally-un/

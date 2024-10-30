@@ -1,7 +1,6 @@
 ---
 title: 2018 Annual Report
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 type: page
 date: 2019-01-28T10:48:39+00:00
 featureImage: /wp-content/uploads/2020/02/IMG_3904-scaled.jpeg

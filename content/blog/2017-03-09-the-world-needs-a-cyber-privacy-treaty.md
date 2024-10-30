@@ -1,7 +1,6 @@
 ---
 title: The world needs a cyber privacy treaty
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2017-03-09T11:49:57+00:00
 excerpt: "Digital Rights Watch has welcomed the release of a UN report calling for a global treaty to protect internet user's right to privacy."
 url: /2017/03/09/the-world-needs-a-cyber-privacy-treaty/

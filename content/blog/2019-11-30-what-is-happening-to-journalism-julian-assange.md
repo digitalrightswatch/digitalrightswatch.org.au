@@ -1,7 +1,6 @@
 ---
 title: 'What is happening to Journalism & Julian Assange?'
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2019-11-30T00:42:00+00:00
 url: /2019/11/30/what-is-happening-to-journalism-julian-assange/
 featureImage: /wp-content/uploads/2019/12/images.jpg

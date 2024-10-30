@@ -1,7 +1,6 @@
 ---
 title: October 2020 Roundup
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2020-10-30T10:10:14+00:00
 url: /2020/10/30/newsletter-october-roundup/
 featureImage: /wp-content/uploads/2020/10/monthlyroundup-07.png

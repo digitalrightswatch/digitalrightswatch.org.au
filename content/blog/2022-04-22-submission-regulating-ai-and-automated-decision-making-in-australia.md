@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Regulating AI and automated decision-making in Australia'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2022-04-22T05:55:45+00:00
 url: /2022/04/22/submission-regulating-ai-and-automated-decision-making-in-australia/
 featureImage: /wp-content/uploads/2020/11/markus-spiske-466ENaLuhLY-unsplash.jpg

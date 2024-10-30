@@ -1,7 +1,6 @@
 ---
 title: Providing evidence to Parliamentary committee on the Encryption Bill
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2018-11-30T02:54:46+00:00
 url: /2018/11/30/providing-evidence-to-parliamentary-committee-on-the-encryption-bill/
 featureImage: /wp-content/uploads/2018/11/img-ac2ab0c9c20aeb3845ccc24e905fcb08.jpg

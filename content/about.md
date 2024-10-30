@@ -1,7 +1,6 @@
 ---
 title: About Us
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 type: page
 date: 2020-10-19T00:37:27+00:00
 ---

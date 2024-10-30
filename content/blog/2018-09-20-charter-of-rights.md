@@ -1,7 +1,6 @@
 ---
 title: Charter of Rights
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2018-09-20T01:17:55+00:00
 url: /2018/09/20/charter-of-rights/
 featureImage: /wp-content/uploads/2018/12/HoldingSign_banner.jpg

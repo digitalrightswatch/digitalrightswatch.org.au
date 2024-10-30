@@ -1,7 +1,6 @@
 ---
 title: Research shows Australians deeply concerned by Government's spyware legislation
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2018-10-25T03:15:06+00:00
 url: /2018/10/25/research-shows-australians-deeply-concerned-by-governments-spyware-legislation/
 featureImage: /wp-content/uploads/2018/10/33091154720_a8cc890c65_z.jpg

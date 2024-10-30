@@ -1,7 +1,6 @@
 ---
 title: Facial recognition expansion requires urgent review
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2019-07-22T06:53:35+00:00
 url: /2019/07/22/facial-recognition-expansion-requires-urgent-review/
 featureImage: /wp-content/uploads/2019/07/timothy-muza-6VjPmyMj5KM-unsplash.jpg

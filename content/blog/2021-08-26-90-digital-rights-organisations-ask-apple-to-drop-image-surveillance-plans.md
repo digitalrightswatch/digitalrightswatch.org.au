@@ -1,7 +1,6 @@
 ---
 title: 90+ digital rights organisations ask Apple to drop image surveillance plans
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-08-26T02:31:14+00:00
 url: /2021/08/26/90-digital-rights-organisations-ask-apple-to-drop-image-surveillance-plans/
 featureImage: /wp-content/uploads/2021/08/Copy-of-Untitled-3.png

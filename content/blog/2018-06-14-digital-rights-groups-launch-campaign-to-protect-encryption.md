@@ -1,7 +1,6 @@
 ---
 title: Digital rights groups launch campaign to protect encryption
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2018-06-13T23:00:54+00:00
 excerpt: Join with us and call on the Australian Government to support encryption and to reject any moves to undermine the security of our digital infrastructure.
 url: /2018/06/14/digital-rights-groups-launch-campaign-to-protect-encryption/

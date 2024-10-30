@@ -1,7 +1,6 @@
 ---
 title: The Five Eyes are still trying to undermine encryption
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2020-10-24T06:12:19+00:00
 url: /2020/10/24/blog-the-five-eyes-are-still-trying-to-undermine-encryption/
 featureImage: /wp-content/uploads/2020/10/imattsmart-Vp3oWLsPOss-unsplash.jpg

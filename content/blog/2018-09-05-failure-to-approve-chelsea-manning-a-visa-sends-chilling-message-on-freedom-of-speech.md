@@ -1,7 +1,6 @@
 ---
 title: Failure to approve Chelsea Manning a visa sends chilling message on freedom of speech
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2018-09-05T01:43:30+00:00
 url: /2018/09/05/failure-to-approve-chelsea-manning-a-visa-sends-chilling-message-on-freedom-of-speech/
 featureImage: /wp-content/uploads/2018/09/Untitled.jpeg

@@ -1,7 +1,6 @@
 ---
 title: A guide for defending encryption
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2019-06-14T22:07:40+00:00
 url: /2019/06/15/a-guide-for-defending-encryption/
 featureImage: /wp-content/uploads/2019/06/Lizzie_Award.jpg

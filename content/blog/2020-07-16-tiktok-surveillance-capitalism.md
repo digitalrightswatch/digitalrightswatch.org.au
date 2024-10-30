@@ -1,7 +1,6 @@
 ---
 title: The Australian government's concern about TikTok is not just about data ethics – it's about politics
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2020-07-16T09:47:26+00:00
 url: /2020/07/16/tiktok-surveillance-capitalism/
 featureImage: /wp-content/uploads/2020/07/tiktok.jpg

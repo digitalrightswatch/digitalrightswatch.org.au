@@ -1,7 +1,6 @@
 ---
 title: Gift donation
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 type: page
 date: 2018-12-18T00:37:12+00:00
 

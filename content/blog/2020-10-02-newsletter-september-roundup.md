@@ -1,7 +1,6 @@
 ---
 title: September 2020 Roundup
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2020-10-02T01:44:06+00:00
 url: /2020/10/02/newsletter-september-roundup/
 featureImage: /wp-content/uploads/2020/10/monthlyroundup-07.png

@@ -1,7 +1,6 @@
 ---
 title: Annual Report 2020
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 type: page
 date: 2021-02-01T02:41:44+00:00
 featureImage: /wp-content/uploads/2020/03/large-lizzie-speaking-e1583739949927.jpg

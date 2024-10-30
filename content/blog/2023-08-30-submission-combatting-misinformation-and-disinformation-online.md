@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Combatting Misinformation and Disinformation Online'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2023-08-30T03:15:39+00:00
 url: /2023/08/30/submission-combatting-misinformation-and-disinformation-online/
 featureImage: /wp-content/uploads/2023/08/Screenshot-2023-08-30-at-1.14.08-pm.png

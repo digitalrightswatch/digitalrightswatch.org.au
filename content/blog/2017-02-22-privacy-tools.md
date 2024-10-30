@@ -1,7 +1,6 @@
 ---
 title: Privacy Tools
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2017-02-22T09:49:11+00:00
 excerpt: privacytools.io is a socially motivated website that provides information for protecting your data security and privacy.
 url: /2017/02/22/privacy-tools/

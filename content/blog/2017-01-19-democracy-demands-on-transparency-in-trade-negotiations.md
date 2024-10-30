@@ -1,7 +1,6 @@
 ---
 title: Democracy demands transparency in trade negotiations
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2017-01-19T03:24:42+00:00
 excerpt: "It's copyright week! This week, we're joining a group of organisations in reflecting on how copyright policy can promote, and not diminish, a robust, accessible public domain."
 url: /2017/01/19/democracy-demands-on-transparency-in-trade-negotiations/

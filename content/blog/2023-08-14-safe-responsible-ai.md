@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Safe and Responsible AI'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2023-08-14T01:54:21+00:00
 url: /2023/08/14/safe-responsible-ai/
 featureImage: /wp-content/uploads/2023/08/pexels-thisisengineering-3861969-1.jpg

@@ -1,7 +1,6 @@
 ---
 title: 'Mission & Principles'
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 type: page
 date: 2019-02-01T01:04:53+00:00
 

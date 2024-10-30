@@ -1,7 +1,6 @@
 ---
 title: 'Submission: Inquiry into Social Media and Online Safety'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2022-01-13T01:05:44+00:00
 url: /2022/01/13/submission-inquiry-into-social-media-and-online-safety/
 featureImage: /wp-content/uploads/2022/01/jeremy-bezanger-9k_gCYLoH2g-unsplash-scaled-1.jpg

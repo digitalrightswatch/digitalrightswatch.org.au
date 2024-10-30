@@ -1,7 +1,6 @@
 ---
 title: 'Submission: ACCC issues paper – competition and consumer concerns with social media'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2022-09-19T23:50:17+00:00
 url: /2022/09/20/submission-accc-issues-paper-6/
 featureImage: /wp-content/uploads/2022/01/jeremy-bezanger-9k_gCYLoH2g-unsplash-scaled-1.jpg

@@ -1,7 +1,6 @@
 ---
 title: 'Submission: residential tenancy reform in South Australia'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2022-11-30T02:02:54+00:00
 url: /2022/11/30/submission-residential-tenancy-reform-in-south-australia/
 featureImage: /wp-content/uploads/2022/11/pexels-karolina-grabowska-4506270-scaled-1.jpg

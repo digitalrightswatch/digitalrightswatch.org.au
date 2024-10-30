@@ -1,7 +1,6 @@
 ---
 title: Our top picks for RightsCon 2021
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-06-04T05:06:06+00:00
 url: /2021/06/04/our-top-picks-for-rightscon-2021/
 featureImage: /wp-content/uploads/2021/06/Screen-Shot-2021-06-04-at-2.30.38-pm.png

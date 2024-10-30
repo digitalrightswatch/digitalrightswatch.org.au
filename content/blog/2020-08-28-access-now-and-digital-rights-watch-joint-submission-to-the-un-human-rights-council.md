@@ -1,7 +1,6 @@
 ---
 title: 'Submission: The UN Human Rights Council from Access Now and Digital Rights Watch'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2020-08-28T06:38:46+00:00
 url: /2020/08/28/access-now-and-digital-rights-watch-joint-submission-to-the-un-human-rights-council/
 featureImage: /wp-content/uploads/2020/08/mat-reding-yfXhqAW5X0c-unsplash.jpg

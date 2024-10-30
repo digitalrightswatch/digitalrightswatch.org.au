@@ -1,7 +1,6 @@
 ---
 title: Australians are increasingly concerned about expansion of surveillance powers
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2019-07-24T23:38:59+00:00
 url: /2019/07/25/australians-are-increasingly-concerned-about-expansion-of-surveillance-powers/
 featureImage: /wp-content/uploads/2018/08/locks-1000x440-1.jpg

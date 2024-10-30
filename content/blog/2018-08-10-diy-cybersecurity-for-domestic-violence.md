@@ -1,7 +1,6 @@
 ---
 title: DIY Cybersecurity for Domestic Violence
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2018-08-10T08:41:18+00:00
 url: /2018/08/10/diy-cybersecurity-for-domestic-violence/
 featureImage: /wp-content/uploads/2018/08/safe_image.php_.jpg

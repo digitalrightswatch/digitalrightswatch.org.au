@@ -1,7 +1,6 @@
 ---
 title: 'Letter to Victorian Parliament: privacy concerns regarding health information sharing system'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2023-02-22T22:48:30+00:00
 url: /2023/02/23/vichealthinfosharing/
 featureImage: /wp-content/uploads/2023/02/pexels-tara-winstead-7723524-scaled-1.jpg

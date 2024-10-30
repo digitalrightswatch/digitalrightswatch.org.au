@@ -1,7 +1,6 @@
 ---
 title: 'Cheat sheet: getting privacy reform right'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2022-10-26T03:43:53+00:00
 url: /2022/10/26/privacy-reform-cheat-sheet/
 featureImage: /wp-content/uploads/2022/10/disinfo-and-privacy-1500-×-800-px-4.png

@@ -1,7 +1,6 @@
 ---
 title: Online safety guide for parents
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2019-11-07T03:08:00+00:00
 url: /2019/11/07/online-safety-guide-for-parents/
 featureImage: /wp-content/uploads/2020/02/parents.jpg

@@ -1,7 +1,6 @@
 ---
 title: 'Timeline: national security legislation in Australia'
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 type: page
 date: 2020-02-20T04:16:32+00:00
 eg_vimeo_ratio:

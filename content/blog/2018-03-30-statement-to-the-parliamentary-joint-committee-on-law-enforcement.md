@@ -1,7 +1,6 @@
 ---
 title: Statement to the Parliamentary Joint Committee on Law Enforcement
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2018-03-30T10:19:18+00:00
 excerpt: Australian Privacy Foundation representatives Dr Adam Molnar and Dr Monique Mann recently gave evidence at the Joint Parliamentary Committee on Law Enforcement Inquiry on the impact of new and emerging information and communications technology. They emphasized the importance of not undermining or weakening encryption.
 url: /2018/03/30/statement-to-the-parliamentary-joint-committee-on-law-enforcement/

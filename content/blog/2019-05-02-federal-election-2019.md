@@ -1,7 +1,6 @@
 ---
 title: Federal Election 2019
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2019-05-01T19:00:57+00:00
 url: /2019/05/02/federal-election-2019/
 featureImage: /wp-content/uploads/2018/07/4792462-3x2-700x467-1.jpg

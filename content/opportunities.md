@@ -1,7 +1,6 @@
 ---
 title: Opportunities
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 type: page
 date: 2019-03-29T05:38:24+00:00
 eg_vimeo_ratio:

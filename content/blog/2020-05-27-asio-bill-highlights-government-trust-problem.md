@@ -1,7 +1,6 @@
 ---
 title: ASIO bill highlights why the government has a problem with public trust
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2020-05-27T00:52:47+00:00
 url: /2020/05/27/asio-bill-highlights-government-trust-problem/
 featureImage: /wp-content/uploads/2020/05/manuel-will-D9KPsQi8VdY-unsplash-scaled-1.jpg

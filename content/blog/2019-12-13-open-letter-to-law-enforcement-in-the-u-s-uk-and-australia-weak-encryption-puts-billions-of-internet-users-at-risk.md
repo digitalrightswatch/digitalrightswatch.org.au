@@ -1,7 +1,6 @@
 ---
 title: 'Open Letter to Law Enforcement in the U.S., UK, and Australia: Weak Encryption Puts Billions of Internet Users at Risk'
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2019-12-13T03:22:46+00:00
 url: /2019/12/13/open-letter-to-law-enforcement-in-the-u-s-uk-and-australia-weak-encryption-puts-billions-of-internet-users-at-risk/
 featureImage: /wp-content/uploads/2018/08/locks-1000x440-1.jpg

@@ -1,7 +1,6 @@
 ---
 title: Public health, children's rights and privacy organisations deliver open letter to Attorney General calling for bold privacy reform
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2024-02-09T05:28:06+00:00
 url: /2024/02/09/parents-privacy-reform-open-letter/
 featureImage: /wp-content/uploads/2024/02/Letter-delivery-Feb-9-scaled-e1707456209331.jpg

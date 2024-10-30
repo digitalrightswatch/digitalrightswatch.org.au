@@ -1,7 +1,6 @@
 ---
 title: Why the online safety inquiry falls short (and why it matters)
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2022-03-21T22:35:10+00:00
 url: /2022/03/22/online-safety-inquiry-falls-short/
 featureImage: /wp-content/uploads/2022/01/jeremy-bezanger-9k_gCYLoH2g-unsplash-scaled-1.jpg

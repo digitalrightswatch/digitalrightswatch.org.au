@@ -1,7 +1,6 @@
 ---
 title: How Western Australia could lead the nation on privacy
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2024-05-28T04:53:29+00:00
 url: /2024/05/28/how-western-australia-could-lead-the-nation-on-privacy/
 featureImage: /wp-content/uploads/2022/01/privacy-reform-tiles-1.png

@@ -1,7 +1,6 @@
 ---
 title: 2016 Annual Report
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 type: page
 date: 2017-03-07T12:08:52+00:00
 featureImage: /wp-content/uploads/2017/03/IMG_2793.jpg

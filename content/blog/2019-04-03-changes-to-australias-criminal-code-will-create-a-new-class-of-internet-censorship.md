@@ -1,7 +1,6 @@
 ---
 title: Changes to Australia's criminal code will create a new class of internet censorship
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2019-04-02T22:23:59+00:00
 url: /2019/04/03/changes-to-australias-criminal-code-will-create-a-new-class-of-internet-censorship/
 featureImage: /wp-content/uploads/2019/03/15946168851_4389317dc5_z.jpg

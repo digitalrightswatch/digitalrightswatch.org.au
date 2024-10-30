@@ -1,7 +1,6 @@
 ---
 title: Annual Report 2019
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 type: page
 date: 2020-02-03T23:20:14+00:00
 featureImage: /wp-content/uploads/2019/06/Lizzie_Award.jpg

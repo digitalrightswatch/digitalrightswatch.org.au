@@ -1,7 +1,6 @@
 ---
 title: How much do political parties know about you?
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2018-11-23T11:01:14+00:00
 url: /2018/11/23/how-much-do-political-parties-know-about-you/
 featureImage: /wp-content/uploads/2018/12/10546550-16x9-large.jpg

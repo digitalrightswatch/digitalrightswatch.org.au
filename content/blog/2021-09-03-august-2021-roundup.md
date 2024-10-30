@@ -1,7 +1,6 @@
 ---
 title: August 2021 Roundup
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-09-03T05:18:45+00:00
 url: /2021/09/03/august-2021-roundup/
 featureImage: /wp-content/uploads/2020/10/monthlyroundup-07.png

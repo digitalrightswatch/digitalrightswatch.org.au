@@ -1,7 +1,6 @@
 ---
 title: 'The State of Digital Rights Report: A 2020 Retrospective'
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-02-05T01:05:50+00:00
 url: /2021/02/05/the-state-of-digital-rights-report-a-2020-retrospective/
 featureImage: /wp-content/uploads/2021/02/Screen-Shot-2021-02-04-at-4.40.30-pm.png

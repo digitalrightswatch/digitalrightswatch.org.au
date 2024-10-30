@@ -1,7 +1,6 @@
 ---
 title: Privacy reform is important
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2022-10-11T01:45:23+00:00
 url: /2022/10/11/privacy-reform-is-important/
 featureImage: /wp-content/uploads/2022/10/disinfo-and-privacy-1500-×-800-px-1.png

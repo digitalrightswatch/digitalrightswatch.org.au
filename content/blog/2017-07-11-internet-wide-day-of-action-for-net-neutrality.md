@@ -1,7 +1,6 @@
 ---
 title: Internet-wide day of action for net neutrality
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 date: 2017-07-10T23:18:11+00:00
 excerpt: On July 12th, the Internet will come together to defend net neutrality. Join us.
 url: /2017/07/11/internet-wide-day-of-action-for-net-neutrality/

@@ -1,7 +1,6 @@
 ---
 title: Donate
-author: Digital Rights Watch
-authorThumb: /images/drw-logo.jpg
+authors: [drw]
 type: page
 date: 2016-08-10T12:48:10+00:00
 redirect_url: https://donate.digitalrightswatch.org.au/

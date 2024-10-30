@@ -1,7 +1,6 @@
 ---
 title: Facebook removed news—what now?
-author: Samantha
-authorThumb: /wp-content/uploads/2019/08/SamFloreani-150x150.png
+authors: [sam]
 date: 2021-02-19T06:01:42+00:00
 url: /2021/02/19/facebook-removed-news-what-now/
 featureImage: /wp-content/uploads/2021/02/snowscat-cnk9FKnwK6M-unsplash-scaled-1.jpg
