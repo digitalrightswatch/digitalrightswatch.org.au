@@ -11,6 +11,28 @@ public_folder: "/images"
 site_url: https://digitalrightswatch.netlify.app
 
 collections: # A list of collections the CMS should be able to edit
+  - name: "authors" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Author" # Used in the UI, ie.: "New Post"
+    folder: "content/authors" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    identifier_field: "username"
+    path: '{{slug}}/_index.md'
+    fields:
+      - { label: "Username", name: "username", widget: "string" }
+      - { label: "Full Name", name: "name", widget: "string", required: false }
+      - { label: "Summary", name: "summary", widget: "text", required: false }
+      - { label: "Avatar", name: "image", widget: "image", required: false }
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.url}}'
+        field: { label: "URL", name: "url", widget: "image" }
+      - { label: "Fediverse handle", name: "fediverse", widget: "string", required: false }
+      - { label: "Bluesky handle", name: "bsky", widget: "string", required: false }
+      - { label: "Email", name: "email", widget: "string", required: false }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
   - name: "posts" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
     folder: "content/blog" # The path to the folder where the documents are stored
@@ -25,8 +47,15 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Summary", name: "summary", widget: "text", required: false }
       - { label: "Intro Blurb (description)", name: "description", widget: "text", required: false }
-      - { label: "Author", name: "author", widget: "text", required: false }
-      - { label: "Author Thumbnail", name: "authorThumb", widget: "image", required: false }
+      - label: "Authors"
+        name: "authors"
+        widget: "relation"
+        collection: "authors"
+        search_fields: ["username", "name"]
+        value_field: "username"
+        display_fields:  ["{{username}} ({{name}})"]
+        required: false
+        multiple: true
       - { label: "Image", name: "featureImage", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
@@ -43,8 +72,15 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Summary", name: "summary", widget: "text", required: false }
       - { label: "Intro Blurb (description)", name: "description", widget: "text", required: false }
-      - { label: "Author", name: "author", widget: "text", required: false }
-      - { label: "Author Thumbnail", name: "authorThumb", widget: "image", required: false }
+      - label: "Authors"
+        name: "authors"
+        widget: "relation"
+        collection: "authors"
+        search_fields: ["username", "name"]
+        value_field: "username"
+        display_fields:  ["{{username}} ({{name}})"]
+        required: false
+        multiple: true
       - { label: "Image", name: "featureImage", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
       #files:
