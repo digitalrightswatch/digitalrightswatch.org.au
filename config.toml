@@ -10,6 +10,7 @@ summaryLength = 18
   blog = '/:year/:month/:day/:title/'
 
 [taxonomies]
+  author = "authors"
   category = 'category'
 
 # Navigation Bar

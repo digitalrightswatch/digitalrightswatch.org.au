@@ -11,15 +11,38 @@
           {{ .Title }}
         </h2>
         <div class="post-meta">
-          <ul>
+          <ul class="authors">
+          {{ range .Params.authors }}
+          {{- with $.Site.GetPage "taxonomyTerm" (printf "authors/%s" (urlize .)) }}
             <li>
-              <img src="{{ .Params.authorThumb | absURL }}" alt="" />
+              <!--figure>
+                <img src="{{ .Params.photo }}" alt=""/>
+                <figcaption>
+                  <a href="{{ .Permalink }}">{{ .Params.name }}</a>
+                </figcaption>
+              </figure-->
+              <ul>
+                <li>
+                  <img src="{{ .Params.image | absURL }}" alt="" />
+                </li>
+                <li>
+                  <h5><a href="{{ .Permalink }}">{{ .Params.name }}</a></h5>
+                </li>
+              </ul>
             </li>
+            {{ end }}
+            {{ else }}
             <li>
-              <h5>
-                {{ .Params.author }}
-              </h5>
+              <ul>
+                <li>
+                  <img src="{{ $.Params.authorThumb | absURL }}" alt="" />
+                </li>
+                <li>
+                  <h5>{{ $.Params.author }}</h5>
+                </li>
+              </ul>
             </li>
+            {{ end }}
             <li>
               {{ .PublishDate.Format "January 2, 2006" }}
             </li>

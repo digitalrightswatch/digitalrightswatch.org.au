@@ -1,0 +1,42 @@
+<div class="col-lg-4 col-md-6">
+  <article class="blog-post-item">
+    <div class="blog-post-thumb">
+      <a href="{{ .Permalink }}">
+        {{ if .Params.featureImage }} {{ with resources.Get .Params.featureImage }} {{ with .Fill "320x200 Center" }}
+          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+        {{ end }} {{ end }} {{ end }}
+      </a>
+    </div>
+    <div class="blog-post-content">
+      <h2>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </h2>
+      <div class="post-author">
+        {{/* FIXME: Tidy display for multiple authors */}}
+        {{ $publishDate := .PublishDate}}
+        {{- range .Params.authors }}
+        {{- with $.Site.GetPage "taxonomyTerm" (printf "authors/%s" (urlize .)) }}
+        <div class="thumb">
+          <img src="{{ .Params.image | absURL }}" alt="" />
+        </div>
+        <div class="meta">
+          <h3><a href="{{ .Permalink }}">{{ .Params.name }}</a></h3>
+          <p>{{ $publishDate.Format "January 2, 2006" }}</p>
+        </div>
+        {{- end }}
+        {{ else }}
+        <div class="thumb">
+          <img src="{{ .Params.authorThumb | absURL }}" alt="" />
+        </div>
+        <div class="meta">
+          <h3>{{ .Params.author }}</h3>
+          <p>{{ $publishDate.Format "January 2, 2006" }}</p>
+        </div>
+        {{ end }}
+      </div>
+      <div class="my-2 post-summary">
+        <p>{{ .Summary }}</p>
+      </div>
+    </div>
+  </article>
+</div>

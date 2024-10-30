@@ -4,7 +4,8 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-8">
-        <h1>{{ or .Title .Params.name }}</h1>
+        <img alt="" src="{{ .Params.image }}" class="rounded-circle w-25 img-fluid mb-5 mx-auto">
+        <h1>{{ .Title }}</h1>
         <p>{{ .Params.description }}</p>
         {{ with .Content }}
         <article class="blog-single-post">
