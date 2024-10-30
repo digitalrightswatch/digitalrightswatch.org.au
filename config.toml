@@ -4,6 +4,7 @@ languageCode = "en-us"
 title = "Digital Rights Watch"
 theme = "apsho"
 summaryLength = 18
+timeout = 45
 
 [permalinks]
   blog = '/:year/:month/:day/:title/'
