@@ -19,9 +19,12 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - { label: "Draft", name: "draft", widget: "boolean", default: true }
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string", required: false}
+      - { label: "URL", name: "url", widget: "string", required: false }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Summary", name: "summary", widget: "text", required: false }
-      - { label: "Intro Blurb", name: "description", widget: "text", required: false }
+      - { label: "Intro Blurb (description)", name: "description", widget: "text", required: false }
       - { label: "Author", name: "author", widget: "text", required: false }
       - { label: "Author Thumbnail", name: "authorThumb", widget: "image", required: false }
       - { label: "Image", name: "featureImage", widget: "image", required: false }
@@ -32,10 +35,14 @@ collections: # A list of collections the CMS should be able to edit
     preview_path: "{{slug}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
+      - { label: "Draft", name: "draft", widget: "boolean", default: true }
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string", required: false}
+      - { label: "URL", name: "url", widget: "string", required: false }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Summary", name: "summary", widget: "text", required: false }
-      - { label: "Intro Blurb", name: "description", widget: "text", required: false }
+      - { label: "Intro Blurb (description)", name: "description", widget: "text", required: false }
       - { label: "Author", name: "author", widget: "text", required: false }
       - { label: "Author Thumbnail", name: "authorThumb", widget: "image", required: false }
       - { label: "Image", name: "featureImage", widget: "image", required: false }
@@ -122,69 +129,60 @@ collections: # A list of collections the CMS should be able to edit
   - name: "data_files"
     label: "Data Files"
     files:
-      - file: "data/donate.yml"
-        label: "Donate"
-        name: donate
-        fields:
-          - { label: "Enable", name: "enable", widget: "boolean" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Description", name: "description", widget: "text" }
-          - { label: "Button Text", name: "buttonText", widget: "string" }
-          - { label: "Button URL", name: "buttonURL", widget: "string" }
-      - file: "data/faq.yml"
-        label: "FAQs"
-        name: faq
-        fields:
-          - { label: "Enable", name: "enable", widget: "boolean" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Description", name: "description", widget: "text" }
-          - label: "FAQ Items"
-            name: "faqItem"
-            widget: "list"
-            summary: "{{fields.question}}: {{fields.answer}}"
-            fields:
-              - { label: "Question", name: "question", widget: "text" }
-              - { label: "Answer", name: "answer", widget: "text" }
-              - { label: "Data Target", name: "dataTarget", widget: "string" }
-              - { label: "Show", name: "show", widget: "select", options: ["", "show"] }
-      - file: "data/feature.yml"
-        label: "Feature"
-        name: feature
-        fields:
-          - { label: "Enable", name: "enable", widget: "boolean" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Description", name: "description", widget: "text" }
-          - { label: "Description 2", name: "description2", widget: "text" }
-          - { label: "Button Text", name: "buttonText", widget: "string" }
-          - { label: "Title 2nd", name: "Title2nd", widget: "string" }
-          - { label: "Description 2nd", name: "description2nd", widget: "text" }
-          - { label: "Image 1", name: "image1", widget: "image" }
-          - { label: "Image 2", name: "image2", widget: "image" }
-          - label: "Check Item"
-            name: "checkItem"
-            widget: "list"
-            summary: "{{fields.text}}"
-            fields:
-              - { label: "Text", name: "text", widget: "string" }
       - file: "data/hero.yml"
         label: "Hero"
         name: hero
         fields:
           - { label: "Enable", name: "enable", widget: "boolean" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Caption", name: "caption", widget: "string" }
-          - { label: "Description", name: "description", widget: "text" }
-          - { label: "Button Name", name: "buttonName", widget: "string" }
-          - { label: "Button 1 Text", name: "button1text", widget: "string" }
-          - { label: "Button 2 Text", name: "button2text", widget: "string" }
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - label: "Caption"
+            name: "caption"
+            widget: "string"
+            required: false
+          - label: "Description"
+            name: "description"
+            widget: "text"
+            required: false
+          - label: "Button Name"
+            name: "buttonName"
+            widget: "string"
+            required: false
+          - label: "Button 1 Text"
+            name: "button1text"
+            widget: "string"
+            required: false
+          - label: "Button 2 Text"
+            name: "button2text"
+            widget: "string"
+            required: false
           - { label: "Image", name: "image", widget: "image" }
-      - file: "data/homeblog.yml"
-        label: "Home Blog"
-        name: homeblog
+      - file: "data/donate.yml"
+        label: "Donate"
+        name: donate
         fields:
           - { label: "Enable", name: "enable", widget: "boolean" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Blog Button Text", name: "blogButtonText", widget: "string" }
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - { label: "Description", name: "description", widget: "text" }
+          - { label: "Button Text", name: "buttonText", widget: "string" }
+          - { label: "Button URL", name: "buttonURL", widget: "string" }
+
+      - file: "data/services.yml"
+        label: "Services"
+        name: services
+        fields:
+          - { label: "Enable", name: "enable", widget: "boolean" }
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - label: "Services"
+            name: "services"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - label: "Icon"
+                name: "icon"
+                widget: "string"
+                hint: "Icons can be found at https://themify.me/themify-icons"
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Description", name: "description", widget: "text" }
       - file: "data/screenshots.yml"
         label: "Screenshots"
         name: screenshots
@@ -198,20 +196,34 @@ collections: # A list of collections the CMS should be able to edit
             summary: "{{fields.url}}"
             fields:
               - { label: "URL", name: "url", widget: "image" }
-      - file: "data/services.yml"
-        label: "Services"
-        name: services
+      - file: "data/faq.yml"
+        label: "FAQs"
+        name: faq
         fields:
           - { label: "Enable", name: "enable", widget: "boolean" }
-          - { label: "Title", name: "title", widget: "string" }
-          - label: "Services"
-            name: "services"
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - { label: "Description", name: "description", widget: "text" }
+          - label: "FAQ Items"
+            name: "faqItem"
             widget: "list"
-            summary: "{{fields.title}}"
+            summary: "{{fields.question}}: {{fields.answer}}"
             fields:
-              - { label: "Icon", name: "icon", widget: "string" }
-              - { label: "Title", name: "title", widget: "string" }
-              - { label: "Description", name: "description", widget: "text" }
+              - { label: "Question", name: "question", widget: "text" }
+              - { label: "Answer", name: "answer", widget: "text" }
+              - { label: "Data Target", name: "dataTarget", widget: "string" }
+              - { label: "Show", name: "show", widget: "select", options: ["", "show"] }
+      - file: "data/video.yml"
+        label: "Video"
+        name: video
+        fields:
+          - { label: "Enable", name: "enable", widget: "boolean" }
+          - { label: "Comment 1", name: "comment1", widget: "string" }
+          - { label: "Comment 2", name: "comment2", widget: "string" }
+          - { label: "Button Name", name: "buttonName", widget: "string" }
+          - { label: "Button 1 Text", name: "button1text", widget: "string" }
+          - { label: "Button 2 Text", name: "button2text", widget: "string" }
+          - { label: "Image", name: "image", widget: "image" }
+          - { label: "Video", name: "video", widget: "string", required: false }
       - file: "data/testimonial.yml"
         label: "Testimonials"
         name: testimonial
@@ -228,18 +240,13 @@ collections: # A list of collections the CMS should be able to edit
               - { label: "Name", name: "name", widget: "string" }
               - { label: "Designation", name: "designation", widget: "string" }
               - { label: "Image", name: "image", widget: "image" }
-      - file: "data/video.yml"
-        label: "Video"
-        name: video
+      - file: "data/homeblog.yml"
+        label: "Home Blog"
+        name: homeblog
         fields:
           - { label: "Enable", name: "enable", widget: "boolean" }
-          - { label: "Comment 1", name: "comment1", widget: "string" }
-          - { label: "Comment 2", name: "comment2", widget: "string" }
-          - { label: "Button Name", name: "buttonName", widget: "string" }
-          - { label: "Button 1 Text", name: "button1text", widget: "string" }
-          - { label: "Button 2 Text", name: "button2text", widget: "string" }
-          - { label: "Image", name: "image", widget: "image" }
-          - { label: "Video", name: "video", widget: "string" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Blog Button Text", name: "blogButtonText", widget: "string" }
       - file: "data/our_people.yml"
         label: "Our People"
         name: our_people
