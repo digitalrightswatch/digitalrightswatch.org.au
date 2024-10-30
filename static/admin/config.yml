@@ -33,7 +33,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "LinkedIn link", name: "linkedin", widget: "string", required: false }
       - { label: "Bluesky link", name: "bsky", widget: "string", required: false }
       - { label: "Email", name: "email", widget: "string", required: false }
-      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Title", name: "title", widget: "string", required: false }
       - { label: "Organisation section", name: "section", widget: "select", options: ["board", "staff", "alum"] }
       - { label: "Description", name: "description", widget: "text", required: false }
       - { label: "Body", name: "body", widget: "markdown", required: false }
