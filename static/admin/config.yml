@@ -307,7 +307,7 @@ collections: # A list of collections the CMS should be able to edit
                 fields:
                   - { label: "Name", name: "name", widget: "string" }
                   - { label: "Role", name: "role", widget: "string", required: false }
-                  - { label: "Username", name: "name", widget: "string", required: false }
+                  - { label: "Username", name: "username", widget: "string", required: false }
                   - { label: "Image", name: "image", widget: "image", required: false }
                   - { label: "Twitter", name: "twitter", widget: "string", required: false }
                   - { label: "Web", name: "web", widget: "string", required: false }
