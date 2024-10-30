@@ -1,6 +1,6 @@
 ---
 title: The power to misinform begins with an invasion of privacy
-author: James Clark
+authors: [james]
 date: 2022-05-10T03:46:51+00:00
 excerpt: Amplification algorithms are the fuel on the fire of disinformation.
 url: /2022/05/10/the-power-to-misinform-begins-with-an-invasion-of-privacy/

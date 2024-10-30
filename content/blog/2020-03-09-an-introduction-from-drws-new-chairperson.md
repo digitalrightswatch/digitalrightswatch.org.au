@@ -1,6 +1,6 @@
 ---
 title: An introduction from DRW's new Chairperson
-author: Lucie Krahulcova
+authors: [lucie]
 date: 2020-03-09T08:21:23+00:00
 url: /2020/03/09/an-introduction-from-drws-new-chairperson/
 featureImage: /wp-content/uploads/2020/03/large-lizzie-speaking-e1583739949927.jpg

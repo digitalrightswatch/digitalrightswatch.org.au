@@ -1,6 +1,6 @@
 ---
 title: Onus on Government to Earn Public Trust On Tracing App
-author: David Paris
+authors: [david]
 date: 2020-04-26T06:28:17+00:00
 url: /2020/04/26/onus-on-government-to-earn-public-trust-on-tracing-app/
 featureImage: /wp-content/uploads/2020/04/phone-location.jpg

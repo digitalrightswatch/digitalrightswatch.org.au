@@ -1,6 +1,6 @@
 ---
 title: People have a right to be suspicious of journalists' self-advocacy, but press freedom is important
-author: Tim Singleton Norton
+authors: [tim]
 date: 2019-10-23T12:27:05+00:00
 url: /2019/10/23/people-have-a-right-to-be-suspicious-of-journalists-self-advocacy-but-press-freedom-is-important/
 featureImage: /wp-content/uploads/2019/10/5568.jpg

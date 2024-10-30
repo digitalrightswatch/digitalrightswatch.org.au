@@ -1,6 +1,6 @@
 ---
 title: Another empty assurance from government can't restore trust in Covid App
-author: David Paris
+authors: [david]
 date: 2020-04-23T07:50:41+00:00
 url: /2020/04/23/another-empty-assurance-from-government-cant-restore-trust-in-covid-app/
 featureImage: /wp-content/uploads/2020/04/scott-morrison.jpg

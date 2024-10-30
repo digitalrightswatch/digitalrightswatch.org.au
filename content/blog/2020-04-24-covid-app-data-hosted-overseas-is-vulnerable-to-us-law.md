@@ -1,6 +1,6 @@
 ---
 title: Covid App Data Hosted Overseas is Vulnerable to US Law
-author: David Paris
+authors: [david]
 date: 2020-04-24T04:04:34+00:00
 url: /2020/04/24/covid-app-data-hosted-overseas-is-vulnerable-to-us-law/
 featureImage: /wp-content/uploads/2020/04/server-farm.jpg

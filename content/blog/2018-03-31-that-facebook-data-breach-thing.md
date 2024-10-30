@@ -1,6 +1,6 @@
 ---
 title: Understanding the Cambridge Analytica data breach
-author: Tim Singleton Norton
+authors: [tim]
 date: 2018-03-31T00:17:50+00:00
 excerpt: Our take on the Facebook Cambridge Analytica data breach affair
 url: /2018/03/31/that-facebook-data-breach-thing/

@@ -1,6 +1,6 @@
 ---
 title: 2017 – a year of campaigning for digital rights.
-author: Tim Singleton Norton
+authors: [tim]
 date: 2017-12-21T03:44:20+00:00
 excerpt: "Well now, that was a long year. Here's a quick reminder of all the happenings in the digital rights space that the team at Digital Rights Watch has been working on."
 url: /2017/12/21/2017-a-year-of-campaigning-for-digital-rights/

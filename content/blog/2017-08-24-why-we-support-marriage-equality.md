@@ -1,6 +1,6 @@
 ---
 title: Why we support marriage equality
-author: Tim Singleton Norton
+authors: [tim]
 date: 2017-08-24T13:15:44+00:00
 excerpt: Digital Rights Watch supports marriage equality.
 url: /2017/08/24/why-we-support-marriage-equality/

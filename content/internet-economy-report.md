@@ -1,6 +1,6 @@
 ---
 title: 'Report: Rebalancing The Internet Economy'
-author: James Clark
+authors: [james]
 type: page
 date: 2022-08-02T07:33:16+00:00
 featureImage: /wp-content/uploads/2022/11/rebalancing-THE-INTERNET-ECONOMY-1.jpg

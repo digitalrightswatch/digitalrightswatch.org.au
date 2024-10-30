@@ -1,6 +1,6 @@
 ---
 title: 'Breaking: press freedom in Australia'
-author: David Paris
+authors: [david]
 date: 2019-09-18T01:28:23+00:00
 url: /2019/09/18/breaking-press-freedom-in-australia/
 featureImage: /wp-content/uploads/2019/09/Screen-Shot-2019-09-18-at-11.25.54-am.jpg

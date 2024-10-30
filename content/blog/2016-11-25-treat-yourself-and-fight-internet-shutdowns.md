@@ -1,6 +1,6 @@
 ---
 title: Treat yourself – and fight internet shutdowns!
-author: Tim Singleton Norton
+authors: [tim]
 date: 2016-11-24T23:12:40+00:00
 excerpt: "We're excited to launch a new collaboration with the excellent folk at Lush Cosmetics - the Error 404 Bath Bomb - the latest defence in internet freedom!"
 url: /2016/11/25/treat-yourself-and-fight-internet-shutdowns/

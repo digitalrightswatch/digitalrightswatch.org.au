@@ -1,6 +1,6 @@
 ---
 title: 'Media Release: New report shows how big-tech is undermining local creative and media industries'
-author: James Clark
+authors: [james]
 date: 2022-11-08T20:00:00+00:00
 excerpt: The growing power of big tech platforms in the internet economy is hurting local industries and harming communities according to a new report from Digital Rights Watch.
 url: /2022/11/09/media-release-new-report-shows-how-big-tech-is-undermining-local-creative-and-media-industries/

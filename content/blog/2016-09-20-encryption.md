@@ -1,6 +1,6 @@
 ---
 title: 'Watchlist: Encryption'
-author: "Lizzie O'Shea"
+authors: [lizzie]
 date: 2016-09-19T23:01:42+00:00
 excerpt: Encryption is important to protect your privacy on the web, and stop your personal information or messages from being eavesdropped on.
 url: /2016/09/20/encryption/

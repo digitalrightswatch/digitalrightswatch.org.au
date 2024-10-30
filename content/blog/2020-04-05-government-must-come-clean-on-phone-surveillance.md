@@ -1,6 +1,6 @@
 ---
 title: Government Must Come Clean On Phone Surveillance
-author: Lucie Krahulcova
+authors: [lucie]
 date: 2020-04-05T06:07:05+00:00
 url: /2020/04/05/government-must-come-clean-on-phone-surveillance/
 featureImage: /wp-content/uploads/2020/04/mobile-tower-tracking.png

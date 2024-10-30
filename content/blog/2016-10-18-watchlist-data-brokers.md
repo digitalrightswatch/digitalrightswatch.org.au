@@ -1,6 +1,6 @@
 ---
 title: 'Watchlist: data brokers'
-author: "Lizzie O'Shea"
+authors: [lizzie]
 date: 2016-10-17T13:33:26+00:00
 excerpt: "Most people are not aware of the fact that there is an entire industry of companies whose business model is based around collecting these fragmented datasets, linking them and analysing them to form a profile of an individual consumer. Known as data miners, you may never have heard of these companies - but they've almost certainly heard of you."
 url: /2016/10/18/watchlist-data-brokers/

@@ -1,6 +1,6 @@
 ---
 title: Sleepwalking into a digital dystopia
-author: Tim Singleton Norton
+authors: [tim]
 date: 2018-09-27T06:53:02+00:00
 url: /2018/09/27/sleepwalking-into-a-digital-dystopia/
 featureImage: /wp-content/uploads/2018/09/3574581139_1d8c431cd2_z-600x250-1.jpg

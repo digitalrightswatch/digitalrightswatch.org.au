@@ -1,6 +1,6 @@
 ---
 title: Digital security for journalists
-author: Tim Singleton Norton
+authors: [tim]
 date: 2019-06-10T11:43:41+00:00
 url: /2019/06/10/digital-security-for-journalists/
 featureImage: /wp-content/uploads/2019/02/cybersecurity-for-a-new-america-2016_image.width-800.jpg

@@ -1,6 +1,6 @@
 ---
 title: Submission to UN inquiry into the right to privacy in a digital age
-author: "Lizzie O'Shea"
+authors: [lizzie]
 date: 2018-04-10T02:05:18+00:00
 excerpt: "Digital Rights Watch's submission to the UN High Commissioner for Human Rights' inquiry into human rights challenges relating to the right to privacy in the digital age."
 url: /2018/04/10/submission-to-un-inquiry-into-the-right-to-privacy-in-a-digital-age/

@@ -1,6 +1,6 @@
 ---
 title: Submission to Senate inquiry into Census 2016
-author: Tim Singleton Norton
+authors: [tim]
 date: 2016-09-23T23:33:41+00:00
 excerpt: "Read Digital Rights Watch's submission to the Senate Economics References Committee inquiry into the 2016 Census"
 url: /2016/09/24/senate-submission-census/

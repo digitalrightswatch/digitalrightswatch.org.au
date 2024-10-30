@@ -1,6 +1,6 @@
 ---
 title: Society for Digital Rights Researchers
-author: Lucie Krahulcova
+authors: [lucie]
 type: page
 date: 2020-02-19T01:12:50+00:00
 eg_vimeo_ratio:

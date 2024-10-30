@@ -1,6 +1,6 @@
 ---
 title: The positives and perils of My Health Record
-author: "Lizzie O'Shea"
+authors: [lizzie]
 date: 2018-07-27T23:29:14+00:00
 url: /2018/07/28/the-positives-and-perils-of-my-health-record/
 featureImage: /wp-content/uploads/2018/07/medical-781422_1280.jpg

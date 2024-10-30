@@ -1,6 +1,6 @@
 ---
 title: Turnbull's attacks on encryption will enable crime at the cost of our rights
-author: Tim Singleton Norton
+authors: [tim]
 date: 2018-06-27T04:21:39+00:00
 excerpt: The government says its planned anti-encryption mandate will empower law enforcement, but it will enable far more crime than it will prevent, and regular citizens will bear the cost.
 url: /2018/06/27/turnbulls-attacks-on-encryption-will-enable-crime-at-the-cost-of-our-rights/

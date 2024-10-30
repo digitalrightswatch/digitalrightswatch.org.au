@@ -1,6 +1,6 @@
 ---
 title: 404
-author: Lucie Krahulcova
+authors: [lucie]
 type: page
 date: 2020-10-19T02:59:52+00:00
 

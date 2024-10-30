@@ -1,6 +1,6 @@
 ---
 title: Submission to Home Affairs on the Assistance and Access Bill 2018
-author: David Paris
+authors: [david]
 date: 2018-09-10T22:52:58+00:00
 url: /2018/09/11/submission-to-home-affairs-on-the-assistance-and-access-bill-2018/
 featureImage: /wp-content/uploads/2016/03/iStock_000005053756Small-1000x350-1.jpg

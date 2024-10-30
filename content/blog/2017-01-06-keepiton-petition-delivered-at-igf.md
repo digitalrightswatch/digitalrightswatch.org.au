@@ -1,6 +1,6 @@
 ---
 title: '#KeepItOn petition delivered at IGF'
-author: Tim Singleton Norton
+authors: [tim]
 date: 2017-01-06T04:19:33+00:00
 excerpt: 'Today, our friends at Access Now successfully delivered the #KeepitOn petition today at the Internet Governance Forum in Guadalajara, Mexico.'
 url: /2017/01/06/keepiton-petition-delivered-at-igf/

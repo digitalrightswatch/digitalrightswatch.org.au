@@ -1,6 +1,6 @@
 ---
 title: Spies should focus on foreign threats rather than journalists
-author: Tim Singleton Norton
+authors: [tim]
 date: 2019-06-10T01:23:20+00:00
 url: /2019/06/10/spies-should-focus-on-foreign-threats-rather-than-journalists/
 featureImage: /wp-content/uploads/2019/06/40b44a42d0e2196539c4cf0fee103bfe.jpg

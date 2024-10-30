@@ -1,6 +1,6 @@
 ---
 title: 'Event: The Campsite Rule- Protecting our Rights in a Crisis'
-author: David Paris
+authors: [david]
 date: 2020-06-04T08:57:33+00:00
 url: /2020/06/04/campsite-rule/
 featureImage: /wp-content/uploads/2020/06/campsite-rule.png

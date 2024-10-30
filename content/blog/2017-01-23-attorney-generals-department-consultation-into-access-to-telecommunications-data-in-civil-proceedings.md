@@ -1,6 +1,6 @@
 ---
 title: Attorney General's Department consultation into access to telecommunications data in civil proceedings
-author: "Lizzie O'Shea"
+authors: [lizzie]
 date: 2017-01-23T12:59:19+00:00
 excerpt: Our submission to the Attorney-General's review into access to telecommunications data in civil proceedings.
 url: /2017/01/23/attorney-generals-department-consultation-into-access-to-telecommunications-data-in-civil-proceedings/

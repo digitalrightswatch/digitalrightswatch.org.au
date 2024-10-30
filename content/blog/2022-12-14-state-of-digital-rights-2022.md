@@ -1,6 +1,6 @@
 ---
 title: 'State of Digital Rights: 2022'
-author: James Clark
+authors: [james]
 date: 2022-12-14T02:36:02+00:00
 excerpt: We take stock of the biggest developments in digital rights in 2022
 url: /2022/12/14/state-of-digital-rights-2022/

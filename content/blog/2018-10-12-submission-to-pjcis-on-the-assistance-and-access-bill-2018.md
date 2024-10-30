@@ -1,6 +1,6 @@
 ---
 title: Submission to PJCIS on the Assistance and Access Bill 2018
-author: David Paris
+authors: [david]
 date: 2018-10-12T06:28:47+00:00
 url: /2018/10/12/submission-to-pjcis-on-the-assistance-and-access-bill-2018/
 featureImage: /wp-content/uploads/2016/03/iStock_000005053756Small-1000x350-1.jpg

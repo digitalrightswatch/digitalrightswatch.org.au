@@ -1,6 +1,6 @@
 ---
 title: What's all this about allowing civil parties access to metadata?
-author: "Lizzie O'Shea"
+authors: [lizzie]
 date: 2017-01-28T04:29:03+00:00
 excerpt: The Attorney General recently asked for submissions about the potential use of metadata collected for the purposes of the data retention regime in civil cases. For those interested, this is a quick summary.
 url: /2017/01/28/whats-all-this-about-allowing-civil-access-to-metadata/

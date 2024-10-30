@@ -1,6 +1,6 @@
 ---
 title: Coronavirus and the police state
-author: "Lizzie O'Shea"
+authors: [lizzie]
 date: 2020-04-29T07:10:37+00:00
 url: /2020/04/29/coronavirus-and-the-police-state/
 featureImage: /wp-content/uploads/2020/04/Police-1-600x250-1.jpg

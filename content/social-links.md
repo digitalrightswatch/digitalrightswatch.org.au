@@ -1,6 +1,6 @@
 ---
 title: Social Links
-author: David Paris
+authors: [david]
 type: page
 date: 2020-08-10T10:13:50+00:00
 eg_vimeo_ratio:

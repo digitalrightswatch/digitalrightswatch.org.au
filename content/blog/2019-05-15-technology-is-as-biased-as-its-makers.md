@@ -1,6 +1,6 @@
 ---
 title: Technology Is as Biased as Its Makers
-author: "Lizzie O'Shea"
+authors: [lizzie]
 date: 2019-05-15T05:46:26+00:00
 url: /2019/05/15/technology-is-as-biased-as-its-makers/
 featureImage: /wp-content/uploads/2019/05/gettyimages-515577924.jpg

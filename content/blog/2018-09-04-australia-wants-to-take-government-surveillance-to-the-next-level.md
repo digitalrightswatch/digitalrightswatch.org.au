@@ -1,6 +1,6 @@
 ---
 title: Australia Wants to Take Government Surveillance to the Next Level
-author: "Lizzie O'Shea"
+authors: [lizzie]
 date: 2018-09-03T23:18:12+00:00
 url: /2018/09/04/australia-wants-to-take-government-surveillance-to-the-next-level/
 featureImage: /wp-content/uploads/2018/10/04oshea-superJumbo.jpg

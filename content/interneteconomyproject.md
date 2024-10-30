@@ -1,6 +1,6 @@
 ---
 title: It's time we talk about the internet.
-author: Lucie Krahulcova
+authors: [lucie]
 type: page
 date: 2021-06-04T05:53:06+00:00
 aliases: /interneteconomy

@@ -1,6 +1,6 @@
 ---
 title: Personal privacy must be protected during the coronavirus epidemic
-author: Lucie Krahulcova
+authors: [lucie]
 date: 2020-03-19T09:36:43+00:00
 url: /2020/03/19/personal-privacy-must-be-protected-during-the-coronavirus-epidemic/
 featureImage: /wp-content/uploads/2020/03/Untitled-design.png

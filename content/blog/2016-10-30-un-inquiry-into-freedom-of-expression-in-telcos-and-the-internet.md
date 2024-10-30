@@ -1,6 +1,6 @@
 ---
 title: UN inquiry into freedom of expression in telcos and the internet
-author: "Lizzie O'Shea"
+authors: [lizzie]
 date: 2016-10-30T10:16:19+00:00
 excerpt: "We've prepared a submission for the UN Special Rapporteur on the protection of the right to freedom of opinion and expression, who is currently conducting a study on freedom of expression in the telecommunications and Internet access sector."
 url: /2016/10/30/un-inquiry-into-freedom-of-expression-in-telcos-and-the-internet/

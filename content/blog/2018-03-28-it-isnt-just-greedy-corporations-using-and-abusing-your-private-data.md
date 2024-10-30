@@ -1,6 +1,6 @@
 ---
 title: It isn't just greedy corporations using and abusing your private data
-author: David Paris
+authors: [david]
 date: 2018-03-28T03:18:29+00:00
 excerpt: The Cambridge Analytica revelations have spawned outrage across the world, as well they should. The mass manipulation of millions of individual Facebook users, psychometric profiling to reveal potential pressure points, micro-targeted advertising and black-ops electoral interference are certainly something worthy of the headlines.
 url: /2018/03/28/it-isnt-just-greedy-corporations-using-and-abusing-your-private-data/

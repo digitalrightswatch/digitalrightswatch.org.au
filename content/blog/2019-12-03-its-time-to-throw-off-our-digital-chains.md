@@ -1,6 +1,6 @@
 ---
 title: It's Time to Throw Off Our Digital Chains
-author: "Lizzie O'Shea"
+authors: [lizzie]
 date: 2019-12-03T00:08:02+00:00
 url: /2019/12/03/its-time-to-throw-off-our-digital-chains/
 featureImage: /wp-content/uploads/2019/12/eye-2771174_1280.jpg

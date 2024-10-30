@@ -1,6 +1,6 @@
 ---
 title: Supporter Survey Results
-author: James Clark
+authors: [james]
 date: 2022-03-21T03:32:20+00:00
 excerpt: In the spirit of openness, we wanted to share with you the responses to our supporter survey and how we are reflecting on them.
 url: /2022/03/21/supporter-survey-results/

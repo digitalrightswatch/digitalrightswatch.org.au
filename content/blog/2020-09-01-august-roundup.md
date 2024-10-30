@@ -1,6 +1,6 @@
 ---
 title: August 2020 Roundup
-author: David Paris
+authors: [david]
 date: 2020-09-01T06:24:41+00:00
 url: /2020/09/01/august-roundup/
 featureImage: /wp-content/uploads/2020/10/monthlyroundup-07.png

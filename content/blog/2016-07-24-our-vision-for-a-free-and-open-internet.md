@@ -1,6 +1,6 @@
 ---
 title: Our vision for a free and open internet
-author: Tim Singleton Norton
+authors: [tim]
 date: 2016-07-24T13:02:05+00:00
 excerpt: A democratic society will always involve some kind of negotiation between the interests of individual privacy and the need to protect people's safety. Digital Rights Watch strives to participate in public debates about the nature of privacy using a human rights lens.
 url: /2016/07/24/our-vision-for-a-free-and-open-internet/

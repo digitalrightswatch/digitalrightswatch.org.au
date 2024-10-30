@@ -1,6 +1,6 @@
 ---
 title: Election 2019 and your digital rights
-author: Tim Singleton Norton
+authors: [tim]
 date: 2019-05-14T06:45:47+00:00
 url: /2019/05/14/election-2019-and-your-digital-rights/
 featureImage: /wp-content/uploads/2018/10/7016112399_c2456b936c_z.jpg

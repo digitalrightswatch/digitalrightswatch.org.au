@@ -1,6 +1,6 @@
 ---
 title: Respect for human rights must come at the centre of any technological drive to fight coronavirus
-author: "Lizzie O'Shea"
+authors: [lizzie]
 date: 2020-04-05T07:13:14+00:00
 url: /2020/04/05/respect-for-human-rights-must-come-at-the-centre-of-any-technological-drive-to-fight-coronavirus/
 featureImage: /wp-content/uploads/2020/04/Screen-Shot-2020-04-27-at-5.13.34-pm.png

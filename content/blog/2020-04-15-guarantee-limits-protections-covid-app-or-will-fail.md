@@ -1,6 +1,6 @@
 ---
 title: Guarantee Limits and Protections on Covid App or it will Fail
-author: David Paris
+authors: [david]
 date: 2020-04-15T02:51:11+00:00
 url: /2020/04/15/guarantee-limits-protections-covid-app-or-will-fail/
 featureImage: /wp-content/uploads/2020/04/phone-location.jpg

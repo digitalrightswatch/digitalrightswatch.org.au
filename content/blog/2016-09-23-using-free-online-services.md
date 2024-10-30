@@ -1,6 +1,6 @@
 ---
 title: "Watchlist: Using 'Free' Online Services"
-author: "Lizzie O'Shea"
+authors: [lizzie]
 date: 2016-09-23T12:52:00+00:00
 excerpt: Free online services may not cost you any money to use, however, it is important to be aware that there is still a transaction taking place between you and the providing company. Rather than paying in money, you are paying with information about yourself.
 url: /2016/09/23/using-free-online-services/

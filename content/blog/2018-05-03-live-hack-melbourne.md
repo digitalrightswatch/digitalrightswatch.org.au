@@ -1,6 +1,6 @@
 ---
 title: 'Live Hack: Melbourne'
-author: Tom Sulston
+authors: [tom]
 date: 2018-05-03T04:35:37+00:00
 excerpt: "Is your metadata a trail of breadcrumbs that anyone can follow? We're partnering with Melbourne Knowledge Week to investigate the tracking capacity of the city of Melbourne."
 url: /2018/05/03/live-hack-melbourne/

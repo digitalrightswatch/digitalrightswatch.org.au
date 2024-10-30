@@ -1,6 +1,6 @@
 ---
 title: "Media Release: Amazon's acquisition of Roomba raises privacy concerns"
-author: James Clark
+authors: [james]
 date: 2022-08-08T04:48:35+00:00
 excerpt: Privacy protections are a vital line of defence against expanding corporate power.
 url: /2022/08/08/media-release-amazons-acquisition-of-roomba-raises-privacy-concerns/

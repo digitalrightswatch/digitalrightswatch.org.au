@@ -1,6 +1,6 @@
 ---
 title: Thanks for taking action!
-author: David Paris
+authors: [david]
 type: page
 date: 2019-10-31T21:51:31+00:00
 eg_vimeo_ratio:

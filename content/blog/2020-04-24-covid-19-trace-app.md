@@ -1,6 +1,6 @@
 ---
 title: The Government Covid-19 Contact Tracing Smartphone App
-author: David Paris
+authors: [david]
 date: 2020-04-23T14:02:51+00:00
 url: /2020/04/24/covid-19-trace-app/
 featureImage: /wp-content/uploads/2020/04/everyone-using-phones.jpg

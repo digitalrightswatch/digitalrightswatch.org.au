@@ -1,6 +1,6 @@
 ---
 title: 'Media Release: Australian digital rights and security experts raise alarmed over draconian bail conditions imposed on protesters.'
-author: James Clark
+authors: [james]
 date: 2022-06-27T05:05:27+00:00
 excerpt: NSW Police have imposed bail conditions on at least one Blockade Australia activist that would prohibit the use of encrypted communication apps such as WhatsApp and Signal. NSW police also imposed conditions forcing the activists to hand over any communications device to police and provide passcodes upon request.
 url: /2022/06/27/australian-digital-rights-and-security-experts-raise-alarmed-over-draconian-bail-conditions-imposed-on-protesters/

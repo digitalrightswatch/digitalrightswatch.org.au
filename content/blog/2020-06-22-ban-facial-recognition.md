@@ -1,6 +1,6 @@
 ---
 title: 'Campaign: Ban Mass Surveillance Facial Recognition'
-author: David Paris
+authors: [david]
 date: 2020-06-22T07:59:22+00:00
 url: /2020/06/22/ban-facial-recognition/
 eg_vimeo_ratio:
