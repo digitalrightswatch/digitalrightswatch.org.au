@@ -22,9 +22,9 @@
                 </figcaption>
               </figure-->
               <ul>
-                <li>
-                  <img src="{{ .Params.image | absURL }}" alt="" />
-                </li>
+                {{ if .Params.image }}
+                  <li><img src="{{ .Params.image | absURL }}" alt="" /></li>
+                {{ end }}
                 <li>
                   <h5><a href="{{ .Permalink }}">{{ .Params.name }}</a></h5>
                 </li>
@@ -32,16 +32,7 @@
             </li>
             {{ end }}
             {{ else }}
-            <li>
-              <ul>
-                <li>
-                  <img src="{{ $.Params.authorThumb | absURL }}" alt="" />
-                </li>
-                <li>
-                  <h5>{{ $.Params.author }}</h5>
-                </li>
-              </ul>
-            </li>
+              <li class="no-author"></li>
             {{ end }}
             <li>
               {{ .PublishDate.Format "January 2, 2006" }}
