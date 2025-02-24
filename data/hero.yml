@@ -1,6 +1,8 @@
 ---
 enable: true
-title: Standing up for digital rights
+# \u00A0 is a non-breaking space (like &nbsp; in HTML)
+# used so that narrow screens won't split "digital rights" across two lines
+title: "Standing up for digital\u00A0rights"
 # caption: Networking
 description: |
   Our vision is for a digital world where all humanity can thrive, and where diversity and creativity flourishes.
