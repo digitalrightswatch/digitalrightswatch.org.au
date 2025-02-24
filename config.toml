@@ -71,6 +71,7 @@ bsky = "https://bsky.app/profile/drwaus.bsky.social"
 
 # Header
 logo = "/wp-content/uploads/2019/07/DRWLogo_black_w_yellow.png"
+logoAltText = "DRW"
 fabFormURL = "https://fabform.io/f/zWMBVeW"
 googleAnalytics = "UA-175025671-2"
 
