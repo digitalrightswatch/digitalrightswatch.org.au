@@ -1,4 +1,4 @@
-<nav class="main-nav navbar navbar-expand-lg">
+<nav class="main-nav navbar navbar-expand">
   <div class="container-fluid">
     {{ "<!-- Logo -->" | safeHTML }}
     <a class="navbar-brand" href="{{ .Site.BaseURL }}">
@@ -8,17 +8,6 @@
         alt="{{ .Site.Params.logoAltText }}"
       />
     </a>
-    {{ "<!-- Toogle Button -->" | safeHTML }}
-    <button
-      class="navbar-toggler collapsed"
-      type="button"
-      data-toggle="collapse"
-      data-target="#mainNav"
-    >
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-    </button>
     <div class="collapse navbar-collapse nav-list" id="mainNav">
       {{ "<!-- Navigation Links -->" | safeHTML }}
 
