@@ -1,21 +1,21 @@
 {{ with .Site.Data.hero }} {{ if .enable }}
-<section class="hero" id="hero">
+<section class="hero jumbotron bg-transparent pt-2" id="hero">
   {{if .caption}}
   <h6 class="hero-subtitle">{{.caption}}</h6>
   {{end}}
-  <div class="row mx-0 mx-lg-5 align-items-center">
+  <div class="row mx-0 mx-lg-5 align-items-center px-3 h-100">
     <div class="col col-8">
-      <h1 class="hero-title">{{ .title }}</h1>
-      <div class="hero-text">{{ .description | markdownify }}</div>
+      <h1 class="display-3">{{ .title }}</h1>
+      <div class="lead py-3">{{ .description | markdownify }}</div>
 
       {{ if or .button1text .button2text }}
-      <div class="p-2 d-flex justify-content-start gap-3 align-items-center">
+      <div class="mx-auto">
         {{ if .button1text }}
-        <a href="{{.button1link}}" class="btn btn-primary btn-lg"
+        <a href="{{.button1link}}" class="btn btn-primary btn-lg rounded"
           >{{ .button1text }}</a
         >
         {{ end }} {{ if .button2text }}
-        <a href="{{.button2link}}" class="btn btn-primary btn-lg"
+        <a href="{{.button2link}}" class="btn btn-primary btn-lg rounded"
           >{{ .button2text }}</a
         >
         {{ end }}
@@ -25,7 +25,7 @@
     </div>
     {{ if .image }}
 
-    <img src="{{ .image }}" alt="" class="col image-fluid" />
+    <img src="{{ .image }}" alt="" class="col col-4 w-25" />
 
     {{end}}
   </div>
