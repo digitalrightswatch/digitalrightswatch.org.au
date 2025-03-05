@@ -1,162 +1,36 @@
 .main-nav {
-  // use a var and calc for this perhaps - ala tailwind
-  padding: 20px;
-  width: 100%;
-
-  @include mobile {
-    text-align: center;
-    background: $white;
-    padding: 20px 30px;
-    width: 95%;
-    margin: 20px auto;
-    border-radius: 8px;
-
-    box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.09);
-  }
-  @include mobile {
-    padding: 15px 20px;
-  }
-
   .navbar-nav {
     .nav-item {
+      // custom styling for links in nav
       .nav-link {
         color: $text-color-dark;
-        padding-left: 20px;
         font-weight: 500;
-        font-size: 14px;
         text-transform: uppercase;
-        padding-right: 20px;
-        position: relative;
-        z-index: 1;
-        transition: all 0.5s ease-in-out;
         letter-spacing: 2px;
-        @include desktop {
-          font-size: 16px;
-          padding: 15px 0;
-        }
+        font-size: $font-size-sm;
       }
-    }
-  }
-
-  .navbar-brand {
-    img {
-      width: 154px;
-      @include mobile {
-        width: 120px;
-      }
-    }
-  }
-
-  .account-list {
-    margin-left: 30px;
-    display: flex;
-    align-items: center;
-
-    @include desktop {
-      justify-content: center;
-      margin-left: 0px;
-    }
-
-    li {
-      a.btn {
-        font-size: $font-size-base;
-        padding: 15px 45px;
+      // nav bar buttons have a slightly different look:
+      // smaller uppercase text with wider letter spacing
+      .btn {
         text-transform: uppercase;
+        font-size: $font-size-sm;
+        letter-spacing: 1.4px;
       }
     }
   }
 
-  .navbar-toggler {
-    outline: 0;
-    padding: 0;
-
-    .icon-bar {
-      width: 25px;
-      height: 2px;
-      background: $primary-color;
-      transition: all 0.2s;
-      display: block;
-
-      &:not(:last-child) {
-        margin-bottom: 5px;
-      }
-
-      &:nth-child(1) {
-        transform: rotate(45deg);
-        transform-origin: 10% 10%;
-      }
-
-      &:nth-child(2) {
-        opacity: 0;
-        filter: alpha(opacity=0);
-      }
-
-      &:nth-child(3) {
-        transform: rotate(-45deg);
-        transform-origin: 10% 90%;
-      }
-    }
-
-    &.collapsed {
-      .icon-bar {
-        &:nth-child(1) {
-          transform: rotate(0);
-        }
-
-        &:nth-child(2) {
-          opacity: 1;
-          filter: alpha(opacity=1);
-        }
-
-        &:nth-child(3) {
-          transform: rotate(0);
-        }
-      }
-    }
+  a.btn {
+    text-transform: uppercase;
+    font-size: $font-size-sm;
+    letter-spacing: 1.4px;
   }
 
-  &.nav-bg {
-    padding: 15px;
-    border: none;
-    box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.09);
-    top: 0;
-    @include desktop {
-      padding: 20px 30px;
-    }
-    @include mobile {
-      padding: 15px 20px;
-    }
-    .navbar-brand {
-      .logo-main {
-        display: block;
-      }
+  // navbar can take up chunk of the width of the screen
+  // and space out the menu items nicely
+  // caution: this might stop being as nice if many more nav items appear in the nav
 
-      .logo-white {
-        display: none;
-      }
-    }
-
-    .nav-link {
-      color: $text-color-dark !important;
-
-      &::before {
-        background: darken($color: $white, $amount: 10) !important;
-      }
-    }
+  .navbar-nav {
+    min-width: 50vw;
+    justify-content: space-around;
   }
-}
-
-.headroom {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-}
-
-.headroom--unpinned {
-  top: -150px !important;
-}
-
-.headroom--pinned {
-  top: 0;
 }

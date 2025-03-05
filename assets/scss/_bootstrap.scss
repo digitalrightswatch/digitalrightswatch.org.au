@@ -1,10 +1,22 @@
 @import "bootstrap/functions";
 @import "bootstrap/variables";
 
+// setting border radius for rounded shapes
 // todo: upgrading to bootstrap 4.4 would give ability to use rounded-lg instead of overriding global border-radius
 $border-radius: 10px;
 
+$navbar-padding-y: 20px;
+//$navbar-nav-link-padding-x: 1.5rem;
+// display fonts should be bold
+$display1-weight: 700;
+$display2-weight: 700;
+$display3-weight: 700;
+$display4-weight: 700;
+// give the large buttons a bit more space around them to match apsho theme
+$btn-padding-x-lg: 2rem;
+$btn-padding-y-lg: 1rem;
 // map the theme's colour variables to bootstrap's variables
+
 $theme-colors: (
     "primary": $primary-color,
     "secondary": $secondary-color,

@@ -1,31 +1,39 @@
-<nav class="main-nav navbar navbar-expand">
-  <div class="container-fluid">
+<nav class="navbar navbar-expand navbar-light bg-light main-nav flex-wrap">
     {{ "<!-- Logo -->" | safeHTML }}
     <a class="navbar-brand" href="{{ .Site.BaseURL }}">
       <img
         class="logo-main"
         src="{{ .Site.Params.logo | absURL }}"
         alt="{{ .Site.Params.logoAltText }}"
+        width="154px"
       />
     </a>
-    <div class="collapse navbar-collapse nav-list" id="mainNav">
+    <button class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#mainNav"
+            aria-controls="mainNav"
+            aria-expanded="false"
+            aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse flex-wrap" id="mainNav">
       {{ "<!-- Navigation Links -->" | safeHTML }}
 
       {{ $menu := .Site.Menus.main }}
-      <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav ml-auto align-items-center flex-wrap">
       {{ range $index, $element := $menu }}
         <li class="nav-item">
           <a href="{{ relURL .URL }}" class="nav-link {{ if $.IsHome }}scroll{{ end }}">{{ .Name }}</a>
         </li>
       {{ end }}
-      </ul>
-      <div class="account-list list-inline">
-        <li class="list-inline-item">
-          <a href="{{ "contact" | absURL }}" class="btn btn-primary rounded btn-lg">
+        <li class="nav-item">
+        <a href="{{ " contact" | absURL }}" class="btn btn-primary rounded btn-lg">
             Get in touch
-          </a>
+        </a>
         </li>
-      </div>
-    </div>
+        </ul>
+
+        </div>
   </div>
 </nav>
