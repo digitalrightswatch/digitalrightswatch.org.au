@@ -9,13 +9,13 @@
       <div class="hero-text">{{ .description | markdownify }}</div>
 
       {{ if or .button1text .button2text }}
-      <div class="p-2 d-flex justify-content-end gap-3 align-items-center">
+      <div class="p-2 d-flex justify-content-start gap-3 align-items-center">
         {{ if .button1text }}
-        <a href="{{.button1link}}" class="btn btn-outline-primary"
+        <a href="{{.button1link}}" class="btn btn-primary btn-lg"
           >{{ .button1text }}</a
         >
         {{ end }} {{ if .button2text }}
-        <a href="{{.button2link}}" class="btn btn-outline-primary"
+        <a href="{{.button2link}}" class="btn btn-primary btn-lg"
           >{{ .button2text }}</a
         >
         {{ end }}

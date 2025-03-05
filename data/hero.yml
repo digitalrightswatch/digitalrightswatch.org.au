@@ -8,7 +8,7 @@ description: |
   Our vision is for a digital world where all humanity can thrive, and where diversity and creativity flourishes.
 
   Digital Rights Watch exists to ensure fairness, freedoms and fundamental rights for all people who engage in the digital world.
-buttonName: Available on
-button1text:
-button2text:
+button1text: Get the latest updates
+button1link: "#signup"
+
 image: images/hero/hero-image.svg
