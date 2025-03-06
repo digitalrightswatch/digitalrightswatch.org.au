@@ -12,7 +12,7 @@ In December 2018, the Australian Parliament passed laws designed to compel devic
 
 Although apparently developed to allow government agencies access to criminals&#8217; encrypted communications, the [Assistance and Access Act][1] grants broad, sweeping powers to government agencies that will harm the security and stability of our communications and the internet at large.
 
-{{< youtube >}}
+{{< youtube id="eW-OMR-iWOE" >}}
 
 
 #### **Here&#8217;s our top three concerns with these laws:**

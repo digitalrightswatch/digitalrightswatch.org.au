@@ -59,7 +59,7 @@ Digital Rights Watch has also published [<span style="text-decoration: underline
 
 #### Watch the report launch
 
-{{< youtube >}}
+{{< youtube id="UPo3CW0iDJs" >}}
 
 
  [1]: /wp-content/uploads/2018/05/State-of-Digital-Rights-Web.pdf

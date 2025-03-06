@@ -12,7 +12,7 @@ tags:
 ---
 Digital Rights Watch&#8217;s Lizzie O&#8217;Shea and Access Now&#8217;s Nathan White give evidence to the Parliamentary Joint Committee on Intelligence and Security on the Assistance and Access Bill 2018.
 
-{{< youtube >}}
+{{< youtube id="Dnv6yqI3Xhs" >}}
 
 
 [A transcript of our evidence is available here.][1]

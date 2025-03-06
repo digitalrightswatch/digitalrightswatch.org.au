@@ -10,7 +10,7 @@ category:
 ---
 Digital Rights Watch Chair Tim Singleton Norton provides evidence to the Joint Committee on Electoral Matters inquiry into the cyber manipulation of elections.
 
-{{< youtube >}}
+{{< youtube id="h5mwYShbV64" >}}
 
 
 [Read more in our submission to the committee.][1]

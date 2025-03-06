@@ -46,5 +46,5 @@ Our fundamental rights are never more important than they are during a crisis, i
 
 You can watch the recording of the event below.
 
-{{< youtube >}}
+{{< youtube id="NCaGmXn7pdg" >}}
 

@@ -8,7 +8,7 @@ featureImage: /wp-content/uploads/2019/01/7651364100_e28b600eb6_b_blue.jpg
 ---
 Since our founding in 2016, Digital Rights Watch has stood up for the digital rights of all Australians. We greatly appreciate the support we have received from philanthropic, corporate and other major donors, and welcome new partnerships that will enable us to continue to advocate for these rights.
 
-{{< youtube >}}
+{{< youtube id="tuw0pcRWiT4" >}}
 
 
 Digital Rights Watch is a nationally registered charity organisation. You can read more about our work to date in our annual reports:

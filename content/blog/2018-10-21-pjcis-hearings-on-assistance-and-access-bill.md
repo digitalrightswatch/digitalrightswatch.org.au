@@ -12,7 +12,7 @@ tags:
 ---
 Angus Murray, Dr Suelette Dreyfus and Justin Clacherty appear before the Australian Parliamentary Joint Committee on Intelligence and Security, to outline civil society concerns with the Telecommunications and Other Legislation Amendment (Assistance and Access) Bill 2018.
 
-{{< youtube >}}
+{{< youtube id="KNbE2ct76t0" >}}
 
 
 [The transcript of this session is available here.][1]

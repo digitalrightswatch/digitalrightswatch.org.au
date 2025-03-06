@@ -12,5 +12,5 @@ tags:
 ---
 Our own Lizzie O&#8217;Shea spoke to ABC24 about the Assistance and Access Bill and the impact on how all Australians use technology.
 
-{{< youtube >}}
+{{< youtube id="ACT09gqlP4o" >}}
 

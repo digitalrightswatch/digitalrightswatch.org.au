@@ -14,7 +14,7 @@ tags:
 ---
 The Australian Government have released a draft Bill [[The Assistance and Access Bill 2018]][1] designed to compel device manufacturers and service providers to assist law enforcement in accessing encrypted information. Although apparently developed to allow government agencies access to criminals&#8217; encrypted communications, the Bill also grants broad, sweeping powers to government agencies that will harm the security and stability of our communications and the internet at large.
 
-{{< youtube >}}
+{{< youtube id="eW-OMR-iWOE" >}}
 
 
 <p style="text-align:left">

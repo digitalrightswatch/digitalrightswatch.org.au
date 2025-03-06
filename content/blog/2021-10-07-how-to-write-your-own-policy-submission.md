@@ -36,5 +36,5 @@ That&#8217;s why we came together to run this workshop &#8211; to give you the t
 
 Join Executive Director of DRW, Lucie Krahulcova, and Board Member of EFA, Justin Warren, as they guide you through the process of crafting a meaningful policy submission, including their own tips and tricks they have learned over many years of experience in this space.
 
-{{< youtube >}}
+{{< youtube id="sdBQAf5Xb5c" >}}
 

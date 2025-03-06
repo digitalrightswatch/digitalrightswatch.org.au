@@ -15,7 +15,7 @@ Digital Rights Watch and The Juice Media have this week released a video designe
 
 The satirical video, which has already amassed more than 250,000 views after being released on Monday 3 September, can be [viewed here][1].
 
-{{< youtube >}}
+{{< youtube id="eW-OMR-iWOE" >}}
 
 
 &#8220;If passed into law in its current form, the Assistance and Access Bill 2018 would grant broad, sweeping powers to government agencies that will harm the security and stability of our communications and digital infrastructure,&#8221; said Tim Singleton Norton, Chair of Digital Rights Watch.
