@@ -16,7 +16,7 @@ summaryLength = 18
 # Navigation Bar
 [[menu.main]]
     name = "Home"
-    url = "/#hero"
+    url = "/"
     weight = 1
 [[menu.main]]
     name = "About"
@@ -28,7 +28,7 @@ summaryLength = 18
     weight = 3
 [[menu.main]]
     name = "Blog"
-    url = "/#blog"
+    url = "/blog"
     weight = 4
 
 # Footer Sitemap
