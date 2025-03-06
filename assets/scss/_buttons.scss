@@ -1,77 +1,21 @@
 .btn {
-  font-size: 15px;
-  padding: 18px 50px;
-  border-radius: 10px;
-  transition: 0.5s ease;
-  font-weight: 500;
-  letter-spacing: 1px;
-}
-
-.btn-sm {
-  padding: 15px 45px;
-  font-size: 14px;
+    // as per original theme implementation, we specify a transition that
+    // will eventually be applied to the scaling factor added on hover (see below)
+    // note: this transition is being applied to all properties - not just the transform
+    transition: 0.5s ease;
 }
 
 .btn-primary {
-  position: relative;
-  border: 2px solid $primary-color;
-  color: $primary-color;
-  text-transform: uppercase;
-  background: $white;
-
-  span {
-    display: block;
-    position: relative;
-    transition: 0.9s $site-ease;
-  }
-
-  &::before {
-    content: "";
-    position: absolute;
-    width: calc(100% + 4px);
-    height: calc(100% + 4px);
-    background: $primary-color;
-    border-radius: 10px;
-    left: -2px;
-    top: -2px;
-    transform: scaleY(0);
-    transform-origin: bottom center;
-    transition: 0.5s $site-ease;
-  }
-
-  &::after {
-    content: attr(data-text);
-    color: $white;
-    font-size: 16px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, calc(-50% - 10px));
-    opacity: 0;
-    transition: 0.9s $site-ease;
-  }
-
-  &:hover {
-    color: $primary-color;
-    border-color: $primary-color;
-    background: $white;
-
-    span {
-      transform: translateY(10px);
-      opacity: 0;
+    &:hover {
+        &:hover {
+            // as per original theme implementation, apply a scale transformation on hover
+            // which will have the above transition applied to it
+            // todo: consider removing this for prefers-reduced-motion though the effect may be subtle enough to keep
+            transform: scale(1.04);
+        }
     }
-
-    &::before {
-      transform: scaleY(1);
-    }
-
-    &::after {
-      transform: translate(-50%, -50%);
-      opacity: 1;
-    }
-  }
 }
-
+// deprecated
 .btn-platform {
   display: flex;
   padding: 15px 40px;

@@ -8,10 +8,8 @@
               <h1> {{ .title }} </h1>
               <p> {{ .description  | markdownify }} </p>
               <div class="donate-content-button">
-                <a href="{{ .buttonUrl }}" class="btn-platform">
-                  <div class="mx-auto btn-platform-area">
+                <a href="{{ .buttonUrl }}" class="btn btn-primary btn-lg">
                     {{ .buttonText }}
-                  </div>
                 </a>
               </div>
             </div>

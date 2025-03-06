@@ -58,24 +58,10 @@
     }
 
     li {
-      a {
-        color: $white;
-        background-color: $primary-color;
-        font-weight: 500;
-        font-size: 14px;
-        font-family: $primary-font;
-        box-shadow: 0px 8px 20px rgba(146, 115, 255, 0.3);
-        transition: 0.3s $site-ease;
+      a.btn {
+        font-size: $font-size-base;
+        padding: 15px 45px;
         text-transform: uppercase;
-        &:hover {
-          transform: scale(1.04);
-        }
-        @include desktop {
-          margin-top: 20px;
-        }
-        @include mobile {
-          display: block;
-        }
       }
     }
   }
