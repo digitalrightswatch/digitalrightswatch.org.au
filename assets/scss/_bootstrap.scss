@@ -1,0 +1,54 @@
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+
+// todo: upgrading to bootstrap 4.4 would give ability to use rounded-lg instead of overriding global border-radius
+$border-radius: 10px;
+
+// map the theme's colour variables to bootstrap's variables
+$theme-colors: (
+    "primary": $primary-color,
+    "secondary": $secondary-color,
+    "dark": $text-color-dark,
+    "body": $text-color,
+);
+
+$font-family-sans-serif: $primary-font;
+
+@import "bootstrap/mixins";
+@import "bootstrap/reboot";
+@import "bootstrap/type";
+@import "bootstrap/images";
+@import "bootstrap/button-group";
+@import "bootstrap/grid";
+@import "bootstrap/nav";
+@import "bootstrap/navbar";
+@import "bootstrap/utilities";
+@import "bootstrap/buttons";
+@import "bootstrap/print";
+@import "bootstrap/jumbotron";
+@import "bootstrap/transitions";
+/*
+
+@import "tables";
+@import "forms";
+@import "buttons";
+@import "dropdown";
+@import "button-group";
+@import "input-group";
+@import "custom-forms";
+@import "card";
+@import "breadcrumb";
+@import "pagination";
+@import "badge";
+@import "alert";
+@import "progress";
+@import "media";
+@import "list-group";
+@import "close";
+@import "modal";
+@import "tooltip";
+@import "popover";
+@import "carousel";
+@import "utilities";
+@import "print";
+*/
