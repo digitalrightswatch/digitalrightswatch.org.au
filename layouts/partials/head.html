@@ -14,8 +14,12 @@
   {{ "<!-- Themify -->" | safeHTML }}
   <link rel="stylesheet" href="{{ "themify/themify.css" | absURL }}">
 
-  {{ "<!-- Critical CSS -->" | safeHTML }}
-  {{ $stylex := resources.Get "scss/critical.scss" | resources.ToCSS | minify }}
+{{ "<!-- Critical CSS -->" | safeHTML }}
+{{ $opts := dict
+"enableSourceMap" (not hugo.IsProduction)
+"includePaths" (slice "assets/scss/plugins/")
+}}
+{{ $stylex := resources.Get "scss/critical.scss" | resources.ToCSS $opts | minify }}
   <link href="{{ $stylex.Permalink }}" rel="stylesheet" />
 
   {{ "<!--Favicon-->" | safeHTML }}
