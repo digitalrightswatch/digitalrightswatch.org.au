@@ -16,10 +16,10 @@ The Australian Government have introduced a draft Bill [[The Assistance and Acce
 
 <div class="wp-block-button alignleft">
   <a class="wp-block-button__link has-text-color has-background has-luminous-vivid-amber-background-color" href="#action" style="color:#000000"><strong>Take action now</strong></a>
-</div><figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-has-aspect-ratio wp-embed-aspect-16-9">
+</div>
 
-<div class="wp-block-embed__wrapper">
-</div></figure>
+{{< youtube >}}
+
 
 <p style="text-align:left">
   The government asked the public for feedback, with submissions closing on September 10, 2018. But they then immediately introduced it to Parliament, where it currently is sitting before an inquiry.<br />

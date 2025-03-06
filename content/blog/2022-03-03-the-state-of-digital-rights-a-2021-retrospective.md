@@ -57,10 +57,10 @@ Digital Rights Watch has also published [<span style="text-decoration: underline
 
 ####
 
-#### Watch the report launch<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+#### Watch the report launch
 
-<div class="wp-block-embed__wrapper">
-</div></figure>
+{{< youtube >}}
+
 
  [1]: /wp-content/uploads/2018/05/State-of-Digital-Rights-Web.pdf
  [2]: https://digitalrightswatch.org.au/2021/02/05/the-state-of-digital-rights-report-a-2020-retrospective/#:~:text=We%20are%20proud%20to%20release,governments%20in%20the%20online%20world.

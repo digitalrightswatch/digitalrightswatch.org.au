@@ -10,10 +10,10 @@ tags:
   - encryption
 
 ---
-Digital Rights Watch&#8217;s Lizzie O&#8217;Shea and Access Now&#8217;s Nathan White give evidence to the Parliamentary Joint Committee on Intelligence and Security on the Assistance and Access Bill 2018.<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+Digital Rights Watch&#8217;s Lizzie O&#8217;Shea and Access Now&#8217;s Nathan White give evidence to the Parliamentary Joint Committee on Intelligence and Security on the Assistance and Access Bill 2018.
 
-<div class="wp-block-embed__wrapper">
-</div></figure>
+{{< youtube >}}
+
 
 [A transcript of our evidence is available here.][1]
 

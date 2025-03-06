@@ -44,7 +44,7 @@ This conversation took place in the aftermath of yet more abuses of power and vi
 
 Our fundamental rights are never more important than they are during a crisis, it's when they're under the most strain and when they most need protection.
 
-You can watch the recording of the event below.<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+You can watch the recording of the event below.
 
-<div class="wp-block-embed__wrapper">
-</div></figure>
+{{< youtube >}}
+
