@@ -3,6 +3,9 @@
   // will eventually be applied to the scaling factor added on hover (see below)
   // note: this transition is being applied to all properties - not just the transform
   transition: 0.5s ease;
+
+  // using the 'rounded-pill' shape as per original site
+  @extend .rounded-pill;
 }
 
 .btn-primary {
