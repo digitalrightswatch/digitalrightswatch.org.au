@@ -39,6 +39,12 @@ $font-family-sans-serif: $primary-font;
 @import "bootstrap/print";
 @import "bootstrap/jumbotron";
 @import "bootstrap/transitions";
+
+// additional utilities that bs5 would be able to provide
+.gap-3 {
+    gap: 1rem !important;
+}
+
 /*
 
 @import "tables";

@@ -1,11 +1,6 @@
 .hero {
   background-color: transparent;
 
-  // back ported this from the helper classes in bootstrap 5
-  .gap-3 {
-    gap: 1rem !important;
-  }
-
   &-content {
     // todo: remove these buttons  - currently used by _video.scss
     &-buttons {
