@@ -17,6 +17,20 @@
   }
 }
 
+// a variant of the outline button with a white rather than transparent background
+// that maintains the on-hover primary background of the original button
+// note: may be possible to use specificity to avoide the include etc.
+.btn-outline-primary-opaque {
+  @include button-outline-variant(theme-color("primary"));
+
+  // override hardcoded 'transparent' background of the outline buttons
+  background-color: $white;
+  &:hover {
+    // ensure that the default background colour on hover is restored
+    background-color: theme-color("primary");
+  }
+}
+
 // deprecated
 .btn-platform {
   display: flex;

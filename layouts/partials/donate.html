@@ -1,21 +1,18 @@
-{{ with .Site.Data.donate }}
-  {{ if .enable }}
-    <section class="donate" id="donate">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-12">
-            <div class="donate-content">
-              <h1> {{ .title }} </h1>
-              <p> {{ .description  | markdownify }} </p>
-              <div class="donate-content-button">
-                <a href="{{ .buttonUrl }}" class="btn btn-primary btn-lg">
-                    {{ .buttonText }}
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-  {{ end }}
-{{ end }}
+{{ with .Site.Data.donate }} {{ if .enable }}
+<section id="donate">
+  <div class="jumbotron jumbotron-fluid bg-secondary p-4">
+    <div class="container d-flex flex-column align-items-center gap-3">
+      <h3 class="text-primary">{{ .title }}</h3>
+
+      <p class="lead text-primary">{{ .description | markdownify }}</p>
+
+      <a
+        href="{{ .buttonUrl }}"
+        class="btn btn-lg btn-outline-primary-opaque text-uppercase"
+      >
+        {{ .buttonText }}
+      </a>
+    </div>
+  </div>
+</section>
+{{ end }} {{ end }}

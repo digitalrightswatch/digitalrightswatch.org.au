@@ -40,9 +40,16 @@ $font-family-sans-serif: $primary-font;
 @import "bootstrap/jumbotron";
 @import "bootstrap/transitions";
 
-// additional utilities that bs5 would be able to provide
+// additional utilities that bootstrap 5 and 4.4 would be able to provide
+
+// gap utility available at least by boostrap 5
 .gap-3 {
     gap: 1rem !important;
+}
+
+// additional shape added in bootstrap 4.4
+.rounded-pill {
+    border-radius: 50rem !important;
 }
 
 /*
