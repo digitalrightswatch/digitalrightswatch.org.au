@@ -15,13 +15,20 @@ $display4-weight: 700;
 // give the large buttons a bit more space around them to match apsho theme
 $btn-padding-x-lg: 2rem;
 $btn-padding-y-lg: 1rem;
-// map the theme's colour variables to bootstrap's variables
+
+// map the drw colours to bootstrap theme colours
 
 $theme-colors: (
-    "primary": $primary-color,
-    "secondary": $secondary-color,
+    // for primary site colour, we can use the muted versions of the brand blues and yellows
+    // (not using bootstrap secondary colour here as it is seemingly used for disabled controls etc
+    // so should probably stay grey)
+    "primary": $drw-blue-muted,
+    "primary-alt": $drw-yellow-muted,
     "dark": $text-color-dark,
     "body": $text-color,
+    // sometimes we want to use the main theme colours
+    "accent-primary": $drw-blue,
+    "accent-secondary": $drw-yellow
 );
 
 $font-family-sans-serif: $primary-font;
