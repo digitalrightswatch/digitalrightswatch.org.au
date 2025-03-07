@@ -1,20 +1,19 @@
 .btn {
-    // as per original theme implementation, we specify a transition that
-    // will eventually be applied to the scaling factor added on hover (see below)
-    // note: this transition is being applied to all properties - not just the transform
-    transition: 0.5s ease;
+  // as per original theme implementation, we specify a transition that
+  // will eventually be applied to the scaling factor added on hover (see below)
+  // note: this transition is being applied to all properties - not just the transform
+  transition: 0.5s ease;
 }
 
 .btn-primary {
-    &:hover {
-        &:hover {
-            // as per original theme implementation, apply a scale transformation on hover
-            // which will have the above transition applied to it
-            // todo: consider removing this for prefers-reduced-motion though the effect may be subtle enough to keep
-            transform: scale(1.04);
-        }
-    }
+  &:hover {
+    // as per original theme implementation, apply a scale transformation on hover
+    // which will have the above transition applied to it
+    // todo: consider removing this for prefers-reduced-motion though the effect may be subtle enough to keep
+    transform: scale(1.04);
+  }
 }
+
 // deprecated
 .btn-platform {
   display: flex;
