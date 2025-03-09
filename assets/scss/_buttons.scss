@@ -8,12 +8,17 @@
   @extend .rounded-pill;
 }
 
-.btn-primary {
+.btn {
+  // do not enable transform scaling if using bootstrap's
+  // stretched-link facilty (for example on article cards)
+  // as scaling messes up stretched links
   &:hover {
-    // as per original theme implementation, apply a scale transformation on hover
-    // which will have the above transition applied to it
-    // todo: consider removing this for prefers-reduced-motion though the effect may be subtle enough to keep
-    transform: scale(1.04);
+    &:not(.stretched-link) {
+      // as per original theme implementation, apply a scale transformation on hover
+      // which will have the above transition applied to it
+      // todo: consider removing this for prefers-reduced-motion though the effect may be subtle enough to keep
+      transform: scale(1.04);
+    }
   }
 }
 
