@@ -7,6 +7,7 @@ featureImage: /wp-content/uploads/2023/06/Parents-for-privacy-reform-BANNER.png
 cardImage: /wp-content/uploads/2023/05/Parents-for-Privacy-Reform-SQUARE.png.crdownload.png
 category:
   - Campaigns
+  - featured_campaigns
 redirect_url: https://actionnetwork.org/petitions/parents-for-privacy-reform
 summary: Data-hungry business models cause harm to all of us--especially children. Add your name to our petition.
 ---
