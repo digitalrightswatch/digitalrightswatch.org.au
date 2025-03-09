@@ -46,6 +46,7 @@ $font-family-sans-serif: $primary-font;
 @import "bootstrap/print";
 @import "bootstrap/jumbotron";
 @import "bootstrap/transitions";
+@import "bootstrap/card";
 
 // additional utilities that bootstrap 5 and 4.4 would be able to provide
 
@@ -68,7 +69,6 @@ $font-family-sans-serif: $primary-font;
 @import "button-group";
 @import "input-group";
 @import "custom-forms";
-@import "card";
 @import "breadcrumb";
 @import "pagination";
 @import "badge";

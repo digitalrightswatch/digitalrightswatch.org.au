@@ -1,0 +1,42 @@
+<section class="container p-3">
+  <h3 class="border-bottom border-dark py-2 my-4">Our campaigns</h3>
+  <div class="card-deck">
+    {{ range .Site.Taxonomies.category.featured_campaigns }}
+    <div class="card text-center w-100">
+
+      {{ $s := newScratch }}
+      {{ $s.Set "filter" (images.Process "fit 350x350")  }}
+
+      {{ if .Params.cardImage }}
+        {{ $s.Set "imageToUse" .Params.cardImage }}
+      {{else}}
+        {{ $s.Set "imageToUse" .Params.featureImage }}
+      {{end}}
+
+      {{ with resources.Get ($s.Get "imageToUse" )}}
+        {{ with . | images.Filter ($s.Get "filter") }}
+        <div class="embed-responsive embed-responsive-1by1">
+      <img
+
+        src="{{ .RelPermalink }}"
+        width="{{ .Width }}"
+        height="{{ .Height }}"
+        alt=""
+        class="card-img-top embed-responsive-item"
+      />
+      </div>
+      {{ end }} {{ end }}
+
+      <div class="card-body">
+        <h5 class="card-title">{{.Title}}</h5>
+        <p class="card-text">
+           {{ .Params.summary }}
+        </p>
+        {{/* todo: stretched-link might not be nice long term */}}
+        <a href="{{ .Permalink }}" class="text-uppercase  mx-auto btn btn-outline-primary-opaque stretched-link btn-sm  ">Learn more</a>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+<!--li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li-->
