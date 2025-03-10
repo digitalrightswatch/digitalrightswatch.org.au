@@ -1,9 +1,9 @@
-<section class="container p-3">
+<section class="container">
   <h3 class="border-bottom border-dark py-2 my-4">Our campaigns</h3>
-  <div class="card-deck">
+  <div class="card-deck justify-content-around flex-wrap">
     {{ range .Site.Taxonomies.category.featured_campaigns }}
-    <div class="card text-center w-100">
 
+    <div class="card text-center rounded-0 border-dark m-1 gap-3">
       {{ $s := newScratch }}
       {{ $s.Set "filter" (images.Process "fit 350x350")  }}
 
@@ -15,25 +15,24 @@
 
       {{ with resources.Get ($s.Get "imageToUse" )}}
         {{ with . | images.Filter ($s.Get "filter") }}
-        <div class="embed-responsive embed-responsive-1by1">
       <img
 
         src="{{ .RelPermalink }}"
         width="{{ .Width }}"
         height="{{ .Height }}"
         alt=""
-        class="card-img-top embed-responsive-item"
+        class="card-img-top img-fluid rounded-0"
       />
-      </div>
       {{ end }} {{ end }}
 
-      <div class="card-body">
-        <h5 class="card-title">{{.Title}}</h5>
-        <p class="card-text">
+      <div class="card-body p-2">
+        <h4 class="card-title">{{.Title}}</h4>
+        <p class="card-text small">
            {{ .Params.summary }}
         </p>
-        {{/* todo: stretched-link might not be nice long term */}}
-        <a href="{{ .Permalink }}" class="text-uppercase  mx-auto btn btn-outline-primary-opaque stretched-link btn-sm  ">Learn more</a>
+      </div>
+      <div class="card-footer border-0 bg-transparent">
+      <a href="{{ .Permalink }}" class="text-uppercase  mx-auto btn btn-outline-primary-opaque btn-sm  ">Learn more</a>
       </div>
     </div>
     {{ end }}
