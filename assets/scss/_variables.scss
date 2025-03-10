@@ -75,7 +75,7 @@ div#can_embed_form_inner {
 }
 
 // display a different background when on the front page containing the 'hero' section
-body:has(.hero) {
+body:has(#hero) {
   height: 100%;
   // left and right background images
   background-image: url("../images/hero/nav-bg-left.svg"),

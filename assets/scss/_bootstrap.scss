@@ -60,6 +60,14 @@ $font-family-sans-serif: $primary-font;
     border-radius: 50rem !important;
 }
 
+// defining some core layouts that probably could live elsewhere
+main.frontpage {
+    // bootstrap sass mixins dont appear to offer help here so we just get to write (s)css
+    display: flex;
+    flex-direction: column;
+    row-gap: map-get($spacers, 4);
+}
+
 /*
 
 @import "tables";
