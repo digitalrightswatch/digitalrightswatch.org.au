@@ -1,4 +1,15 @@
 ---
+featured_campaigns:
+  category: featured_campaigns
+  enabled: true
+  title: Our campaigns
+  max_items: 4
+recent_articles:
+  enabled: true
+  title: Recent articles
+  max_items: 10
+  moreButtonText: See all posts
+
 enable: true
 title: Recent Articles
 blogButtonText: See all posts

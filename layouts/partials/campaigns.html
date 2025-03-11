@@ -1,9 +1,14 @@
+{{ with .Site.Data.homeblog.featured_campaigns}}
+
 <section class="container">
-  <h3 class="border-bottom border-dark py-2 my-4">Our campaigns</h3>
+  <h3 class="border-bottom border-dark py-2 my-4">
+          {{ .title }}
+  </h3>
+ 
   <div class="card-deck justify-content-around flex-wrap">
-    {{ range .Site.Taxonomies.category.featured_campaigns }}
+    {{ range first .max_items (index site.Taxonomies.category .category) }}
 <a href="{{ .Permalink }}" >
-    <div class="card text-center rounded-0 border-dark m-1 gap-3">
+    <div class="card text-center rounded-0 m-1">
       {{ $link := .Permalink  }}
       {{ $filter := (images.Process "fit 350x350")  }}
 
@@ -34,4 +39,5 @@
     {{ end }}
   </div>
 </section>
-<!--li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li-->
+
+{{end}}

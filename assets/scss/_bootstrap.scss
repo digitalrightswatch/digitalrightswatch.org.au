@@ -66,6 +66,16 @@ main.frontpage {
     row-gap: map-get($spacers, 4);
 }
 
+// break up the cards on the homepage blog view by alternating
+// picture then image, image then picture
+.alternating-card {
+    &:nth-of-type(odd) {
+        .row {
+            flex-direction: row-reverse;
+        }
+    }
+}
+
 /*
 
 @import "tables";
