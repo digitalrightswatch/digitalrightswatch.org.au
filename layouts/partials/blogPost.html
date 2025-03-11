@@ -48,9 +48,12 @@
                     </div>
 
                     {{ end }}
-                    {{ with .Site.GetPage "/blog" }}
-                    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  {{ end }}
+                    <div class="text-center">
+                      <a href="{{ (page.GetPage "blog").RelPermalink }}"
+                         class="mx-auto btn btn-primary btn-lg rounded">{{ .moreButtonText }}</a>
+                    </div>
+
+
 </section>
 
 {{end}}
