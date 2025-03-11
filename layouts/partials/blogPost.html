@@ -25,14 +25,15 @@
       <div class="col-md">
         <div class="card-body p-2">
           <div class="card-title">
+            {{if .Params.category}}
           {{ range first 1 .Params.category }}
 
           {{ with (index site.Taxonomies.category (lower .)) }}
-          <h5 class="text-uppercase text-accent-primary font-weight-bold small" >
-             {{.Page.Title | singularize}}
-          </h5>
+        <h5 class="text-uppercase text-accent-primary font-weight-bold small">
+            {{.Page.Title | singularize}}
+        </h5>
 
-          {{end}} {{end}}
+        {{end}} {{end}} {{end}}
         <h4><a href="{{.Permalink}}" class="stretched-link text-body"> {{.Title}} </a></h4>
           <a href="{{.Permalink}}" class="text-muted small">
             {{ .PublishDate.Format "January 2, 2006" }}</a
