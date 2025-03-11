@@ -127,11 +127,11 @@
 
         a {
           display: block;
-          color: $text-color;
+          color: $text-color-deprecated;
           transition: 0.3s ease;
 
           &:hover {
-            color: $text-color-dark;
+            color: $text-color-deprecated;
             text-decoration: none;
           }
         }
@@ -168,7 +168,7 @@
         li {
           list-style: none;
           a {
-            color: $text-color;
+            color: $text-color-deprecated;
             text-decoration: none;
             display: block;
             transition: all.5s ease-in-out;
@@ -178,7 +178,7 @@
             }
 
             &:hover {
-              color: $text-color-dark;
+              color: $text-color-dark-deprecated;
             }
           }
 

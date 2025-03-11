@@ -40,7 +40,7 @@
 .btn-platform {
   display: flex;
   padding: 15px 40px;
-  border: 2px solid $text-color-dark;
+  border: 2px solid $text-color-dark-deprecated;
   align-items: center;
   border-radius: 10px;
   font-weight: 600;
@@ -55,14 +55,14 @@
 
   i {
     svg {
-      fill: $text-color-dark;
+      fill: $text-color-dark-deprecated;
       transition: all 0.3s ease-in-out;
     }
   }
 
   &-area {
     margin-left: 12px;
-    color: $text-color-dark;
+    color: $text-color-dark-deprecated;
     font-size: 18px;
     transition: all 0.3s ease-in-out;
 
@@ -74,7 +74,8 @@
       margin-bottom: -5px;
       display: block;
       font-size: 14px;
-      color: $text-color;
+      color: $text-color-deprecated;
+
       transition: all 0.3s ease-in-out;
       font-weight: 400;
       @include mobile {

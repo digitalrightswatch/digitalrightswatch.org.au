@@ -9,13 +9,14 @@ $drw-yellow-muted: #f4ea54;
 $drw-blue-muted: #1e337c;
 
 //site color variables
-$body-color: #fff;
+$body-color-deprecated: #fff;
 $bg-color: #dff1f4;
 // original theme var mappings
 $primary-color: $drw-blue;
 $secondary-color: $drw-yellow-muted;
-$text-color: #8c8c94;
-$text-color-dark: #273437;
+$text-color-deprecated: #8c8c94;
+$text-color-dark-deprecated: #273437;
+
 $site-ease: cubic-bezier(0.77, 0, 0.175, 1);
 $border-color: #ededf4;
 $shadow-fill: #9273ff4d;
