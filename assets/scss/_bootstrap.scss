@@ -94,9 +94,24 @@ main.frontpage {
         visibility: visible;
     }
 }
+// our svg based social media icon things are not
+// quite aligned with their themify companions
+// and this slightly off zero valign seems to align
+// the svgs with the other icons a little nicer
+.svg-icon {
+    vertical-align: -0.06rem;
+}
+// use bootstrap to get an even smaller font for our footer
+.even-smaller {
+    @include font-size($small-font-size * 0.85);
+}
 
+// bootstrap does not have filters so make our own utility for this
+.filter-grayscale {
+    filter: grayscale(80%);
+}
 /*
-
+:
 @import "tables";
 @import "forms";
 @import "buttons";

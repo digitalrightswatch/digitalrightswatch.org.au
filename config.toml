@@ -37,8 +37,8 @@ summaryLength = 18
     url = "#"
     weight = 1
 [[menu.sitemap]]
-    name = "Latest Article"
-    pageRef = "/blog"
+    name = "About"
+    pageRef = "/about"
     weight = 2
 [[menu.sitemap]]
     name = "Privacy & Policy"
@@ -76,10 +76,6 @@ fabFormURL = "https://fabform.io/f/zWMBVeW"
 googleAnalytics = "UA-175025671-2"
 
 # Footer
-footerTitle = "Get the latest updates"
-copyright1 = "Copyright © Digital Rights Watch {year}"
-copyright2 = "Built using <a href=\"https://github.com/StaticMania/hugo-apsho\" target=\"_blank\">Apsho</a> with <a href=\"https://gohugo.io\" target=\"_blank\">Hugo</a>"
-
 [module]
   [[module.mounts]]
     source = 'assets'
