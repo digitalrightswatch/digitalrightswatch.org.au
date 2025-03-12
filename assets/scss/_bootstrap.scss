@@ -76,6 +76,25 @@ main.frontpage {
     }
 }
 
+@media (scripting: none) {
+    // always show when js is disabled
+    .visible-no-script {
+        visibility: visible !important;
+    }
+}
+// delayed visible - only shows this element after a delay of a few seconds
+// (useful to avoid briefly flashing up fallback UI which looks a bit jarring)
+.delayed-visible {
+    visibility: hidden;
+    animation: 0s linear 2s forwards delayed-show;
+}
+
+@keyframes delayed-show {
+    to {
+        visibility: visible;
+    }
+}
+
 /*
 
 @import "tables";

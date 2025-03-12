@@ -1,0 +1,47 @@
+// signup form embed used on footer and anywhere else signup to newsletter is required
+.signup-embed {
+    @media (scripting: enabled) {
+        // hardcoded height here: it's about the size of the form when it loads up to prevent layout jumps
+        // (but skip for non script enabled as the form is not loaded when no-js)
+        min-height: 380px;
+    }
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    #can-form-area-site-sign-up {
+        & input[type="submit"] {
+            @include button-variant(
+                theme-color("primary"),
+                theme-color("primary"),
+                theme-color("primary-alt")
+            );
+        }
+        .form {
+            background: $white;
+            color: $body-color;
+            padding: $spacer;
+        }
+        .can_float {
+            div#form_col1,
+            div#form_col2 {
+                float: none;
+                width: auto;
+            }
+        }
+    }
+    .can_embed.form {
+        #can_embed_form_inner {
+            & > h2 {
+                display: none;
+            }
+            & > h4 {
+                display: none;
+            }
+        }
+    }
+    #action_info {
+        display: none;
+    }
+}
