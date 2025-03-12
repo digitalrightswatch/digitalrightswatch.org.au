@@ -1,8 +1,7 @@
 .btn {
   // as per original theme implementation, we specify a transition that
   // will eventually be applied to the scaling factor added on hover (see below)
-  // note: this transition is being applied to all properties - not just the transform
-  transition: 0.5s ease;
+  transition: transform 0.5s ease;
 
   // using the 'rounded-pill' shape as per original site
   @extend .rounded-pill;
@@ -24,15 +23,25 @@
 
 // a variant of the outline button with a white rather than transparent background
 // that maintains the on-hover primary background of the original button
-// note: may be possible to use specificity to avoide the include etc.
-.btn-outline-primary-opaque {
-  @include button-outline-variant(theme-color("primary"));
 
-  // override hardcoded 'transparent' background of the outline buttons
-  background-color: $white;
+@each $color, $value in $theme-colors {
+  .btn-opaque-outline-#{$color} {
+    @include button-outline-variant($value);
+    &:hover {
+      // ensure that the default background colour on hover is restored
+      background-color: $value;
+    }
+    // override hardcoded 'transparent' background of the outline buttons
+    background-color: $white;
+  }
+}
+
+// outline buttons in our yellow dont suit having the same text colour
+// so let's make it the same as the hover colour
+.btn-opaque-outline-primary-alt {
+  color: theme-color("primary");
   &:hover {
-    // ensure that the default background colour on hover is restored
-    background-color: theme-color("primary");
+    color: theme-color("primary");
   }
 }
 
