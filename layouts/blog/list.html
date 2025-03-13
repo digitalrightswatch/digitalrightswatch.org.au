@@ -19,14 +19,11 @@
 <section class="blog">
   <div class="container">
     <div class="row">
-      {{ range (.Paginator 6).Pages }}
-        {{ partial "post-card.html" . }}
-      {{ end }}
+      {{ $pages := $.Site.RegularPages }} {{ range (.Paginate $pages 6).Pages }}
+      {{ partial "article-card.html" . }} {{ end }}
       <div class="col-lg-12">
         <div class="blog-pagination">
-          <nav>
-            {{ template "_internal/pagination.html" . }}
-          </nav>
+          <nav>{{ template "_internal/pagination.html" . }}</nav>
         </div>
       </div>
     </div>

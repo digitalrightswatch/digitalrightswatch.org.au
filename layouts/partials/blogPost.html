@@ -1,57 +1,15 @@
 {{ with .Site.Data.homeblog.recent_articles}}
 
 <section class="container">
-  <h3 class="border-bottom border-dark py-2 mb-4">{{ .title }}</h3>
+<h3 class="border-bottom border-dark py-2 mb-4">{{ .title }}</h3>
 
   {{ range first .max_items $.Site.RegularPages }}
-
-  <div class="card alternating-card rounded-0 mx-2 my-4">
-    <div class="row no-gutters align-items-a">
-      {{ $link := .Permalink }} {{ $filter := (images.Process "fill 400x300")}}
-      {{ with resources.Get .Params.featureImage}} {{with . | images.Filter
-      $filter }}
-      <div class="col-md-4">
-        <a href="{{$link}}">
-          <img
-            src="{{ .RelPermalink }}"
-            width="{{ .Width }}"
-            height="{{ .Height }}"
-            alt=""
-            class="img-fluid rounded-0"
-          />
-        </a>
-      </div>
-      {{ end }} {{ end }}
-      <div class="col-md">
-        <div class="card-body p-2">
-          <div class="card-title">
-            {{if .Params.category}}
-          {{ range first 1 .Params.category }}
-
-          {{ with (index site.Taxonomies.category (lower .)) }}
-        <h5 class="text-uppercase text-accent-primary font-weight-bold small">
-            {{.Page.Title | singularize}}
-        </h5>
-
-        {{end}} {{end}} {{end}}
-        <h4><a href="{{.Permalink}}" class="stretched-link text-body"> {{.Title}} </a></h4>
-          <a href="{{.Permalink}}" class="text-muted small">
-            {{ .PublishDate.Format "January 2, 2006" }}</a
-          >
-
-</div>
-                    <p class="card-text">{{ .Summary }}
-                    </p>
-                    </div>
-                    </div>
-                    </div>
-                    </div>
-
-                    {{ end }}
-                    <div class="text-center">
-                      <a href="{{ (page.GetPage "blog").RelPermalink }}"
-                         class="mx-auto btn btn-primary btn-lg rounded">{{ .moreButtonText }}</a>
-                    </div>
+    {{ partial "article-card.html" .}}
+  {{ end }}
+  <div class="text-center">
+    <a href="{{ (page.GetPage "blog").RelPermalink }}"
+       class="mx-auto btn btn-primary btn-lg rounded">{{ .moreButtonText }}</a>
+  </div>
 
 
 </section>
