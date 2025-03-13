@@ -1,5 +1,4 @@
 @import "bootstrap/functions";
-@import "bootstrap/variables";
 
 // setting border radius for rounded shapes
 // todo: upgrading to bootstrap 4.4 would give ability to use rounded-lg instead of overriding global border-radius
@@ -30,6 +29,8 @@ $theme-colors: (
 );
 
 $font-family-sans-serif: $primary-font;
+
+@import "bootstrap/variables";
 
 @import "bootstrap/mixins";
 @import "bootstrap/reboot";
