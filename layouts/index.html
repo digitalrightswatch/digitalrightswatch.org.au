@@ -7,5 +7,10 @@
 {{ partial "donate.html" . }}
 
 {{ partial "blogPost.html" . }}
+{{ $signupPage := site.GetPage "/signup" }}
+{{ if $signupPage }}
+  {{ partial "signupEmbed.html" $signupPage }}
+{{ end }}
+
 </main>
 {{ end }}
