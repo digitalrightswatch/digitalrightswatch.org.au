@@ -3,9 +3,10 @@
 // setting border radius for rounded shapes
 // todo: upgrading to bootstrap 4.4 would give ability to use rounded-lg instead of overriding global border-radius
 $border-radius: 10px;
+$dropdown-border-radius: 0;
 
 $navbar-padding-y: 20px;
-//$navbar-nav-link-padding-x: 1.5rem;
+
 // display fonts should be bold
 $display1-weight: 700;
 $display2-weight: 700;
@@ -47,7 +48,7 @@ $font-family-sans-serif: $primary-font;
 @import "bootstrap/transitions";
 @import "bootstrap/card";
 
-// additional utilities that bootstrap 5 and 4.4 would be able to provide
+// additional utilities that bootstrap 5+ would be able to provide
 
 // gap utility available at least by boostrap 5
 .gap-3 {
