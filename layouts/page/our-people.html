@@ -1,0 +1,78 @@
+{{ define "main" }}
+<main>
+  <div class="container">
+    <h1 class="display-3">{{ .Title}}</h1>
+    {{.Content}}
+  {{ with .Site.Data.our_people }} {{ if .enable }}
+    {{ range .sections }}
+    <div>
+      <h3>{{ .name }}</h3>
+      <div class="row justify-content-center">
+        {{ range .people }}
+        <div class="col-md-3">
+            {{ if .image }} {{ $name := .name }} {{ with resources.Get .image }}
+            {{ with .Fill "256x256 Center" }}
+            <img
+              class="thumb mx-auto my-2 d-block img-thumbnail rounded-circle"
+              src="{{ .RelPermalink }}"
+              width="{{ .Width }}"
+              height="{{ .Height }}"
+              alt="Photo of {{ $name }}"
+              class="img-fluid"
+            />
+            {{ end }} {{ end }} {{ end }}
+            <h4 class="text-center">{{ .name }}</h4>
+            {{ if .role }}
+            <h5 class="text-center">{{ .role }}</h5>
+            {{ end }} {{ if .description }}
+            <p class="small">{{ .description | markdownify }}</p>
+            {{ end }}
+            <div class="person-links m-1">
+              <ul class="socials justify-content-center d-flex flex-row nav">
+                {{ if .web }}
+                <li class="m-1 nav-item">
+                  <a class="nav-link" href="{{ .web }}">
+                    <img
+                      src="/wp-content/plugins/team-members/inc/img/links/website.png"
+                      alt="Website of {{ .name }}"
+                    />
+                  </a>
+                </li>
+                {{ end }} {{ if .twitter }}
+                <li class="m-1 nav-item">
+                  <a class="nav-link" href="https://twitter.com/{{ .twitter }}">
+                    <img
+                      src="/wp-content/plugins/team-members/inc/img/links/twitter.png"
+                      alt="Twitter account of {{ .name }}"
+                    />
+                  </a>
+                </li>
+                {{ end }} {{ if .email }}
+                <li class="m-1 nav-item">
+                  <a class="nav-link" href="mailto:{{ .email }}">
+                    <img
+                      src="/wp-content/plugins/team-members/inc/img/links/email.png"
+                      alt="Email {{ .name }}"
+                    />
+                  </a>
+                </li>
+                {{ end }} {{ if .fediverse }}
+                <li class="m-1 nav-item">
+                <a class="nav-link" href="{{ .fediverse }}">
+                    <img src="" alt="Find {{ .name }} on the Fediverse" />
+                </a>
+                </li>
+                {{ end }}
+                </ul>
+                </div>
+                </div>
+                {{ end }}
+                </div>
+                {{ end }}
+
+                {{ end }} {{ end }}
+                </div>
+
+                </main>
+
+{{end}}
