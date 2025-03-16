@@ -19,7 +19,7 @@
 "enableSourceMap" (not hugo.IsProduction)
 "includePaths" (slice "assets/scss/plugins/")
 }}
-{{ $stylex := resources.Get "scss/critical.scss" | resources.ToCSS $opts | minify }}
+{{ $stylex := resources.Get "scss/critical.scss" | toCSS $opts | minify }}
   <link href="{{ $stylex.Permalink }}" rel="stylesheet" />
 
   {{ "<!--Favicon-->" | safeHTML }}
