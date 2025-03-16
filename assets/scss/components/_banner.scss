@@ -1,0 +1,29 @@
+@mixin banner() {
+    @extend .jumbotron;
+    @extend .jumbotron-fluid;
+}
+.large-banner {
+    h3 {
+        @extend .display-4;
+    }
+
+    & > div {
+        align-items: flex-start;
+    }
+}
+.banner {
+    @include banner;
+}
+
+.aside-banner {
+    padding: $spacer * 2;
+    padding-bottom: $spacer * 2;
+    @include banner;
+    h3 {
+        @extend .display-4;
+        font-size: $h4-font-size;
+    }
+    h5 {
+        font-size: $h6-font-size;
+    }
+}

@@ -1,0 +1,18 @@
+{{ define "main" }}
+<main>
+  <div class="container">
+    <div class="row gap-lg-1">
+      <div class="col-md-8">
+        <h1 class="display-3">{{ .Title}}</h1>
+        <article class="blog-single-post">{{ .Content }}</article>
+      </div>
+      <div class="col-md-4 p-4">
+        <aside>
+          {{with .Params.banner}} {{ partial "banner.html" (dict "context" .
+          "style" "aside-banner") }} {{ end }}
+        </aside>
+      </div>
+    </div>
+  </div>
+</main>
+{{ end }}
