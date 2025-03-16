@@ -1,0 +1,26 @@
+<section class="bg-primary-alt my-2 {{ or .style "banner"}}">
+    {{ with .context }}
+<div class="container d-flex flex-column gap-3 align-items-center">
+      <div>
+    {{if .subtitle }}
+    <h5
+      class="text-primary"
+
+
+    >
+      {{.subtitle}}
+    </h5>
+
+    {{end}}
+    <h3 class="text-primary">{{ .title }}</h3>
+      </div>
+    {{if .description}}
+    <p class="text-primary">{{ .description | markdownify }}</p>
+    {{end}} {{if and .buttonUrl .buttonText}}
+    <a href="{{ .buttonUrl }}" class="btn btn-lg btn-opaque-outline-primary font-weight-bolder text-uppercase">
+        {{ .buttonText }}
+    </a>
+    {{end}}
+    </div>
+    {{end}}
+    </section>

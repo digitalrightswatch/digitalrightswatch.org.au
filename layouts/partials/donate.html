@@ -1,16 +1,2 @@
-{{ with .Site.Data.donate }} {{ if .enable }}
-<section class="jumbotron jumbotron-fluid bg-primary-alt my-2" id="donate">
-  <div class="container d-flex flex-column align-items-center gap-3">
-    <h3 class="text-primary">{{ .title }}</h3>
-
-    <p class="text-primary">{{ .description | markdownify }}</p>
-
-    <a
-      href="{{ .buttonUrl }}"
-      class="btn btn-lg btn-opaque-outline-primary font-weight-bolder text-uppercase"
-    >
-      {{ .buttonText }}
-    </a>
-  </div>
-</section>
-{{ end }} {{ end }}
+{{ with .Site.Data.donate }} {{ if .enable }} {{ partial "banner.html" (dict
+"context" .) }} {{ end }} {{ end }}
