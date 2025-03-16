@@ -119,7 +119,10 @@ main.frontpage {
         margin-left: $spacer * 2;
         @include media-breakpoint-up(md) {
             position: absolute !important;
+            background: $white;
             margin-left: 0;
+            // attempting to follow bootstrap's z-index approach to prevent an active menu being covered by the page
+            z-index: 3;
         }
     }
 
