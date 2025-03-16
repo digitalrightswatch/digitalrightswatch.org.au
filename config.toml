@@ -12,6 +12,7 @@ summaryLength = 18
 [taxonomies]
   author = "authors"
   category = 'category'
+  tags = 'tags'
 
 # Navigation Bar
 [[menu.main]]

@@ -1,0 +1,36 @@
+<article class="mb-4">
+  {{ $link := .Permalink }}
+  <div class="row">
+    {{ with resources.Get .Params.featureImage }}
+      {{ $thumb := .Fill "400x300" }}
+      <div class="col-md-4">
+        <a href="{{ $link }}">
+          <img src="{{ $thumb.RelPermalink }}" alt="{{ $.Title }}" class="img-fluid">
+        </a>
+      </div>
+      <div class="col-md-8">
+    {{ else }}
+      <div class="col-12">
+    {{ end }}
+        <h2 class="mb-1">
+          <a href="{{ $link }}" class="text-body">{{ .Title }}</a>
+        </h2>
+        <div class="mb-2 text-muted">
+          <small>
+              Posted on <a href={{$link}}>{{ .PublishDate.Format "January 2, 2006" }}</a>
+            {{ if .Params.author }} | by {{ .Params.author }}{{ end }}
+            {{ if .Params.category }}
+              | in 
+              {{ range $i, $cat := .Params.category }}
+                {{ if gt $i 0 }}, {{ end }}
+                <span class="badge badge-pill badge-primary">{{ $cat }}</span>
+              {{ end }}
+            {{ end }}
+          </small>
+        </div>
+        <p>{{ .Summary }}</p>
+        <a href="{{ $link }}" class="read-more-link">Read More <i class='ti-angle-double-right'></i></a>
+      </div>
+  </div>
+  <hr>
+</article>

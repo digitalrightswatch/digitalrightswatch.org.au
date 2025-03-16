@@ -1,0 +1,21 @@
+<div class="card bg-light border-0">
+  <div class="card-body">
+    <h4 class="card-title">{{ .title }}</h4>
+    <div class="card-text">
+      <ul class="list-unstyled">
+        {{ $items := .items }} {{ if .limit }} {{ $items = first .limit $items
+        }} {{ end }} {{ range $item := $items }}
+        <li>
+          <a href="{{ $item.url }}">
+            {{ $item.label | truncate 20 }} ({{ $item.count }})
+          </a>
+        </li>
+        {{ end }} {{ if .limit }}
+        <li>
+          <a href="{{ .allLink }}">All {{ .title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</div>
