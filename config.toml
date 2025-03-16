@@ -23,13 +23,28 @@ summaryLength = 18
     pageRef = "/about"
     weight = 2
 [[menu.main]]
-    name = "Donate"
-    url = "https://donate.digitalrightswatch.org.au"
-    weight = 3
+  name = "Our Vision"
+  url = "/about/vision/"
+  parent = "About"
+  weight = 1
+[[menu.main]]
+  name = "Our People"
+  url = "/about/our-people/"
+  parent = "About"
+  weight = 2
+
 [[menu.main]]
     name = "Blog"
     url = "/blog"
+    weight = 3
+[[menu.main]]
+    name = "Newsletter"
+    url = "/signup"
     weight = 4
+[[menu.main]]
+    name = "Donate"
+    url = "https://donate.digitalrightswatch.org.au"
+    weight = 5
 
 # Footer Sitemap
 [[menu.sitemap]]
