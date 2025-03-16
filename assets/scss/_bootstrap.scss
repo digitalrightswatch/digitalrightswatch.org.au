@@ -112,6 +112,22 @@ main.frontpage {
 .filter-grayscale {
     filter: grayscale(80%);
 }
+
+// Very basic dropdown menu styling without using the bootstrap dropdown components
+.nav-item {
+    .submenu {
+        margin-left: $spacer * 2;
+        @include media-breakpoint-up(md) {
+            position: absolute !important;
+            margin-left: 0;
+        }
+    }
+
+    summary {
+        display: list-item; // revert to being a list item so we get open/close arrows
+    }
+}
+
 /*
 :
 @import "tables";
