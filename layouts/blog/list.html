@@ -1,12 +1,8 @@
 {{ define "main" }}
 <main>
-  <div class="container">
-    <h1>{{ or .Title .Params.name }}</h1>
-    {{ with .Content }}
-    <article class="blog-single-post">{{ . }}</article>
-    {{ end }}
-
-      <div class="row gap-3">
+<div class="container">
+    {{partial "page-header.html" .}}
+    <div class="row gap-3">
         <div class="col-md">
           {{ $pages := $.Site.RegularPages }} {{ range (.Paginate $pages
           6).Pages }} {{ partial "article-list-item.html" . }} {{ end }}

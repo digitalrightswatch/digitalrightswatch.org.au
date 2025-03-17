@@ -1,6 +1,9 @@
 {{ define "main" }}
 <main>
-  <h1>{{.Title}}</h1>
-  {{ partial "signupEmbed.html" . }}
+  <div class="container">
+    {{partial "page-header.html" (dict "Title" .Title)}} {{ partial
+    "signupEmbed.html" . }}
+  </div>
 </main>
+
 {{end}}
