@@ -1,0 +1,20 @@
+{{ if not .IsHome }}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item">
+      <a href="{{ "/" | relURL }}">Home</a>
+    </li>
+    {{/* Reverse the ancestors so that the highest level comes first */}}
+    {{ range (.Ancestors.Reverse) }}
+    {{ if not .Params.noBreadcrumbs }}
+    <li class="breadcrumb-item">
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        </li>
+        {{ end }}
+      {{ end }}
+    <li class="breadcrumb-item active" aria-current="page">
+      {{ .Title }}
+    </li>
+  </ol>
+</nav>
+{{ end }}
