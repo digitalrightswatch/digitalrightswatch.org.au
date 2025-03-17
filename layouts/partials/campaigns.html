@@ -7,7 +7,7 @@
  
   <div class="card-deck justify-content-around flex-wrap">
     {{ range first .max_items (index site.Taxonomies.category .category) }}
-<a href="{{ .Permalink }}" >
+
     <div class="card text-center rounded-0 m-1">
       {{ $link := .Permalink  }}
       {{ $filter := (images.Process "fit 350x350")  }}
@@ -15,7 +15,7 @@
       {{ with resources.Get (or .Params.cardImage .Params.featureImage )}}
 
         {{ with . | images.Filter $filter }}
-           <a href="{{.Permalink}}">
+           <a href="{{$link}}">
            <img
             src="{{ .RelPermalink }}"
             width="{{ .Width }}"
