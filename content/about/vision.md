@@ -3,9 +3,7 @@ title: Our Vision
 authors: [drw]
 type: page
 date: 2020-10-19T00:37:27+00:00
-url: /about/
-aliases:
-  - /about/vision/
+url: /about/vision/
 banner:
   subtitle: Human Rights Champions
   title: Digital Rights Watch strategically defends digital rights in Australia.
