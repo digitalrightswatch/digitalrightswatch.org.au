@@ -50,6 +50,7 @@ $font-family-sans-serif: $primary-font;
 @import "bootstrap/card";
 @import "bootstrap/badge";
 @import "bootstrap/breadcrumb";
+@import "bootstrap/pagination";
 
 // additional utilities that bootstrap 5+ would be able to provide
 
@@ -140,6 +141,14 @@ main.frontpage {
         vertical-align: -2px;
     }
 }
+
+// useful to be able to center align pagination which is not customisable
+// via a bootrap 4.6 var
+.centered-pagination {
+    .pagination {
+        justify-content: center !important;
+    }
+}
 /*
 :
 @import "tables";
@@ -150,7 +159,6 @@ main.frontpage {
 @import "input-group";
 @import "custom-forms";
 @import "card";
-@import "pagination";
 @import "badge";
 @import "alert";
 @import "progress";

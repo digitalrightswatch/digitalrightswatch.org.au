@@ -10,7 +10,11 @@
         <div class="col-md">
           {{ $pages := $.Site.RegularPages }} {{ range (.Paginate $pages
           6).Pages }} {{ partial "article-list-item.html" . }} {{ end }}
-        </div>
+          <div class="centered-pagination">
+            <nav aria-label="Pagination links">{{ template "_internal/pagination.html" . }}</nav>
+            </div>
+
+            </div>
         <div class="col-md-3">
             <aside class="d-flex flex-column gap-3">
                 {{/* Sections (Categories) Navigation */}}
@@ -60,13 +64,7 @@
 
         </div>
         </div>
-     <div class="row">
-        <div class="col-md">
-          <div class="blog-pagination">
-            <nav>{{ template "_internal/pagination.html" . }}</nav>
-          </div>
-      </div>
-        </div>
+       </div>
       </div>
 
     </div>
