@@ -17,7 +17,7 @@
             </div>
         <div class="col-md-3">
             <aside class="d-flex flex-column gap-3">
-                {{/* Sections (Categories) Navigation */}}
+                {{/* Categories Navigation */}}
                 {{ $catItems := slice }}
                 {{ range $name, $taxonomy := .Site.Taxonomies.category }}
                 {{/* Build the URL path for the taxonomy term page */}}
@@ -30,7 +30,7 @@
                 ) }}
                 {{ end }}
                 {{ end }}
-                {{ partial "sidebar-links.html" (dict "title" "Sections" "items" $catItems) }}
+                {{ partial "sidebar-links.html" (dict "title" "Categories" "items" $catItems) }}
 
                 {{/* Tags Navigation */}}
                 {{ $tagsSlice := slice }}
