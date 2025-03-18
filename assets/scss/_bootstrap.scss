@@ -2,9 +2,7 @@
 
 // setting border radius for rounded shapes
 // todo: upgrading to bootstrap 4.4 would give ability to use rounded-lg instead of overriding global border-radius
-$border-radius: 10px;
-$dropdown-border-radius: 0;
-$card-border-radius: 0;
+$border-radius: 0;
 
 $navbar-padding-y: 20px;
 
@@ -149,26 +147,9 @@ main.frontpage {
         justify-content: center !important;
     }
 }
-/*
-:
-@import "tables";
-@import "forms";
-@import "buttons";
-@import "dropdown";
-@import "button-group";
-@import "input-group";
-@import "custom-forms";
-@import "card";
-@import "badge";
-@import "alert";
-@import "progress";
-@import "media";
-@import "list-group";
-@import "close";
-@import "modal";
-@import "tooltip";
-@import "popover";
-@import "carousel";
-@import "utilities";
-@import "print";
-*/
+
+// 30 em is a decent reading width apparently so use for blog article full text
+//
+.reading-width {
+    max-width: 30em;
+}

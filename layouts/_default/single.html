@@ -1,60 +1,67 @@
-{{ define "main" }}
-<main class="container my-5">
-        <header class="mb-4">
-  <h1>{{ .Title }}</h1>
-          <div class="text-muted mb-4">
-            <small>
-              Posted on {{ .PublishDate.Format "January 2, 2006" }}
-              {{ with index .Params.authors 0 }}
-                by <a href="{{ (printf "/authors/%s" (urlize .)) | relURL }}">{{ . }}</a>
-              {{ end }}
-            </small>
-          </div>
-        </header>
-<div class="row">
-    <!-- Main Article Content -->
-    <div class="col-md-8">
-      <article>
+{{ define "main" }} {{/* Get the first author from the authors taxonomy and
+fetch its term page */}} {{ $authorName := index .Params.authors 0 | lower }} {{
+$authorPage := and $authorName ($.Site.GetPage (printf "/authors/%s"
+$authorName)) }}
 
-          {{ if .Params.featureImage }}
-            <figure class="mb-3">
-              <img src="{{ .Params.featureImage }}" alt="{{ .Title }}" class="img-fluid">
-            </figure>
-          {{ end }}
-        <div class="m-auto" style="max-width:65ch;">
-          {{ .Content }}
-        </div>
+<main class="container">
+  <header class="mb-4">
+    <h1>{{ .Title }}</h1>
+    <div class="text-muted mb-4">
+      <small>
+        Posted on {{ .PublishDate.Format "January 2, 2006" }} {{ if $authorPage
+        }} by
+        <a href="{{ $authorPage.RelPermalink}}"
+          >{{ $authorPage.Params.name }}</a
+        >
+        {{ else if $authorName }} by {{$authorName}} {{ end }}
+      </small>
+    </div>
+  </header>
+  <div class="row">
+    {{/* Main Article Content */}}
+    <div class="col-md-8">
+      <article class="reading-width m-auto">
+        {{ if and .Params.featureImage (not (in
+        .Params.cybocfi_hide_featureImage true))}}
+        <figure class="mb-4">
+          <img
+            src="{{ .Params.featureImage }}"
+            alt="{{ .Title }}"
+            class="img-fluid"
+          />
+        </figure>
+        {{ end }}
+        <div class="m-auto">{{ .Content }}</div>
       </article>
     </div>
 
-
     <div class="col-md-4">
-    <aside>
-        {{/* Author Card */}}
-        {{/* Get the first author from the authors taxonomy and fetch its term page */}}
-        {{ $authorName := index .Params.authors 0 | lower }}
-        {{ if $authorName }}
-          {{ $authorPage := $.Site.GetPage (printf "/authors/%s" $authorName) }}
-          {{ if $authorPage }}
-            {{ partial "author-card.html" $authorPage }}
-          {{ end }}
-        {{ end }}
-
-         {{/* Download Document Card */}}
-    {{ if .Params.pdfAsset }}
-    <div class="card mb-4">
-      <div class="card-body text-center">
-        <h5 class="card-title">Attachments</h5>
-        <p class="card-text">Click below to download the submission as a PDF.</p>
-        <a href="{{ .Params.pdfAsset }}" class="btn btn-primary btn-lg" rel="noopener noreferrer">Download PDF</a>
+      <aside>
+        {{/* Author Card */}} {{ if $authorPage }} {{ partial "author-card.html"
+        $authorPage }} {{ end }} {{/* Download Document Card */}} {{ if
+        .Params.pdfAsset }}
+        <div class="card mb-4">
+          <div class="card-body text-center">
+            <h5 class="card-title">Attachments</h5>
+            <p class="card-text">
+              Click below to download the submission as a PDF.
+            </p>
+            <a
+              href="{{ .Params.pdfAsset }}"
+              class="btn btn-primary"
+              rel="noopener noreferrer"
+              download
+              >Download PDF</a
+            >
+          </div>
         </div>
-        </div>
-        {{ end }}
-        {{/* Newsletter signup Card (todo: make less messy call to partial) */}}
-        {{ partial "banner.html" (dict "style" "aside-banner" "context"
-        (dict "subtitle" "Subscribe to our Newsletter" "description" "Get the latest updates delivered straight to your inbox" "buttonUrl" "/signup" "buttonText" "Sign Up") ) }}
-    </aside>
-        </div>
+        {{ end }} {{/* Newsletter signup Card (todo: make less messy call to
+        partial) */}} {{ partial "banner.html" (dict "style" "aside-banner"
+        "context" (dict "subtitle" "Subscribe to our Newsletter" "description"
+        "Get the latest updates delivered straight to your inbox" "buttonUrl"
+        "/signup" "buttonText" "Sign Up") ) }}
+      </aside>
+    </div>
   </div>
 </main>
 {{ end }}

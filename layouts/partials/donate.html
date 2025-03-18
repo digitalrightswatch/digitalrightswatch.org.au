@@ -1,2 +1,2 @@
 {{ with .Site.Data.donate }} {{ if .enable }} {{ partial "banner.html" (dict
-"context" .) }} {{ end }} {{ end }}
+"context" . "buttonStyle" "btn-lg") }} {{ end }} {{ end }}
