@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
 @import "bootstrap/functions";
 
 // setting border radius for rounded shapes
@@ -28,7 +30,8 @@ $theme-colors: (
     "accent-secondary": $drw-yellow
 );
 
-$font-family-sans-serif: $primary-font;
+$enable-responsive-font-sizes: true;
+$font-family-sans-serif: "Open Sans", sans-serif;
 
 @import "bootstrap/variables";
 
