@@ -46,6 +46,8 @@ summaryLength = 18
     name = "Donate"
     url = "https://donate.digitalrightswatch.org.au"
     weight = 5
+    [menu.main.params]
+      callToAction = true
 
 # Footer Sitemap
 [[menu.sitemap]]

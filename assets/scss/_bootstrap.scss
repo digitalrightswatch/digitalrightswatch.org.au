@@ -6,7 +6,9 @@
 // todo: upgrading to bootstrap 4.4 would give ability to use rounded-lg instead of overriding global border-radius
 $border-radius: 0;
 
-$navbar-padding-y: 20px;
+$breadcrumb-divider: ">";
+$breadcrumb-bg: transparent;
+$breadcrumb-margin-bottom: 0;
 
 // display fonts should be bold
 $display1-weight: 700;
@@ -34,6 +36,8 @@ $enable-responsive-font-sizes: true;
 $font-family-sans-serif: "Open Sans", sans-serif;
 
 @import "bootstrap/variables";
+
+$breadcrumb-font-size: $font-size-sm;
 
 @import "bootstrap/mixins";
 @import "bootstrap/reboot";

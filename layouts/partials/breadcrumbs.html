@@ -11,7 +11,15 @@
         <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
         </li>
         {{ end }}
-      {{ end }}
+        {{ end }}
+
+        {{/** add in first category to nav to show 'articles' 'submissions'**/}}
+        {{with (index .Params.category 0)}}
+          {{ $termPage := $.Site.GetPage (printf "/category/%s" (. | urlize)) }}
+        <li class="breadcrumb-item" >
+          <a href="{{ $termPage.RelPermalink }}"> {{ $termPage.Title }}</a>
+        </li>
+        {{end}}
     <li class="breadcrumb-item active" aria-current="page">
       {{ .Title }}
     </li>

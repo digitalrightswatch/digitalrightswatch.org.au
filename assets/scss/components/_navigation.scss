@@ -1,28 +1,18 @@
 .main-nav {
+  background-color: transparent;
+  .navbar-collapse {
+    justify-content: flex-end;
+  }
+
   .navbar-nav {
-    .nav-item {
-      // custom styling for links in nav
-      .nav-link {
-        font-weight: 500;
-        text-transform: uppercase;
-        letter-spacing: 2px;
-        font-size: $font-size-sm;
-      }
-      // nav bar buttons have a slightly different look:
-      // smaller uppercase text with wider letter spacing
-      .btn {
-        text-transform: uppercase;
-        font-size: $font-size-sm;
-        letter-spacing: 1.4px;
-      }
+    align-items: baseline;
+    column-gap: $spacer * 0.5;
+    justify-content: flex-end;
+    .nav-item a {
+      display: block;
     }
   }
 
-  a.btn {
-    text-transform: uppercase;
-    font-size: $font-size-sm;
-    letter-spacing: 1.4px;
-  }
   // based by https://christianoliff.com/blog/styling-external-links-with-an-icon-in-css/
   // ( although using on a navbar instead  )
   a[href^="https://"]::after
@@ -37,13 +27,28 @@
     background-size: contain;
     display: inline-block;
   }
+}
 
-  // navbar can take up chunk of the width of the screen
-  // and space out the menu items nicely
-  // caution: this might stop being as nice if many more nav items appear in the nav
-
-  .navbar-nav {
-    min-width: 50vw;
-    justify-content: space-around;
+.secondary-nav {
+  ul.nav {
+    border: 1px theme-color("accent-primary") solid;
+    border-width: 1px 0;
+    background-color: lighten(theme-color("accent-primary"), 60%);
+    .nav-item {
+      padding: 0;
+      .nav-link {
+        @include font-size($small-font-size);
+        color: theme-color("dark");
+        padding-left: $spacer;
+        padding-right: $spacer;
+        &:hover {
+          background: lighten(theme-color("accent-primary"), 50%);
+        }
+        &.active {
+          font-weight: bold;
+          background: lighten(theme-color("accent-primary"), 50%);
+        }
+      }
+    }
   }
 }

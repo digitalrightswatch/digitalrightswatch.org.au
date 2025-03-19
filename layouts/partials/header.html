@@ -1,67 +1,60 @@
 {{ $currentPage := . }}
-<nav
-  class="navbar navbar-expand-md navbar-light bg-transparent main-nav flex-wrap"
->
-  <a class="navbar-brand" href="{{ .Site.BaseURL }}">
-    <img
-      class="logo-main"
-      src="{{ .Site.Params.logo | absURL }}"
-      alt="{{ .Site.Params.logoAltText }}"
-      width="154px"
-    />
-  </a>
-  <button
-    class="navbar-toggler"
-    type="button"
-    data-toggle="collapse"
-    data-target="#mainNav"
-    aria-controls="mainNav"
-    aria-expanded="false"
-    aria-label="Toggle navigation"
-  >
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse flex-wrap" id="mainNav">
-    <ul
-      class="navbar-nav ml-auto align-items-start flex-wrap flex-md-row flex-column"
+
+<nav class="navbar navbar-expand-md navbar-light main-nav">
+  <div class="container">
+    <a class="navbar-brand" href="{{ .Site.BaseURL }}">
+      <img
+        class="logo-main"
+        src="{{ .Site.Params.logo | absURL }}"
+        alt="{{ .Site.Params.logoAltText }}"
+        width="154px"
+      />
+    </a>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-toggle="collapse"
+      data-target="#mainNav"
+      aria-controls="mainNav"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
     >
-      {{ range .Site.Menus.main }} {{ if eq .Parent "" }} {{ $hasChildren := gt
-      (len .Children) 0 }} {{ $current := or (eq (index
-      $currentPage.Params.aliases 0) .URL) (eq $currentPage.RelPermalink .URL)
-      (and (ne .URL "/") (hasPrefix $currentPage.RelPermalink .URL)) }}
-      <li class="nav-item">
-        {{ if $hasChildren }}
-        <details>
-          <summary
-            class="nav-link{{ if $current }} active font-weight-bold{{ end }}"
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="mainNav">
+    <ul class="navbar-nav">
+        {{ range .Site.Menus.main }}
+      {{ if eq .Parent "" }}
+        {{$current:= or ($currentPage.IsMenuCurrent .Menu .) ($currentPage.HasMenuCurrent .Menu .) }}
+
+        <li class="nav-item">
+
+          <a
+            href="{{ .URL | relURL }}"
+            class="nav-link {{if .Params.callToAction}} btn btn-sm btn-primary-alt px-3 {{end}} {{ if $current }} active font-weight-bold{{ end }} text-uppercase"
           >
             {{ .Name }}
-          </summary>
-          <div class="submenu">
-            {{ range .Children }} {{ $childCurrent := or (eq (index
-            $currentPage.Params.aliases 0) .URL) (hasPrefix
-            $currentPage.RelPermalink .URL) }}
-            <a
-              class="nav-link{{ if $childCurrent }} active font-weight-bold{{ end }}"
-              href="{{ .URL | relURL }}"
-            >
-              {{ .Name }}
-            </a>
-            {{ end }}
-          </div>
-        </details>
-        {{ else }}
-        <a
-          href="{{ .URL | relURL }}"
-          class="nav-link{{ if $current }} active font-weight-bold{{ end }}"
-        >
-          {{ .Name }}
-        </a>
-        {{ end }}
-      </li>
-      {{ end }} {{ end }}
-    </ul>
+          </a>
+        </li>
+        {{ end }} {{ end }}
+      </ul>
+    </div>
   </div>
 </nav>
-
+<div class="container mb-4">
 {{ partial "breadcrumbs.html" . }}
+{{ range site.Menus.main }}
+  {{ if and (.HasChildren) (or (eq $currentPage.RelPermalink .URL) ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)) }}
+    <nav class="secondary-nav">
+              <ul class="nav">
+                {{ range .Children }}
+                  <li class="nav-item">
+                    <a class="nav-link {{ if or (eq $currentPage.RelPermalink .URL) ($currentPage.IsMenuCurrent "main" .) }}active{{ end
+                        }}" href="{{ .URL }}">{{ .Name }}</a>
+                    </li>
+                    {{ end }}
+                    </ul>
+    </nav>
+    {{ end }}
+{{ end }}
+</div>
