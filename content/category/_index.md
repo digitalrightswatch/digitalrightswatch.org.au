@@ -1,4 +1,6 @@
 ---
-noBreadcrumbs: true
+title: Publications
+aliases:
+    - /publications
 ---
 

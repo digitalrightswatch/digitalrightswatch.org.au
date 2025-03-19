@@ -20,32 +20,56 @@ summaryLength = 18
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "About"
-    pageRef = "/about"
+    name = "The Latest"
+    pageRef = "/blog"
     weight = 2
 [[menu.main]]
+    name = "Events"
+    pageRef = "/category/events"
+    weight = 3
+[[menu.main]]
+    name = "Publications"
+    pageRef = "/category/reports"
+    weight = 4
+[[menu.main]]
+    name = "Reports"
+    pageRef = "/category/reports"
+    weight = 1
+    parent = "Publications"
+[[menu.main]]
+    name = "Articles"
+    pageRef = "/category/articles"
+    weight = 2
+    parent = "Publications"
+[[menu.main]]
+    name = "Submissions"
+    pageRef = "/category/submissions"
+    weight = 3
+    parent = "Publications"
+[[menu.main]]
+    name = "Tools & Guides"
+    pageRef = "/category/tools-and-guides"
+    weight = 4
+    parent = "Publications"
+[[menu.main]]
+    name = "About Us"
+    pageRef = "/about/vision"
+    weight = 6
+[[menu.main]]
   name = "Our Vision"
-  url = "/about/vision/"
-  parent = "About"
+  pageRef = "/about/vision"
+  parent = "About Us"
   weight = 1
 [[menu.main]]
   name = "Our People"
-  url = "/about/our-people/"
-  parent = "About"
+  pageRef = "/about/our-people/"
+  parent = "About Us"
   weight = 2
 
 [[menu.main]]
-    name = "The Latest"
-    url = "/articles"
-    weight = 3
-[[menu.main]]
-    name = "Newsletter"
-    url = "/signup"
-    weight = 4
-[[menu.main]]
     name = "Donate"
     url = "https://donate.digitalrightswatch.org.au"
-    weight = 5
+    weight = 8
     [menu.main.params]
       callToAction = true
 
