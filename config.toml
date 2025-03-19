@@ -36,7 +36,7 @@ summaryLength = 18
 
 [[menu.main]]
     name = "The Latest"
-    url = "/news"
+    url = "/articles"
     weight = 3
 [[menu.main]]
     name = "Newsletter"
