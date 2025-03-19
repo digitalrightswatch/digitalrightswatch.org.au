@@ -1,58 +1,54 @@
 {{ define "main" }}
-
-<section class="page-header">
+<main>
   <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-8">
-        <h1>{{ .Title }}</h1>
-        <p>
-          {{ .Params.description }}
-        </p>
-        {{ .Content }}
-      </div>
+    {{partial "page-header.html" .}}
+    <div class="m-auto">
+      {{ range (.Paginator 6).Pages }} {{partial "post-card.html" (dict
+      "context" .)}} {{end}}
     </div>
-  </div>
-</section>
-
-<section class="blog">
-  <div class="container">
-    <div class="row">
-      {{ range (.Paginator 6).Pages }}
-        <div class="col-lg-4 col-md-6">
-          <article class="blog-post-item">
-            <div class="blog-post-thumb">
-              <a href="{{ .Permalink }}">
-              {{ if .Params.featureImage }} {{ with resources.Get .Params.featureImage }} {{ with .Fill "320x200 Center" }}
-                <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
-              {{ end }} {{ end }} {{ end }}
-              </a>
-            </div>
-            <div class="blog-post-content">
-              <h2>
-                <a href="{{ .Permalink }}"
-                  >{{ .Title }}</a
-                >
-              </h2>
-              <div class="post-author">
-                <div class="thumb">
-                  <img src="{{ .Params.authorThumb | absURL }}" alt="" />
+    <section class="blog">
+      <div class="container">
+        <div class="row">
+          {{ range (.Paginator 6).Pages }}
+          <div class="col-lg-4 col-md-6">
+            <article class="blog-post-item">
+              <div class="blog-post-thumb">
+                <a href="{{ .Permalink }}">
+                  {{ if .Params.featureImage }} {{ with resources.Get
+                  .Params.featureImage }} {{ with .Fill "320x200 Center" }}
+                  <img
+                    src="{{ .RelPermalink }}"
+                    width="{{ .Width }}"
+                    height="{{ .Height }}"
+                    alt=""
+                  />
+                  {{ end }} {{ end }} {{ end }}
+                </a>
+              </div>
+              <div class="blog-post-content">
+                <h2>
+                  <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </h2>
+                <div class="post-author">
+                  <div class="thumb">
+                    <img src="{{ .Params.authorThumb | absURL }}" alt="" />
+                  </div>
+                  <div class="meta">
+                    <h3>{{ .Params.author }}</h3>
+                    <p>{{ .PublishDate.Format "January 2, 2006" }}</p>
+                  </div>
                 </div>
-                <div class="meta">
-                  <h3>{{ .Params.author }}</h3>
-                  <p>{{ .PublishDate.Format "January 2, 2006" }}</p>
+                <div class="my-2 post-summary">
+                  <p>{{ .Summary }}</p>
                 </div>
               </div>
-              <div class="my-2 post-summary">
-                <p>{{ .Summary }}</p>
-              </div>
-            </div>
-          </article>
-        </div>
-      {{ end }}
-      <div class="col-lg-12">
-        <div class="blog-pagination">
-          <nav>
-            <!-- <ul class="pagination">
+            </article>
+          </div>
+          {{ end }}
+          <div class="col-lg-12">
+            <div class="blog-pagination">
+              <nav>
+                <!-- <ul class="pagination">
               <li class="page-item active" aria-current="page">
                 <span class="page-link">
                   1
@@ -63,16 +59,17 @@
               <li class="page-item"><a class="page-link" href="#">3</a></li>
               <li class="page-item">
                 <a class="page-link" href="#">
-                  <i class="ti-angle-right"></i>
+                <i class="ti-angle-right"></i>
                 </a>
-              </li>
-            </ul> -->
-            {{ template "_internal/pagination.html" . }}
-          </nav>
+                </li>
+                </ul> -->
+                {{ template "_internal/pagination.html" . }}
+              </nav>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
+    </section>
   </div>
-</section>
-
+</main>
 {{ end }}

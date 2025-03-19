@@ -41,11 +41,11 @@
     </div>
   </div>
 </nav>
-<div class="container mb-4">
+<div class="container mb-2">
 {{ partial "breadcrumbs.html" . }}
 {{ range site.Menus.main }}
   {{ if and (.HasChildren) (or (eq $currentPage.RelPermalink .URL) ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)) }}
-    <nav class="secondary-nav">
+    <nav class="secondary-nav mb-2">
               <ul class="nav">
                 {{ range .Children }}
                   <li class="nav-item">

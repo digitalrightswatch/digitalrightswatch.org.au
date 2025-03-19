@@ -1,42 +1,29 @@
-<div class="col-lg-4 col-md-6">
-  <article class="blog-post-item">
-    <div class="blog-post-thumb">
-      <a href="{{ .Permalink }}">
-        {{ if .Params.featureImage }} {{ with resources.Get .Params.featureImage }} {{ with .Fill "320x200 Center" }}
-          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
-        {{ end }} {{ end }} {{ end }}
-      </a>
-    </div>
-    <div class="blog-post-content">
-      <h2>
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </h2>
-      <div class="post-author">
-        {{/* FIXME: Tidy display for multiple authors */}}
-        {{ $publishDate := .PublishDate}}
-        {{- range .Params.authors }}
-        {{- with $.Site.GetPage "taxonomyTerm" (printf "authors/%s" (urlize .)) }}
-        <div class="thumb">
-          <img src="{{ .Params.image | absURL }}" alt="" />
-        </div>
-        <div class="meta">
-          <h3><a href="{{ .Permalink }}">{{ .Params.name }}</a></h3>
-          <p>{{ $publishDate.Format "January 2, 2006" }}</p>
-        </div>
-        {{- end }}
-        {{ else }}
-        <div class="thumb">
-          <img src="{{ .Params.authorThumb | absURL }}" alt="" />
-        </div>
-        <div class="meta">
-          <h3>{{ .Params.author }}</h3>
-          <p>{{ $publishDate.Format "January 2, 2006" }}</p>
-        </div>
-        {{ end }}
-      </div>
-      <div class="my-2 post-summary">
-        <p>{{ .Summary }}</p>
-      </div>
-    </div>
-  </article>
+{{ with .context }} {{ $link := .Permalink }} {{ $filter := (images.Process "fit 350x350") }}
+
+<div class="card text-center rounded-0 m-1 reading-width">
+  {{ with resources.Get (or .Params.cardImage .Params.featureImage )}} {{ with .
+  | images.Filter $filter }}
+  <a href="{{$link}}">
+    <img
+      src="{{ .RelPermalink }}"
+      width="{{ .Width }}"
+      height="{{ .Height }}"
+      alt=""
+      class="card-img-top img-fluid rounded-0"
+    />
+  </a>
+  {{ end }} {{ end }}
+
+  <div class="card-body p-2">
+    <a href="{{.Permalink}}"><h4 class="card-title">{{.Title}}</h4></a>
+    <p class="card-text small">{{ .Params.summary }}</p>
+  </div>
+  <div class="card-footer border-0 bg-transparent">
+    <a
+      href="{{ .Permalink }}"
+      class="text-uppercase mx-auto btn btn-outline-primary-opaque btn-sm"
+      >Learn more</a
+    >
+  </div>
 </div>
+{{end}}

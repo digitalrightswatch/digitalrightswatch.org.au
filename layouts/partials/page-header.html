@@ -1,6 +1,7 @@
-<div class="border-bottom mb-4">
-  <h1 class="mb-2 text-center">{{ or .Title .Params.name }}</h1>
+<div class="mb-4">
+  <h1 class="mb-2 text-center border-bottom">{{ or .Title .Params.name }}</h1>
   {{ with .Content }}
-  <article>{{ . }}</article>
+  <div class="border-bottom article-content">{{ . }}</div>
+
   {{ end }}
 </div>
