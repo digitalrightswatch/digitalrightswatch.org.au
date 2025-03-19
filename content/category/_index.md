@@ -1,0 +1,4 @@
+---
+noBreadcrumbs: true
+---
+
