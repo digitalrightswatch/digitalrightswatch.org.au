@@ -1,6 +1,9 @@
-{{ with .context }} {{ $link := .Permalink }} {{ $filter := (images.Process "fit 350x350") }}
+{{ $include:= .include }}
+{{ $filter := (or .imageFilter (images.Process "fit 350x350")) }}
+{{ with .context }}
+{{ $link := .Permalink }} 
 
-<div class="card text-center rounded-0 m-1 reading-width">
+<div class="card text-center rounded-0 m-1 reading-width h-100">
   {{ with resources.Get (or .Params.cardImage .Params.featureImage )}} {{ with .
   | images.Filter $filter }}
   <a href="{{$link}}">
@@ -16,7 +19,10 @@
 
   <div class="card-body p-2">
     <a href="{{.Permalink}}"><h4 class="card-title">{{.Title}}</h4></a>
-    <p class="card-text small">{{ .Params.summary }}</p>
+    {{if in $include "date"}}
+      <p>{{ .PublishDate.Format "January 2, 2006" }}</p>
+      {{end}}
+    <p class="card-text small article-content">{{ or .Summary  .Params.summary }}</p>
   </div>
   <div class="card-footer border-0 bg-transparent">
     <a

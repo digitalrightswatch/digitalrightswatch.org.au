@@ -1,11 +1,15 @@
 {{ with .Site.Data.homeblog.recent_articles}}
+{{$recent_articles_with_images := where $.Site.RegularPages "Params.featureImage" "ne" nil }}
 
 <section class="container">
 <h3 class="border-bottom border-dark py-2 mb-4">{{ .title }}</h3>
-
-  {{ range first .max_items $.Site.RegularPages }}
-    {{ partial "article-card.html" .}}
+<div class="row">
+    {{ range first .max_items $recent_articles_with_images}}
+<div class="col-md-4">
+    {{ partial "article-card.html" (dict "context" . "include" (slice "category" "date"))}}
+</div>
   {{ end }}
+</div>
   <div class="text-center">
     <a href="{{ (page.GetPage "blog").RelPermalink }}"
        class="mx-auto btn btn-primary btn-lg rounded">{{ .moreButtonText }}</a>
