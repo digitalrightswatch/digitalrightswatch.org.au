@@ -1,0 +1,18 @@
+{{ define "main" }}
+<main>
+  <div class="container">
+    {{partial "page-header.html" .}}
+    <div class="row gap-3">
+      <div class="col-md">
+        {{ $pages := .Pages }} {{ range (.Paginate $pages 6).Pages }} {{ partial
+        "article-list-item.html" . }} {{ end }}
+        <div class="centered-pagination">
+          <nav aria-label="Pagination links">
+            {{ template "_internal/pagination.html" . }}
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+{{end}}
