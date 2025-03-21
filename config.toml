@@ -13,7 +13,8 @@ summaryLength = 18
   author = "authors"
   category = 'category'
   tags = 'tags'
-
+  # used to mark certain content as featured and displayed more prominently
+  featured = 'featured'
 # Navigation Bar
 [[menu.main]]
     name = "Home"

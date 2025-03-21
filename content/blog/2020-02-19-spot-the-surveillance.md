@@ -19,6 +19,8 @@ eg_custom_meta_216:
   - 'true'
 category:
   - 'Tools and Guides'
+featured:
+  - 'Tools and Guides'
 
 ---
 A VR Experience from EFF for Keeping an Eye on Big Brother

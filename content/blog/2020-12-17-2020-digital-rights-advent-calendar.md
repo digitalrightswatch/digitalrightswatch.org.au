@@ -20,6 +20,9 @@ cybocfi_hide_featureImage:
   - yes
 category:
   - 'Tools and Guides'
+featured:
+  - 'Tools and Guides'
+
 
 ---
 #### It&#8217;s just what you wished for!
