@@ -1,4 +1,4 @@
-{{ $include:= .include }} {{ $filter := (or .imageFilter (images.Process "fill 400x300")) }} {{ with .context }} {{ $link := .Permalink }}
+{{ $include:= or .include (slice "date" "summary" "category" ) }} {{ $filter := (or .imageFilter (images.Process "fill 400x300")) }} {{ with .context }} {{ $link := .Permalink }}
 
 <div class="card rounded-0 m-0 reading-width h-100">
   {{ with resources.Get (or .Params.cardImage .Params.featureImage )}} {{ with .
@@ -31,10 +31,12 @@
 {{if in $include "date"}}
     <p>{{ .PublishDate.Format "January 2, 2006" }}</p>
     {{end}}
+{{if in $include "summary"}}
     <p class="card-text small article-content">
       {{ or .Summary .Params.summary }}
     </p>
         <a href="{{ $link }}" class="read-more-link">Read More <i class='ti-angle-double-right'></i></a>
+    {{end}}
     
   </div>
   
