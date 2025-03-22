@@ -1,7 +1,7 @@
 ---
 title: Events
-date: 2017-03-23
-publishdate: 2017-03-24
+targetcategory: events
+maxitems: 3
 ---
 
 ## We host and support events that bring digital policy discussions to our community

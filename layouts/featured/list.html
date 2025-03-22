@@ -1,0 +1,30 @@
+{{ define "main" }}
+{{$categoryPage:= ($.Site.GetPage (printf "/category/%s" (.Data.Term | urlize)))}}
+{{$max_pages:= (or .Params.maxitems 10) }}
+{{$include_article_fields:= (or .Params.includeArticleFields (slice "date" "summary" "featureImage")) }}
+{{$pages := .Pages }}
+
+<main>
+  <div class="container">
+    {{partial "page-header.html" .}}
+    <div class="row">
+      {{ range first $max_pages $pages }}
+      <div class="col-md-4">
+        {{partial "article-card.html" (dict "context" . "include"
+        $include_article_fields "imageFilter" (images.Process "fill 320x200 Center" ) )}}
+      </div>
+      {{end}}
+    </div>
+    <div class="text-center m-4">
+      {{ with $categoryPage }}
+      <a
+        href="{{ .RelPermalink }}"
+        class="mx-auto btn btn-primary btn-lg rounded"
+      >
+        More {{ .Data.Term | pluralize }}
+      </a>
+      {{end}}
+    </div>
+  </div>
+</main>
+{{ end }}
