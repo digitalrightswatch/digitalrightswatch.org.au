@@ -17,8 +17,8 @@ summaryLength = 18
   featured = 'featured'
 # Navigation Bar
 [[menu.main]]
-    name = "Home"
-    url = "/"
+    name = "Campaigns"
+    url = "/featured/campaigns"
     weight = 1
 [[menu.main]]
     name = "The Latest"
