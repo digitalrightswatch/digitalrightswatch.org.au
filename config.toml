@@ -26,7 +26,7 @@ summaryLength = 18
     weight = 2
 [[menu.main]]
     name = "Events"
-    pageRef = "/category/events"
+    pageRef = "/featured/events"
     weight = 3
 [[menu.main]]
     name = "Publications"
@@ -49,7 +49,7 @@ summaryLength = 18
     parent = "Publications"
 [[menu.main]]
     name = "Tools & Guides"
-    pageRef = "/category/tools-and-guides"
+    pageRef = "/featured/tools-and-guides"
     weight = 4
     parent = "Publications"
 [[menu.main]]
