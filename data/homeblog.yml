@@ -1,6 +1,5 @@
 ---
 featured_campaigns:
-  category: featured_campaigns
   enabled: true
   title: Our campaigns
   max_items: 4

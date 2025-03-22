@@ -18,7 +18,8 @@ eg_custom_meta_216:
   - 'true'
 category:
   - Events
-
+featured:
+  - Events
 ---
 Do you want to contribute to the fight for better privacy protection in Australia? Are you perhaps unsure about where to start, or what to focus on?
 

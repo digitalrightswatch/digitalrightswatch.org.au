@@ -20,7 +20,8 @@ eg_custom_meta_216:
 category:
   - Articles
   - Campaigns
-  - featured_campaigns
+featured:
+  - Campaigns
 tags:
   - privacy reform
 summary: Learn more about the campaign for privacy law reform in Australia to keep Australians safe online.

@@ -24,7 +24,8 @@ category:
 tags:
   - policy
   - submission
-
+featured:
+  - Events
 ---
 On 7 October 2021 Digital Rights Watch teamed up with Electronic Frontiers Australia (EFA) to host a live online workshop on **how to write your own policy submission.**
 
