@@ -1,3 +1,4 @@
 ---
-title: Publications
+title: Featured
+noBreadcrumbs: true
 ---

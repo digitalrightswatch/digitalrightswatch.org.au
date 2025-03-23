@@ -1,6 +1,6 @@
 ---
 title: Events
-targetcategory: events
+linkTitle: Latest Events
 maxitems: 3
 ---
 
