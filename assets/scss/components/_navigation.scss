@@ -1,18 +1,38 @@
-.main-nav {
-  background-color: transparent;
-  .navbar-collapse {
-    justify-content: flex-end;
-  }
+.navbar-nav-underlined {
+  border-bottom: 1px solid $gray-200;
 
-  .navbar-nav {
-    align-items: baseline;
-    column-gap: $spacer * 0.5;
-    justify-content: flex-end;
-    .nav-item a {
+  align-items: last baseline;
+  column-gap: $spacer;
+  justify-content: flex-end;
+  .nav-item {
+    position: relative;
+    flex-grow: 1;
+    flex-shrink: 0;
+    a {
       display: block;
+      padding-top: 0;
+      margin-bottom: $spacer * 0.5;
+      word-break: keep-all;
+    }
+    .btn {
+      // make nav button gap balanced with rest of menu:
+      margin-left: $spacer * 0.25;
+    }
+    .active::after {
+      content: "";
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 3px;
+      background-color: #000;
     }
   }
+}
 
+.main-nav {
+  background-color: transparent;
+  padding-bottom: 0;
   // based by https://christianoliff.com/blog/styling-external-links-with-an-icon-in-css/
   // ( although using on a navbar instead  )
   a[href^="https://"]::after
@@ -27,27 +47,42 @@
     background-size: contain;
     display: inline-block;
   }
+  @include media-breakpoint-up(lg) {
+    .container {
+      align-items: stretch;
+
+      .navbar-collapse {
+        justify-content: flex-end;
+        align-items: stretch;
+      }
+    }
+  }
 }
 
 .secondary-nav {
-  ul.nav {
-    border: 1px theme-color("accent-primary") solid;
-    border-width: 1px 0;
-    background-color: lighten(theme-color("accent-primary"), 60%);
-    .nav-item {
-      padding: 0;
-      .nav-link {
-        @include font-size($small-font-size);
-        color: theme-color("dark");
-        padding-left: $spacer;
-        padding-right: $spacer;
-        &:hover {
-          background: lighten(theme-color("accent-primary"), 50%);
-        }
-        &.active {
-          font-weight: bold;
-          background: lighten(theme-color("accent-primary"), 50%);
-        }
+  padding-bottom: 0;
+  margin-bottom: $spacer * 0.5;
+  .container {
+    padding-top: 0.5rem;
+    align-items: stretch;
+    column-gap: 5rem;
+    row-gap: 0;
+    .breadcrumb {
+      padding: 0 0 1rem 0;
+      margin-bottom: 0;
+    }
+  }
+  @include media-breakpoint-down(lg) {
+    .navbar-nav {
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      -ms-overflow-style: none;
+      justify-content: flex-start;
+      scroll-snap-type: x proximity;
+      scroll-margin: 0;
+      .nav-item {
+        scroll-snap-align: start;
       }
     }
   }
