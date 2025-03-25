@@ -1,69 +1,64 @@
 {{ define "main" }}
-<main>
-<div class="container">
-    {{partial "page-header.html" .}}
-    <div class="row gap-3">
+  <main>
+    <div class="container">
+      {{ partial "page-header.html" . }}
+      <div class="row gap-3">
         <div class="col-md">
-          {{ $pages := $.Site.RegularPages }} {{ range (.Paginate $pages
-          6).Pages }} {{ partial "article-list-item.html" . }} {{ end }}
+          {{ $pages := where $.Site.Pages "Section" "blog" }}
+          {{ range (.Paginate $pages  6).Pages }}
+            {{ partial "article-list-item.html" . }}
+          {{ end }}
           <div class="centered-pagination">
-            <nav aria-label="Pagination links">{{ template "_internal/pagination.html" . }}</nav>
-            </div>
-
-            </div>
+            <nav aria-label="Pagination links">
+              {{ template "_internal/pagination.html" . }}
+            </nav>
+          </div>
+        </div>
         <div class="col-md-3">
-            <aside class="d-flex flex-column gap-3">
-                {{/* Categories Navigation */}}
-                {{ $catItems := slice }}
-                {{ range $name, $taxonomy := .Site.Taxonomies.category }}
-                {{/* Build the URL path for the taxonomy term page */}}
-                {{ $termPage := $.Site.GetPage (printf "/category/%s" ($name | urlize)) }}
-                {{ if not (and $termPage $termPage.Params.hideFromNav) }}
-                {{ $catItems = $catItems | append (dict
-                "label" $name
-                "url" (printf "%s%s" ("category/" | relURL) ($name | urlize))
-                "count" (len $taxonomy)
-                ) }}
-                {{ end }}
-                {{ end }}
-                {{ partial "sidebar-links.html" (dict "title" "Categories" "items" $catItems) }}
+          <aside class="d-flex flex-column gap-3">
+            {{/* Categories Navigation */}}
+            {{ $catItems := slice }}
+            {{ range $name, $taxonomy := .Site.Taxonomies.category }}
+              {{/* Build the URL path for the taxonomy term page */}}
+              {{ $termPage := $.Site.GetPage (printf "/category/%s" ($name | urlize)) }}
 
-                {{/* Tags Navigation */}}
-                {{ $tagsSlice := slice }}
-                {{ range $name, $pages := .Site.Taxonomies.tags }}
-                {{ $tagsSlice = $tagsSlice | append (dict
+              {{ $pageCount := (len (where $taxonomy "Section" "blog" )) }}
+              {{ $showCategory := true }}
+              {{ if $termPage }}
+                {{ $showCategory = not $termPage.Params.hideFromNav }}
+              {{ end }}
+              {{ if and (gt $pageCount 0) $showCategory }}
+                {{ $catItems = $catItems | append (dict
+                  "label" $name
+                  "url" (printf "%s%s" ("category/" | relURL) ($name | urlize))
+                  "count" (len (where $taxonomy "Section" "blog" ))
+                  )
+                }}
+              {{ end }}
+            {{ end }}
+            {{ partial "sidebar-links.html" (dict "title" "Categories" "items" $catItems) }}
+
+            {{/* Tags Navigation */}}
+            {{ $tagsSlice := slice }}
+            {{ range $name, $pages := .Site.Taxonomies.tags }}
+              {{ $tagsSlice = $tagsSlice | append (dict
                 "label" $name
                 "url" (printf "%s%s" ("tags/" | relURL) ($name | urlize))
-                "count" (len $pages)
-                ) }}
-                {{ end }}
-                {{ $sortedTags := sort $tagsSlice "count" "desc" }}
-                {{ partial "sidebar-links.html" (dict
-                "title" "Tags"
-                "items" $sortedTags
-                "limit" 10
-                "allLink" ("tags/" | relURL)
-                ) }}
-
-                {{/* Archives Navigation */}}
-                {{ $archivesSlice := slice }}
-                {{ $pagesByYear := .Site.RegularPages.GroupByDate "2006" }}
-                {{ range $group := $pagesByYear }}
-                {{ $archivesSlice = $archivesSlice | append (dict
-                "label" $group.Key
-                "url" (printf "%s%s" ("archives/" | relURL) $group.Key)
-                "count" (len $group.Pages)
-                ) }}
-                {{ end }}
-                {{ partial "sidebar-links.html" (dict "title" "Archives" "items" $archivesSlice) }}
-            </aside>
-
+                "count" (len (where $pages "Section" "blog" ))
+                )
+              }}
+            {{ end }}
+            {{ $sortedTags := sort $tagsSlice "count" "desc" }}
+            {{ partial "sidebar-links.html" (dict
+              "title" "Tags"
+              "items" $sortedTags
+              "limit" 10
+              "allLink" ("tags/" | relURL)
+              )
+            }}
+          </aside>
         </div>
-        </div>
-       </div>
       </div>
-
     </div>
-  </div>
-</main>
-{{end}}
+  </main>
+{{ end }}
