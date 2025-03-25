@@ -18,7 +18,7 @@ summaryLength = 18
 # Navigation Bar
 [[menu.main]]
     name = "Campaigns"
-    url = "/featured/campaigns"
+    pageRef = "/featured/campaigns"
     weight = 1
 [[menu.main]]
     name = "The Latest"
@@ -79,6 +79,10 @@ summaryLength = 18
     name = "Home"
     url = "#"
     weight = 1
+[[menu.sitemap]]
+    name = "Archive"
+    pageRef = "/blog"
+    weight = 2
 [[menu.sitemap]]
     name = "About"
     pageRef = "/about"
