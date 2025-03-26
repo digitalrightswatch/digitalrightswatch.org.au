@@ -1,2 +1,3 @@
-{{ with .Site.Data.donate }} {{ if .enable }} {{ partial "banner.html" (dict
-"context" . "buttonStyle" "btn-lg") }} {{ end }} {{ end }}
+{{ if .Site.Data.homeblog.donations.enabled }}
+  {{ partial "banner.html" (dict "contentKey" .Site.Data.homeblog.donations.contentKey) }}
+{{ end }}

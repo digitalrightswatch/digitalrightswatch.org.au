@@ -1,0 +1,20 @@
+content:
+  donationDefault:
+    title: Defend your rights and donate today
+    description: Your donation helps us fight for a free, open and secure internet
+    buttonText: Donate
+    buttonUrl: https://donate.digitalrightswatch.org.au
+    defaultLayout: homepageFull
+  signupAside:
+    title: Subscribe to our Newsletter
+    description: Get the latest updates delivered straight to your inbox
+    buttonText: Sign Up
+    buttonUrl: "/signup"
+    defaultLayout: articleAside
+layouts:
+  default:
+  homepageFull:
+    bannerClass: "banner-full banner-primary"
+    buttonClass: "btn-lg"
+  articleAside:
+    bannerClass: "aside-banner banner-primary"

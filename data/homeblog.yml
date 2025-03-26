@@ -8,7 +8,6 @@ recent_articles:
   title: Recent articles
   max_items: 10
   moreButtonText: See all posts
-
-enable: true
-title: Recent Articles
-blogButtonText: See all posts
+donations:
+  enabled: true
+  contentKey: donationDefault

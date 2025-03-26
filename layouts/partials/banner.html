@@ -1,25 +1,35 @@
-{{ $buttonStyle:= or .buttonStyle  "" }}
-<section class="bg-primary-alt my-2 {{ or .style "banner"}}">
-    {{ with .context }}
-<div class="container d-flex flex-column gap-3 align-items-center">
-      <div>
-    {{if .subtitle }}
-    <h5
-      class="text-primary"
-    >
-      {{.subtitle}}
-    </h5>
+{{ $contentKey := .contentKey }}
+{{ $layoutKey := .layoutKey }}
+{{ $content := index site.Data.banners.content $contentKey }}
+{{ $layoutKey := or $layoutKey $content.defaultLayout "default" }}
+{{ $layout := index site.Data.banners.layouts $layoutKey }}
 
-    {{end}}
-    <h3 class="text-primary">{{ .title }}</h3>
+{{ $buttonStyle:= or .buttonStyle "" }}
+
+
+<section class="{{ $layout.bannerClass }}">
+  {{ with $content }}
+    <div class="container d-flex flex-column gap-3 align-items-center">
+      <div>
+        {{ if .subtitle }}
+          <h5 class>
+            {{ .subtitle }}
+          </h5>
+        {{ end }}
+        <h3>{{ .title }}</h3>
       </div>
-    {{if .description}}
-    <p class="text-primary">{{ .description | markdownify }}</p>
-    {{end}} {{if and .buttonUrl .buttonText}}
-    <a href="{{ .buttonUrl }}" class="btn {{$buttonStyle}} btn-opaque-outline-primary font-weight-bolder text-uppercase">
-        {{ .buttonText }}
-    </a>
-    {{end}}
+      {{ if .description }}
+        <p>{{ .description | markdownify }}</p>
+      {{ end }}
+      {{ if and .buttonUrl .buttonText }}
+        <a
+          href="{{ .buttonUrl }}"
+          class="btn {{ $layout.buttonClass }} btn-opaque-outline-primary font-weight-bolder text-uppercase"
+        >
+          {{ .buttonText }}
+        </a>
+      {{ end }}
     </div>
-    {{end}}
-    </section>
+    </div>
+  {{ end }}
+</section>

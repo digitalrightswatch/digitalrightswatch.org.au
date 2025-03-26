@@ -1,7 +1,16 @@
 @mixin banner() {
     @extend .jumbotron;
     @extend .jumbotron-fluid;
+    margin-top: 2 * $spacer;
+    margin-bottom: 2 * $spacer;
 }
+
+// first colour scheme - brand yellow with primary blue text
+.banner-primary {
+    background-color: theme-color("primary-alt");
+    color: theme-color("primary");
+}
+
 .large-banner {
     h3 {
         @extend .display-4;
@@ -11,10 +20,9 @@
         align-items: flex-start;
     }
 }
-.banner {
+.banner-full {
     @include banner;
 }
-
 .aside-banner {
     padding: $spacer * 2;
     padding-bottom: $spacer * 2;
