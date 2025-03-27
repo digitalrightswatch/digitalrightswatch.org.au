@@ -1,0 +1,6 @@
+{{ partial "banner.html" (dict
+"layoutKey" (.Get "layoutKey")
+"contentKey" (.Get "contentKey")
+"overrideTitle" (.Get "title")
+"overrideDescription" .Inner)
+}}

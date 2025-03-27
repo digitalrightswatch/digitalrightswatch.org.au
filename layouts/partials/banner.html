@@ -1,11 +1,22 @@
-{{ $contentKey := .contentKey }}
+{{ $contentKey := or .contentKey "default" }}
 {{ $layoutKey := .layoutKey }}
-{{ $content := index site.Data.banners.content $contentKey }}
-{{ $layoutKey := or $layoutKey $content.defaultLayout "default" }}
-{{ $layout := index site.Data.banners.layouts $layoutKey }}
+{{ $scratch := newScratch }}
+{{ $scratch.Set "content" (index site.Data.banners.content $contentKey) }}
 
-{{ $buttonStyle:= or .buttonStyle "" }}
+{{ if .overrideDescription }}
+{{$scratch.SetInMap "content" "description" .overrideDescription}}
+{{end}}
 
+{{ if .overrideTitle }}
+{{$scratch.SetInMap "content" "title" .overrideTitle}}
+{{end}}
+
+{{ if .layoutKey }}
+{{$scratch.SetInMap "content" "layout" .layoutKey}}
+{{end}}
+
+{{$content := $scratch.Get "content"}}
+{{$layout := index site.Data.banners.layouts $content.layout}}
 
 <section class="{{ $layout.bannerClass }}">
   {{ with $content }}
@@ -29,7 +40,6 @@
           {{ .buttonText }}
         </a>
       {{ end }}
-    </div>
     </div>
   {{ end }}
 </section>

@@ -1,8 +1,6 @@
 @mixin banner() {
     @extend .jumbotron;
     @extend .jumbotron-fluid;
-    margin-top: 2 * $spacer;
-    margin-bottom: 2 * $spacer;
 }
 
 // first colour scheme - brand yellow with primary blue text
@@ -10,8 +8,7 @@
     background-color: theme-color("primary-alt");
     color: theme-color("primary");
 }
-
-.large-banner {
+.banner-large {
     h3 {
         @extend .display-4;
     }
@@ -20,8 +17,20 @@
         align-items: flex-start;
     }
 }
+.banner-default {
+    @include banner;
+    margin-top: $spacer;
+    margin-bottom: $spacer;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50rem;
+    padding: $spacer * 2;
+    padding-bottom: $spacer * 2;
+}
 .banner-full {
     @include banner;
+    margin-top: 2 * $spacer;
+    margin-bottom: 2 * $spacer;
 }
 .aside-banner {
     padding: $spacer * 2;
