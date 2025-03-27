@@ -35,5 +35,24 @@
 
     gtag('config', '{{ . }}');
   </script>
-	{{ end }}
+  {{ end }}
+
+  {{ with resources.Get "js/main.js" }}
+    {{ $opts := dict
+      "minify" true
+      "sourceMap" (cond hugo.IsProduction "" "external")
+      "targetPath" "js/main.js"
+    }}
+    {{ with . | js.Build $opts }}
+      {{ with . | fingerprint }}
+        <script
+          src="{{ .RelPermalink }}"
+          integrity="{{ .Data.Integrity }}"
+          crossorigin="anonymous"
+          async
+        ></script>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
 </head>
