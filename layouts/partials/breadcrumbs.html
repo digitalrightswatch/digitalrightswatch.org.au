@@ -20,7 +20,9 @@
         </li>
         {{end}}
     <li class="breadcrumb-item active" aria-current="page">
-      {{ .LinkTitle }}
+        {{/* dont use built in 404 page title here as it looks odd */}}
+        {{ cond (eq .Kind "404") "Page Not Found" .LinkTitle }}
+
     </li>
   </ol>
 {{ end }}

@@ -1,0 +1,9 @@
+{{ define "main" }}
+{{ $content := .Site.GetPage "/page-not-found" }}
+<main>
+        <div class='container'>
+<h1>{{$content.Title}}</h1>
+{{ $content.Content | markdownify}}
+        </div>
+    </main>
+    {{ end }}
