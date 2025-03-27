@@ -9,48 +9,38 @@ eg_youtube_ratio:
   - 1
 eg_vimeo_ratio:
   - 1
+  
 eg_wistia_ratio:
   - 1
-title: Contact
+title: Contact Us
 eg_html5_ratio:
   - 1
 type: page
 ---
-# Contact us
 
 Got a question, or just want to get in touch with us? Use one of the options below and we'll get back to you as soon as we can.
 
 - - -
 
-### Email us
-
-- - -
+## Email us
 
 For all media needs please contact: **[media@digitalrightswatch.org.au](mailto:malito:media@digitalrightswatch.org.au)**
 
 For all other inquiries please contact: **[info@digitalrightswatch.org.au](mailto:info@digitalrightswatch.org.au)**
 
-- - -
 
-### Join our mailing list
+  {{< banner contentKey="signupDefault" title="Join our mailing list">}} 
+  Keep up to date with our work and opportunities to take action by [joining our mailing list](#footer-title)
+  {{</ banner>}}
 
-- - -
-
-Keep up to date with our work and opportunities to take action by [joining our mailing list](#footer-title)
-
-- - -
-
-### Make a donation
-
-- - -
+## Make a donation
 
 We welcome [donations to Digital Rights Watch](http://www.donate.digitalrightswatch.org.au)
 
-- - -
-
+## Other platforms
 You can also follow us on **[Mastodon](https://aus.social/@drwaus), [Instagram](https://www.instagram.com/drwaus/), [LinkedIn](https://www.linkedin.com/company/drwaus),** and **[Twitter](http://www.twitter.com/drwaus).**
 
-**Resources for assistance**
+## Resources for assistance
 
 If you have been the victim of a personal privacy breach/attack and seeking advice We encourage you to look at the following services who may be able to help you further:
 
