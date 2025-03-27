@@ -96,8 +96,13 @@ summaryLength = 18
     pageRef = "contact"
     weight = 4
 
-[markup.goldmark.renderer]
+[markup]
+  [markup.goldmark.renderer]
     unsafe = true
+  [markup.goldmark.parser]
+    [markup.goldmark.parser.attribute]
+        block = true
+        title = true
 
 # Footer Address
 [params.address]
