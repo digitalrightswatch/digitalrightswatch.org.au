@@ -25,18 +25,6 @@
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ "images/favicon.png" | absURL }}" type="image/x-icon" />
   <link rel="icon" href="{{ "images/favicon.png" | absURL }}" type="image/x-icon" />
-  {{ with site.Params.googleAnalytics }}
-  {{ "<!-- Google Analytics -->" | safeHTML }}
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', '{{ . }}');
-  </script>
-  {{ end }}
-
   {{ with resources.Get "js/main.js" }}
     {{ $opts := dict
       "minify" true
