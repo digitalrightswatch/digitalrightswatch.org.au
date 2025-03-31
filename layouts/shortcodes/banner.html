@@ -2,5 +2,6 @@
 "layoutKey" (.Get "layoutKey")
 "contentKey" (.Get "contentKey")
 "overrideTitle" (.Get "title")
-"overrideDescription" .Inner)
+"overrideSubtitle" (.Get "subtitle")
+"overrideDescription" ( .Inner | strings.TrimSpace ))
 }}

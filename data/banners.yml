@@ -6,7 +6,7 @@ content:
     description: Your donation helps us fight for a free, open and secure internet
     buttonText: Donate
     buttonUrl: https://donate.digitalrightswatch.org.au
-    layout: homepageFull
+    layout: fullWidth
   signupDefault:
     title: Join our mailing list
     description: Keep up to date with our work and opportunities to take action by joining our mailing list
@@ -19,11 +19,25 @@ content:
     buttonText: Sign Up
     buttonUrl: "/signup"
     layout: articleAside
+  aboutPageHeader:
+    subtitle: Human Rights Champions
+    title: Digital Rights Watch strategically defends digital rights in Australia
+    description:
+    layout: pageHeaderPrimary
+
 layouts:
   default:
     bannerClass: "banner-default banner-primary"
-  homepageFull:
+  fullWidth:
     bannerClass: "banner-full banner-primary"
     buttonClass: "btn-lg"
   articleAside:
     bannerClass: "aside-banner banner-primary"
+  articleInline:
+    bannerClass: "banner-full banner-primary"
+  pageHeaderPrimary:
+    bannerClass: "banner-full-header banner-primary"
+  colPrimary:
+    bannerClass: "banner-col banner-primary"
+  colSecondary:
+    bannerClass: "banner-col banner-secondary"

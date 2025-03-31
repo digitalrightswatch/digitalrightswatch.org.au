@@ -11,6 +11,10 @@
 {{$scratch.SetInMap "content" "title" .overrideTitle}}
 {{end}}
 
+{{ if .overrideSubtitle }}
+{{$scratch.SetInMap "content" "subtitle" .overrideSubtitle}}
+{{end}}
+
 {{ if .layoutKey }}
 {{$scratch.SetInMap "content" "layout" .layoutKey}}
 {{end}}
@@ -29,7 +33,7 @@
         {{ end }}
         <h3>{{ .title }}</h3>
       </div>
-      {{ if .description }}
+      {{ if .description | strings.TrimSpace }}
         <p>{{ .description | markdownify }}</p>
       {{ end }}
       {{ if and .buttonUrl .buttonText }}

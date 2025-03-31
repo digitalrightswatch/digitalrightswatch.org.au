@@ -8,6 +8,12 @@
     background-color: theme-color("primary-alt");
     color: theme-color("primary");
 }
+// second - whiteon accecnt blue
+.banner-secondary {
+    color: $white;
+
+    background-color: theme-color("accent-primary");
+}
 .banner-large {
     h3 {
         @extend .display-4;
@@ -32,9 +38,36 @@
     margin-top: 2 * $spacer;
     margin-bottom: 2 * $spacer;
 }
+.banner-full-header {
+    @include banner;
+    // make it hang in the sky in much the same way bricks don't
+    // (i.e. padding relative to the view height)
+    padding: calc(7vh + 4 * #{$spacer}) 0;
+
+    width: 100%;
+    h3 {
+        @extend .display-4;
+    }
+    h5 {
+        @extend .display-4;
+        font-size: $h5-font-size;
+    }
+}
 .aside-banner {
     padding: $spacer * 2;
     padding-bottom: $spacer * 2;
+    @include banner;
+    h3 {
+        @extend .display-4;
+        font-size: $h4-font-size;
+    }
+    h5 {
+        font-size: $h6-font-size;
+    }
+}
+.banner-col {
+    @extend .col-md-5;
+
     @include banner;
     h3 {
         @extend .display-4;

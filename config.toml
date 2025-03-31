@@ -54,11 +54,11 @@ summaryLength = 18
     parent = "Publications"
 [[menu.main]]
     name = "About Us"
-    pageRef = "/about/vision"
+    pageRef = "/about/"
     weight = 6
 [[menu.main]]
   name = "Our Vision"
-  pageRef = "/about/vision"
+  pageRef = "/about/"
   parent = "About Us"
   weight = 1
 [[menu.main]]
