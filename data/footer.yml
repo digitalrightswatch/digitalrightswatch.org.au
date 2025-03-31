@@ -2,16 +2,28 @@
 social_links:
   - platform: facebook
     link: "https://www.facebook.com/DigiRightsWatch"
-    icon: <i class="ti-facebook"></i>
+    icon: |
+      <svg width="16" height="16" class="svg-icon">
+        <use xlink:href="/images/icons.svg#facebook" />
+        </svg>
   - platform: instagram
     link: "https://www.instagram.com/drwaus"
-    icon: <i class="ti-instagram"></i>
-  - platform: twitter
+    icon: |
+      <svg width="16" height="16" class="svg-icon">
+        <use xlink:href="/images/icons.svg#instagram" />
+        </svg>
+  - platform: X
     link: "https://twitter.com/drwaus"
-    icon: <i class="ti-twitter"></i>
+    icon: |
+      <svg width="16" height="16" class="svg-icon">
+        <use xlink:href="/images/icons.svg#xcom" />
+        </svg>
   - platform: github
     link: "https://github.com/digitalrightswatch"
-    icon: <i class="ti-github"></i>
+    icon: |
+      <svg width="16" height="16" class="svg-icon">
+        <use xlink:href="/images/icons.svg#github" />
+      </svg>
   - platform: mastodon
     link: "https://aus.social/@drwaus"
     icon: |

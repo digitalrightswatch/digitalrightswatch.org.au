@@ -100,13 +100,7 @@ main.frontpage {
         visibility: visible;
     }
 }
-// our svg based social media icon things are not
-// quite aligned with their themify companions
-// and this slightly off zero valign seems to align
-// the svgs with the other icons a little nicer
-.svg-icon {
-    vertical-align: -0.06rem;
-}
+
 // use bootstrap to get an even smaller font for our footer
 .even-smaller {
     @include font-size($small-font-size * 0.85);
@@ -117,13 +111,6 @@ main.frontpage {
     filter: grayscale(80%);
 }
 
-// small tweak on the read more link on blog list page to adjust the icon (maybe unnecessary if we move off themify icons)
-.read-more-link {
-    i {
-        vertical-align: -2px;
-    }
-}
-
 // useful to be able to center align pagination which is not customisable
 // via a bootrap 4.6 var
 .centered-pagination {
@@ -131,9 +118,13 @@ main.frontpage {
         justify-content: center !important;
     }
 }
-
 // 30 em is a decent reading width apparently so use for blog article full text
 //
 .reading-width {
     max-width: 30em;
+}
+// read-more link >> faux-icon
+a.read-more-link::after {
+    // todo: find better way of adding left margin here that does not break up the underline on hover
+    content: " »";
 }
