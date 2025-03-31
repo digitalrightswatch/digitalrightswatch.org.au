@@ -18,8 +18,9 @@
 {{ $opts := dict
 "enableSourceMap" (not hugo.IsProduction)
 "includePaths" (slice "assets/scss/plugins/")
+"outputStyle" (cond hugo.IsProduction "compressed" "expanded")
 }}
-{{ $stylex := resources.Get "scss/critical.scss" | toCSS $opts | minify }}
+{{ $stylex := resources.Get "scss/critical.scss" | toCSS $opts  }}
   <link href="{{ $stylex.Permalink }}" rel="stylesheet" />
 
   {{ "<!--Favicon-->" | safeHTML }}
