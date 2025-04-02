@@ -33,8 +33,10 @@
         {{ end }}
         <h3>{{ .title }}</h3>
       </div>
-      {{ if .description | strings.TrimSpace }}
-        <p>{{ .description | markdownify }}</p>
+      {{ if .description }}
+        <div>
+          <p>{{ .description | markdownify }}</p>
+        </div>
       {{ end }}
       {{ if and .buttonUrl .buttonText }}
         <a
