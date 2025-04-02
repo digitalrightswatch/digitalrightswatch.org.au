@@ -16,6 +16,7 @@ title: Contact Us
 eg_html5_ratio:
   - 1
 type: page
+layout: contact
 ---
 
 Got a question, or just want to get in touch with us? Use one of the options below and we'll get back to you as soon as we can.

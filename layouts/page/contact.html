@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <main>
+    <div class="container">
+      {{ partial "page-header.html" (dict "Title" .Title) }}
+
+
+      <div class="row">
+        <div class="col-md pr-4">
+          {{ .Content }}
+
+        </div>
+      </div>
+    </div>
+  </main>
+{{ end }}
