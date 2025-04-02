@@ -35,9 +35,9 @@
     </div>
     <div class="container-fluid my-5">
       <div class="row justify-content-center gap-3">
-        {{ partial "banner.html" (dict "contentKey" "donationDefault" "layoutKey" "colPrimary") }}
+        {{ partial "banner.html" (dict "contentKey" "donation" "layoutKey" "colPrimary") }}
 
-        {{ partial "banner.html" (dict "contentKey" "signupDefault" "layoutKey" "colSecondary") }}
+        {{ partial "banner.html" (dict "contentKey" "signup" "layoutKey" "colSecondary") }}
       </div>
     </div>
     {{ with .GetPage "includes/footer" }}

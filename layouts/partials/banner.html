@@ -1,51 +1,46 @@
 {{ $contentKey := or .contentKey "default" }}
 {{ $layoutKey := .layoutKey }}
 {{ $scratch := newScratch }}
-{{ $scratch.Set "content" (index site.Data.banners.content $contentKey) }}
+{{ $configuredContent := index site.Data.banners.content $contentKey }}
 
-{{ if .overrideDescription }}
-{{$scratch.SetInMap "content" "description" .overrideDescription}}
-{{end}}
 
-{{ if .overrideTitle }}
-{{$scratch.SetInMap "content" "title" .overrideTitle}}
-{{end}}
+{{/* you would have thought merge and frields would work here. they didnt . have not yet worked out why so doing it all
+by hand to avoid subtle mutations of underlying data ! */}}
+{{ $scratch.SetInMap "content" "description" (or .overrideDescription $configuredContent.description) }}
+{{ $scratch.SetInMap "content" "title" (or .overrideTitle $configuredContent.title) }}
+{{ $scratch.SetInMap "content" "subtitle" (or .overrideSubtitle $configuredContent.subtitle) }}
+{{ $scratch.SetInMap "content" "layout" (or .layoutKey $configuredContent.layout) }}
+{{ $scratch.SetInMap "content" "buttonText" (or .overrideButtonText $configuredContent.buttonText) }}
+{{ $scratch.SetInMap "content" "buttonUrl" (or .overrideButtonUrl $configuredContent.buttonUrl) }}
 
-{{ if .overrideSubtitle }}
-{{$scratch.SetInMap "content" "subtitle" .overrideSubtitle}}
-{{end}}
+{{ $content := $scratch.Get "content" }}
 
-{{ if .layoutKey }}
-{{$scratch.SetInMap "content" "layout" .layoutKey}}
-{{end}}
-
-{{$content := $scratch.Get "content"}}
-{{$layout := index site.Data.banners.layouts $content.layout}}
-
+{{ $layout := index site.Data.banners.layouts $content.layout }}
 <section class="{{ $layout.bannerClass }}">
+  <div class="banner-text">
   {{ with $content }}
-    <div class="container d-flex flex-column gap-3 align-items-center">
-      <div>
         {{ if .subtitle }}
           <h5 class>
             {{ .subtitle }}
           </h5>
         {{ end }}
         <h3>{{ .title }}</h3>
-      </div>
-      {{ if .description }}
-        <div>
-          <p>{{ .description | markdownify }}</p>
-        </div>
-      {{ end }}
+        {{ if .description }}
+            {{ .description | markdownify }}
+        {{ end }}
       {{ if and .buttonUrl .buttonText }}
+        <div class='banner-buttons'>
         <a
           href="{{ .buttonUrl }}"
-          class="btn {{ $layout.buttonClass }} btn-opaque-outline-primary font-weight-bolder text-uppercase"
+          class="btn {{ $layout.buttonClass }} font-weight-bolder text-uppercase"
+
         >
           {{ .buttonText }}
         </a>
+        </div>
       {{ end }}
+  </div>
+  <div class="banner-image">
     </div>
   {{ end }}
 </section>

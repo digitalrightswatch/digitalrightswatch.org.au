@@ -29,8 +29,8 @@ For all media needs please contact: **[media@digitalrightswatch.org.au](mailto:m
 For all other inquiries please contact: **[info@digitalrightswatch.org.au](mailto:info@digitalrightswatch.org.au)**
 
 
-  {{< banner contentKey="signupDefault" title="Join our mailing list">}} 
-  Keep up to date with our work and opportunities to take action by [joining our mailing list](#footer-title)
+  {{< banner contentKey="signup" title="Join our mailing list">}}
+  Keep up to date with our work and opportunities to take action by [joining our mailing list](/signup)
   {{</ banner>}}
 
 ## Make a donation

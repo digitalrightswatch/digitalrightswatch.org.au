@@ -1,8 +1,22 @@
 @mixin banner() {
-    @extend .jumbotron;
-    @extend .jumbotron-fluid;
+    .banner-text {
+        padding: 2 * $spacer;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    h3 {
+        @extend .display-4;
+    }
+    h5 {
+        @extend .display-4;
+        font-size: $h5-font-size;
+    }
+    .banner-buttons {
+        text-align: center;
+        padding: $spacer;
+    }
 }
-
 // first colour scheme - brand yellow with primary blue text
 .banner-primary {
     background-color: theme-color("primary-alt");
@@ -13,50 +27,89 @@
     color: $white;
 
     background-color: theme-color("accent-primary");
-}
-.banner-large {
-    h3 {
-        @extend .display-4;
-    }
 
-    & > div {
-        align-items: flex-start;
+    .banner-text > a {
+        color: $white;
+        font-weight: bold;
     }
 }
-.banner-default {
-    @include banner;
-    margin-top: $spacer;
-    margin-bottom: $spacer;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 50rem;
-    padding: $spacer * 2;
-    padding-bottom: $spacer * 2;
+// grey background with the EYE (use with banner-with-image)
+.banner-eye {
+    background-color: theme-color("light");
+    .banner-image {
+        background-image: url("/images/hero/hero-image.svg");
+    }
 }
+// this is a big hero-type banner for the homepage
+// which almost 100% rewords the layout from "banner"
+// to allow fitting an image onto the screen alongside the text
+// with nice underlay behaviour when the screen is too narrow
+.banner-with-image {
+    @include banner;
+    display: grid;
+
+    grid-template-columns: 1fr;
+    @include media-breakpoint-up(md) {
+        grid-template-columns: 1fr 1fr;
+    }
+    .banner-text {
+        min-height: 40vh;
+        padding: 4 * $spacer;
+        z-index: 2;
+        // the grid column occupied by the banner text
+        grid-column: 1 / 2;
+        grid-row: 1;
+    }
+    .banner-image {
+        grid-column: 1 / 2;
+        grid-row: 1;
+        z-index: 1;
+        opacity: 0.15;
+        @include media-breakpoint-up(md) {
+            grid-column: 2 / 3;
+            grid-row: 1;
+            opacity: unset;
+        }
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+}
+
+// spans the full width of the page but is in the main content flow, so will
+// not set a min height etc. see 'donate' on homepage
 .banner-full {
     @include banner;
+    // appears in content flow so needs airgap above and below
     margin-top: 2 * $spacer;
     margin-bottom: 2 * $spacer;
-}
-.banner-full-header {
-    @include banner;
-    // make it hang in the sky in much the same way bricks don't
-    // (i.e. padding relative to the view height)
-    padding: calc(7vh + 4 * #{$spacer}) 0;
-
-    width: 100%;
+    .banner-text {
+        align-items: center;
+    }
     h3 {
         @extend .display-4;
-    }
-    h5 {
-        @extend .display-4;
-        font-size: $h5-font-size;
+        font-size: $h4-font-size;
     }
 }
-.aside-banner {
-    padding: $spacer * 2;
-    padding-bottom: $spacer * 2;
+// also full width, but as a page header it can set a min height to dominate the first
+// view of the page - see about page
+.banner-full-header {
     @include banner;
+
+    // add a little airgap as this will be followed by content
+    margin-bottom: 2 * $spacer;
+    .banner-text {
+        min-height: 60vh;
+        justify-content: center;
+    }
+}
+// a small version of the banner scaled to appropriately fit into an aside for an article etc
+.aside-banner {
+    @include banner;
+    .banner-text {
+        padding: $spacer * 2;
+        padding-bottom: $spacer * 2;
+    }
     h3 {
         @extend .display-4;
         font-size: $h4-font-size;
@@ -65,10 +118,17 @@
         font-size: $h6-font-size;
     }
 }
+// a banner set to col-md-5 so will fit on a row nicely with at least one more banner-col
 .banner-col {
     @extend .col-md-5;
-
     @include banner;
+    display: block;
+    .banner-text {
+        padding: $spacer * 2;
+        padding-bottom: $spacer * 2;
+        justify-content: space-between;
+        height: 100%;
+    }
     h3 {
         @extend .display-4;
         font-size: $h4-font-size;

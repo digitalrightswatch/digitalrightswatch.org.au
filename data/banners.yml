@@ -1,43 +1,58 @@
 content:
+  # fallback if you just want a banner
   default:
-    layout: default
-  donationDefault:
+    layout: fullWidth
+  donation:
     title: Defend your rights and donate today
     description: Your donation helps us fight for a free, open and secure internet
     buttonText: Donate
     buttonUrl: https://donate.digitalrightswatch.org.au
     layout: fullWidth
-  signupDefault:
+  signup:
     title: Join our mailing list
     description: Keep up to date with our work and opportunities to take action by joining our mailing list
     buttonText: Sign Up
     buttonUrl: "/signup"
-    layout: default
-  signupAside:
-    title: Join our mailing list
-    description: Keep up to date with our work and opportunities to take action by joining our mailing list
-    buttonText: Sign Up
-    buttonUrl: "/signup"
-    layout: articleAside
+    layout: fullWidthSecondary
   aboutPageHeader:
     subtitle: Human Rights Champions
     title: Digital Rights Watch strategically defends digital rights in Australia
     description:
     layout: pageHeaderPrimary
+  homepageHero:
+    subtitle: Digital Rights Watch
+    title: "Standing up for digital\u00A0rights"
+    description: |
+      Our vision is for a digital world where all humanity can thrive, and where diversity and creativity flourishes.
 
+      Digital Rights Watch exists to ensure fairness, freedoms and fundamental rights for all people who engage in the digital world.
+    buttonText: Get the latest updates
+    buttonUrl: "/signup"
+    image: /images/hero/hero-image.svg
+
+    layout: homepagePrimary
 layouts:
   default:
-    bannerClass: "banner-default banner-primary"
+    bannerClass: "banner-full banner-primary"
+    buttonClass: "btn-opaque-outline-primary"
   fullWidth:
     bannerClass: "banner-full banner-primary"
-    buttonClass: "btn-lg"
+    buttonClass: "btn-lg btn-opaque-outline-primary"
+  fullWidthSecondary:
+    bannerClass: "banner-full banner-secondary"
+    buttonClass: "btn-lg btn-opaque-outline-primary-alt"
   articleAside:
     bannerClass: "aside-banner banner-primary"
-  articleInline:
-    bannerClass: "banner-full banner-primary"
+    buttonClass: "btn-opaque-outline-primary"
   pageHeaderPrimary:
     bannerClass: "banner-full-header banner-primary"
+    buttonClass: "btn-opaque-outline-primary"
+  homepagePrimary:
+    bannerClass: "banner-with-image banner-eye"
+    buttonClass: "btn-lg btn-primary"
   colPrimary:
     bannerClass: "banner-col banner-primary"
+    buttonClass: "btn-opaque-outline-primary"
   colSecondary:
     bannerClass: "banner-col banner-secondary"
+    buttonClass: "btn-lg btn-opaque-outline-primary-alt"
