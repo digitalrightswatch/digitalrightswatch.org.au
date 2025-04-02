@@ -49,9 +49,9 @@ _The conversations about regulating technology are underway. That includes issue
 
 ## **Watch the report launch**
 
-If you missed our launch on Friday 5th February 2021, you can watch it back here. With approximately 10 activists and writers sharing their reflections on 2020, it&#8217;s truly a digital rights power hour! <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+If you missed our launch on Friday 5th February 2021, you can watch it back here. With approximately 10 activists and writers sharing their reflections on 2020, it&#8217;s truly a digital rights power hour!
 
-<div class="wp-block-embed__wrapper">
-</div></figure>
+{{< youtube id="PET13wsbNHo" >}}
+
 
  [1]: https://www.dropbox.com/s/vz6w57pzyt4uuaa/State%20of%20Digital%20Rights%20Report%202020.pdf?dl=0

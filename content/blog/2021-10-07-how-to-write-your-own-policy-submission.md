@@ -35,7 +35,7 @@ But the public consultation process can be confusing, legislation and policy doc
 
 That&#8217;s why we came together to run this workshop &#8211; to give you the tools and encouragement you need to write your own policy submission.
 
-Join Executive Director of DRW, Lucie Krahulcova, and Board Member of EFA, Justin Warren, as they guide you through the process of crafting a meaningful policy submission, including their own tips and tricks they have learned over many years of experience in this space. <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+Join Executive Director of DRW, Lucie Krahulcova, and Board Member of EFA, Justin Warren, as they guide you through the process of crafting a meaningful policy submission, including their own tips and tricks they have learned over many years of experience in this space.
 
-<div class="wp-block-embed__wrapper">
-</div></figure>
+{{< youtube id="sdBQAf5Xb5c" >}}
+

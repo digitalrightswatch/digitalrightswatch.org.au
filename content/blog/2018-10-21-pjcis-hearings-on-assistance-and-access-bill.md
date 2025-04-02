@@ -10,10 +10,10 @@ tags:
   - encryption
 
 ---
-Angus Murray, Dr Suelette Dreyfus and Justin Clacherty appear before the Australian Parliamentary Joint Committee on Intelligence and Security, to outline civil society concerns with the Telecommunications and Other Legislation Amendment (Assistance and Access) Bill 2018.<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-has-aspect-ratio wp-embed-aspect-16-9">
+Angus Murray, Dr Suelette Dreyfus and Justin Clacherty appear before the Australian Parliamentary Joint Committee on Intelligence and Security, to outline civil society concerns with the Telecommunications and Other Legislation Amendment (Assistance and Access) Bill 2018.
 
-<div class="wp-block-embed__wrapper">
-</div></figure>
+{{< youtube id="KNbE2ct76t0" >}}
+
 
 [The transcript of this session is available here.][1]
 

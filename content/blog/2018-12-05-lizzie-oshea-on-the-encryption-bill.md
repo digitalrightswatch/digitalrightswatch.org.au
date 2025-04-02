@@ -10,7 +10,7 @@ tags:
   - encryption
 
 ---
-Our own Lizzie O&#8217;Shea spoke to ABC24 about the Assistance and Access Bill and the impact on how all Australians use technology.<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+Our own Lizzie O&#8217;Shea spoke to ABC24 about the Assistance and Access Bill and the impact on how all Australians use technology.
 
-<div class="wp-block-embed__wrapper">
-</div></figure>
+{{< youtube id="ACT09gqlP4o" >}}
+

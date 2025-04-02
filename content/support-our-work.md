@@ -6,10 +6,10 @@ date: 2018-09-06T23:39:42+00:00
 featureImage: /wp-content/uploads/2019/01/7651364100_e28b600eb6_b_blue.jpg
 
 ---
-Since our founding in 2016, Digital Rights Watch has stood up for the digital rights of all Australians. We greatly appreciate the support we have received from philanthropic, corporate and other major donors, and welcome new partnerships that will enable us to continue to advocate for these rights.<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+Since our founding in 2016, Digital Rights Watch has stood up for the digital rights of all Australians. We greatly appreciate the support we have received from philanthropic, corporate and other major donors, and welcome new partnerships that will enable us to continue to advocate for these rights.
 
-<div class="wp-block-embed__wrapper">
-</div><figcaption>Digital Rights Watch Director Tom Sulston</figcaption></figure>
+{{< youtube id="tuw0pcRWiT4" >}}
+
 
 Digital Rights Watch is a nationally registered charity organisation. You can read more about our work to date in our annual reports:
 
