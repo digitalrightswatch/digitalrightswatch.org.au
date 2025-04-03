@@ -1,11 +1,7 @@
 @import "bootstrap/functions";
 
 // setting border radius for rounded shapes
-// todo: upgrading to bootstrap 4.4 would give ability to use rounded-lg instead of overriding global border-radius
 $border-radius: 0;
-// todo: migrate into _navigation.scss
-$breadcrumb-divider: ">";
-$breadcrumb-bg: transparent;
 
 // display fonts should be bold
 $display1-weight: 700;

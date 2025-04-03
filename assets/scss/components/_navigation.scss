@@ -1,23 +1,30 @@
+header {
+  // gives enough gap on pages with no second level nav
+  min-height: 6rem;
+  // currently enough to ensure the shadow appears over the content
+  position: relative;
+}
 .navbar-nav-underlined {
-  border-bottom: 1px solid $gray-200;
-
   align-items: last baseline;
-  column-gap: $spacer;
+  column-gap: 1.75rem;
   justify-content: flex-end;
   .nav-item {
     position: relative;
-    flex-grow: 1;
+    flex-grow: 0;
     flex-shrink: 0;
-    a {
+    padding-bottom: $spacer * 0.5;
+
+    a.nav-link {
+      padding: 0;
       display: block;
-      padding-top: 0;
-      margin-bottom: $spacer * 0.5;
       word-break: keep-all;
+
+      // restore padding to the nav-link-button
+      &.btn {
+        padding: $spacer * 0.5;
+      }
     }
-    .btn {
-      // make nav button gap balanced with rest of menu:
-      margin-left: $spacer * 0.25;
-    }
+
     .active::after {
       content: "";
       position: absolute;
@@ -25,14 +32,15 @@
       left: 0;
       width: 100%;
       height: 3px;
-      background-color: #000;
+      background-color: $gray-700;
     }
   }
 }
 
 .main-nav {
   background-color: transparent;
-  padding-bottom: 0;
+  padding: 0;
+  margin: 0;
   // based by https://christianoliff.com/blog/styling-external-links-with-an-icon-in-css/
   // ( although using on a navbar instead  )
   a[href^="https://"]::after
@@ -47,6 +55,7 @@
     background-size: contain;
     display: inline-block;
   }
+
   @include media-breakpoint-up(lg) {
     .container {
       align-items: stretch;
@@ -58,19 +67,15 @@
     }
   }
 }
-
 .secondary-nav {
-  padding-bottom: 0;
+  padding: 0;
+  margin-top: $spacer;
   margin-bottom: 0;
   .container {
-    padding-top: 0.5rem;
-    align-items: stretch;
+    align-items: flex-start;
+    justify-content: flex-end;
     column-gap: 5rem;
     row-gap: 0;
-    .breadcrumb {
-      padding: 0 0 1rem 0;
-      margin-bottom: 0;
-    }
   }
   @include media-breakpoint-down(lg) {
     .navbar-nav {
