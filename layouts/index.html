@@ -1,6 +1,6 @@
 {{ define "main" }}
-<main class="frontpage">
-{{ partial "heroArea.html" . }}
+  <main class="frontpage">
+    {{ partial "banner.html" (dict "contentKey" "homepageHero") }}
 
 {{ partial "campaigns.html" . }}
 
