@@ -2,7 +2,10 @@
 title: Our guiding principles
 authors: [drw]
 date: 2020-10-19T00:37:27+00:00
-
+_build:
+  list: "never"
+  publishResources: true
+  render: "never"
 ---
 
 ## Our guiding principles {class="display-5 text-center mx-auto underlined-header"}

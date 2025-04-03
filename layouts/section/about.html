@@ -2,31 +2,35 @@
   <main>
     {{ partial "banner.html" (dict "contentKey" "aboutPageHeader") }}
     <div class="container-fluid mb-4">
-      {{ with .GetPage "includes/vision" }}
-
+      {{ with .GetPage "vision" }}
         <div class="col-md-8 mx-auto small text-center mb-4">
           {{ .Content }}
         </div>
-      {{ end }}
-      <div class="bg-light row justify-content-center px-5 mb-4">
-        {{ range (.Resources.Get "includes/vision-cards.yml") | transform.Unmarshal }}
-          <div class="col-md-3 text-center">
-            <div class="p-4">
-              <img
-                src="{{ .icon }}"
-                alt="{{ .title }} Icon"
-                width="60"
-                height="60"
-              />
+        {{ $resources := .Resources }}
+        <div class="bg-light row justify-content-center px-5 mb-4">
+          {{ range (.Resources.Get "vision-cards.yml") | transform.Unmarshal }}
+
+            <div class="col-md-3 text-center">
+              <div class="p-4">
+                {{ with $resources.Get .icon }}
+                  <img
+                    src="{{ .RelPermalink }}"
+                    alt=""
+                    width="60"
+                    height="60"
+                  />
+                {{ end }}
+              </div>
+              <h5 class="font-weight-bold">
+                {{ .title }}
+              </h5>
+              <p class="text-secondary small">{{ .content }}</p>
             </div>
-            <h5 class="font-weight-bold">
-              {{ .title }}
-            </h5>
-            <p class="text-secondary small">{{ .content }}</p>
-          </div>
-        {{ end }}
-      </div>
-      {{ with .GetPage "includes/principles" }}
+          {{ end }}
+        </div>
+      {{ end }}
+
+      {{ with .GetPage "principles" }}
 
         <div class="col-md-8 mx-auto small mb-4">
           {{ .Content }}
@@ -40,7 +44,7 @@
         {{ partial "banner.html" (dict "contentKey" "signup" "layoutKey" "colSecondary") }}
       </div>
     </div>
-    {{ with .GetPage "includes/footer" }}
+    {{ with .GetPage "footer" }}
 
       <div class="col-md-8 mx-auto small mb-5">
         {{ .Content }}

@@ -1,4 +1,9 @@
 ---
+list: never
+_build:
+  list: "never"
+  publishResources: true
+  render: "never"
 title: Our Vision
 authors: [drw]
 date: 2020-10-19T00:37:27+00:00
