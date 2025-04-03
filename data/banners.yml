@@ -52,7 +52,7 @@ layouts:
     buttonClass: "btn-lg btn-primary"
   colPrimary:
     bannerClass: "banner-col banner-primary"
-    buttonClass: "btn-opaque-outline-primary"
+    buttonClass: "btn-lg  btn-opaque-outline-primary"
   colSecondary:
     bannerClass: "banner-col banner-secondary"
     buttonClass: "btn-lg btn-opaque-outline-primary-alt"
