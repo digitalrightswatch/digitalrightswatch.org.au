@@ -25,23 +25,3 @@ $form-shadow: #19181d0f;
 // solid colors
 $white: #fff;
 $black: #000;
-
-section.our-people {
-  & ul {
-    list-style-type: none;
-    padding: 0;
-  }
-}
-
-// display a different background when on the front page containing the 'hero' section
-body:has(#hero) {
-  height: 100%;
-  // left and right background images
-  background-image: url("../images/hero/nav-bg-left.svg"),
-    url("../images/hero/nav-bg-right.svg");
-  background-position:
-    top left,
-    top right;
-  background-size: 10%, 48%;
-  background-repeat: no-repeat;
-}
