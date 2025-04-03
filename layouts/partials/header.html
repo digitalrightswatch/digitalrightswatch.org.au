@@ -1,14 +1,19 @@
-{{ $currentPage := . }}
-
 <nav class="navbar navbar-expand-lg navbar-light main-nav">
+  {{ $currentPage := . }}
+
 
   <div class="container">
     <a class="navbar-brand" href="{{ .Site.BaseURL }}">
-        {{ with resources.Get .Site.Params.logo }}
+      {{ with resources.Get .Site.Params.logo }}
         {{ with .Resize "150x" }}
-        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $.Site.Params.logoAltText }}">
+          <img
+            src="{{ .RelPermalink }}"
+            width="{{ .Width }}"
+            height="{{ .Height }}"
+            alt="{{ $.Site.Params.logoAltText }}"
+          />
         {{ end }}
-        {{ end }}
+      {{ end }}
     </a>
     <button
       class="navbar-toggler"
@@ -22,41 +27,52 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="mainNav">
-    <ul class="navbar-nav navbar-nav-underlined">
+      <ul class="navbar-nav navbar-nav-underlined">
         {{ range .Site.Menus.main }}
-      {{ if eq .Parent "" }}
-        {{$current:= or ($currentPage.IsMenuCurrent .Menu .) ($currentPage.HasMenuCurrent .Menu .) }}
+          {{ if eq .Parent "" }}
+            {{ $current:= or ($currentPage.IsMenuCurrent .Menu .) ($currentPage.HasMenuCurrent .Menu .) }}
 
-        <li class="nav-item">
 
-        <a href="{{ .URL | relURL }}"
-            class="nav-link {{if .Params.callToAction}} btn btn-sm btn-primary-alt px-3 {{end}} {{ if $current }} active font-weight-bold{{ end }} text-uppercase">
-            {{ .Name }}
-        </a>
-        </li>
-        {{ end }} {{ end }}
-        </ul>
-        </div>
-        </div>
-        </nav>
-        {{ if not .IsHome }}
+            <li class="nav-item">
+              <a
+                href="{{ .URL | relURL }}"
+                class="nav-link {{ if .Params.callToAction }}
+                  btn btn-sm btn-primary-alt px-3
+                {{ end }} {{ if $current }}
+                  active font-weight-bold
+                {{ end }} text-uppercase"
+              >
+                {{ .Name }}
+              </a>
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</nav>
+{{ if not .IsHome }}
 
-        <nav class="navbar navbar-light secondary-nav shadow-sm">
+  <nav class="navbar navbar-light secondary-nav shadow-sm">
     <div class="container">
-        {{ partial "breadcrumbs.html" . }}
-   {{ range site.Menus.main }}
-  {{ if and (.HasChildren) (or (eq $currentPage.RelPermalink .URL) ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)) }}
-            <ul class="navbar-nav  navbar-expand navbar-nav-underlined">
-                {{ range .Children }}
-                  <li class="nav-item">
-                    <a class="nav-link {{ if or (eq $currentPage.RelPermalink .URL) ($currentPage.IsMenuCurrent " main" .) }}active{{ end
-                        }}" href="{{ .URL }}">{{ .Name }}</a>
-                    </li>
-                    {{ end }}
-                    </ul>
-                    </div>
-                    </nav>
-                    {{ end }}
-                    {{ end }}
-                    </nav>
-                    {{ end }}
+      {{ partial "breadcrumbs.html" . }}
+      {{ range site.Menus.main }}
+        {{ if and (.HasChildren) (or (eq $currentPage.RelPermalink .URL) ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)) }}
+          <ul class="navbar-nav  navbar-expand navbar-nav-underlined">
+            {{ range .Children }}
+              <li class="nav-item">
+                <a
+                  class="nav-link {{ if or (eq $currentPage.RelPermalink .URL) ($currentPage.IsMenuCurrent " main" .) }}
+                    active
+                  {{ end }}"
+                  href="{{ .URL }}"
+                  >{{ .Name }}</a
+                >
+              </li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      {{ end }}
+    </div>
+  </nav>
+{{ end }}
