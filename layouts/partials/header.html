@@ -5,15 +5,13 @@
 
     <div class="container">
       <a class="navbar-brand" href="{{ .Site.BaseURL }}">
-        {{ with resources.Get .Site.Params.logo }}
-          {{ with .Resize "150x" }}
-            <img
-              src="{{ .RelPermalink }}"
-              width="{{ .Width }}"
-              height="{{ .Height }}"
-              alt="{{ $.Site.Params.logoAltText }}"
-            />
-          {{ end }}
+        <span class="sr-only">Digital Rights Watch</span>
+        {{ with (partial "site-logo.html") }}
+          <img
+            src="{{ .RelPermalink }}"
+            width="{{ .Width }}"
+            height="{{ .Height }}"
+          />
         {{ end }}
       </a>
       <button

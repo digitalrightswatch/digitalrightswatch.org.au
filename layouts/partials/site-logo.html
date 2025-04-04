@@ -1,0 +1,10 @@
+{{ $width := or $.width "150" }}
+{{ $image := resources.Get site.Params.logo }}
+
+{{ if eq $image.MediaType.SubType "svg" }}
+  {{ $image = dict "RelPermalink" $image.RelPermalink "Width" $width }}
+{{ else }}
+  {{ $image = $image.Resize (printf "%sx" $width) }}
+{{ end }}
+
+{{ return  $image }}

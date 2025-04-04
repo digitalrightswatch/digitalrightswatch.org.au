@@ -122,8 +122,8 @@ bsky = "https://bsky.app/profile/drwaus.bsky.social"
 [params]
 
 # Header
-logo = "/wp-content/uploads/2019/07/DRWLogo_black_w_yellow.png"
-logoAltText = "DRW"
+logo = "images/drw-logo-with-text.svg"
+logoAltText = ""
 
 # Footer
 [module]

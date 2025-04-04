@@ -38,6 +38,11 @@ header {
 }
 
 .main-nav {
+  .navbar-brand {
+    padding-top: $spacer;
+    // todo: fix this -it's based on the height of the current logo image just to stop the layout shifting
+    min-height: 85px;
+  }
   background-color: transparent;
   padding: 0;
   margin: 0;
