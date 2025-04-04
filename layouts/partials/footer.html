@@ -38,8 +38,8 @@
         </div>
         <div class="col-md-auto small">
           <ul class="list-inline m-0">
-            {{ $sitemap := site.Menus.sitemap }}
-            {{ range $sitemap }}
+            {{ $menu := site.Menus.footer }}
+            {{ range $menu }}
               <li class="list-inline-item">
                 <a href="{{ .URL | absURL }}" class="text-muted">{{ .Name }}</a>
               </li>

@@ -39,6 +39,8 @@
                     btn btn-sm btn-primary-alt px-3
                   {{ end }} {{ if $current }}
                     active font-weight-bold
+                  {{ end }} {{ if .Params.external }}
+                    external
                   {{ end }} text-uppercase"
                 >
                   {{ .Name }}

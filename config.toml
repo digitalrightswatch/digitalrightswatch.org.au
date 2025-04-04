@@ -66,34 +66,47 @@ summaryLength = 18
   pageRef = "/about/our-people/"
   parent = "About Us"
   weight = 2
-
+[[menu.main]]
+  name = "Annual Reports"
+  pageRef = "/category/annual-reports"
+  parent = "About Us"
+  weight = 3
+[[menu.main]]
+  name = "Our History"
+  pageRef = "/about/our-history"
+  parent = "About Us"
+  weight = 4
+[[menu.main]]
+  name = "Contact Us"
+  pageRef = "/contact"
+  parent = "About Us"
+  weight = 5
 [[menu.main]]
     name = "Donate"
     url = "https://donate.digitalrightswatch.org.au"
     weight = 8
     [menu.main.params]
       callToAction = true
+      external = true
 
-# Footer Sitemap
-[[menu.sitemap]]
-    name = "Home"
-    url = "#"
-    weight = 1
-[[menu.sitemap]]
-    name = "Archive"
-    pageRef = "/blog"
-    weight = 2
-[[menu.sitemap]]
+# Footer Menu
+[[menu.footer]]
     name = "About"
     pageRef = "/about/"
-    weight = 2
-[[menu.sitemap]]
-    name = "Privacy & Policy"
-    pageRef = "privacy"
-    weight = 3
-[[menu.sitemap]]
+    weight = 1
+
+[[menu.footer]]
     name = "Contact"
-    pageRef = "contact"
+    pageRef = "/contact/"
+    weight = 2
+
+[[menu.footer]]
+    name = "Privacy & Policy"
+    pageRef = "privacy-policy"
+    weight = 3
+[[menu.footer]]
+    name = "Donate"
+    pageRef = "donate"
     weight = 4
 
 [markup]
