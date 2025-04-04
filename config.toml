@@ -7,6 +7,8 @@ summaryLength = 18
 #timeout = 30
 # configure netlify redirects
 # https://honnef.co/articles/generating-netlify-_redirects-from-hugo/
+disableAliases = true
+
 [outputFormats.REDIR]
 mediaType = "text/netlify"
 baseName = "_redirects"
