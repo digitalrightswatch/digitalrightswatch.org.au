@@ -85,7 +85,7 @@ summaryLength = 18
     weight = 2
 [[menu.sitemap]]
     name = "About"
-    pageRef = "/about"
+    pageRef = "/about/"
     weight = 2
 [[menu.sitemap]]
     name = "Privacy & Policy"
