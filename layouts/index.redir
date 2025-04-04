@@ -1,0 +1,7 @@
+
+
+{{ range $p := .Site.AllPages }}
+{{- range .Aliases -}}
+{{ . }} {{ $p.RelPermalink }}
+{{ end }}
+{{- end -}}
