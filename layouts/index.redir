@@ -4,4 +4,7 @@
 {{- range .Aliases -}}
 {{ . }} {{ $p.RelPermalink }}
 {{ end }}
+{{- if $p.Params.redirect_url -}}
+{{ $p.RelPermalink }} {{$p.Params.redirect_url}} 200!
+{{ end }}
 {{- end -}}
