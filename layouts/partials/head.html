@@ -1,28 +1,31 @@
 <head>
-  <meta charset="utf-8" />
-  <title>{{ .Title }}</title>
+    <meta charset="utf-8" />
+    <title>{{ .Title }}</title>
 
-  {{/* If we have a redirect_url parameter in the page frontmatter, use it */}}
-  {{ with .Params.redirect_url }}
-  <meta http-equiv="refresh" content="0; url={{ . }}">
-  {{ end }}
+    {{/* If we have a redirect_url parameter in the page frontmatter, use it */}}
+    {{ with .Params.redirect_url }}
+    <meta http-equiv="refresh" content="0; url={{ . }}" />
+    {{ end }}
 
-  <!-- mobile responsive meta -->
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
-{{ "<!-- Critical CSS -->" | safeHTML }}
-{{ $opts := dict
-"enableSourceMap" (not hugo.IsProduction)
-"includePaths" (slice "assets/scss/plugins/")
-"outputStyle" (cond hugo.IsProduction "compressed" "expanded")
-}}
-{{ $stylex := resources.Get "scss/critical.scss" | toCSS $opts  }}
-  <link href="{{ $stylex.Permalink }}" rel="stylesheet" />
+    <!-- mobile responsive meta -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
-  {{ "<!--Favicon-->" | safeHTML }}
-  <link rel="shortcut icon" href="{{ "images/favicon.png" | absURL }}" type="image/x-icon" />
-  <link rel="icon" href="{{ "images/favicon.png" | absURL }}" type="image/x-icon" />
+    {{ "<!-- Critical CSS -->" | safeHTML }}
+    {{ $opts := dict
+    "enableSourceMap" (not hugo.IsProduction)
+    "includePaths" (slice "assets/scss/plugins/")
+    "outputStyle" (cond hugo.IsProduction "compressed" "expanded")
+    }}
+    {{ $stylex := resources.Get "scss/critical.scss" | toCSS $opts }}
+    <link href="{{ $stylex.Permalink }}" rel="stylesheet" />
+
+    {{ "<!--Favicon-->" | safeHTML }}
+    <link rel="icon" type="image/x-icon" href="{{ "images/favicon.ico" | absURL }}" />
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ "images/favicon-32x32.png" | absURL }}" />
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ "images/favicon-16x16.png" | absURL }}" />
+    <link rel="apple-touch-icon" href="{{ "images/apple-touch-icon.png" | absURL }}" />
   {{ with resources.Get "js/main.js" }}
     {{ $opts := dict
       "minify" true
