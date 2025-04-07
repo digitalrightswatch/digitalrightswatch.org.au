@@ -33,6 +33,10 @@ $theme-colors: (
 $enable-responsive-font-sizes: true;
 $font-family-sans-serif: "Open Sans", sans-serif;
 
+// make the light navbar colours a little bolder
+$navbar-light-color: rgba(#000, 7) !default;
+$navbar-light-hover-color: rgba(#000, 9) !default;
+
 @import "bootstrap/variables";
 
 @import "bootstrap/mixins";
