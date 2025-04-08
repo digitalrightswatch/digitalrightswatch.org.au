@@ -51,5 +51,5 @@ Currently, Digital Rights Watch does not have deductible gift recipient (DGR) ta
 
  [1]: /wp-content/uploads/2019/01/DRW-Constitution-23-02-16.doc.pdf
  [2]: /wp-content/uploads/2019/01/Digital-Rights-Watch-Code-of-Conduct.pdf
- [3]: https://digitalrightswatch.org.au/about/donation-transparency/
+ [3]: /about/donation-transparency/
  [4]: https://www.ato.gov.au/Non-profit/Getting-started/Getting-endorsed/Is-my-organisation-eligible-for-DGR-endorsement-/Types-of-DGRs/
