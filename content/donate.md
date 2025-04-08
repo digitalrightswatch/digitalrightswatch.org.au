@@ -3,7 +3,6 @@ title: Donate
 authors: [drw]
 type: page
 date: 2016-08-10T12:48:10+00:00
-redirect_url: https://donate.digitalrightswatch.org.au/
 eg_vimeo_ratio:
   - 1
 eg_youtube_ratio:
@@ -44,4 +43,4 @@ We will never share your contact or financial details with anyone else. [Read ou
 
 **Digital Rights Watch Inc. is an incorporated association in Victoria and operates nationally as a registered charity. ABN 90 509 129 914**
 
-<img loading="lazy" decoding="async" alt="Registered Charity,acnc.gov.au/charityregister" src="/wp-content/uploads/2016/02/ACNC-Registered-Charity-Tick.jpg" width="179" height="169" />
+<img loading="lazy" decoding="async" alt="Registered Charity,acnc.gov.au/charityregister" src="/images/ACNC-Registered-Charity-Tick.jpg" width="179" height="169" />
