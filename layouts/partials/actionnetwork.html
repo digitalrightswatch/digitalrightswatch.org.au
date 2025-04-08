@@ -1,4 +1,6 @@
-{{ with site.Data.actionnetwork_embeds.newsletterSignup }}
+{{ $contentKey := or .contentKey "newsletterSignup" }}
+
+{{ with index site.Data.actionnetwork_embeds $contentKey }}
   <link
     href="https://actionnetwork.org/css/style-embed-whitelabel-v3.css"
     rel="stylesheet"
@@ -7,8 +9,8 @@
   {{ if not .disableEmbed }}
     <script src="{{ .scriptSrcUrl }}"></script>
   {{ end }}
-  <div class="actionnetwork-embed">
-    <div id="can-form-area-site-sign-up">
+  <div class="{{ .layoutClass }}">
+    <div id="{{ .widgetWrapperId }}" class="actionnetwork-widget-wrapper">
       {{ $buttonVisibilityClass := cond .disableEmbed "" "delayed-visible" }}
       {{ with .fallbackLink }}
         <a

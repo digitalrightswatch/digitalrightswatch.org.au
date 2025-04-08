@@ -35,7 +35,8 @@ With your support we are able to continue our research and write reports, create
 
 Your donations enable us to produce and host events and workshops on critical digital rights issues. Make sure to subscribe to the mailing list to keep up to date.
 
-<iframe src="https://actionnetwork.org/widgets/v3/fundraising/support-digital-rights-watch?can_widget_id_toframe=&amp;css=whitelabel&amp;source=widget&amp;email_referrer=undefined&amp;mobile_message_referrer=undefined&amp;amount=undefined&amp;oneclick=undefined&amp;recurring=undefined&amp;period=undefined&amp;kiosk=undefined&amp;style=&amp;redirect_url=https%3A%2F%2Fdigitalrightswatch.org.au%2Fdonate%2F&amp;test_mode=&amp;subscription_group=&amp;subscription_user=&amp;subscription_referrer=&amp;mobile_subscription_group=&amp;mobile_subscription_user=&amp;mobile_subscription_referrer=" id="can_embed_iframe" frameborder="0" width="100%" scrolling="no" style="height: 1060px;"></iframe>
+{{<actionnetwork contentKey="donationForm">}}
+
 ---
 
 Please note that donations to Digital Rights Watch are not tax deductible. [Read our Donations Policy here.](/about/donations-policy)

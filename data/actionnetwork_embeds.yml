@@ -1,5 +1,14 @@
 newsletterSignup:
+  widgetWrapperId: can-form-area-site-sign-up
+  layoutClass: "actionnetwork-signup-embed"
   scriptSrcUrl: "https://actionnetwork.org/widgets/v5/form/site-sign-up?format=js&source=widget"
+  fallbackLink:
+    text: Sign up here
+    url: https://actionnetwork.org/forms/site-sign-up
+  disableEmbed: false
+donationForm:
+  widgetWrapperId: "can-fundraising-area-support-digital-rights-watch"
+  scriptSrcUrl: "https://actionnetwork.org/widgets/v3/fundraising/support-digital-rights-watch?format=js&source=widget"
   fallbackLink:
     text: Sign up here
     url: https://actionnetwork.org/forms/site-sign-up

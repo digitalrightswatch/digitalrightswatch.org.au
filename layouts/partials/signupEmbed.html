@@ -2,10 +2,12 @@
   <div class="row justify-content-around">
     <div class="col-md-6">
       <h2 class="text-primary-alt display-5 font-weight-bolder">
-        {{.Params.subtitle}}
+        {{ .Params.subtitle }}
       </h2>
       {{ .Content | markdownify }}
     </div>
-    <div id="signup" class="col-md-4">{{ partial "actionnetwork.html" . }}</div>
+    <div id="signup" class="col-md-4">
+      {{ partial "actionnetwork.html" (dict "contentkey" "newsletterSignup") }}
+    </div>
   </div>
 </div>

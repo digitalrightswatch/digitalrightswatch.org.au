@@ -1,5 +1,9 @@
 // action network embed used to enclose various action network forms
-.actionnetwork-embed {
+
+//the signup form as per original site has been customised in various ways
+// including removing a few things from the form by hiding them
+// we also have a min height to avoid layout jumping when the widget loads
+.actionnetwork-signup-embed {
     @media (scripting: enabled) {
         // hardcoded height here: it's about the size of the form when it loads up to prevent layout jumps
         // (but skip for non script enabled as the form is not loaded when no-js)
