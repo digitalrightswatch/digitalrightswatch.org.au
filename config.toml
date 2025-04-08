@@ -121,7 +121,7 @@ home = ["HTML", "RSS", "REDIR"]
     weight = 3
 [[menu.footer]]
     name = "Donate"
-    pageRef = "donate"
+    url = "https://donate.digitalrightswatch.org.au"
     weight = 4
 
 [markup]
