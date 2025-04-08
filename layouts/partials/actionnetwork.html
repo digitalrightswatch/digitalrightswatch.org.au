@@ -1,16 +1,23 @@
-<link
-  href="https://actionnetwork.org/css/style-embed-whitelabel-v3.css"
-  rel="stylesheet"
-  type="text/css"
-/>
-<script src="https://actionnetwork.org/widgets/v5/form/site-sign-up?format=js&amp;source=widget"></script>
-<div class="signup-embed">
-  <div id="can-form-area-site-sign-up">
-    <a
-      href="https://actionnetwork.org/forms/site-sign-up"
-      class="btn btn-lg btn-opaque-outline-primary-alt font-weight-bolder text-uppercase delayed-visible visibile-noscript"
-    >
-      Sign up here
-    </a>
+{{ with site.Data.actionnetwork_embeds.newsletterSignup }}
+  <link
+    href="https://actionnetwork.org/css/style-embed-whitelabel-v3.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  {{ if not .disableEmbed }}
+    <script src="{{ .scriptSrcUrl }}"></script>
+  {{ end }}
+  <div class="actionnetwork-embed">
+    <div id="can-form-area-site-sign-up">
+      {{ $buttonVisibilityClass := cond .disableEmbed "" "delayed-visible" }}
+      {{ with .fallbackLink }}
+        <a
+          href="{{ .url }}"
+          class="btn btn-lg btn-opaque-outline-primary-alt font-weight-bolder text-uppercase {{ $buttonVisibilityClass }} visible-noscript"
+        >
+          {{ .text }}
+        </a>
+      {{ end }}
+    </div>
   </div>
-</div>
+{{ end }}

@@ -1,5 +1,5 @@
-// signup form embed used on footer and anywhere else signup to newsletter is required
-.signup-embed {
+// action network embed used to enclose various action network forms
+.actionnetwork-embed {
     @media (scripting: enabled) {
         // hardcoded height here: it's about the size of the form when it loads up to prevent layout jumps
         // (but skip for non script enabled as the form is not loaded when no-js)
