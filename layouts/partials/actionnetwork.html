@@ -1,6 +1,6 @@
 {{ $contentKey := or .contentKey "newsletterSignup" }}
 
-{{ with index site.Data.actionnetwork_embeds $contentKey }}
+{{ with index (where site.Data.actionnetwork_embeds.forms "key" $contentKey ) 0 }}
   <link
     href="https://actionnetwork.org/css/style-embed-whitelabel-v3.css"
     rel="stylesheet"

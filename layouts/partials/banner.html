@@ -1,7 +1,9 @@
 {{ $contentKey := or .contentKey "default" }}
 {{ $layoutKey := .layoutKey }}
 {{ $scratch := newScratch }}
-{{ $configuredContent := index site.Data.banners.content $contentKey }}
+{{ $configuredContent := index (where site.Data.banners.content "key" $contentKey ) 0 }}
+
+
 
 
 {{/* you would have thought merge and frields would work here. they didnt . have not yet worked out why so doing it all
@@ -15,7 +17,8 @@ by hand to avoid subtle mutations of underlying data ! */}}
 
 {{ $content := $scratch.Get "content" }}
 
-{{ $layout := index site.Data.banners.layouts $content.layout }}
+{{ $layout := index (where site.Data.banners.layouts "key" $content.layout) 0 }}
+
 <section class="{{ $layout.bannerClass }}">
   <div class="banner-text">
   {{ with $content }}

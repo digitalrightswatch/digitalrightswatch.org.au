@@ -379,7 +379,124 @@ collections: # A list of collections the CMS should be able to edit
                       widget: "markdown",
                       required: false,
                     }
-
+  - name: "shared_content"
+    label: "Shared Content"
+    files:
+      - file: "data/actionnetwork_embeds.yml"
+        label: "Action network Forms"
+        name: "actionnetwork_embeds"
+        editor:
+          preview: false
+        fields:
+          - label: "Forms"
+            name: "forms"
+            widget: "list"
+            summary: "{{fields.key}}"
+            fields:
+              - {
+                  label: "Form Key",
+                  name: "key",
+                  widget: "string",
+                  hint: "Unique identifier for this form (e.g. newsletterSignup)",
+                }
+              - {
+                  label: "Widget Wrapper ID",
+                  name: "widgetWrapperId",
+                  widget: "string",
+                  required: true,
+                  hint: "Mandatory ID for the wrapper element",
+                }
+              - {
+                  label: "Layout Class",
+                  name: "layoutClass",
+                  widget: "string",
+                  required: false,
+                  hint: "Optional CSS class for styling",
+                }
+              - {
+                  label: "Script Source URL",
+                  name: "scriptSrcUrl",
+                  widget: "string",
+                  required: true,
+                  hint: "URL to the embed script",
+                }
+              - label: "Fallback Link"
+                name: "fallbackLink"
+                widget: "object"
+                fields:
+                  - {
+                      label: "Link Text",
+                      name: "text",
+                      widget: "string",
+                      required: true,
+                    }
+                  - {
+                      label: "URL",
+                      name: "url",
+                      widget: "string",
+                      required: true,
+                    }
+                  - {
+                      label: "Disable Embed",
+                      name: "disableEmbed",
+                      widget: "boolean",
+                      default: false,
+                      hint: "Force using the fallback link instead of the embed",
+                    }
+      - file: "data/banners.yml"
+        label: "Site Banners"
+        name: "site_banners"
+        editor:
+          preview: false
+        fields:
+          - label: "Banner Content"
+            name: "content"
+            widget: "list"
+            summary: "{{fields.key}}: {{fields.title}}"
+            fields:
+              - {
+                  label: "Banner Key",
+                  name: "key",
+                  widget: "string",
+                  hint: "Unique identifier for this banner (e.g. banner_one)",
+                }
+              - { label: "Title", name: "title", widget: "string" }
+              - {
+                  label: "Description",
+                  name: "description",
+                  widget: "markdown",
+                }
+              - {
+                  label: "Button Text",
+                  name: "buttonText",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Button URL",
+                  name: "buttonUrl",
+                  widget: "string",
+                  required: false,
+                }
+              - label: "Layout"
+                name: "layout"
+                widget: "select"
+                options:
+                  ["default", "fullWidth", "fullWidthSecondary", "articleAside"]
+                default: "default"
+          - label: "Banner Layouts"
+            name: "layouts"
+            widget: "list"
+            summary: "{{fields.key}}"
+            fields:
+              - {
+                  label: "Layout Key",
+                  name: "key",
+                  widget: "string",
+                  hint: "Unique identifier for this layout (e.g. default, fullWidth)",
+                }
+              - { label: "Banner Class", name: "bannerClass", widget: "string" }
+              - { label: "Button Class", name: "buttonClass", widget: "string" }
   - name: "homepage"
     label: "Homepage configuration"
 

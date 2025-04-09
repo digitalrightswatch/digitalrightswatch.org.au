@@ -1,25 +1,25 @@
 content:
   # fallback if you just want a banner
-  default:
+  - key: default
     layout: fullWidth
-  donation:
+  - key: donation
     title: Defend your rights and donate today
     description: Your donation helps us fight for a free, open and secure internet
     buttonText: Donate
     buttonUrl: https://donate.digitalrightswatch.org.au
     layout: fullWidth
-  signup:
+  - key: signup
     title: Join our mailing list
     description: Keep up to date with our work and opportunities to take action by joining our mailing list
     buttonText: Sign Up
     buttonUrl: "/signup"
     layout: fullWidthSecondary
-  aboutPageHeader:
+  - key: aboutPageHeader
     subtitle: Human Rights Champions
     title: Digital Rights Watch strategically defends digital rights in Australia
     description:
     layout: pageHeaderPrimary
-  homepageHero:
+  - key: homepageHero
     subtitle: Digital Rights Watch
     title: "Standing up for digital\u00A0rights"
     description: |
@@ -32,27 +32,27 @@ content:
 
     layout: homepagePrimary
 layouts:
-  default:
+  - key: default
     bannerClass: "banner-full banner-primary"
     buttonClass: "btn-opaque-outline-primary"
-  fullWidth:
+  - key: fullWidth
     bannerClass: "banner-full banner-primary"
     buttonClass: "btn-lg btn-opaque-outline-primary"
-  fullWidthSecondary:
+  - key: fullWidthSecondary
     bannerClass: "banner-full banner-secondary"
     buttonClass: "btn-lg btn-opaque-outline-primary-alt"
-  articleAside:
+  - key: articleAside
     bannerClass: "aside-banner banner-primary"
     buttonClass: "btn-opaque-outline-primary"
-  pageHeaderPrimary:
+  - key: pageHeaderPrimary
     bannerClass: "banner-full-header banner-primary"
     buttonClass: "btn-opaque-outline-primary"
-  homepagePrimary:
+  - key: homepagePrimary
     bannerClass: "banner-with-image banner-eye"
     buttonClass: "btn-lg btn-primary"
-  colPrimary:
+  - key: colPrimary
     bannerClass: "banner-col banner-primary"
     buttonClass: "btn-lg  btn-opaque-outline-primary"
-  colSecondary:
+  - key: colSecondary
     bannerClass: "banner-col banner-secondary"
     buttonClass: "btn-lg btn-opaque-outline-primary-alt"
