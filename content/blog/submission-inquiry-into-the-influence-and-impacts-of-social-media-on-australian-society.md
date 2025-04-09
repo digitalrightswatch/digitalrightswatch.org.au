@@ -3,6 +3,8 @@ draft: false
 title: "Submission: Inquiry into the influence and impacts of social media on
   Australian society"
 pdfAsset: /images/sub_017-drw.pdf
+tags:
+  - Submissions
 date: 2024-09-23T01:18:58.538Z
 ---
 **Human rights must be at the centre of Australia's approach to tech policy**
