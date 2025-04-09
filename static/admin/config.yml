@@ -245,6 +245,44 @@ collections: # A list of collections the CMS should be able to edit
         name: "about_footer"
         fields:
           - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "homepage"
+    label: "Homepage configuration"
+
+    files:
+      - file: "data/homeBlog.yml"
+        name: "homeblog"
+        label: "Homepage settings"
+        fields:
+          - label: "Featured Campaigns"
+            name: "featured_campaigns"
+            widget: "object"
+            fields:
+              - { label: "Enabled", name: "enabled", widget: "boolean" }
+              - { label: "Title", name: "title", widget: "string" }
+              - {
+                  label: "Maximum campaigns to show",
+                  name: "max_items",
+                  widget: "number",
+                  hint: "Campaigns will be taken from the featured category 'Campaigns' ",
+                }
+          - label: "Recent Articles"
+            name: "recent_articles"
+            widget: "object"
+            fields:
+              - { label: "Enabled", name: "enabled", widget: "boolean" }
+              - { label: "Title", name: "title", widget: "string" }
+              - {
+                  label: "More button text",
+                  name: "moreButtonText",
+                  widget: "string",
+                }
+              - {
+                  label: "Maximum recent articles to show",
+                  name: "max_items",
+                  widget: "number",
+                }
+
   - name: "data_files"
     label: "Data Files"
     files:
