@@ -11,6 +11,55 @@ public_folder: "/images"
 site_url: https://digitalrightswatch.netlify.app
 
 collections: # A list of collections the CMS should be able to edit
+  - name: "categories"
+    label: "Categories"
+    folder: "content/category"
+    create: true
+    path: "{{slug}}/_index.md"
+    preview_path: "/categories/{{slug}}/"
+    fields:
+      - { label: "title", name: "title", widget: "string" }
+      - {
+          label: "Link title",
+          name: "linkTitle",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Content", name: "body", widget: "markdown", required: false }
+      - {
+          label: "Hide from navigation",
+          name: "hideFromNav",
+          widget: "boolean",
+          required: false,
+        }
+  - name: "featured"
+    preview_path: "/featured/{{dirname}}"
+    label: "Featured Categories"
+    folder: "content/featured"
+    create: true
+    path: "{{slug}}/_index.md"
+    fields:
+      - { label: "title", name: "title", widget: "string" }
+      - {
+          label: "Link title",
+          name: "linkTitle",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Content", name: "body", widget: "markdown", required: false }
+      - {
+          label: "Maximum number of items to show",
+          name: "maxitems",
+          widget: "number",
+          required: false,
+        }
+      - {
+          label: "Article fields to show",
+          name: "includeArticleFields",
+          widget: "list",
+          required: false,
+          default: ["date", "summary", "featureImage"],
+        }
   - name: "authors" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Author" # Used in the UI, ie.: "New Post"
     folder: "content/authors" # The path to the folder where the documents are stored
