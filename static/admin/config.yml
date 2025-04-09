@@ -45,22 +45,43 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - { label: "Draft", name: "draft", widget: "boolean", default: true }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Slug", name: "slug", widget: "string", required: false}
+      - { label: "Slug", name: "slug", widget: "string", required: false }
       - { label: "URL", name: "url", widget: "string", required: false }
       - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Summary", name: "summary", widget: "text", required: false }
-      - { label: "Intro Blurb (description)", name: "description", widget: "text", required: false }
+
       - label: "Authors"
         name: "authors"
         widget: "relation"
         collection: "authors"
         search_fields: ["username", "name"]
         value_field: "username"
-        display_fields:  ["{{username}} ({{name}})"]
+        display_fields: ["{{username}} ({{name}})"]
         required: false
         multiple: true
-      - { label: "Image", name: "featureImage", widget: "image", required: false }
+      - {
+          label: "Image",
+          name: "featureImage",
+          widget: "image",
+          required: false,
+        }
+      - {
+          label: "Card Image",
+          name: "cardImage",
+          widget: "image",
+          required: false,
+          hint: "Square version of the image used when showing the post as as card. If left blank, the featureImage is autocropped to the correct dimensions.",
+        }
+
+      - {
+          label: "PDF Download File",
+          name: "pdfAsset",
+          widget: "file",
+          hint: "Displays in the UI as a download link at the top of the page",
+          required: false,
+          multiple: false,
+        }
+      - { label: "Summary", name: "summary", widget: "text", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Page"
@@ -70,22 +91,32 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - { label: "Draft", name: "draft", widget: "boolean", default: true }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Slug", name: "slug", widget: "string", required: false}
+      - { label: "Slug", name: "slug", widget: "string", required: false }
       - { label: "URL", name: "url", widget: "string", required: false }
       - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Summary", name: "summary", widget: "text", required: false }
-      - { label: "Intro Blurb (description)", name: "description", widget: "text", required: false }
+      - {
+          label: "Intro Blurb (description)",
+          name: "description",
+          widget: "text",
+          required: false,
+        }
       - label: "Authors"
         name: "authors"
         widget: "relation"
         collection: "authors"
         search_fields: ["username", "name"]
         value_field: "username"
-        display_fields:  ["{{username}} ({{name}})"]
+        display_fields: ["{{username}} ({{name}})"]
         required: false
         multiple: true
-      - { label: "Image", name: "featureImage", widget: "image", required: false }
+      - {
+          label: "Image",
+          name: "featureImage",
+          widget: "image",
+          required: false,
+        }
       - { label: "Body", name: "body", widget: "markdown" }
       #files:
       #  - file: "content/_index.md"
