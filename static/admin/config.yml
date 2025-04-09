@@ -246,6 +246,79 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: "Body", name: "body", widget: "markdown" }
 
+      - file: "data/our_people.yml"
+        label: "Our People"
+        name: our_people
+        fields:
+          - { label: "Enable", name: "enable", widget: "boolean" }
+          - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Description",
+              name: "description",
+              widget: "markdown",
+              required: false,
+            }
+          - label: "Sections"
+            name: "sections"
+            widget: "list"
+            summary: "{{fields.name}}"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - label: "People"
+                name: "people"
+                widget: "list"
+                summary: "{{fields.name}}"
+                fields:
+                  - { label: "Name", name: "name", widget: "string" }
+                  - {
+                      label: "Role",
+                      name: "role",
+                      widget: "string",
+                      required: false,
+                    }
+                  - {
+                      label: "Username",
+                      name: "username",
+                      widget: "string",
+                      required: false,
+                    }
+                  - {
+                      label: "Image",
+                      name: "image",
+                      widget: "image",
+                      required: false,
+                    }
+                  - {
+                      label: "Twitter",
+                      name: "twitter",
+                      widget: "string",
+                      required: false,
+                    }
+                  - {
+                      label: "Web",
+                      name: "web",
+                      widget: "string",
+                      required: false,
+                    }
+                  - {
+                      label: "Email",
+                      name: "email",
+                      widget: "string",
+                      required: false,
+                    }
+                  - {
+                      label: "Fediverse",
+                      name: "fediverse",
+                      widget: "string",
+                      required: false,
+                    }
+                  - {
+                      label: "Description",
+                      name: "description",
+                      widget: "markdown",
+                      required: false,
+                    }
+
   - name: "homepage"
     label: "Homepage configuration"
 
@@ -282,10 +355,6 @@ collections: # A list of collections the CMS should be able to edit
                   name: "max_items",
                   widget: "number",
                 }
-
-  - name: "data_files"
-    label: "Data Files"
-    files:
       - file: "data/hero.yml"
         label: "Hero"
         name: hero
@@ -300,134 +369,25 @@ collections: # A list of collections the CMS should be able to edit
             name: "description"
             widget: "text"
             required: false
-          - label: "Button Name"
-            name: "buttonName"
+          - label: "Button 1 Link"
+            name: "button1link"
             widget: "string"
             required: false
           - label: "Button 1 Text"
             name: "button1text"
             widget: "string"
             required: false
+          - label: "Button 2 Link"
+            name: "button2link"
+            widget: "string"
+            required: false
           - label: "Button 2 Text"
             name: "button2text"
             widget: "string"
             required: false
-          - { label: "Image", name: "image", widget: "image" }
-      - file: "data/donate.yml"
-        label: "Donate"
-        name: donate
-        fields:
-          - { label: "Enable", name: "enable", widget: "boolean" }
-          - { label: "Title", name: "title", widget: "string", required: false }
-          - { label: "Description", name: "description", widget: "text" }
-          - { label: "Button Text", name: "buttonText", widget: "string" }
-          - { label: "Button URL", name: "buttonURL", widget: "string" }
-
-      - file: "data/services.yml"
-        label: "Services"
-        name: services
-        fields:
-          - { label: "Enable", name: "enable", widget: "boolean" }
-          - { label: "Title", name: "title", widget: "string", required: false }
-          - label: "Services"
-            name: "services"
-            widget: "list"
-            summary: "{{fields.title}}"
-            fields:
-              - label: "Icon"
-                name: "icon"
-                widget: "string"
-                hint: "Icons can be found at https://themify.me/themify-icons"
-              - { label: "Title", name: "title", widget: "string" }
-              - { label: "Description", name: "description", widget: "text" }
-      - file: "data/screenshots.yml"
-        label: "Screenshots"
-        name: screenshots
-        fields:
-          - { label: "Enable", name: "enable", widget: "boolean" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Description", name: "description", widget: "text" }
-          - label: "Images"
-            name: "images"
-            widget: "list"
-            summary: "{{fields.url}}"
-            fields:
-              - { label: "URL", name: "url", widget: "image" }
-      - file: "data/faq.yml"
-        label: "FAQs"
-        name: faq
-        fields:
-          - { label: "Enable", name: "enable", widget: "boolean" }
-          - { label: "Title", name: "title", widget: "string", required: false }
-          - { label: "Description", name: "description", widget: "text" }
-          - label: "FAQ Items"
-            name: "faqItem"
-            widget: "list"
-            summary: "{{fields.question}}: {{fields.answer}}"
-            fields:
-              - { label: "Question", name: "question", widget: "text" }
-              - { label: "Answer", name: "answer", widget: "text" }
-              - { label: "Data Target", name: "dataTarget", widget: "string" }
-              - { label: "Show", name: "show", widget: "select", options: ["", "show"] }
-      - file: "data/video.yml"
-        label: "Video"
-        name: video
-        fields:
-          - { label: "Enable", name: "enable", widget: "boolean" }
-          - { label: "Comment 1", name: "comment1", widget: "string" }
-          - { label: "Comment 2", name: "comment2", widget: "string" }
-          - { label: "Button Name", name: "buttonName", widget: "string" }
-          - { label: "Button 1 Text", name: "button1text", widget: "string" }
-          - { label: "Button 2 Text", name: "button2text", widget: "string" }
-          - { label: "Image", name: "image", widget: "image" }
-          - { label: "Video", name: "video", widget: "string", required: false }
-      - file: "data/testimonial.yml"
-        label: "Testimonials"
-        name: testimonial
-        fields:
-          - { label: "Enable", name: "enable", widget: "boolean" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Description", name: "description", widget: "text" }
-          - label: "Comments"
-            name: "comments"
-            widget: "list"
-            summary: "{{fields.text}}: {{fields.name}}"
-            fields:
-              - { label: "Text", name: "text", widget: "text" }
-              - { label: "Name", name: "name", widget: "string" }
-              - { label: "Designation", name: "designation", widget: "string" }
-              - { label: "Image", name: "image", widget: "image" }
-      - file: "data/homeblog.yml"
-        label: "Home Blog"
-        name: homeblog
-        fields:
-          - { label: "Enable", name: "enable", widget: "boolean" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Blog Button Text", name: "blogButtonText", widget: "string" }
-      - file: "data/our_people.yml"
-        label: "Our People"
-        name: our_people
-        fields:
-          - { label: "Enable", name: "enable", widget: "boolean" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Description", name: "description", widget: "markdown", required: false }
-          - label: "Sections"
-            name: "sections"
-            widget: "list"
-            summary: "{{fields.name}}"
-            fields:
-              - { label: "Name", name: "name", widget: "string" }
-              - label: "People"
-                name: "people"
-                widget: "list"
-                summary: "{{fields.name}}"
-                fields:
-                  - { label: "Name", name: "name", widget: "string" }
-                  - { label: "Role", name: "role", widget: "string", required: false }
-                  - { label: "Username", name: "username", widget: "string", required: false }
-                  - { label: "Image", name: "image", widget: "image", required: false }
-                  - { label: "Twitter", name: "twitter", widget: "string", required: false }
-                  - { label: "Web", name: "web", widget: "string", required: false }
-                  - { label: "Email", name: "email", widget: "string", required: false }
-                  - { label: "Fediverse", name: "fediverse", widget: "string", required: false }
-                  - { label: "Description", name: "description", widget: "markdown", required: false }
+          - {
+              label: "Image",
+              name: "image",
+              widget: "image",
+              media_folder: "/static/images/hero",
+            }
