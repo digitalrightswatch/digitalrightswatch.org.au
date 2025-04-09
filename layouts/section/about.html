@@ -2,13 +2,14 @@
   <main>
     {{ partial "banner.html" (dict "contentKey" "aboutPageHeader") }}
     <div class="container-fluid mb-4">
-      {{ with .GetPage "vision" }}
+      {{ with .GetPage "about/includes" }}
+        {{ $vision_cards := (.Resources.Get "vision-cards.yml") | transform.Unmarshal }}
         <div class="col-md-8 mx-auto small text-center mb-4">
-          {{ .Content }}
+          {{ $vision_cards.content | markdownify }}
         </div>
         {{ $resources := .Resources }}
         <div class="bg-light row justify-content-center px-5 mb-4">
-          {{ range (.Resources.Get "vision-cards.yml") | transform.Unmarshal }}
+          {{ range $vision_cards.cards }}
 
             <div class="col-md-3 text-center">
               <div class="p-4">
@@ -28,9 +29,8 @@
             </div>
           {{ end }}
         </div>
-      {{ end }}
 
-      {{ with .GetPage "principles" }}
+      {{ with .Resources.Get "principles.md" }}
 
         <div class="col-md-8 mx-auto small mb-4">
           {{ .Content }}
@@ -38,18 +38,20 @@
       {{ end }}
     </div>
     <div class="container-fluid my-5">
-      <div class="row justify-content-center gap-3">
+    <div class="row justify-content-center gap-3">
         {{ partial "banner.html" (dict "contentKey" "donation" "layoutKey" "colPrimary") }}
 
         {{ partial "banner.html" (dict "contentKey" "signup" "layoutKey" "colSecondary") }}
-      </div>
     </div>
-    {{ with .GetPage "footer" }}
+    </div>
+    {{ with .Resources.Get "footer.md" }}
 
-      <div class="col-md-8 mx-auto small mb-5">
+    <div class="col-md-8 mx-auto small mb-5">
         {{ .Content }}
-      </div>
+
+    </div>
+    {{ end }}
     {{ end }}
 
-  </main>
+    </main>
 {{ end }}
