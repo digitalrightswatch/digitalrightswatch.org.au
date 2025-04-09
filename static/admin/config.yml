@@ -197,6 +197,54 @@ collections: # A list of collections the CMS should be able to edit
                 name: images
                 widget: list
                 field: { label: Image, name: image, widget: image }
+  - name: "about_section"
+    label: "About Section Pages"
+    folder: "content/about/"
+    path: "{{slug}}.md"
+    preview_path: "/about/{{slug}}"
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: "Draft", name: "draft", widget: "boolean", default: true }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "about_page"
+    label: "About Us page components"
+    preview_path: "/about"
+    files:
+      - file: "content/about/includes/vision-cards.yml"
+        label: "Our Vision"
+        name: "vision_cards"
+        preview_path: "/about"
+        fields:
+          - { label: "Content", name: "content", widget: "markdown" }
+          - label: "Cards"
+            name: "cards"
+            widget: "list"
+            allow_add: false
+            summary: "{{fields.title}}"
+            fields:
+              - { label: "Title", name: "title", widget: "text" }
+              - label: "Icon"
+                name: "icon"
+                widget: "image"
+                choose_url: false
+                media_folder: "content/about/includes/"
+                allow_multiple: false
+              - { label: "Content", name: "content", widget: "markdown" }
+
+      - file: "content/about/includes/principles.md"
+        label: "Principles"
+        preview_path: "/about"
+        name: "about_principles"
+        fields:
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "content/about/includes/footer.md"
+        label: "Footer"
+        preview_path: "/about"
+        name: "about_footer"
+        fields:
+          - { label: "Body", name: "body", widget: "markdown" }
   - name: "data_files"
     label: "Data Files"
     files:
