@@ -4,8 +4,10 @@ title: The Fight for Digital Rights in the Age of AI
 date: 2025-03-12T04:40:30.657Z
 authors:
   - kat
-featureImage: /images/taylor-vick-m5tzztfcofs-unsplash.jpg
+featureImage: /images/yutongliu-thebigger-picture-aiis-everywhere-1280x894.jpg
 ---
+*Image: Yutong Liu & The Bigger Picture   / https://betterimagesofai.org / https://creativecommons.org/licenses/by/4.0/*
+
 **The promise of AI innovation has captured the attention of the technology industry and its associated policy makers. While we wait for the development of a [National AI Capability Plan](https://www.industry.gov.au/news/developing-national-ai-capability-plan) in Australia, companies are left with a set of [voluntary guardrails](https://www.industry.gov.au/publications/voluntary-ai-safety-standard/10-guardrails) to navigate the technologies’ associated risks.** 
 
 **In a world in which the tech industry has shown blatant disinterest in following laws and policies, against a backdrop of rampant authoritarianism and a global political trend of sunsetting “responsible AI” initiatives, we need an enforceable legislative framework that prioritises privacy and protects us from harm.** 
