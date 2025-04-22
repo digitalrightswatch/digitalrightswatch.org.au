@@ -54,6 +54,6 @@ Of course, technology (development, use and regulation) is a global affair. Trum
 
 There are many key tech companies, individuals and agendas in the US who will seek to influence the Trump administration’s policy. What stands out for me is likely uncertainty, volatility and a focus on the short term (markets, investments and futures) that will characterise policy in the US for a while.  
 
-![](/images/miah-hammond-errey.png)
+![](/images/miah-hammond-errey.png "=350x")
 
 Dr Miah Hammond-Errey is the founding CEO of Strat Futures Pty Limited and host of the Technology & Security podcast. She guides organisations and advises leaders on emerging technologies, intelligence, data, national security, cybersecurity and leadership. Her recent book is called Big Data, Emerging Technologies and Intelligence: National Security Disrupted. Dr Hammond-Errey spent eighteen years leading federal government activities in Australia, Europe, and Asia and was awarded an Operations Medal. She previously established the Emerging Technology Program at the US Studies Centre at the University of Sydney and ran the information operations team at the Australian Strategic Policy Institute. She is member of Australian Institute of Company Directors, teaches postgraduate cyber security at the University of Sydney and is affiliated with the Deakin University Cyber Research and Innovation Centre.
