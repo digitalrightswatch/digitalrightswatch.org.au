@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Submission: Review of AI and Australian Consumer Law 2024"
 category:
   - submissions
