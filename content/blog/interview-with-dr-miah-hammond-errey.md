@@ -10,8 +10,6 @@ featureImage: /images/ev-gpjvrzyavzc-unsplash.jpg
 
 *In October, I had the pleasure of seeing national security analyst, Dr Miah Hammond-Errey speak on a panel about mis- and dis-information at this year’s SXSW Sydney. I was impressed with her nuanced and informed take on the topic and how she described the data-extractive business models of digital platforms as key to understanding and therefore tackling mis- and dis-information. It aligned strongly with our thinking at Digital Rights Watch, that we need to disrupt the business models of Big Tech and digital platforms, rather than rely on content moderation as a solution to the mis- and dis-information problem, and the best way to do that is by strong and meaningful reform of our privacy law. In this interview, Miah reflects on the unlikely pairing of national security and privacy, the role of human rights and how we might regulate Big Tech.*
 
-
-
 **Kate:** Your background is in intelligence and national security, how did you become interested in privacy?
 
 **Miah:** It is a good question! As a national security analyst, I am perhaps an unexpected privacy advocate. The short answer is that I had the luxury of analysing technology and security for my PhD and leadership roles and recognised that without addressing privacy vulnerabilities we cannot resolve the security vulnerabilities either.
@@ -54,6 +52,7 @@ Of course, technology (development, use and regulation) is a global affair. Trum
 
 There are many key tech companies, individuals and agendas in the US who will seek to influence the Trump administration’s policy. What stands out for me is likely uncertainty, volatility and a focus on the short term (markets, investments and futures) that will characterise policy in the US for a while.  
 
-![](/images/miah-hammond-errey.png "=350x")
 
-Dr Miah Hammond-Errey is the founding CEO of Strat Futures Pty Limited and host of the Technology & Security podcast. She guides organisations and advises leaders on emerging technologies, intelligence, data, national security, cybersecurity and leadership. Her recent book is called Big Data, Emerging Technologies and Intelligence: National Security Disrupted. Dr Hammond-Errey spent eighteen years leading federal government activities in Australia, Europe, and Asia and was awarded an Operations Medal. She previously established the Emerging Technology Program at the US Studies Centre at the University of Sydney and ran the information operations team at the Australian Strategic Policy Institute. She is member of Australian Institute of Company Directors, teaches postgraduate cyber security at the University of Sydney and is affiliated with the Deakin University Cyber Research and Innovation Centre.
+<img src='/images/miah-hammond-errey.png' width=150/>
+
+Dr Miah Hammond-Errey is the founding CEO of Strat Futures Pty Limited and host of the Technology & Security podcast. She guides organisations and advises leaders on emerging technologies, intelligence, data, national security, cybersecurity and leadership. Her recent book is called Big Data, Emerging Technologies and Intelligence: National Security Disrupted. Dr Hammond-Errey spent eighteen years leading federal government activities in Australia, Europe, and Asia and was awarded an Operations Medal. She previously established the Emerging Technology Program at the US Studies Centre at the University of Sydney and ran the information operations team at the Australian Strategic Policy Institute. She is member of Australian Institute of Company Directors, teaches postgraduate cyber security at the University of Sydney and is affiliated with the Deakin University Cyber Research and Innovation Centre. 
