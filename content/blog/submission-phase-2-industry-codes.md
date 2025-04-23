@@ -5,7 +5,7 @@ category:
   - submissions
 date: 2024-11-22T02:11:46.883Z
 ---
-## Draft Consolidated Industry Codes of Practice for the Online Industry (Class 1C and Class 2 Material) under the Online Safety Act 2021
+### Draft Consolidated Industry Codes of Practice for the Online Industry (Class 1C and Class 2 Material) under the Online Safety Act 2021
 
 We recognise there are genuine challenges regarding the safety of vulnerable groups, including children, as well as the distribution of unlawful material online. We also recognise the legitimate interest of the Australian government to promote safer online services to individuals across Australia.
 
