@@ -31,7 +31,7 @@ eg_html5_ratio:
 
 ##### We curated 24 days of digital rights activities and resources.
 
-###### Please note, many of these links will take you to websites outside of Digital Rights Watch
+Please note, many of these links will take you to websites outside of Digital Rights Watch
 
 <style>
 .advent {
@@ -85,11 +85,32 @@ eg_html5_ratio:
 	<img src="/images/2-1024x1024.png" alt="" style="width:100px;height:100px;">
 	</a>
 </div>  
-  <div>7</div>
-  <div>8</div>
-  <div>9</div>
-  <div>10</div>
-  <div>11</div>  
+  <div>
+  	<a href="https://player.fm/series/the-next-stage-podcast-by-web-summit/edward-snowden-web-summit-2019">
+	<img src="/images/01-14-1024x1024.png" alt="" style="width:100px;height:100px;">
+	</a>
+</div>
+  <div>
+  	<a href="https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html">
+	<img src="/images/2-1-1024x1024.png" alt="" style="width:100px;height:100px;">
+	</a>
+</div>
+  <div>
+  	<a href="https://atlasofsurveillance.org/atlas">
+	<img src="/images/01-9-1024x1024.png" alt="" style="width:100px;height:100px;">
+	</a>
+</div>
+  <div>
+
+<a href="https://drw.fyi/cities">
+	<img src="/images/01-10-1024x1024.png" alt="" style="width:100px;height:100px;">
+	</a>
+</div>
+  <div>
+<a href="https://www.hrw.org/everyday-encryption">
+	<img src="/images/7-1024x1024.png" alt="" style="width:100px;height:100px;">
+	</a>
+</div>  
   <div>12</div>
   <div>13</div>
   <div>14</div>  
