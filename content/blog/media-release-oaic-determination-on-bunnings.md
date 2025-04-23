@@ -5,7 +5,7 @@ category:
   - media releases
 date: 2024-11-19T04:25:49.245Z
 ---
-### Digital Rights Watch welcomes OAIC landmark determination that Bunnings breached Australians’ privacy with facial recognition
+##### Digital Rights Watch welcomes OAIC landmark determination that Bunnings breached Australians’ privacy with facial recognition
 
 Digital Rights Watch welcomes the determination from the Office of the Australian Information Commissioner today on Bunnings’ use of dangerous and invasive facial surveillance technology. This represents a landmark decision and corporate Australia should take as a warning about the use of this technology.
 
