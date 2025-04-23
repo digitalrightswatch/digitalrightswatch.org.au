@@ -1,7 +1,7 @@
 ---
 draft: false
 url: /2020/12/17/2020-digital-rights-advent-calendar/
-featureImage: /wp-content/uploads/2020/12/digital-rights-advent-calendar-23.png
+featureImage: /images/digital-rights-advent-calendar-23.png
 cybocfi_hide_featureImage:
   - yes
 authors:
@@ -25,7 +25,6 @@ eg_wistia_ratio:
 eg_html5_ratio:
   - 1
 ---
-![]()
 
 #### It's just what you wished for!
 
