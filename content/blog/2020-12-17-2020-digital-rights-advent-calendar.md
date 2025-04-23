@@ -25,6 +25,8 @@ eg_wistia_ratio:
 eg_html5_ratio:
   - 1
 ---
+![]()
+
 #### It's just what you wished for!
 
 ##### We curated 24 days of digital rights activities and resources.
@@ -32,12 +34,12 @@ eg_html5_ratio:
 ###### Please note, many of these links will take you to websites outside of Digital Rights Watch
 
 <style>
-.container {
+.advent {
   display: grid;
   grid-template-columns: auto auto auto auto auto;
   padding: 10px;
 }
-.container > div {
+.advent > div {
   background-color: #f1f1f1;
   border: 1px solid black;
   font-size: 30px;
@@ -45,17 +47,44 @@ eg_html5_ratio:
 }
 </style>
 
-<div class="container">
+<div class="advent">
   <div>
   	<a href="/2020/11/30/all-i-want-for-christmas-is-to-stop-normalising-surveillance/">
 	<img src="/images/1-1024x1024.png" alt="" style="width:100px;height:100px;">
 	</a>
   </div>
-  <div>2</div>
-  <div>3</div>  
-  <div>4</div>
-  <div>5</div>
-  <div>6</div>  
+
+  <div>
+
+<a href="https://ssd.eff.org/module/how-enable-two-factor-authentication">
+<img src="/images/2.png" alt="" style="width:100px;height:100px;">
+</a>
+
+</div>
+
+  <div>
+<a href="https://www.eff.org/deeplinks/2020/11/podcast-episode-your-face-their-database">
+<img src="/images/1-1-1024x1024.png" alt="" style="width:100px;height:100px;">
+</a>
+</div>  
+
+<div>
+<a href="https://myshadow.org/">
+<img src="/images/01-8-1024x1024.png" alt="" style="width:100px;height:100px;">
+</a>
+</div>  
+
+<div>
+  	<a href="https://myshadow.org/trace-my-shadow">
+	<img src="/images/01-6-1-1024x1024.png" alt="" style="width:100px;height:100px;">
+	</a>
+</div>
+
+  <div>
+  	<a href="https://privacybadger.org/">
+	<img src="/images/2-1024x1024.png" alt="" style="width:100px;height:100px;">
+	</a>
+</div>  
   <div>7</div>
   <div>8</div>
   <div>9</div>
