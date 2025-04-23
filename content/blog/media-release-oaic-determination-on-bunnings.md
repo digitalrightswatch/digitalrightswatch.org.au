@@ -1,6 +1,8 @@
 ---
 draft: false
 title: "Media Release: OAIC Determination on Bunnings"
+category:
+  - media releases
 date: 2024-11-19T04:25:49.245Z
 ---
 ### Digital Rights Watch welcomes OAIC landmark determination that Bunnings breached Australians’ privacy with facial recognition
