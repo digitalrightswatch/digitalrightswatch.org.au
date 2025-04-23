@@ -40,88 +40,131 @@ Please note, many of these links will take you to websites outside of Digital Ri
   padding: 10px;
 }
 .advent > div {
-  background-color: #f1f1f1;
-  border: 1px solid black;
   font-size: 30px;
   text-align: center;
 }
 </style>
 
 <div class="advent">
-  <div>
-  	<a href="/2020/11/30/all-i-want-for-christmas-is-to-stop-normalising-surveillance/">
-	<img src="/images/1-1024x1024.png" alt="" style="width:100px;height:100px;">
-	</a>
-  </div>
-
-  <div>
-
-<a href="https://ssd.eff.org/module/how-enable-two-factor-authentication">
-<img src="/images/2.png" alt="" style="width:100px;height:100px;">
-</a>
-
-</div>
-
-  <div>
-<a href="https://www.eff.org/deeplinks/2020/11/podcast-episode-your-face-their-database">
-<img src="/images/1-1-1024x1024.png" alt="" style="width:100px;height:100px;">
-</a>
-</div>  
-
-<div>
-<a href="https://myshadow.org/">
-<img src="/images/01-8-1024x1024.png" alt="" style="width:100px;height:100px;">
-</a>
-</div>  
-
-<div>
-  	<a href="https://myshadow.org/trace-my-shadow">
-	<img src="/images/01-6-1-1024x1024.png" alt="" style="width:100px;height:100px;">
-	</a>
-</div>
-
-  <div>
-  	<a href="https://privacybadger.org/">
-	<img src="/images/2-1024x1024.png" alt="" style="width:100px;height:100px;">
-	</a>
-</div>  
-  <div>
-  	<a href="https://player.fm/series/the-next-stage-podcast-by-web-summit/edward-snowden-web-summit-2019">
-	<img src="/images/01-14-1024x1024.png" alt="" style="width:100px;height:100px;">
-	</a>
-</div>
-  <div>
-  	<a href="https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html">
-	<img src="/images/2-1-1024x1024.png" alt="" style="width:100px;height:100px;">
-	</a>
-</div>
-  <div>
-  	<a href="https://atlasofsurveillance.org/atlas">
-	<img src="/images/01-9-1024x1024.png" alt="" style="width:100px;height:100px;">
-	</a>
-</div>
-  <div>
-
-<a href="https://drw.fyi/cities">
-	<img src="/images/01-10-1024x1024.png" alt="" style="width:100px;height:100px;">
-	</a>
-</div>
-  <div>
-<a href="https://www.hrw.org/everyday-encryption">
-	<img src="/images/7-1024x1024.png" alt="" style="width:100px;height:100px;">
-	</a>
-</div>  
-  <div>12</div>
-  <div>13</div>
-  <div>14</div>  
-  <div>15</div>
-  <div>16</div>
-  <div>17</div>
-  <div>18</div>
-  <div>19</div>  
-  <div>20</div>
-  <div>21</div>
-  <div>22</div>  
-  <div>23</div>
-  <div>24</div>
+	<div>
+		<a href="/2020/11/30/all-i-want-for-christmas-is-to-stop-normalising-surveillance/">
+			<img src="/images/1-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://ssd.eff.org/module/how-enable-two-factor-authentication">
+			<img src="/images/2.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://www.eff.org/deeplinks/2020/11/podcast-episode-your-face-their-database">
+			<img src="/images/1-1-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://myshadow.org/">
+			<img src="/images/01-8-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://myshadow.org/trace-my-shadow">
+			<img src="/images/01-6-1-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://privacybadger.org/">
+			<img src="/images/2-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://player.fm/series/the-next-stage-podcast-by-web-summit/edward-snowden-web-summit-2019">
+			<img src="/images/01-14-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html">
+			<img src="/images/2-1-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://atlasofsurveillance.org/atlas">
+			<img src="/images/01-9-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://drw.fyi/cities">
+			<img src="/images/01-10-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://www.hrw.org/everyday-encryption">
+			<img src="/images/7-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://haveibeenpwned.com/">
+			<img src="/images/01-11-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://www.lastpass.com/">
+			<img src="/images/01-12-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://www.youtube.com/watch?v=hIXhnWUmMvw">
+			<img src="/images/4-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://www.mozilla.org/en-US/firefox/unfck/">
+			<img src="/images/01-13-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://www.eff.org/deeplinks/2020/11/podcast-episode-control-over-users-competitors-and-critics">
+			<img src="/images/10-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://www.abc.net.au/news/2017-09-15/how-encryption-works-explained/8732148?nw=0">
+			<img src="/images/9-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://www.youtube.com/watch?v=zhYbhoMmrPQ">
+			<img src="/images/01-15-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://datadetoxkit.org/en/families/screentime/">
+			<img src="/images/01-16-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a
+			href="https://www.wnycstudios.org/podcasts/notetoself/episodes/note-self-back-and-we-start-big-one-kids-and-screens">
+			<img src="/images/01-17-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://youtube.com/watch?v=xzWFrHHTrs8">
+			<img src="/images/01-20-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html">
+			<img src="/images/10-1-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://www.youtube.com/watch?v=AnTjy0Yltc4">
+			<img src="/images/11-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
+	<div>
+		<a href="https://digitalrightswatch.org.au/donate/">
+			<img src="/images/01-25-1024x1024.png" alt="" style="width:100px;height:100px;">
+		</a>
+	</div>
 </div>
