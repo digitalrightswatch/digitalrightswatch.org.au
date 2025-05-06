@@ -45,11 +45,11 @@ home = ["HTML", "RSS", "REDIR"]
     weight = 3
 [[menu.main]]
     name = "Publications"
-    pageRef = "/category/reports"
+    pageRef = "/category/submissions"
     weight = 4
 [[menu.main]]
-    name = "Reports"
-    pageRef = "/category/reports"
+    name = "Submissions"
+    pageRef = "/category/submissions"
     weight = 1
     parent = "Publications"
 [[menu.main]]
@@ -58,8 +58,8 @@ home = ["HTML", "RSS", "REDIR"]
     weight = 2
     parent = "Publications"
 [[menu.main]]
-    name = "Submissions"
-    pageRef = "/category/submissions"
+    name = "Reports"
+    pageRef = "/category/reports"
     weight = 3
     parent = "Publications"
 [[menu.main]]
