@@ -1,6 +1,8 @@
 ---
 draft: false
 title: The Fight for Digital Rights in the Age of AI
+category:
+  - Reports
 date: 2025-03-12T04:40:30.657Z
 authors:
   - kat
