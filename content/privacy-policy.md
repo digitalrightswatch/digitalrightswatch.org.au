@@ -33,7 +33,7 @@ th {
 
 ## About this document & how to contact us
 
-**We at Digital Rights are committed to protecting your privacy.** 
+**We at Digital Rights Watch are committed to protecting your privacy.** 
 
 We've drawn up a document to help explain what we do with your personal information when you interact with us. 
 
