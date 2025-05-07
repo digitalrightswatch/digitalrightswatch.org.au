@@ -16,6 +16,8 @@ We've drawn up a document to help explain what we do with your personal informat
 
 You can also [contact us](mailto:privacy@digitalrightswatch.org.au) if you have a question or concern about how we handle your personal information. 
 
+<br>
+
 ## How do we handle your personal information?
 
 The table below explains the categories of personal information we may collect about you, from where we collect it, and the purpose for which we collect, use, and disclose it.
@@ -26,6 +28,8 @@ The table below explains the categories of personal information we may collect a
 | You subscribe to our campaigns or mailing list.          | Your full name; your email address.                                                                            | Directly from you or the platform you are subscribing through (ActionNetwork). | Keeping you updated and informed of our work and the ways you can be engaged or support us. |
 | You sign one of our petitions or support an open letter. | Your full name; your signature; your address or parts of it; the fact you support the petition or open letter. | Directly from you or the platform you are signing the petition through.        | To facilitate the petition process.                                                         |
 
+<br>
+
 ## Who do we share your personal information with?
 
 Generally, we do not sell or share your personal information with third parties. There are some exceptions to this:
@@ -35,7 +39,7 @@ Generally, we do not sell or share your personal information with third parties.
 * If you have signed a petition or open letter, we will share your personal information with the relevant government or institution that the petition is intended for. This may result in your personal information becoming public.
 * Where you consent to us sharing your personal information.
 
-
+<br>
 
 ## How do we protect your personal information?
 
