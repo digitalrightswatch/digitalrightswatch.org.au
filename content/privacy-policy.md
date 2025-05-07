@@ -8,6 +8,29 @@ sharing_disabled:
   - 1
 draft: false
 ---
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+border: 1px solid #000;
+  padding: 8px;
+}
+
+tr:nth-child(odd){background-color: #f2f2f2;}
+tr:hover {background-color: #ddd;}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0b32af;
+  color: white;
+}
+</style>
+
 ## About this document & how to contact us
 
 **We at Digital Rights are committed to protecting your privacy.** 
