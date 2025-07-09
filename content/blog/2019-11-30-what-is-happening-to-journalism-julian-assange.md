@@ -1,13 +1,14 @@
 ---
-title: 'What is happening to Journalism & Julian Assange?'
-authors: [drw]
-date: 2019-11-30T00:42:00+00:00
+draft: true
+title: What is happening to Journalism & Julian Assange?
 url: /2019/11/30/what-is-happening-to-journalism-julian-assange/
-featureImage: /wp-content/uploads/2019/12/images.jpg
 category:
   - Events
   - News
-
+date: 2019-11-30T00:42:00+00:00
+authors:
+  - drw
+featureImage: ""
 ---
 Wed 4 December, 6.30 pm
 Victorian State Library &#8211; Village Roadshow Theatrette on La Trobe St
