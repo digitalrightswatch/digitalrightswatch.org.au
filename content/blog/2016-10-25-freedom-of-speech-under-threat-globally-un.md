@@ -1,13 +1,15 @@
 ---
-title: 'Freedom of speech under threat globally: UN'
-authors: [drw]
-date: 2016-10-24T23:16:38+00:00
-excerpt: New UN report details the widespread global assault on the freedom of expression, including digital rights and access to the internet.
+excerpt: New UN report details the widespread global assault on the freedom of
+  expression, including digital rights and access to the internet.
+draft: true
+title: "Freedom of speech under threat globally: UN"
 url: /2016/10/25/freedom-of-speech-under-threat-globally-un/
-featureImage: /wp-content/uploads/2016/10/unitednationswall.jpg
 category:
   - News
-
+date: 2016-10-24T23:16:38+00:00
+authors:
+  - drw
+featureImage: ""
 ---
 The United Nations Special Rapporteur on the freedom of opinion and expression, David Kaye, has released a report on the widespread global assault on the freedom of expression.
 
