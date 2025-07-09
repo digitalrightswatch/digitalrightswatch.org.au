@@ -1,24 +1,26 @@
 ---
-title: Clearview AI Data Breach – Another reason for moratorium on the use of facial recognition technologies
-authors: [drw]
-date: 2020-02-28T04:48:00+00:00
+draft: true
 url: /2020/02/28/clearview-ai-data-breach-another-reason-for-moratorium-on-the-use-of-facial-recognition-technologies/
-featureImage: /wp-content/uploads/2020/02/93e60f8342dc40e980af8d55e6a02960_18.jpg
-eg_vimeo_ratio:
+date: 2020-02-28T04:48:00+00:00
+authors:
+  - drw
+featureImage: ""
+eg_custom_meta_216:
+  - "true"
+eg_soundcloud_ratio:
   - 1
 eg_youtube_ratio:
   - 1
+eg_vimeo_ratio:
+  - 1
 eg_wistia_ratio:
   - 1
+title: Clearview AI Data Breach – Another reason for moratorium on the use of
+  facial recognition technologies
 eg_html5_ratio:
   - 1
-eg_soundcloud_ratio:
-  - 1
-eg_custom_meta_216:
-  - 'true'
 category:
   - Media releases
-
 ---
 The Clearview AI data breach reveals that Australian law enforcement agencies are using the company's facial recognition tools for identification purposes without any oversight or privacy protections, digital rights experts have warned today.
 
