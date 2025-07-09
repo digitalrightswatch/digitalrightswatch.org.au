@@ -1,7 +1,7 @@
 ---
 excerpt: Our submission to the Department of Foreign Affairs and Trade's
   development of Australia's inaugural International Cyber Engagement Strategy.
-draft: true
+draft: false
 title: Australia's International Cyber Engagement Strategy
 url: /2017/04/06/australias-international-cyber-engagement-strategy/
 category:
