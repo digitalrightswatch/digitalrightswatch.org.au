@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: What is happening to Journalism & Julian Assange?
 url: /2019/11/30/what-is-happening-to-journalism-julian-assange/
 category:
