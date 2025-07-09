@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 url: /2020/02/28/clearview-ai-data-breach-another-reason-for-moratorium-on-the-use-of-facial-recognition-technologies/
 date: 2020-02-28T04:48:00+00:00
 authors:
