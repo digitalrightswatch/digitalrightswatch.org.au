@@ -1,28 +1,29 @@
 ---
-title: Australia needs to face up to the dangers of facial recognition technology
-authors: [sam]
-date: 2020-08-10T04:45:15+00:00
+draft: true
 url: /2020/08/10/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology/
-featureImage: /wp-content/uploads/2020/08/3500.jpg
-eg_vimeo_ratio:
+date: 2020-08-10T04:45:15+00:00
+authors:
+  - sam
+featureImage: ""
+eg_custom_meta_216:
+  - "true"
+eg_soundcloud_ratio:
   - 1
 eg_youtube_ratio:
   - 1
+eg_vimeo_ratio:
+  - 1
 eg_wistia_ratio:
   - 1
-eg_html5_ratio:
-  - 1
-eg_soundcloud_ratio:
-  - 1
-eg_custom_meta_216:
-  - 'true'
-category:
-  - Articles
+title: Australia needs to face up to the dangers of facial recognition technology
 tags:
   - Facial recognition
   - privacy
   - surveillance
-
+eg_html5_ratio:
+  - 1
+category:
+  - Articles
 ---
 
 
