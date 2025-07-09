@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 url: /2020/08/10/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology/
 date: 2020-08-10T04:45:15+00:00
 authors:
