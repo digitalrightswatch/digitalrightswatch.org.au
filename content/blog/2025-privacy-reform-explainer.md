@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: 2025 Privacy Reform Explainer
 tags:
   - privacy
@@ -15,7 +15,7 @@ Today marks an important milestone, but there is still work to be done! Way back
 * the formation of privacy standards for children; and 
 * greater transparency requirements over how organisations handle your personal information if they use automated decision making (ADM).
 
-This legislation is federal, meaning that it applies nationwide to federal departments, as well as some businesses operating in Australia. However, there are exemptions such as for journalists, small businesses, enforcement agencies and national security organisations.
+This legislation is federal, meaning that it applies nationwide to federal departments, as well as some businesses operating in Australia. However, there are exemptions such as for journalists, enforcement agencies and national security organisations.
 
 This explainer will cover the key changes, and also what we think still needs to happen to make sure our privacy laws are up to date. 
 
@@ -72,7 +72,7 @@ If the defendant is found to be at fault, damages can be awarded by the court to
 * Emotional distress damages are permitted
 * Exemplary or punitive damages are available only in exceptional cases
 
-#### Injunctions 
+#### Injunctions
 
 Once found liable the courts can compel the defendant to cease or begin certain actions. For example, the courts may compel the defendant to destroy all private photographs of the defendant or even issue a public apology if the disclosed personal information has already caused harm. 
 
@@ -86,14 +86,8 @@ As mentioned above, some entities aren’t covered by the privacy laws. These en
 * Enforcement bodies (like Australian federal and state Police) 
 * National security organisations (Australian Security Intelligence Organisation and affiliates)
 * People under 18 years old
-* Small businesses, unless they do any of the following:
 
-  * Handle health information;
-  * Provide services under a Commonwealth contract;
-  * Trade in personal information; or
-  * Act as credit reporting bodies
-
-# Defences Available 
+# Defences Available
 
 A defendant may avoid liability by proving:
 
@@ -172,7 +166,7 @@ This places a lot of trust in APP entities. It is up to them to decide if their 
 
 The reforms also introduced new doxxing offences. These weren’t really privacy related, but ended up passing together. However, we believe much of this conduct was already prohibited under existing privacy laws. The reform reinforces legal clarity but may overlap with pre-existing provisions.
 
-# What’s next? 
+# What’s next?
 
 We think these reforms are a great first step. But there is still loads to be done to improve our privacy, and bring us in line with similar countries. The previous government committed to pushing through about 100 further reforms. It’s our job to make sure they follow through on this promise!  
 
