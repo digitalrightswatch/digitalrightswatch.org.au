@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 url: /2024/05/28/how-western-australia-could-lead-the-nation-on-privacy/
 featureImage: /wp-content/uploads/2022/01/privacy-reform-tiles-1.png
 cybocfi_hide_featureImage:
