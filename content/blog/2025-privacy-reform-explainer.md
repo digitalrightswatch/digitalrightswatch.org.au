@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 2025 Privacy Reform Explainer
 tags:
   - privacy
