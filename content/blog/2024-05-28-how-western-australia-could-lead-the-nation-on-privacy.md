@@ -1,29 +1,30 @@
 ---
-title: How Western Australia could lead the nation on privacy
-authors: [sam]
-date: 2024-05-28T04:53:29+00:00
+draft: true
 url: /2024/05/28/how-western-australia-could-lead-the-nation-on-privacy/
 featureImage: /wp-content/uploads/2022/01/privacy-reform-tiles-1.png
 cybocfi_hide_featureImage:
   - yes
-eg_vimeo_ratio:
-  - 1
-eg_youtube_ratio:
-  - 1
-eg_wistia_ratio:
-  - 1
-eg_html5_ratio:
-  - 1
-eg_soundcloud_ratio:
-  - 1
+authors:
+  - piotr
 eg_custom_meta_216:
-  - 'true'
-category:
-  - Articles
+  - "true"
 tags:
   - privacy reform
   - western australia
-
+category:
+  - Articles
+date: 2024-05-28T04:53:29+00:00
+eg_soundcloud_ratio:
+  - 1
+eg_youtube_ratio:
+  - 1
+eg_vimeo_ratio:
+  - 1
+eg_wistia_ratio:
+  - 1
+title: How Western Australia could lead the nation on privacy
+eg_html5_ratio:
+  - 1
 ---
 Australians are sitting with anticipation awaiting August 2024, when the Commonwealth Government promised to deliver a draft bill to update the _Privacy Act 1988_ (Cth) (**Privacy Act**). But there's another bill that's poised to outshine the Commonwealth's and champion state privacy rights.
 
