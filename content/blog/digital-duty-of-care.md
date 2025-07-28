@@ -3,7 +3,8 @@ draft: false
 title: Digital Duty of Care
 date: 2025-07-28T04:16:34.700Z
 authors: []
-featureImage: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Silicon_chip_from_a_computer_laser_mouse_under_a_microscope_50%D1%85.jpg/640px-Silicon_chip_from_a_computer_laser_mouse_under_a_microscope_50%D1%85.jpg
+featureImage: ""
+cardImage: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Silicon_chip_from_a_computer_laser_mouse_under_a_microscope_50%D1%85.jpg/640px-Silicon_chip_from_a_computer_laser_mouse_under_a_microscope_50%D1%85.jpg
 ---
 The Albanese government has [committed](https://minister.infrastructure.gov.au/rowland/media-release/new-duty-care-obligations-platforms-will-keep-australians-safer-online?) to legislating a "digital duty of care”, but what does that really mean and why do we want it?
 
