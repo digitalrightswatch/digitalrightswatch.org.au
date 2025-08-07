@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Productivity Commission promotes big tech’s regulatory agenda over the
   rights of Australians
 tags: []
