@@ -7,7 +7,7 @@ authors:
 featureImage: /images/resize-image-project.png
 cardImage: /images/data-mining.jpg
 ---
-Image credit: Khan Tran https://web.archive.org/web/20210125013711/https://challenges.openideo.com/challenge/cybersecurity-visuals/top-ideas
+Image credit: [Khan Tran ](https://web.archive.org/web/20210125013711/https://challenges.openideo.com/challenge/cybersecurity-visuals/top-ideas)
 
 On a [global scale](https://surfshark.com/research/study/data-breach-recap-2024?srsltid=AfmBOooVCHnSi7k9vSD7byI-pnRcOw946EouWe3GoHUzjpkL69X-DqWz), there are an average of 285 breached accounts per 100 people. In Australia, that number skyrockets to 732 breaches per 100 people, meaning the average Australian has been affected by data breaches approximately seven times. Alarmingly,[ 30% of Australians](https://www.oaic.gov.au/engage-with-us/research-and-training-resources/research/australian-community-attitudes-to-privacy-survey/australian-community-attitudes-to-privacy-survey-2023#section-part-4-privacy-breaches-and-harm) believed their data was stolen in 2022 alone.
 
@@ -31,13 +31,10 @@ Under the Privacy Act, which covers large businesses and federal Australian gove
 
 Second, certain government policies mandate holding large amounts of personal information, and the cybersecurity risks of these policies are not always properly considered. Australian companies are legally required to store large volumes of data, often for years, due to overlapping and sometimes conflicting regulatory obligations:
 
-[The Corporations Act 2001 (Cth)](https://www5.austlii.edu.au/au/legis/cth/consol_act/ca2001172/s286.html) mandates companies retain financial records for at least 7 years.
-
-[The Telecommunications (Interception and Access) Act 1979](https://classic.austlii.edu.au/au/legis/cth/consol_act/taaa1979410/s187c.html) compels telcos to keep metadata (like call records and location data) for 2 years for law enforcement use.
-
-[The Income Tax Assessment Acts](https://classic.austlii.edu.au/au/legis/cth/consol_act/itaa1997240/s900.165.html#:~:text=1997%20%2D%20SECT%20900.165-,The%20retention%20period,the%20records%20for%205%20years.) require tax records to be kept for 5 years.
-
-[The Anti-Money Laundering and Counter-Terrorism Financing Act 2006](https://www.austrac.gov.au/business/core-guidance/record-keeping) requires customer identification and transaction records to be retained for 7 years.
+* [The Corporations Act 2001 (Cth)](https://www5.austlii.edu.au/au/legis/cth/consol_act/ca2001172/s286.html) mandates companies retain financial records for at least 7 years.
+* [The Telecommunications (Interception and Access) Act 1979](https://classic.austlii.edu.au/au/legis/cth/consol_act/taaa1979410/s187c.html) compels telcos to keep metadata (like call records and location data) for 2 years for law enforcement use.
+* [The Income Tax Assessment Acts](https://classic.austlii.edu.au/au/legis/cth/consol_act/itaa1997240/s900.165.html#:~:text=1997%20%2D%20SECT%20900.165-,The%20retention%20period,the%20records%20for%205%20years.) require tax records to be kept for 5 years.
+* [The Anti-Money Laundering and Counter-Terrorism Financing Act 2006](https://www.austrac.gov.au/business/core-guidance/record-keeping) requires customer identification and transaction records to be retained for 7 years.
 
 Under [Australian Privacy Principle (APP) 11.2](https://www.oaic.gov.au/privacy/australian-privacy-principles/australian-privacy-principles-guidelines/chapter-11-app-11-security-of-personal-information), entities are supposed to destroy or de-identify personal information when it's no longer needed. But that tension creates confusion. 
 
@@ -78,3 +75,7 @@ Businesses should not be compelled to store personal information longer than nec
 * ##### Enshrine a right to erasure
 
 Individuals should have the right to delete personal information organisations hold about them. This process should be accessible and clear. This empowers people to remove their personal information from corporate databases, reducing risk and rebalancing control over their digital footprint.
+
+* ##### Introduce Direct Right of Action
+
+Direct right of action would allow individuals affected by data breaches to pursue legal action against organisations responsible without relying regulators such as the OAIC to take action. This means aggrieved individuals could seek compensation or other remedies in court for harm caused by data breaches, [incentivising](https://www.oaic.gov.au/engage-with-us/submissions/privacy-act-review-issues-paper-submission/part-10-direct-right-of-action#:~:text=A%20direct%20right%20of%20action,redress%20under%20the%20Privacy%20Act.) APP entities to maintain responsible privacy practices which adhere to the APP standards. This would enable Australians to have improved control over their personal information.
