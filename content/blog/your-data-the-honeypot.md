@@ -2,6 +2,8 @@
 draft: false
 title: "Your Data: The Honeypot"
 date: 2025-08-18T00:11:33.541Z
+authors:
+  - drw
 featureImage: ""
 cardImage: https://upload.wikimedia.org/wikipedia/commons/c/c0/IDEO-CVC-2019-Khanh_Tran2.jpg
 ---
