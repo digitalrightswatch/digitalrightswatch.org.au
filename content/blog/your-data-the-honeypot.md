@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Your Data: The Honeypot"
 date: 2025-08-18T00:11:33.541Z
 featureImage: ""
