@@ -4,8 +4,8 @@ title: "Your Data: The Honeypot"
 date: 2025-08-18T00:11:33.541Z
 authors:
   - drw
-featureImage: https://upload.wikimedia.org/wikipedia/commons/c/c0/IDEO-CVC-2019-Khanh_Tran2.jpg
-cardImage: https://upload.wikimedia.org/wikipedia/commons/c/c0/IDEO-CVC-2019-Khanh_Tran2.jpg
+featureImage: /images/resize-image-project.png
+cardImage: /images/data-mining.jpg
 ---
 Image credit: Khan Tran https://web.archive.org/web/20210125013711/https://challenges.openideo.com/challenge/cybersecurity-visuals/top-ideas
 
