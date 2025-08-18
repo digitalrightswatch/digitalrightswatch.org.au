@@ -13,11 +13,9 @@ On 17 June 2025, Digital Rights Watch wrote to several politicians to congratula
 
 We informed each recipient that their response—or lack thereof—would be published. By publishing these responses, Digital Rights Watch aims to hold politicians accountable to their commitments and encourage timely implementation of the reforms.
 
-Currently, [political parties](https://www.oaic.gov.au/privacy/your-privacy-rights/more-privacy-rights/political-parties-and-elections#:~:text=A%20registered%20political%20party%20is,of%20a%20local%20government%20authority.) and [over 92%](https://www.abs.gov.au/statistics/economy/business-indicators/counts-australian-businesses-including-entries-and-exits/latest-release) of [Australian businesses are exempt](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/organisations/small-business) from the Privacy Act. Entities that are subject to the Act can often bypass obligations through “tick-a-box” consent processes. When breaches of the Australian Privacy Principles do occur, the OAIC's ability to adequately address them is undermined by their [underfunding](https://australiainstitute.org.au/post/underfunded-accountability-institutions/). These conditions leave Australians’ privacy exposed. It is therefore essential that the recommended reforms are implemented without delay.
+Currently, [political parties](https://www.oaic.gov.au/privacy/your-privacy-rights/more-privacy-rights/political-parties-and-elections#:~:text=A%20registered%20political%20party%20is,of%20a%20local%20government%20authority.) and [over 92%](https://www.abs.gov.au/statistics/economy/business-indicators/counts-australian-businesses-including-entries-and-exits/latest-release) of [Australian businesses are exempt](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/organisations/small-business) from the Privacy Act. Entities that are subject to the Act can often bypass obligations through “tick-a-box” consent processes. When breaches of the Australian Privacy Principles do occur, the OAIC's ability to adequately address them is undermined by their [underfunding](https://australiainstitute.org.au/post/underfunded-accountability-institutions/). These conditions, among others, leave Australians’ privacy exposed. It is therefore essential that the recommended reforms are implemented without delay.
 
 Note: Words have been bolded and responses cropped for clarity and confidentiality.
-
-
 
 ## Ministerial responses to transparency request
 
@@ -45,10 +43,6 @@ Senator for the ACT
 
 Senator David Pocock supports Digital Rights Watch’s position on the privacy reforms, including our view that the report’s recommendations should be adopted at the earliest opportunity.
 
-
-
-
-
 ![](sen-ds.jpeg)
 
 #### **Senator David Shoebridge**
@@ -63,10 +57,6 @@ Digital Rights and IT portfolio
 
 It is worth noting that there are other significant issues within privacy protection in Australia that also need addressing including the ongoing underfunding of the OAIC that means our privacy regulator is not able to properly perform its role. This is also something the Australian Greens are committed on working to reform."
 
-
-
-
-
 ![](anika-wells.jpeg)
 
 #### **MP Annika Wells**
@@ -77,10 +67,6 @@ Minister for Communications
 
 **"The Albanese Government is prioritising the safety of Australians online.** As you will be aware, in February 2025, the Government tabled the report of the independent statutory review of the Online Safety Act 2021 (the review). The review made 67 recommendations to strengthen Australia’s online safety laws which **the Government is examining and will respond to in due course. "**
 
-
-
-
-
 ![](michelle_rowland.jpg)
 
 #### **AG Michelle Rowland**
@@ -88,8 +74,6 @@ Minister for Communications
 **Attorney General**
 
 Provided no written statement however, agreed to meet with Digital Rights Watch to discuss the matter further.
-
-
 
 ## Politicians who failed to respond
 
