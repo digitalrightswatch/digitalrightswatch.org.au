@@ -25,9 +25,9 @@ Note: Words have been bolded and responses cropped for clarity and confidentiali
 
 #### **MP Julian Leeser**
 
-Member for Berowra
+*Member for Berowra*
 
-Leads Liberal Party engagement on privacy law reform
+*Leads Liberal Party engagement on privacy law reform*
 
 "**Privacy protection remains an important priority for the Coalition.** We have consistently advocated for stronger privacy protections for Australians, including **increased penalties for serious data breaches and greater accountability from organisations handling personal data.**
 
@@ -37,15 +37,11 @@ While **I cannot provide specific timelines at this stage,** I can assure you th
 
 
 
-
-
-``
-
 ![](/images/sen-d-p.jpeg)
 
 #### **Senator David Pocock**
 
-Senator for the ACT
+*Senator for the ACT*
 
 Senator David Pocock supports Digital Rights Watch’s position on the privacy reforms, including our view that the report’s recommendations should be adopted at the earliest opportunity.
 
@@ -57,9 +53,9 @@ Senator David Pocock supports Digital Rights Watch’s position on the privacy r
 
 #### **Senator David Shoebridge**
 
-Senator for NSW
+*Senator for NSW*
 
-Digital Rights and IT portfolio
+*Digital Rights and IT Portfolio*
 
 "I can confirm we **fully support the swift implementation of the remaining reforms identified in the Attorney General Department’s Privacy Act Review Report.** These changes are clearly needed and will work to protect individuals and communities from some of the more egregious impacts on their privacy. As you note in your correspondence, we have previously moved amendments to implement some of these changes including introduction of a fair and reasonable test, a clear definition of consent, and a modernised definition of personal information that reflects technological advancements. These changes are critically important.
 
@@ -75,9 +71,9 @@ It is worth noting that there are other significant issues within privacy protec
 
 #### **MP Annika Wells**
 
-Member for Lilley
+*Member for Lilley*
 
-Minister for Communications
+*Minister for Communications*
 
 **"The Albanese Government is prioritising the safety of Australians online.** As you will be aware, in February 2025, the Government tabled the report of the independent statutory review of the Online Safety Act 2021 (the review). The review made 67 recommendations to strengthen Australia’s online safety laws which **the Government is examining and will respond to in due course. "**
 
@@ -89,7 +85,7 @@ Minister for Communications
 
 #### **AG Michelle Rowland**
 
-**Attorney General**
+*Attorney General*
 
 Provided no written statement however, agreed to meet with Digital Rights Watch to discuss the matter further.
 
