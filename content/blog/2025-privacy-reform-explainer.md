@@ -8,6 +8,9 @@ category:
 date: 2025-06-09T23:42:19.111Z
 authors:
   - drw
+cardImage: "Photo by Andrea Piacquadio:
+  https://www.pexels.com/photo/woman-in-white-t-shirt-holding-smartphone-in-fro\
+  nt-of-laptop-914931/"
 ---
 Today marks an important milestone, but there is still work to be done! Way back in December 2024, the government passed the Privacy and Other Legislation Amendment Bill 2024. The law comes into force today, 10 June 2025 and makes the following welcomed changes to our current privacy laws: 
 
