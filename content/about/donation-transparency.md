@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 authors:
   - drw
 eg_custom_meta_216:
