@@ -1,21 +1,22 @@
 ---
-title: Donation transparency
-authors: [drw]
-type: page
+draft: true
+authors:
+  - drw
+eg_custom_meta_216:
+  - "true"
 date: 2019-08-12T05:05:00+00:00
-eg_vimeo_ratio:
+eg_soundcloud_ratio:
   - 1
 eg_youtube_ratio:
   - 1
+eg_vimeo_ratio:
+  - 1
 eg_wistia_ratio:
   - 1
+title: Donation transparency
 eg_html5_ratio:
   - 1
-eg_soundcloud_ratio:
-  - 1
-eg_custom_meta_216:
-  - 'true'
-
+type: page
 ---
 In accordance with the [Digital Rights Watch Donations Policy][1], we maintain a public list of the following donation/grant sources:
 
@@ -25,6 +26,32 @@ In accordance with the [Digital Rights Watch Donations Policy][1], we maintain a
   * All non-profit grants, including purpose and scope of grant
 
 This is in addition to reporting responsibilities under the ACNC, ATO and relevant Australian legislation.
+
+#### Financial year: 2024-25
+
+**Donations:**
+  * Minderoo $301,500
+  * Mannifera $80,000
+  * Oak Foundation $30,000
+  * Award Force $3,000
+  * Google Australia $20,000
+  * DuckDuckGo $37,130
+  * Apple $21,475
+
+** Grants:**
+  * Tech Policy Design Institute $5000 - Human Rights & Tech Policy course delivery
+  * VLSB $100,000 - Empowering Victorians to exercise their privacy rights 
+  * ANU $11,000 - Human Rights & Tech Policy course-writing
+
+#### Financial year: 2023-24
+
+**Donations:**
+  * Award Force $3,000
+  * Apple $72,464
+  * DuckDuckGo $38,508
+
+** Grants:**
+  * Mannifera $80,000 - Combating mis/dis-information by targeting data-extractive business models
 
 #### Financial year: 2022/23
 
