@@ -38,7 +38,7 @@ This is in addition to reporting responsibilities under the ACNC, ATO and releva
   * DuckDuckGo $37,130
   * Apple $21,475
 
-** Grants:**
+**Grants:**
   * Tech Policy Design Institute $5000 - Human Rights & Tech Policy course delivery
   * VLSB $100,000 - Empowering Victorians to exercise their privacy rights 
   * ANU $11,000 - Human Rights & Tech Policy course-writing
@@ -50,7 +50,7 @@ This is in addition to reporting responsibilities under the ACNC, ATO and releva
   * Apple $72,464
   * DuckDuckGo $38,508
 
-** Grants:**
+**Grants:**
   * Mannifera $80,000 - Combating mis/dis-information by targeting data-extractive business models
 
 #### Financial year: 2022/23
