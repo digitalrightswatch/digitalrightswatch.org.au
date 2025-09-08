@@ -1,0 +1,614 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Submission generator</title>
+      <script type="module" crossorigin src="/assets/main-C0tu1hsO.js"></script>
+      <link rel="stylesheet" crossorigin href="/assets/main-CDc7CcCP.css">
+    </head>
+    <body>
+
+<div class="min-h-full">
+
+        <div class="mx-auto max-w-6xl p-5">
+    <header >
+    <h1 class="text-4xl font-bold tracking-wide text-indigo-900">
+        Submission generator for the Productivity Commission's inquiry into AI and Data
+    </h1>
+    </header>
+    <div class="flex flex-col justify-stretch gap-10" x-data="wizard">
+        <aside class=" bg-lime-200 p-5 min-w-xs shrink-1 basis-10">
+            <details x-bind:open="currentStep==1">
+                <summary>
+    <h2 class="font-semibold text-xl inline">Instructions</h2>
+                </summary>
+    <ol class="list-decimal list-inside">
+        <li>Write a short introduction to yourself and why you are concerned about AI.
+        <li>Select which sections of text you would like to include
+        <li>Edit the provided text to reflect your own thoughts and opinions. This is important as multiple submissions that say
+        exactly the same thing may get ignored.
+        <li>Click "Generate draft" to generate a draft submission
+        <li>Proof-read, edit, and customise your submission
+        <li>Click “download final submission” to download the PDF version to share with the Productivity Commission
+        <li>Click “make submission” to open the Productivity Commission’s form.
+            <li>Fill in the form for the “Harnessing Data” inquiry, upload your PDF submission, and click “submit”</li>
+        <li>Well done! You’ve done a great job. Tell your friends and get them to do likewise.</li>
+        </ol>
+
+        <p>A copy of your submission will also be sent to Digital Rights Watch, so that we can ensure that the Productivity
+            Commission correctly receives all of them. We won’t use it for anything else.</p>
+
+            </aside>
+
+            <main class="grow-1">
+              
+
+                <div class="bg-gray-100 px-6 py-4 border-b">
+                    <h2 class="text-2xl font-bold text-gray-900" x-text="currentStepName">
+                      Choose some starter text
+                    </h2>
+                    <div class="text-sm text-gray-600">
+                        Step <span x-text="currentStep"></span> of <span x-text="totalSteps"></span>
+                    </div>
+                    </div>
+                    
+                <section x-data="submissionBuilder" x-show="active" x-ref="step">
+                  
+          <div class="px-4 py-2 gap-5 flex flex-col border-1" x-data="submissionSection({sectionTitle:'About me'})">
+            <div class="prose-lg ">
+                <h2 class="inline">
+                    About me
+                </h2>
+            </div>
+            <p>Write a short introduction to yourself. It might include your name, where you live, what you do.
+            </p>
+            <div
+                class="group grid grid-cols-[min-content_1fr] gap-4"
+                x-data="textContent(true)">
+                    <div
+                        class="  col-2 relative">
+                   <span class="absolute right-0 top-0" x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor"
+                        class="size-8 text-red-500">
+                        <path strokeLinecap="round" strokeLinejoin="round"
+                            d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z" />
+                    </svg>
+
+                    </span>
+
+                <div contenteditable="true" class="prose prose-lg max-w-none p-2
+                                                                                                      bg-white rounded-lg shadow-sm border border-gray-200
+                                                                                                      hover:shadow-md hover:border-gray-300
+                                                                                                      focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent
+                                                                                                      transition-all duration-200 cursor-text
+                                                                                                      min-h-[5em]" x-bind="contentBox"
+                    :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                     data-submission-text='body-text'
+                >
+                   
+                </div>
+                  </div>
+                    </div>
+
+
+
+                    </div>
+                  
+          <div class="px-4 py-2 gap-5 flex flex-col border-1" x-data="submissionSection({sectionTitle:'I am concerned about AI because'})">
+            <div class="prose-lg ">
+                <h2 class="inline">
+                    I am concerned about AI because
+                </h2>
+            </div>
+            <div
+                class="group grid grid-cols-[min-content_1fr] gap-4"
+                x-data="textContent()">
+                <div class="peer">
+
+                      <input type='checkbox' id='concern1' x-model="isEnabled"/>
+                  </div>
+                <label for="concern1" class="peer-has-checked:hidden grid grid-rows-subgrid grid-cols-subgrid gap-4 col-s text-slate-500">
+                  Telling Australian stories is vital to our culture, and helps us find connections across our diverse community. If we love hearing from Australian voices, we cannot let the AI industry exploit our vibrant creative sector.
+
+                </label>
+                    <div
+                        class=" not-peer-has-checked:hidden    col-2 relative">
+                   <span class="absolute right-0 top-0" x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor"
+                        class="size-8 text-red-500">
+                        <path strokeLinecap="round" strokeLinejoin="round"
+                            d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z" />
+                    </svg>
+
+                    </span>
+
+                <div contenteditable="true" class="prose prose-lg max-w-none p-2
+                                                                                                      bg-white rounded-lg shadow-sm border border-gray-200
+                                                                                                      hover:shadow-md hover:border-gray-300
+                                                                                                      focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent
+                                                                                                      transition-all duration-200 cursor-text
+                                                                                                      min-h-[5em]" x-bind="contentBox"
+                    :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                     data-submission-text='body-text'
+                >
+                   <p>Telling Australian stories is vital to our culture, and helps us find connections across our diverse community. If we love hearing from Australian voices, we cannot let the AI industry exploit our vibrant creative sector.</p>
+
+                </div>
+                  </div>
+                    </div>
+            <div
+                class="group grid grid-cols-[min-content_1fr] gap-4"
+                x-data="textContent()">
+                <div class="peer">
+
+                      <input type='checkbox' id='concern2' x-model="isEnabled"/>
+                  </div>
+                <label for="concern2" class="peer-has-checked:hidden grid grid-rows-subgrid grid-cols-subgrid gap-4 col-s text-slate-500">
+                  AI companies are some of the biggest in the world, and they expect to earn big money in countries like Australia. AI companies expect to earn money that should be going to Australian creative workers.
+
+                </label>
+                    <div
+                        class=" not-peer-has-checked:hidden    col-2 relative">
+                   <span class="absolute right-0 top-0" x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor"
+                        class="size-8 text-red-500">
+                        <path strokeLinecap="round" strokeLinejoin="round"
+                            d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z" />
+                    </svg>
+
+                    </span>
+
+                <div contenteditable="true" class="prose prose-lg max-w-none p-2
+                                                                                                      bg-white rounded-lg shadow-sm border border-gray-200
+                                                                                                      hover:shadow-md hover:border-gray-300
+                                                                                                      focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent
+                                                                                                      transition-all duration-200 cursor-text
+                                                                                                      min-h-[5em]" x-bind="contentBox"
+                    :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                     data-submission-text='body-text'
+                >
+                   <p>AI companies are some of the biggest in the world, and they expect to earn big money in countries like Australia. AI companies expect to earn money that should be going to Australian creative workers.</p>
+
+                </div>
+                  </div>
+                    </div>
+            <div
+                class="group grid grid-cols-[min-content_1fr] gap-4"
+                x-data="textContent()">
+                <div class="peer">
+
+                      <input type='checkbox' id='concern3' x-model="isEnabled"/>
+                  </div>
+                <label for="concern3" class="peer-has-checked:hidden grid grid-rows-subgrid grid-cols-subgrid gap-4 col-s text-slate-500">
+                  AI companies are taking over everything, including our cultural   industries. We need to give communities the opportunity to experiment with creativity rather than replace it with AI generated content.
+
+                </label>
+                    <div
+                        class=" not-peer-has-checked:hidden    col-2 relative">
+                   <span class="absolute right-0 top-0" x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor"
+                        class="size-8 text-red-500">
+                        <path strokeLinecap="round" strokeLinejoin="round"
+                            d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z" />
+                    </svg>
+
+                    </span>
+
+                <div contenteditable="true" class="prose prose-lg max-w-none p-2
+                                                                                                      bg-white rounded-lg shadow-sm border border-gray-200
+                                                                                                      hover:shadow-md hover:border-gray-300
+                                                                                                      focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent
+                                                                                                      transition-all duration-200 cursor-text
+                                                                                                      min-h-[5em]" x-bind="contentBox"
+                    :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                     data-submission-text='body-text'
+                >
+                   <p>AI companies are taking over everything, including our cultural   industries. We need to give communities the opportunity to experiment with creativity rather than replace it with AI generated content.</p>
+
+                </div>
+                  </div>
+                    </div>
+            <div
+                class="group grid grid-cols-[min-content_1fr] gap-4"
+                x-data="textContent()">
+                <div class="peer">
+
+                      <input type='checkbox' id='concern4' x-model="isEnabled"/>
+                  </div>
+                <label for="concern4" class="peer-has-checked:hidden grid grid-rows-subgrid grid-cols-subgrid gap-4 col-s text-slate-500">
+                  It is hard enough to make ends meet as a creative. We cannot allow what little income creatives earn to be siphoned-off by the billionaire owners of the largest companies in the world.
+
+                </label>
+                    <div
+                        class=" not-peer-has-checked:hidden    col-2 relative">
+                   <span class="absolute right-0 top-0" x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor"
+                        class="size-8 text-red-500">
+                        <path strokeLinecap="round" strokeLinejoin="round"
+                            d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z" />
+                    </svg>
+
+                    </span>
+
+                <div contenteditable="true" class="prose prose-lg max-w-none p-2
+                                                                                                      bg-white rounded-lg shadow-sm border border-gray-200
+                                                                                                      hover:shadow-md hover:border-gray-300
+                                                                                                      focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent
+                                                                                                      transition-all duration-200 cursor-text
+                                                                                                      min-h-[5em]" x-bind="contentBox"
+                    :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                     data-submission-text='body-text'
+                >
+                   <p>It is hard enough to make ends meet as a creative. We cannot allow what little income creatives earn to be siphoned-off by the billionaire owners of the largest companies in the world.</p>
+
+                </div>
+                  </div>
+                    </div>
+            <div
+                class="group grid grid-cols-[min-content_1fr] gap-4"
+                x-data="textContent()">
+                <div class="peer">
+
+                      <input type='checkbox' id='concern5' x-model="isEnabled"/>
+                  </div>
+                <label for="concern5" class="peer-has-checked:hidden grid grid-rows-subgrid grid-cols-subgrid gap-4 col-s text-slate-500">
+                  Creators put our hearts and souls into our work. It’s both heartbreaking and nauseating  to see it sucked up by machines and turned into ersatz copies of the real thing that have had our creative spark extinguished.
+
+                </label>
+                    <div
+                        class=" not-peer-has-checked:hidden    col-2 relative">
+                   <span class="absolute right-0 top-0" x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor"
+                        class="size-8 text-red-500">
+                        <path strokeLinecap="round" strokeLinejoin="round"
+                            d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z" />
+                    </svg>
+
+                    </span>
+
+                <div contenteditable="true" class="prose prose-lg max-w-none p-2
+                                                                                                      bg-white rounded-lg shadow-sm border border-gray-200
+                                                                                                      hover:shadow-md hover:border-gray-300
+                                                                                                      focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent
+                                                                                                      transition-all duration-200 cursor-text
+                                                                                                      min-h-[5em]" x-bind="contentBox"
+                    :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                     data-submission-text='body-text'
+                >
+                   <p>Creators put our hearts and souls into our work. It’s both heartbreaking and nauseating  to see it sucked up by machines and turned into ersatz copies of the real thing that have had our creative spark extinguished.</p>
+
+                </div>
+                  </div>
+                    </div>
+
+
+
+                    </div>
+                  
+          <div class="px-4 py-2 gap-5 flex flex-col border-1" x-data="submissionSection({sectionTitle:'Rather than a data-mining exemption for AI'})">
+            <div class="prose-lg ">
+                <h2 class="inline">
+                    Rather than a data-mining exemption for AI
+                </h2>
+            </div>
+            <div
+                class="group grid grid-cols-[min-content_1fr] gap-4"
+                x-data="textContent()">
+                <div class="peer">
+
+                      <input type='checkbox' id='concern6' x-model="isEnabled"/>
+                  </div>
+                <label for="concern6" class="peer-has-checked:hidden grid grid-rows-subgrid grid-cols-subgrid gap-4 col-s text-slate-500">
+                  AI companies should be required to gain consent from, and make payment to, the creators of any work that they want to use to train their systems
+
+                </label>
+                    <div
+                        class=" not-peer-has-checked:hidden    col-2 relative">
+                   <span class="absolute right-0 top-0" x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor"
+                        class="size-8 text-red-500">
+                        <path strokeLinecap="round" strokeLinejoin="round"
+                            d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z" />
+                    </svg>
+
+                    </span>
+
+                <div contenteditable="true" class="prose prose-lg max-w-none p-2
+                                                                                                      bg-white rounded-lg shadow-sm border border-gray-200
+                                                                                                      hover:shadow-md hover:border-gray-300
+                                                                                                      focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent
+                                                                                                      transition-all duration-200 cursor-text
+                                                                                                      min-h-[5em]" x-bind="contentBox"
+                    :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                     data-submission-text='body-text'
+                >
+                   <p>AI companies should be required to gain consent from, and make payment to, the creators of any work that they want to use to train their systems</p>
+
+                </div>
+                  </div>
+                    </div>
+            <div
+                class="group grid grid-cols-[min-content_1fr] gap-4"
+                x-data="textContent()">
+                <div class="peer">
+
+                      <input type='checkbox' id='concern7' x-model="isEnabled"/>
+                  </div>
+                <label for="concern7" class="peer-has-checked:hidden grid grid-rows-subgrid grid-cols-subgrid gap-4 col-s text-slate-500">
+                  AI companies should be required to publish what content they have ingested into their systems, so that we can audit and confirm that our work is not unfairly included.
+
+                </label>
+                    <div
+                        class=" not-peer-has-checked:hidden    col-2 relative">
+                   <span class="absolute right-0 top-0" x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor"
+                        class="size-8 text-red-500">
+                        <path strokeLinecap="round" strokeLinejoin="round"
+                            d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z" />
+                    </svg>
+
+                    </span>
+
+                <div contenteditable="true" class="prose prose-lg max-w-none p-2
+                                                                                                      bg-white rounded-lg shadow-sm border border-gray-200
+                                                                                                      hover:shadow-md hover:border-gray-300
+                                                                                                      focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent
+                                                                                                      transition-all duration-200 cursor-text
+                                                                                                      min-h-[5em]" x-bind="contentBox"
+                    :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                     data-submission-text='body-text'
+                >
+                   <p>AI companies should be required to publish what content they have ingested into their systems, so that we can audit and confirm that our work is not unfairly included.</p>
+
+                </div>
+                  </div>
+                    </div>
+            <div
+                class="group grid grid-cols-[min-content_1fr] gap-4"
+                x-data="textContent()">
+                <div class="peer">
+
+                      <input type='checkbox' id='concern8' x-model="isEnabled"/>
+                  </div>
+                <label for="concern8" class="peer-has-checked:hidden grid grid-rows-subgrid grid-cols-subgrid gap-4 col-s text-slate-500">
+                  AI companies must remove from their systems any existing content for which they do not have a licence.
+
+                </label>
+                    <div
+                        class=" not-peer-has-checked:hidden    col-2 relative">
+                   <span class="absolute right-0 top-0" x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor"
+                        class="size-8 text-red-500">
+                        <path strokeLinecap="round" strokeLinejoin="round"
+                            d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z" />
+                    </svg>
+
+                    </span>
+
+                <div contenteditable="true" class="prose prose-lg max-w-none p-2
+                                                                                                      bg-white rounded-lg shadow-sm border border-gray-200
+                                                                                                      hover:shadow-md hover:border-gray-300
+                                                                                                      focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent
+                                                                                                      transition-all duration-200 cursor-text
+                                                                                                      min-h-[5em]" x-bind="contentBox"
+                    :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                     data-submission-text='body-text'
+                >
+                   <p>AI companies must remove from their systems any existing content for which they do not have a licence.</p>
+
+                </div>
+                  </div>
+                    </div>
+            <div
+                class="group grid grid-cols-[min-content_1fr] gap-4"
+                x-data="textContent()">
+                <div class="peer">
+
+                      <input type='checkbox' id='concern9' x-model="isEnabled"/>
+                  </div>
+                <label for="concern9" class="peer-has-checked:hidden grid grid-rows-subgrid grid-cols-subgrid gap-4 col-s text-slate-500">
+                  Creators should be able to refuse to allow AI companies access to their work, even when it is published on the Internet for public consumption.
+
+                </label>
+                    <div
+                        class=" not-peer-has-checked:hidden    col-2 relative">
+                   <span class="absolute right-0 top-0" x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor"
+                        class="size-8 text-red-500">
+                        <path strokeLinecap="round" strokeLinejoin="round"
+                            d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z" />
+                    </svg>
+
+                    </span>
+
+                <div contenteditable="true" class="prose prose-lg max-w-none p-2
+                                                                                                      bg-white rounded-lg shadow-sm border border-gray-200
+                                                                                                      hover:shadow-md hover:border-gray-300
+                                                                                                      focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent
+                                                                                                      transition-all duration-200 cursor-text
+                                                                                                      min-h-[5em]" x-bind="contentBox"
+                    :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                     data-submission-text='body-text'
+                >
+                   <p>Creators should be able to refuse to allow AI companies access to their work, even when it is published on the Internet for public consumption.</p>
+
+                </div>
+                  </div>
+                    </div>
+            <div
+                class="group grid grid-cols-[min-content_1fr] gap-4"
+                x-data="textContent()">
+                <div class="peer">
+
+                      <input type='checkbox' id='concern10' x-model="isEnabled"/>
+                  </div>
+                <label for="concern10" class="peer-has-checked:hidden grid grid-rows-subgrid grid-cols-subgrid gap-4 col-s text-slate-500">
+                  AI companies should be required to clearly label AI-generated content, so that it is not confused with genuinely human-created works.
+
+                </label>
+                    <div
+                        class=" not-peer-has-checked:hidden    col-2 relative">
+                   <span class="absolute right-0 top-0" x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor"
+                        class="size-8 text-red-500">
+                        <path strokeLinecap="round" strokeLinejoin="round"
+                            d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z" />
+                    </svg>
+
+                    </span>
+
+                <div contenteditable="true" class="prose prose-lg max-w-none p-2
+                                                                                                      bg-white rounded-lg shadow-sm border border-gray-200
+                                                                                                      hover:shadow-md hover:border-gray-300
+                                                                                                      focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent
+                                                                                                      transition-all duration-200 cursor-text
+                                                                                                      min-h-[5em]" x-bind="contentBox"
+                    :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                     data-submission-text='body-text'
+                >
+                   <p>AI companies should be required to clearly label AI-generated content, so that it is not confused with genuinely human-created works.</p>
+
+                </div>
+                  </div>
+                    </div>
+            <div
+                class="group grid grid-cols-[min-content_1fr] gap-4"
+                x-data="textContent()">
+                <div class="peer">
+
+                      <input type='checkbox' id='concern11' x-model="isEnabled"/>
+                  </div>
+                <label for="concern11" class="peer-has-checked:hidden grid grid-rows-subgrid grid-cols-subgrid gap-4 col-s text-slate-500">
+                  The productivity commission should recognise that it is human creators who create productivity, not AI systems that plagiarise it.
+
+                </label>
+                    <div
+                        class=" not-peer-has-checked:hidden    col-2 relative">
+                   <span class="absolute right-0 top-0" x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor"
+                        class="size-8 text-red-500">
+                        <path strokeLinecap="round" strokeLinejoin="round"
+                            d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z" />
+                    </svg>
+
+                    </span>
+
+                <div contenteditable="true" class="prose prose-lg max-w-none p-2
+                                                                                                      bg-white rounded-lg shadow-sm border border-gray-200
+                                                                                                      hover:shadow-md hover:border-gray-300
+                                                                                                      focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent
+                                                                                                      transition-all duration-200 cursor-text
+                                                                                                      min-h-[5em]" x-bind="contentBox"
+                    :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                     data-submission-text='body-text'
+                >
+                   <p>The productivity commission should recognise that it is human creators who create productivity, not AI systems that plagiarise it.</p>
+
+                </div>
+                  </div>
+                    </div>
+
+
+
+                    </div>
+                  
+          <div class="px-4 py-2 gap-5 flex flex-col border-1" x-data="submissionSection({sectionTitle:'Signoff'})">
+            <div class="prose-lg ">
+                <h2 class="inline">
+                    Signoff
+                </h2>
+            </div>
+            <div
+                class="group grid grid-cols-[min-content_1fr] gap-4"
+                x-data="textContent(true)">
+                    <div
+                        class="  col-2 relative">
+                   <span class="absolute right-0 top-0" x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor"
+                        class="size-8 text-red-500">
+                        <path strokeLinecap="round" strokeLinejoin="round"
+                            d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z" />
+                    </svg>
+
+                    </span>
+
+                <div contenteditable="true" class="prose prose-lg max-w-none p-2
+                                                                                                      bg-white rounded-lg shadow-sm border border-gray-200
+                                                                                                      hover:shadow-md hover:border-gray-300
+                                                                                                      focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent
+                                                                                                      transition-all duration-200 cursor-text
+                                                                                                      min-h-[5em]" x-bind="contentBox"
+                    :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                     data-submission-text='body-text'
+                >
+                   <p>Thank you for reading my concerns. I hope that we can have some AI regulation that protects Australian creative workers like me from AI companies.</p>
+
+                </div>
+                  </div>
+                    </div>
+
+
+
+                    </div>
+                    <span class="text-red-300 font-bold" x-show="showFormError()" :aria-hidden="showFormError()" aria-live="polite" x-cloak>
+                        Please customise the text in the sections you selected
+                    </span>
+                    </section>
+                    <section x-data="submissionEditor({title: 'Submission to the Productivity Commission\'s inquiry into AI and Data'})" x-cloak x-show="active" x-ref="step">
+                        <input type='hidden' id="submissionContents" :value="submissionContents"></input>
+                        <trix-editor class='prose max-w-none'></trix-editor>
+                        </section>
+                    <section x-data="submissionFinish" x-cloak x-show="active" x-ref="step" class="m-5">
+
+                                                        <div class="flex flex-row">
+                                                            <form name="submission" method="POST" data-netlify="true" id="saveSubmissionForm">
+                                                                <input type="hidden" x-bind:value="submissionContent" name="submissionContent">
+                                                            </form>
+                                                                <button  type="button"
+                                                                         @click="downloadPDFAndPost()"
+                                                                    class="text-gray-900 bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-lime-300 dark:focus:ring-lime-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 cursor-pointer">Download
+                                                                    PDF
+                                                        </button>
+                                                            </form>
+                                                        <a href="https://engage.pc.gov.au/page/make-a-submission"  target="_blank"
+                                                            class="text-gray-900 bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-lime-300 dark:focus:ring-lime-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 cursor-pointer">
+                                                            Make Submission
+                                                        </a>
+                                                        </div>
+                                                        </section>
+                        <div class='grid grid-cols-4 gap-4'>
+                          <div>
+                          <button
+                    @click="prevStep()"
+                  :disabled="currentStep !== 2"
+                            x-cloak
+                    class="text-gray-900 bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-lime-300 dark:focus:ring-lime-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 cursor-pointer"
+                            
+                    :class="{
+                        'hidden': currentStep !== 2
+                    }"
+                >
+                     Back
+                </button>
+                </div>
+                <div>
+                <!-- Next/Complete Button -->
+                <button
+                    @click="currentStep === totalSteps ? $dispatch('wizard-complete') : nextStep()"
+                      x-text="stepText"
+                   x-show="currentStep !== totalSteps"
+
+                   class="text-gray-900 bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-lime-300 dark:focus:ring-lime-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 cursor-pointer"
+                  
+                >
+                   Next
+                </button>
+                </div>
+                    </div>
+                    </main>
+                    </div>
+      </div>
+
+</body>
+    </html>
