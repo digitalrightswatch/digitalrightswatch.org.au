@@ -18,7 +18,7 @@ Finally, we’ll hear from people on all sides of the debate: authors whose work
 
 [The Copyright Act 1968 (Cth)](https://www.legislation.gov.au/C1968A00063/2019-01-01/text) does not refer to artificial intelligence (AI). While the Act still applies to creative works regardless of whether AI was used in their creation, there are no amendments to clarify how the Act should be applied to AI-generated content.
 
-### Training AI on copyrighted material
+#### Training AI on copyrighted material
 
 Digitally-reproducing works without permission or payment infringes [section 31 of the Copyright Act](https://www5.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s31.html). This is as true when using copyrighted material to train AI models as it would be for any other purpose. 
 
@@ -33,7 +33,7 @@ It is not clear if this second technical exemption provides a legal out for AI d
 
 The U.S copyright system provides an exemption to copyright restrictions if ‘[fair use’ can ](https://www.eff.org/deeplinks/2025/06/two-courts-rule-generative-ai-and-fair-use-one-gets-it-right)be proven. Australia does not have equivalent legislation, meaning that while US decisions may be used for guidance, what is legal in the U.S. may not be legal in Australia.
 
-### Copyrighting AI-generated works
+#### Copyrighting AI-generated works
 
 The law is murky but not neutral. Copyright only protects material that involves [independent intellectual effort](https://en.wikisource.org/wiki/IceTV_Pty_Limited_v_Nine_Network_Australia_Pty_Limited_(2009,_HCA)). That means typing a prompt into an AI model probably won’t qualify. But if an artist trains a model on their own work and carefully prompts it to produce something specific, that might be different. Right now, the line is undefined and that’s a problem.
 
@@ -80,36 +80,24 @@ The Act is only just coming into force. The institutional enforcement framework,
 
 ## The human cost: Creators vs. big tech
 
-
-
-### Authors:
+#### Authors:
 
 Bookbub’s [survey](https://insights.bookbub.com/how-authors-are-thinking-about-ai-survey/) of 1200 authors found that nearly half chose not to use AI, primarily for ethical reasons. The most frequently-cited concern was AI’s use of copyrighted material with no compensation to copyright holders. One author says:
 
-
-
 ‘Many of my books have been stolen to train AI tools, without my permission. \[…] generative AI as it currently exists is unethical and destructive.’
 
-
-
-### Copyright Lawyers:
-
-
+#### Copyright Lawyers:
 
 [The Copyright Agency ](https://www.copyright.com.au/membership/advocacy/)helps creators through copyright litigation and advocacy. Below is a quote from their [submission](https://static-copyright-com-au.s3.amazonaws.com/uploads/2024/12/R02786-Treasury-ACL-response.pdf) to the Department of Industry, Science, and Resources inquiry into AI and consumer law.
 
-
-
 ‘The government should introduce a new law that would compensate Australians whose works have been used for training AI models’
 
-
-
-### AI companies: 
+#### AI companies:
 
 [‘Regurgitation is a rare bug that we are working to drive to zero’ ](https://openai.com/index/openai-and-journalism/)
 
 AI companies such as OpenAI claim that training AI constitutes ‘fair use’ of copyrighted material. However, they simultaneously acknowledge that ‘regurgitation’ is a current problematic feature of AI. ChatGPT has a [publicly-available form](https://openai.com/form/copyright-disputes/) to lodge a copyright dispute, suggesting a significant volume of disputes. 
 
-## What’s next for Australia? 
+## What’s next for Australia?
 
 It is unclear whether Australia will respond to the AI threat through the courts as have the UK and US, or if it will opt for an EU-style reform-based approach. What we do know is in December of 2023 the Attorney General's Department unveiled the Copyright and AI Reference Group ([CAIRG](https://www.ag.gov.au/rights-and-protections/copyright/copyright-and-artificial-intelligence-reference-group-cairg)), to consider and (hopefully) respond to the emerging challenges with Copyright and AI. However, the CAIRG is yet to propose a single amendment.
