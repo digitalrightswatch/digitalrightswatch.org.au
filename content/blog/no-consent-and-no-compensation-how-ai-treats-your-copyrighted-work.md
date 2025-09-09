@@ -4,7 +4,9 @@ title: No consent and no compensation - how AI treats your copyrighted work
 date: 2025-09-09T04:36:34.615Z
 authors:
   - drw
+featureImage: /images/pexels-padrinan-2882517.jpg
 cardImage: /images/pexels-padrinan-2882517.jpg
+pdfAsset: /images/pexels-padrinan-2882517.jpg
 ---
 AI companies are strip-mining Australian books, songs, and artworks to build their models without consent, without compensation, and without accountability.
 
