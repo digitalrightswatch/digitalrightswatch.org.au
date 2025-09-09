@@ -4,7 +4,7 @@ title: Social Media Ban
 date: 2025-08-04T23:21:16.404Z
 authors:
   - drw
-featureImage: ""
+featureImage: /images/pexels-photo-5905853.jpeg
 cardImage: https://images.pexels.com/photos/5905853/pexels-photo-5905853.jpeg
 ---
 Digital Rights Watch remains firmly opposed to the Albanese government’s [proposed social media ban](https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7284). Not only will this ban fail to keep children safe, it will also exact a terrible price for not doing so.
