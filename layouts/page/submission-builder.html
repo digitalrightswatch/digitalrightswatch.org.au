@@ -1,15 +1,662 @@
+{{ define "additional-head" }}
+      <script type="module" crossorigin src="/tools/build-a-submission/assets/main-DsmuLyhb.js"></script>
+      <link rel="stylesheet" crossorigin href="/tools/build-a-submission/assets/main-BRG6OhiF.css">
+  {{ end  }}
 {{ define "main" }}
 <main>
-<div class="container">
+    <div class="container">
 
-    {{partial "page-header.html" (dict "Title" .Title)}}
+        {{partial "page-header.html" (dict "Title" .Title)}}
 
-        <div class="row">
-      <div class="col-md pr-4">
-        <article class="blog-single-post">{{ .Content }}
-          todo
-        </article>
-      </div>
+<div class="submissions-wizard">
+    <div x-data="wizard" class="p-2 row m-0 gap-3">
+            <aside class="col-12">
+
+                <details class="p-2 pb-4 bg-primary-alt " id="instructions" open>
+                <summary>
+    <h4 class="d-inline">Instructions</h4>
+                </summary>
+    <ol class="pt-2">
+        <li>Write a short introduction to yourself and why you are concerned about AI.
+        <li>Select which sections of text you would like to include
+        <li>Edit the provided text to reflect your own thoughts and opinions. This is important as multiple submissions that say
+        exactly the same thing may get ignored.
+        <li>Click "Generate draft" to generate a draft submission
+        <li>Proof-read, edit, and customise your submission
+        <li>Click “download final submission” to download the PDF version to share with the Productivity Commission
+        <li>Click “make submission” to open the Productivity Commission’s form.
+            <li>Fill in the form for the “Harnessing Data” inquiry, upload your PDF submission, and click “submit”</li>
+        <li>Well done! You’ve done a great job. Tell your friends and get them to do likewise.</li>
+        </ol>
+
+        <p>A copy of your submission will also be sent to Digital Rights Watch, so that we can ensure that the Productivity
+            Commission correctly receives all of them. We won’t use it for anything else.</p>
+        <div class="row justify-content-center">
+        <button x-on:click="getStartedClick()"
+                x-show="!hasAdvanced"
+            class="btn btn-md btn-primary">Get Started
+        </button>
+        </div>
+            </aside>
+
+            <div class="col col-12">
+
+                <div class="bg-light p-2 text-primary">
+
+
+                    <h4 x-text="currentStepName">
+
+
+                      Choose some starter text
+                    </h4>
+                    <div class="text-muted">
+<small>
+                        Step <span x-text="currentStep"></span> of <span x-text="totalSteps"></span>
+</small></div>
+                    </div>
+                    
+                <section x-data="submissionBuilder" x-show="active" x-ref="step" class="border p-2">
+                  
+          <div  x-data="submissionSection({sectionTitle:'About me'})" class="p-2">
+
+
+
+                <h3>
+                    About me
+                </h3>
+
+            <p class="text-muted small font-italic mb-1" >Write a short introduction to yourself. It might include your name, where you live, what you do.
+            </p>
+            <div
+                class="row m-2 py-2 content-box-row border-bottom border-width-2"
+                x-data="textContent(true)">
+
+                    <div class="col flex-grow-0  px-2 pt-3 checkbox-col">
+                   <div  x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="text-warning" width='24' height='24'>
+                           <path fill-rule="evenodd" d="M9.401 3.003c1.155-2 4.043-2 5.197 0l7.355 12.748c1.154 2-.29 4.5-2.599 4.5H4.645c-2.309 0-3.752-2.5-2.598-4.5L9.4 3.003ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" clip-rule="evenodd" />
+                       </svg>
+
+
+                    </div>
+
+  </div>
+
+
+                <div
+                    class="col p-0">
+                    <label for="aboutme1" class="border border-white text-muted p-1 m-0" x-show="!isEnabled">
+                        
+                    </label>
+                    <div contenteditable="true" class="border content-box p-1" x-bind="contentBox" x-ref="contentBox"
+
+                         :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                         x-cloak
+                         x-show="isEnabled"
+                         data-submission-text='body-text'
+                    >
+                        
+                    </div>
+
+                </div>
+                    </div>
+
+
+
+                    </div>
+                  
+          <div  x-data="submissionSection({sectionTitle:'I am concerned about AI because'})" class="p-2">
+
+
+
+                <h3>
+                    I am concerned about AI because
+                </h3>
+
+            <div
+                class="row m-2 py-2 content-box-row border-bottom border-width-2"
+                x-data="textContent()">
+
+                    <div class="col flex-grow-0  px-2 pt-3 checkbox-col">
+
+                      <input type='checkbox' id='concern1' x-model="isEnabled"/>
+                   <div  x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="text-warning" width='24' height='24'>
+                           <path fill-rule="evenodd" d="M9.401 3.003c1.155-2 4.043-2 5.197 0l7.355 12.748c1.154 2-.29 4.5-2.599 4.5H4.645c-2.309 0-3.752-2.5-2.598-4.5L9.4 3.003ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" clip-rule="evenodd" />
+                       </svg>
+
+
+                    </div>
+
+  </div>
+
+
+                <div
+                    class="col p-0">
+                    <label for="concern1" class="border border-white text-muted p-1 m-0" x-show="!isEnabled">
+                        Telling Australian stories is vital to our culture, and helps us find connections across our diverse community. If we love hearing from Australian voices, we cannot let the AI industry exploit our vibrant creative sector.
+
+                    </label>
+                    <div contenteditable="true" class="border content-box p-1" x-bind="contentBox" x-ref="contentBox"
+
+                         :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                         x-cloak
+                         x-show="isEnabled"
+                         data-submission-text='body-text'
+                    >
+                        <p>Telling Australian stories is vital to our culture, and helps us find connections across our diverse community. If we love hearing from Australian voices, we cannot let the AI industry exploit our vibrant creative sector.</p>
+
+                    </div>
+
+                </div>
+                    </div>
+            <div
+                class="row m-2 py-2 content-box-row border-bottom border-width-2"
+                x-data="textContent()">
+
+                    <div class="col flex-grow-0  px-2 pt-3 checkbox-col">
+
+                      <input type='checkbox' id='concern2' x-model="isEnabled"/>
+                   <div  x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="text-warning" width='24' height='24'>
+                           <path fill-rule="evenodd" d="M9.401 3.003c1.155-2 4.043-2 5.197 0l7.355 12.748c1.154 2-.29 4.5-2.599 4.5H4.645c-2.309 0-3.752-2.5-2.598-4.5L9.4 3.003ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" clip-rule="evenodd" />
+                       </svg>
+
+
+                    </div>
+
+  </div>
+
+
+                <div
+                    class="col p-0">
+                    <label for="concern2" class="border border-white text-muted p-1 m-0" x-show="!isEnabled">
+                        AI companies are some of the biggest in the world, and they expect to earn big money in countries like Australia. AI companies expect to earn money that should be going to Australian creative workers.
+
+                    </label>
+                    <div contenteditable="true" class="border content-box p-1" x-bind="contentBox" x-ref="contentBox"
+
+                         :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                         x-cloak
+                         x-show="isEnabled"
+                         data-submission-text='body-text'
+                    >
+                        <p>AI companies are some of the biggest in the world, and they expect to earn big money in countries like Australia. AI companies expect to earn money that should be going to Australian creative workers.</p>
+
+                    </div>
+
+                </div>
+                    </div>
+            <div
+                class="row m-2 py-2 content-box-row border-bottom border-width-2"
+                x-data="textContent()">
+
+                    <div class="col flex-grow-0  px-2 pt-3 checkbox-col">
+
+                      <input type='checkbox' id='concern3' x-model="isEnabled"/>
+                   <div  x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="text-warning" width='24' height='24'>
+                           <path fill-rule="evenodd" d="M9.401 3.003c1.155-2 4.043-2 5.197 0l7.355 12.748c1.154 2-.29 4.5-2.599 4.5H4.645c-2.309 0-3.752-2.5-2.598-4.5L9.4 3.003ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" clip-rule="evenodd" />
+                       </svg>
+
+
+                    </div>
+
+  </div>
+
+
+                <div
+                    class="col p-0">
+                    <label for="concern3" class="border border-white text-muted p-1 m-0" x-show="!isEnabled">
+                        AI companies are taking over everything, including our cultural   industries. We need to give communities the opportunity to experiment with creativity rather than replace it with AI generated content.
+
+                    </label>
+                    <div contenteditable="true" class="border content-box p-1" x-bind="contentBox" x-ref="contentBox"
+
+                         :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                         x-cloak
+                         x-show="isEnabled"
+                         data-submission-text='body-text'
+                    >
+                        <p>AI companies are taking over everything, including our cultural   industries. We need to give communities the opportunity to experiment with creativity rather than replace it with AI generated content.</p>
+
+                    </div>
+
+                </div>
+                    </div>
+            <div
+                class="row m-2 py-2 content-box-row border-bottom border-width-2"
+                x-data="textContent()">
+
+                    <div class="col flex-grow-0  px-2 pt-3 checkbox-col">
+
+                      <input type='checkbox' id='concern4' x-model="isEnabled"/>
+                   <div  x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="text-warning" width='24' height='24'>
+                           <path fill-rule="evenodd" d="M9.401 3.003c1.155-2 4.043-2 5.197 0l7.355 12.748c1.154 2-.29 4.5-2.599 4.5H4.645c-2.309 0-3.752-2.5-2.598-4.5L9.4 3.003ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" clip-rule="evenodd" />
+                       </svg>
+
+
+                    </div>
+
+  </div>
+
+
+                <div
+                    class="col p-0">
+                    <label for="concern4" class="border border-white text-muted p-1 m-0" x-show="!isEnabled">
+                        It is hard enough to make ends meet as a creative. We cannot allow what little income creatives earn to be siphoned-off by the billionaire owners of the largest companies in the world.
+
+                    </label>
+                    <div contenteditable="true" class="border content-box p-1" x-bind="contentBox" x-ref="contentBox"
+
+                         :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                         x-cloak
+                         x-show="isEnabled"
+                         data-submission-text='body-text'
+                    >
+                        <p>It is hard enough to make ends meet as a creative. We cannot allow what little income creatives earn to be siphoned-off by the billionaire owners of the largest companies in the world.</p>
+
+                    </div>
+
+                </div>
+                    </div>
+            <div
+                class="row m-2 py-2 content-box-row border-bottom border-width-2"
+                x-data="textContent()">
+
+                    <div class="col flex-grow-0  px-2 pt-3 checkbox-col">
+
+                      <input type='checkbox' id='concern5' x-model="isEnabled"/>
+                   <div  x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="text-warning" width='24' height='24'>
+                           <path fill-rule="evenodd" d="M9.401 3.003c1.155-2 4.043-2 5.197 0l7.355 12.748c1.154 2-.29 4.5-2.599 4.5H4.645c-2.309 0-3.752-2.5-2.598-4.5L9.4 3.003ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" clip-rule="evenodd" />
+                       </svg>
+
+
+                    </div>
+
+  </div>
+
+
+                <div
+                    class="col p-0">
+                    <label for="concern5" class="border border-white text-muted p-1 m-0" x-show="!isEnabled">
+                        Creators put our hearts and souls into our work. It’s both heartbreaking and nauseating  to see it sucked up by machines and turned into ersatz copies of the real thing that have had our creative spark extinguished.
+
+                    </label>
+                    <div contenteditable="true" class="border content-box p-1" x-bind="contentBox" x-ref="contentBox"
+
+                         :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                         x-cloak
+                         x-show="isEnabled"
+                         data-submission-text='body-text'
+                    >
+                        <p>Creators put our hearts and souls into our work. It’s both heartbreaking and nauseating  to see it sucked up by machines and turned into ersatz copies of the real thing that have had our creative spark extinguished.</p>
+
+                    </div>
+
+                </div>
+                    </div>
+
+
+
+                    </div>
+                  
+          <div  x-data="submissionSection({sectionTitle:'Rather than a data-mining exemption for AI'})" class="p-2">
+
+
+
+                <h3>
+                    Rather than a data-mining exemption for AI
+                </h3>
+
+            <div
+                class="row m-2 py-2 content-box-row border-bottom border-width-2"
+                x-data="textContent()">
+
+                    <div class="col flex-grow-0  px-2 pt-3 checkbox-col">
+
+                      <input type='checkbox' id='concern6' x-model="isEnabled"/>
+                   <div  x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="text-warning" width='24' height='24'>
+                           <path fill-rule="evenodd" d="M9.401 3.003c1.155-2 4.043-2 5.197 0l7.355 12.748c1.154 2-.29 4.5-2.599 4.5H4.645c-2.309 0-3.752-2.5-2.598-4.5L9.4 3.003ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" clip-rule="evenodd" />
+                       </svg>
+
+
+                    </div>
+
+  </div>
+
+
+                <div
+                    class="col p-0">
+                    <label for="concern6" class="border border-white text-muted p-1 m-0" x-show="!isEnabled">
+                        AI companies should be required to gain consent from, and make payment to, the creators of any work that they want to use to train their systems
+
+                    </label>
+                    <div contenteditable="true" class="border content-box p-1" x-bind="contentBox" x-ref="contentBox"
+
+                         :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                         x-cloak
+                         x-show="isEnabled"
+                         data-submission-text='body-text'
+                    >
+                        <p>AI companies should be required to gain consent from, and make payment to, the creators of any work that they want to use to train their systems</p>
+
+                    </div>
+
+                </div>
+                    </div>
+            <div
+                class="row m-2 py-2 content-box-row border-bottom border-width-2"
+                x-data="textContent()">
+
+                    <div class="col flex-grow-0  px-2 pt-3 checkbox-col">
+
+                      <input type='checkbox' id='concern7' x-model="isEnabled"/>
+                   <div  x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="text-warning" width='24' height='24'>
+                           <path fill-rule="evenodd" d="M9.401 3.003c1.155-2 4.043-2 5.197 0l7.355 12.748c1.154 2-.29 4.5-2.599 4.5H4.645c-2.309 0-3.752-2.5-2.598-4.5L9.4 3.003ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" clip-rule="evenodd" />
+                       </svg>
+
+
+                    </div>
+
+  </div>
+
+
+                <div
+                    class="col p-0">
+                    <label for="concern7" class="border border-white text-muted p-1 m-0" x-show="!isEnabled">
+                        AI companies should be required to publish what content they have ingested into their systems, so that we can audit and confirm that our work is not unfairly included.
+
+                    </label>
+                    <div contenteditable="true" class="border content-box p-1" x-bind="contentBox" x-ref="contentBox"
+
+                         :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                         x-cloak
+                         x-show="isEnabled"
+                         data-submission-text='body-text'
+                    >
+                        <p>AI companies should be required to publish what content they have ingested into their systems, so that we can audit and confirm that our work is not unfairly included.</p>
+
+                    </div>
+
+                </div>
+                    </div>
+            <div
+                class="row m-2 py-2 content-box-row border-bottom border-width-2"
+                x-data="textContent()">
+
+                    <div class="col flex-grow-0  px-2 pt-3 checkbox-col">
+
+                      <input type='checkbox' id='concern8' x-model="isEnabled"/>
+                   <div  x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="text-warning" width='24' height='24'>
+                           <path fill-rule="evenodd" d="M9.401 3.003c1.155-2 4.043-2 5.197 0l7.355 12.748c1.154 2-.29 4.5-2.599 4.5H4.645c-2.309 0-3.752-2.5-2.598-4.5L9.4 3.003ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" clip-rule="evenodd" />
+                       </svg>
+
+
+                    </div>
+
+  </div>
+
+
+                <div
+                    class="col p-0">
+                    <label for="concern8" class="border border-white text-muted p-1 m-0" x-show="!isEnabled">
+                        AI companies must remove from their systems any existing content for which they do not have a licence.
+
+                    </label>
+                    <div contenteditable="true" class="border content-box p-1" x-bind="contentBox" x-ref="contentBox"
+
+                         :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                         x-cloak
+                         x-show="isEnabled"
+                         data-submission-text='body-text'
+                    >
+                        <p>AI companies must remove from their systems any existing content for which they do not have a licence.</p>
+
+                    </div>
+
+                </div>
+                    </div>
+            <div
+                class="row m-2 py-2 content-box-row border-bottom border-width-2"
+                x-data="textContent()">
+
+                    <div class="col flex-grow-0  px-2 pt-3 checkbox-col">
+
+                      <input type='checkbox' id='concern9' x-model="isEnabled"/>
+                   <div  x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="text-warning" width='24' height='24'>
+                           <path fill-rule="evenodd" d="M9.401 3.003c1.155-2 4.043-2 5.197 0l7.355 12.748c1.154 2-.29 4.5-2.599 4.5H4.645c-2.309 0-3.752-2.5-2.598-4.5L9.4 3.003ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" clip-rule="evenodd" />
+                       </svg>
+
+
+                    </div>
+
+  </div>
+
+
+                <div
+                    class="col p-0">
+                    <label for="concern9" class="border border-white text-muted p-1 m-0" x-show="!isEnabled">
+                        Creators should be able to refuse to allow AI companies access to their work, even when it is published on the Internet for public consumption.
+
+                    </label>
+                    <div contenteditable="true" class="border content-box p-1" x-bind="contentBox" x-ref="contentBox"
+
+                         :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                         x-cloak
+                         x-show="isEnabled"
+                         data-submission-text='body-text'
+                    >
+                        <p>Creators should be able to refuse to allow AI companies access to their work, even when it is published on the Internet for public consumption.</p>
+
+                    </div>
+
+                </div>
+                    </div>
+            <div
+                class="row m-2 py-2 content-box-row border-bottom border-width-2"
+                x-data="textContent()">
+
+                    <div class="col flex-grow-0  px-2 pt-3 checkbox-col">
+
+                      <input type='checkbox' id='concern10' x-model="isEnabled"/>
+                   <div  x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="text-warning" width='24' height='24'>
+                           <path fill-rule="evenodd" d="M9.401 3.003c1.155-2 4.043-2 5.197 0l7.355 12.748c1.154 2-.29 4.5-2.599 4.5H4.645c-2.309 0-3.752-2.5-2.598-4.5L9.4 3.003ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" clip-rule="evenodd" />
+                       </svg>
+
+
+                    </div>
+
+  </div>
+
+
+                <div
+                    class="col p-0">
+                    <label for="concern10" class="border border-white text-muted p-1 m-0" x-show="!isEnabled">
+                        AI companies should be required to clearly label AI-generated content, so that it is not confused with genuinely human-created works.
+
+                    </label>
+                    <div contenteditable="true" class="border content-box p-1" x-bind="contentBox" x-ref="contentBox"
+
+                         :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                         x-cloak
+                         x-show="isEnabled"
+                         data-submission-text='body-text'
+                    >
+                        <p>AI companies should be required to clearly label AI-generated content, so that it is not confused with genuinely human-created works.</p>
+
+                    </div>
+
+                </div>
+                    </div>
+            <div
+                class="row m-2 py-2 content-box-row border-bottom border-width-2"
+                x-data="textContent()">
+
+                    <div class="col flex-grow-0  px-2 pt-3 checkbox-col">
+
+                      <input type='checkbox' id='concern11' x-model="isEnabled"/>
+                   <div  x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="text-warning" width='24' height='24'>
+                           <path fill-rule="evenodd" d="M9.401 3.003c1.155-2 4.043-2 5.197 0l7.355 12.748c1.154 2-.29 4.5-2.599 4.5H4.645c-2.309 0-3.752-2.5-2.598-4.5L9.4 3.003ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" clip-rule="evenodd" />
+                       </svg>
+
+
+                    </div>
+
+  </div>
+
+
+                <div
+                    class="col p-0">
+                    <label for="concern11" class="border border-white text-muted p-1 m-0" x-show="!isEnabled">
+                        The productivity commission should recognise that it is human creators who create productivity, not AI systems that plagiarise it.
+
+                    </label>
+                    <div contenteditable="true" class="border content-box p-1" x-bind="contentBox" x-ref="contentBox"
+
+                         :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                         x-cloak
+                         x-show="isEnabled"
+                         data-submission-text='body-text'
+                    >
+                        <p>The productivity commission should recognise that it is human creators who create productivity, not AI systems that plagiarise it.</p>
+
+                    </div>
+
+                </div>
+                    </div>
+
+
+
+                    </div>
+                  
+          <div  x-data="submissionSection({sectionTitle:'Signoff'})" class="p-2">
+
+
+
+                <h3>
+                    Signoff
+                </h3>
+
+            <div
+                class="row m-2 py-2 content-box-row border-bottom border-width-2"
+                x-data="textContent(true)">
+
+                    <div class="col flex-grow-0  px-2 pt-3 checkbox-col">
+                   <div  x-show="showError()" :aria-hidden="showError()" aria-live="polite" x-cloak>
+                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="text-warning" width='24' height='24'>
+                           <path fill-rule="evenodd" d="M9.401 3.003c1.155-2 4.043-2 5.197 0l7.355 12.748c1.154 2-.29 4.5-2.599 4.5H4.645c-2.309 0-3.752-2.5-2.598-4.5L9.4 3.003ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" clip-rule="evenodd" />
+                       </svg>
+
+
+                    </div>
+
+  </div>
+
+
+                <div
+                    class="col p-0">
+                    <label for="signoff1" class="border border-white text-muted p-1 m-0" x-show="!isEnabled">
+                        Thank you for reading my concerns. I hope that we can have some AI regulation that protects Australian creative workers like me from AI companies.
+
+                    </label>
+                    <div contenteditable="true" class="border content-box p-1" x-bind="contentBox" x-ref="contentBox"
+
+                         :class="{'border-red-500 hover:border-red-300 focus:ring-red-500': showError() }"
+                         x-cloak
+                         x-show="isEnabled"
+                         data-submission-text='body-text'
+                    >
+                        <p>Thank you for reading my concerns. I hope that we can have some AI regulation that protects Australian creative workers like me from AI companies.</p>
+
+                    </div>
+
+                </div>
+                    </div>
+
+
+
+                    </div>
+                    <span class="text-warning font-weight-bold" x-show="showFormError()" :aria-hidden="showFormError()" aria-live="polite" x-cloak>
+                        Please customise the text in the sections you selected
+                    </span>
+                    </section>
+                    <section x-data="submissionEditor({title: 'Submission to the Productivity Commission\'s inquiry into AI and Data'})" class="border p-2" x-cloak x-show="active" x-ref="step">
+                        <input type='hidden' id="submissionContents" :value="submissionContents"></input>
+                        <trix-editor></trix-editor>
+                        </section>
+                        <section x-data="submissionFinish" x-cloak x-show="active" x-ref="step" class="border p-2" >
+
+                            <div class="row justify-content-center gap-3 py-4 m-0">
+                                <form name="submission" method="POST" data-netlify="true" id="saveSubmissionForm">
+                                                                <input type="hidden" x-bind:value="submissionContent" name="submissionContent">
+                                                            </form>
+                                                            <button  type="button"
+                                                                     @click="downloadPDFAndPost()"
+                                                                     class="btn btn-lg btn-primary"
+                                                                     >
+                                                                Download PDF
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"  className="size-6" height="24" width="24">
+                                                                        <path fill-rule="evenodd" d="M12 2.25a.75.75 0 0 1 .75.75v11.69l3.22-3.22a.75.75 0 1 1 1.06 1.06l-4.5 4.5a.75.75 0 0 1-1.06 0l-4.5-4.5a.75.75 0 1 1 1.06-1.06l3.22 3.22V3a.75.75 0 0 1 .75-.75Zm-9 13.5a.75.75 0 0 1 .75.75v2.25a1.5 1.5 0 0 0 1.5 1.5h13.5a1.5 1.5 0 0 0 1.5-1.5V16.5a.75.75 0 0 1 1.5 0v2.25a3 3 0 0 1-3 3H5.25a3 3 0 0 1-3-3V16.5a.75.75 0 0 1 .75-.75Z" clip-rule="evenodd" />
+                                                                    </svg>
+
+
+
+                                                        </button>
+                                                            </form>
+                                                            <a href="https://engage.pc.gov.au/surveys/secure_form/survey/make-your-submission"  target="_blank"
+                                                               class="btn btn-lg btn-primary"
+                                                            >Make Submission
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"  className="size-6" height="24" width="24">
+                                                                    <path fill-rule="evenodd" d="M15.75 2.25H21a.75.75 0 0 1 .75.75v5.25a.75.75 0 0 1-1.5 0V4.81L8.03 17.03a.75.75 0 0 1-1.06-1.06L19.19 3.75h-3.44a.75.75 0 0 1 0-1.5Zm-10.5 4.5a1.5 1.5 0 0 0-1.5 1.5v10.5a1.5 1.5 0 0 0 1.5 1.5h10.5a1.5 1.5 0 0 0 1.5-1.5V10.5a.75.75 0 0 1 1.5 0v8.25a3 3 0 0 1-3 3H5.25a3 3 0 0 1-3-3V8.25a3 3 0 0 1 3-3h8.25a.75.75 0 0 1 0 1.5H5.25Z" clip-rule="evenodd" />
+                                                                </svg>
+
+
+                                                        </a>
+                                                        </div>
+                    </section>
+                    <div class="row justify-content-end gap-3 py-4 bg-light m-0" role="group" aria-label="Wizard navigation buttons ">
+                        <button
+                            class="btn btn-md btn-secondary"
+                            @click="prevStep()"
+                            :disabled="currentStep == 1"
+                            x-cloak
+                            x-show= "currentStep > 1"
+                        >
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-6" width="24" height="24">
+                                    <path fill-rule="evenodd" d="M7.72 12.53a.75.75 0 0 1 0-1.06l7.5-7.5a.75.75 0 1 1 1.06 1.06L9.31 12l6.97 6.97a.75.75 0 1 1-1.06 1.06l-7.5-7.5Z" clip-rule="evenodd" />
+
+                            </svg>
+
+                            Back
+                </button>
+                <button
+                    class="btn btn-md btn-primary"
+
+                    @click="currentStep === totalSteps ? $dispatch('wizard-complete') : nextStep()"
+                    x-disabled="currentStep == totalSteps"
+                    x-show="currentStep !== totalSteps"
+
+                >
+                    <span x-text="stepText">Next</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-6" width="24" height="24">
+                            <path fill-rule="evenodd" d="M16.28 11.47a.75.75 0 0 1 0 1.06l-7.5 7.5a.75.75 0 0 1-1.06-1.06L14.69 12 7.72 5.03a.75.75 0 0 1 1.06-1.06l7.5 7.5Z" clip-rule="evenodd" />
+                        </svg>
+
+                </button>
+                    </div>
+            </div>
+    </div>
+</div>
+
 
   </div>
 </main>
