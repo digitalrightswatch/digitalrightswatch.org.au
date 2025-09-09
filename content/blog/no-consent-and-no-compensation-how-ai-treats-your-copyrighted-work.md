@@ -47,7 +47,7 @@ In Meta’s [submission](https://engage.pc.gov.au/projects/data-digital/page/pil
 
 Privacy Commissioner Carly Kind pushed back against these statements. In a [public post](https://www.linkedin.com/posts/carly-kind-0b201727_yesterday-the-australian-reported-that-in-activity-7351738228753764352-NKsP) on LinkedIn, she made clear: “The true consumer benefit,” she wrote, “comes from strong laws that protect the privacy of Australians.”
 
-At the same time the owner of the Claude AI system, Anthropic, has settled a [class-action lawsuit](https://authorsguild.org/news/what-authors-need-to-know-about-the-anthropic-settlement/) brought by American authors. Even though it will only be paying a small amount of damages per infringed work, this does suggest that AI companies know that what they are doing is both illegal yet merely a cost of business. 
+At the same time the owner of the Claude AI system, Anthropic, is attempting to settle a [class-action lawsuit](https://authorsguild.org/news/what-authors-need-to-know-about-the-anthropic-settlement/) brought by American authors. Even though it would only be paying a small amount of damages per infringed work, this does suggest that AI companies know that what they are doing is both illegal yet merely a cost of business. 
 
 In Australia, the Productivity Commission appears to have swallowed Big Tech’s PR. In their recent [interim report](https://www.pc.gov.au/inquiries/current/data-digital/interim) on data they floated a “Technology and Data Mining” exemption for big tech — a slap in the face to Australian creators. 
 
