@@ -10,6 +10,6 @@ featured:
   - Tools and Guides
 type: page
 layout: submission-builder
-aliases: /ai-submission-generator/
+url: /tools-guides/ai-submission-generator
 date: 2025-09-09T00:00:00.000Z
 ---
