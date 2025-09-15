@@ -2,6 +2,9 @@
 draft: false
 title: Submission to the Select Committee on Information Integrity on Climate
   Change and Energy
+tags:
+  - Submissions
+featured: []
 date: 2025-09-15T00:03:46.418Z
 authors:
   - drw
