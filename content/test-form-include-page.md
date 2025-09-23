@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Test form include page
 date: 2025-09-23T03:12:01.397Z
 ---
