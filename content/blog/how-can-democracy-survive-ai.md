@@ -27,14 +27,14 @@ Featuring special guests from politics and entertainment.
 
 Register here:
 
-Adelaide: https://shorturl.at/ojQRX
+Adelaide: <https://shorturl.at/ojQRX>
 
-Perth: events.humanitix.com/democracy-perth
+Perth: [events.humanitix.com/democracy-perth](https://events.humanitix.com/democracy-perth)
 
-Brisbane: events.humanitix.com/democracy-brisbane
+Brisbane: [events.humanitix.com/democracy-brisbane](https://events.humanitix.com/democracy-brisbane)
 
-Sydney: events.humanitix.com/democracy-sydney
+Sydney: [events.humanitix.com/democracy-sydney](https://events.humanitix.com/democracy-sydney)
 
-Melbourne events.humanitix.com/democracy-melbourne
+Melbourne: [events.humanitix.com/democracy-melbourne](https://events.humanitix.com/democracy-melbourne)
 
 *Burning Platforms is Australia’s top tech and politics podcast delving into Big Tech and the consequences of its power.*
