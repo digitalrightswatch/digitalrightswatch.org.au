@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: How Can Democracy Survive AI?
 date: 2025-09-30T03:02:56.854Z
 featureImage: /images/democracy-events.png
