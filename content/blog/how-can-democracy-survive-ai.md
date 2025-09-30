@@ -2,7 +2,7 @@
 draft: false
 title: How Can Democracy Survive AI?
 slug: /how-can-democracy-survive-ai
-url: ""
+url: https://digitalrightswatch.org.au/how-can-democracy-survive-ai
 redirect_url: ""
 date: 2025-09-30T03:02:56.854Z
 featureImage: /images/democracy-events.png
