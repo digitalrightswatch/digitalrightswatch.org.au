@@ -1,6 +1,8 @@
 ---
-draft: true
+draft: false
 title: Ban Facial Recognition
+tags:
+  - campaigns
 date: 2025-10-01T02:48:37.958Z
 ---
 **Facial recognition surveillance is unethical.**
