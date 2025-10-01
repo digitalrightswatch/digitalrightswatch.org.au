@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Ban Facial Recognition
 slug: ""
 tags: []
