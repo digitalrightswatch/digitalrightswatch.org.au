@@ -10,12 +10,7 @@ featured:
 date: 2025-10-01T03:18:49.322Z
 featureImage: /images/ban-facial-recognition.png
 cardImage: /images/ban-facial-recognition.png
-summary: "<link href='https://actionnetwork.org/css/style-embed-v3.css'
-  rel='stylesheet' type='text/css' /><script
-  src='https://actionnetwork.org/widgets/v5/form/facial-recognition-sign-up?for\
-  mat=js&source=widget'></script><div
-  id='can-form-area-facial-recognition-sign-up' style='width: 100%'><!-- this
-  div is the target for our HTML insertion --></div>"
+summary: ""
 ---
 **Facial recognition surveillance is unethical.**
 
@@ -28,3 +23,5 @@ We've seen these systems used without the knowledge or consent of customers in A
 **There are no regulations or laws to govern the technologies** – currently, Australia has no regulatory or legal frameworks that govern facial recognition technologies. This means that companies, governments and their staff can do whatever they like without legal oversight.
 
 **Join our campaign to ban facial recognition today.**
+
+<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v5/form/facial-recognition-sign-up?format=js&source=widget'></script><div id='can-form-area-facial-recognition-sign-up' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
