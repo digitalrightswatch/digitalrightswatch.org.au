@@ -2,6 +2,10 @@
 draft: false
 title: Inquiry into the Internet Search Engine Services Online Safety Code and
   the under 16 social media ban
+tags:
+  - submissions
+category:
+  - submissions
 date: 2025-09-22T23:18:05.311Z
 authors:
   - drw
