@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Ban Facial Recognition
+slug: ban_facial_recognition
 tags:
   - campaigns
 date: 2025-10-01T02:48:37.958Z
