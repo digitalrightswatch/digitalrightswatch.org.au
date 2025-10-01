@@ -1,15 +1,16 @@
 ---
+draft: true
 title: Ban facial recognition surveillance
-authors: [drw]
-date: 2020-01-30T00:51:07+00:00
 url: /2020/01/30/ban-facial-recognition-surveillance/
-featureImage: /wp-content/uploads/2020/01/nick-loggie-fRVPzBYcd5A-unsplash-scaled-1.jpg
+tags:
+  - Facial recognition
 category:
   - News
   - Take Action
-tags:
-  - Facial recognition
-
+date: 2020-01-30T00:51:07+00:00
+authors:
+  - drw
+featureImage: /wp-content/uploads/2020/01/nick-loggie-fRVPzBYcd5A-unsplash-scaled-1.jpg
 ---
 You are being tracked. On every street, in every park, as you sit at the train station or walk to work.
 
