@@ -34,3 +34,7 @@ Melbourne: [events.humanitix.com/democracy-melbourne](events.humanitix.com/democ
 ## Articles
 
 Guardian Sep 19 2025 - [How accurate are age checks for under 16 social media ban?](https://www.theguardian.com/news/2025/sep/19/how-accurate-are-age-checks-for-australias-under-16s-social-media-ban-what-trial-data-reveals)
+
+## Podcast[](https://www.theguardian.com/news/2025/sep/19/how-accurate-are-age-checks-for-australias-under-16s-social-media-ban-what-trial-data-reveals)
+
+Burning Platforms - [Youtube](https://www.youtube.com/playlist?list=PLGLdW97HcnnfD4W3V604T0bAO4Og7ea77) | [Spotify](https://open.spotify.com/show/75bP0OcWBJZ10BMom2tyOZ) | [Apple](https://podcasts.apple.com/au/podcast/burning-platforms/id1589024577)
