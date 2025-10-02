@@ -9,7 +9,7 @@ featured:
   - campaigns
 date: 2025-10-01T03:18:49.322Z
 featureImage: /images/protect-australian-culture.png
-cardImage: /images/protect-au-culture.png
+cardImage: /images/protect-aussie-culture.png
 summary: ""
 ---
 **AI companies are data-mining Australian books, songs, and artworks to build their models without consent, without compensation, and without accountability.**
