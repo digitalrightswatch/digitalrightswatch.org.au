@@ -8,7 +8,7 @@ category:
 featured: []
 date: 2025-10-01T03:18:49.322Z
 featureImage: /images/basic-1.png
-cardImage: /images/basic-1.png
+cardImage: /images/basic-2.png
 summary: ""
 ---
 **Our right to privacy is essential to uphold our democracy, rein in corporate power, and for a safe and fair digital future. It’s time to get privacy right.**
