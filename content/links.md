@@ -5,11 +5,13 @@ date: 2025-10-02T00:09:23.976Z
 ---
 ## Events
 
-You’re invited to a free live discussion hosted by the Burning Platforms podcast where panellists explore the promises and pitfalls of AI - and what’s at stake for all Australians.
+**How Can Democracy Survive AI?**
+
+**You’re invited to a free live discussion hosted by the Burning Platforms podcast where panellists explore the promises and pitfalls of AI - and what’s at stake for all Australians.**
 
 Our fun and interactive panel event will canvas the big questions and try to come up with a few answers before this juggernaut goes out of control.
 
-Come along to meet and mingle with people who care.
+**Come along to meet and mingle with people who care.**
 
 * Learn about the Luddites and how the future can be contested
 * Try to tell the difference between an AI and a human
@@ -17,7 +19,7 @@ Come along to meet and mingle with people who care.
 
 Featuring special guests from politics and entertainment.
 
-Register here:
+**Register here:**
 
 Adelaide: <https://shorturl.at/ojQRX>
 
