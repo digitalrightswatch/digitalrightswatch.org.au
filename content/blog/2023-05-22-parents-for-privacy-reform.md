@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Sign the open letter for bold privacy law reform
 url: /2023/05/22/parents-for-privacy-reform/
 redirect_url: https://actionnetwork.org/petitions/parents-for-privacy-reform
