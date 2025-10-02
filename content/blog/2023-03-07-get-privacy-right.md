@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: The Australian govt needs to get privacy reform right
 url: /2023/03/07/get-privacy-right/
 tags:
