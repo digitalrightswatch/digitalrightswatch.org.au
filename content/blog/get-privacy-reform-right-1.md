@@ -5,7 +5,8 @@ slug: ""
 tags: []
 category:
   - campaigns
-featured: []
+featured:
+  - campaigns
 date: 2025-10-01T03:18:49.322Z
 featureImage: /images/basic-1.png
 cardImage: /images/basic-2.png
