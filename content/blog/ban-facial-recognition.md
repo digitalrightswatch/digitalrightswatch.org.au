@@ -3,7 +3,8 @@ draft: false
 title: Ban Facial Recognition
 slug: ""
 tags: []
-category: []
+category:
+  - campaigns
 featured: []
 date: 2025-10-01T03:18:49.322Z
 featureImage: /images/ban-facial-recognition.png
