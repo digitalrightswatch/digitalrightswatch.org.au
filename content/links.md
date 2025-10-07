@@ -33,6 +33,8 @@ Melbourne: [events.humanitix.com/democracy-melbourne](events.humanitix.com/democ
 
 ## Articles
 
+Guardian Oct 6 2025 | [Deloitte to pay money back to Albanese government after using AI in $440,000 report](https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report)
+
 ABC | Oct 2 2025 - [VPNs, 'old man' masks, and AI: The holes in the social media ban and their fixes](https://www.abc.net.au/news/2025-10-02/social-media-ban-vpns-masks-age-checks-disguises/105836134)
 
 Guardian | Sep 19 2025 - [How accurate are age checks for under 16 social media ban?](https://www.theguardian.com/news/2025/sep/19/how-accurate-are-age-checks-for-australias-under-16s-social-media-ban-what-trial-data-reveals)
