@@ -23,7 +23,7 @@ Featuring special guests from politics and entertainment.
 
 Adelaide: <https://shorturl.at/ojQRX>
 
-Perth: [events.humanitix.com/democracy-perth](events.humanitix.com/democracy-perth)
+Perth: [events.humanitix.com/democracy-perth](https://events.humanitix.com/democracy-perth)
 
 Brisbane: [events.humanitix.com/democracy-brisbane](events.humanitix.com/democracy-brisbane)
 
