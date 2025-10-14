@@ -2,6 +2,7 @@
 draft: false
 title: Protect Australian Culture
 slug: ""
+redirect_url: https://digitalrightswatch.org.au/protect-australian-culture/
 tags: []
 category:
   - campaigns
