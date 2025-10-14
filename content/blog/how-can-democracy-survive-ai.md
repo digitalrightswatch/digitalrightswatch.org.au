@@ -4,6 +4,10 @@ title: How Can Democracy Survive AI?
 slug: /how-can-democracy-survive-ai
 url: ""
 redirect_url: ""
+category:
+  - Events
+featured:
+  - Events
 date: 2025-09-30T03:02:56.854Z
 featureImage: /images/democracy-events.png
 ---
