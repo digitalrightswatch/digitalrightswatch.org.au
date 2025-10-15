@@ -43,7 +43,9 @@ Guardian | Sep 19 2025 - [How accurate are age checks for under 16 social media 
 
 ## Video[](https://www.theguardian.com/news/2025/sep/19/how-accurate-are-age-checks-for-australias-under-16s-social-media-ban-what-trial-data-reveals)
 
-Lizzie O'Shea | Sep 30 2025 - [Senate National Cultural Policy Evidence](https://youtu.be/sTZCuXuOoIU?t=16419)
+Lizzie O'Shea | Oct 13 2025 - [Internet Search Engine Services Online Safety Code](https://youtu.be/ZcuU8tWurkU?t=17806)
+
+Lizzie O'Shea | Sep 30 2025 - [Senate National Cultural Policy Evidence](https://youtu.be/sTZCuXuOoIU?t=16419)[](https://youtu.be/sTZCuXuOoIU?t=16419)
 
 ## Podcast[](https://www.theguardian.com/news/2025/sep/19/how-accurate-are-age-checks-for-australias-under-16s-social-media-ban-what-trial-data-reveals)
 
