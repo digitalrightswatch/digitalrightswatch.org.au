@@ -8,8 +8,8 @@ category:
 featured:
   - campaigns
 date: 2025-10-01T03:18:49.322Z
-featureImage: ""
-cardImage: ""
+featureImage: /images/right-to-delete.png
+cardImage: /images/right-to-delete-square.png
 summary: ""
 ---
 **We all need a right to delete our personal data**
