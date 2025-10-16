@@ -1,6 +1,8 @@
 ---
-draft: true
+draft: false
 title: "Your Data, Their Rules: Australians Need Data Deletion Rights"
+tags:
+  - article
 date: 2025-10-16T22:55:06.417Z
 featureImage: /images/pexels-padrinan-2882553.jpg
 ---
