@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Test campaign page
-url: /test_campaign
+url: /test-campaign-page
 tags:
   - campaigns
 date: 2025-10-20T00:38:24.524Z
