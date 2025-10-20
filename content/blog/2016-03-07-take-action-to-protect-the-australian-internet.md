@@ -2,7 +2,7 @@
 excerpt: The Australian government is pursuing a draconian policy agenda that
   threatens every aspect of the way we use the Internet. Take action to keep the
   Internet open, free and just.
-draft: true
+draft: false
 title: Take action to protect the Australian Internet
 url: /campaigns/take-action-to-protect-the-australian-internet/
 category:
