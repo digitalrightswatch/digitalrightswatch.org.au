@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Test campaign page
 url: /test_campaign
 tags:
