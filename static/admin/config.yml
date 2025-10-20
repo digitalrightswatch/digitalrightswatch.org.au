@@ -8,7 +8,8 @@ backend:
 
 media_folder: "static/images" # Folder where user uploaded files should go
 public_folder: "/images"
-site_url: https://digitalrightswatch.netlify.app
+site_url: https://digitalrightswatch.org.au
+publish_mode: "simple"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "categories"
