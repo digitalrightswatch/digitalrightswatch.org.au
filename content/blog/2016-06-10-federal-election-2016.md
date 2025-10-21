@@ -4,8 +4,8 @@ excerpt: The Federal Election is coming up fast, and here at Digital Rights
   on key issues relating to digital rights. Check out our Election Scorecard.
 draft: false
 title: Federal election 2016
-url: /federal-election-2016
-redirect_url: /2016/06/09/2016-06-10-federal-election-2016
+url: /2016/06/09/2016-06-10-federal-election-2016
+redirect_url: ""
 tags:
   - privacy
   - Reforming Copyright
