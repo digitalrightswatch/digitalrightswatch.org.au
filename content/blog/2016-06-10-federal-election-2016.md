@@ -2,7 +2,7 @@
 excerpt: The Federal Election is coming up fast, and here at Digital Rights
   Watch we wanted to delve into where each of the major political parties stand
   on key issues relating to digital rights. Check out our Election Scorecard.
-draft: true
+draft: false
 title: Federal election 2016
 url: /federal-election-2016/
 tags:
