@@ -1,28 +1,16 @@
 ---
 social_links:
-  - platform: facebook
-    link: "https://www.facebook.com/DigiRightsWatch"
-    icon: |
-      <svg width="16" height="16" class="svg-icon">
-        <use xlink:href="/images/icons.svg#facebook" />
-        </svg>
   - platform: instagram
     link: "https://www.instagram.com/drwaus"
     icon: |
       <svg width="16" height="16" class="svg-icon">
         <use xlink:href="/images/icons.svg#instagram" />
         </svg>
-  - platform: X
-    link: "https://twitter.com/drwaus"
+  - platform: bsky
+    link: "https://bsky.app/profile/drwaus.bsky.social"
     icon: |
       <svg width="16" height="16" class="svg-icon">
-        <use xlink:href="/images/icons.svg#xcom" />
-        </svg>
-  - platform: github
-    link: "https://github.com/digitalrightswatch"
-    icon: |
-      <svg width="16" height="16" class="svg-icon">
-        <use xlink:href="/images/icons.svg#github" />
+        <use xlink:href="/images/icons.svg#bluesky" />
       </svg>
   - platform: mastodon
     link: "https://aus.social/@drwaus"
@@ -30,11 +18,11 @@ social_links:
       <svg width="16" height="16" class="svg-icon">
         <use xlink:href="/images/icons.svg#mastodon" />
         </svg>
-  - platform: bsky
-    link: "https://bsky.app/profile/drwaus.bsky.social"
+  - platform: github
+    link: "https://github.com/digitalrightswatch"
     icon: |
       <svg width="16" height="16" class="svg-icon">
-        <use xlink:href="/images/icons.svg#bluesky" />
+        <use xlink:href="/images/icons.svg#github" />
       </svg>
 
 copyright1: Copyright © Digital&nbsp;Rights&nbsp;Watch {year}

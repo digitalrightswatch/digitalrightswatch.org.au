@@ -140,11 +140,9 @@ email = "info@digitalrightswatch.org.au"
 
 # Footer Social
 [params.social]
-facebook = "https://www.facebook.com/DigiRightsWatch"
 instagram = "https://www.instagram.com/drwaus"
-twitter = "https://twitter.com/drwaus"
-github = "https://github.com/digitalrightswatch"
 mastodon = "https://aus.social/@drwaus"
+github = "https://github.com/digitalrightswatch"
 bsky = "https://bsky.app/profile/drwaus.bsky.social"
 
 [params]

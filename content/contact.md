@@ -39,7 +39,7 @@ For all other inquiries please contact: **[info@digitalrightswatch.org.au](mailt
 We welcome [donations to Digital Rights Watch](http://www.donate.digitalrightswatch.org.au)
 
 ## Other platforms
-You can also follow us on **[Mastodon](https://aus.social/@drwaus), [Instagram](https://www.instagram.com/drwaus/), [LinkedIn](https://www.linkedin.com/company/drwaus),** and **[Twitter](http://www.twitter.com/drwaus).**
+You can also follow us on **[Instagram](https://www.instagram.com/drwaus/), [LinkedIn](https://www.linkedin.com/company/drwaus), [Mastodon](https://aus.social/@drwaus), and [Bluesky](https://bsky.app/profile/drwaus.bsky.social)**
 
 ## Resources for assistance
 
