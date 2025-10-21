@@ -29,9 +29,7 @@ For us, there are four key areas that we looked at:
 
 <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-294" src="/wp-content/uploads/2016/06/2016-Election-ScorecardV4.jpg" alt="2016 Election ScorecardV4" width="2480" height="3780" />
 
-
-
-How did we develop this scorecard? We analysed each party&#8217;s stance on these issues through a combination of official party policies, prior voting patterns, public statements and consultations.
+How did we develop this scorecard? We analysed each party&#8217;s stance on these issues through a combination of official party policies, prior voting patterns, public statements, and consultations.
 
 As with any simplified graphic, we can&#8217;t capture every element of the various party&#8217;s policies, and we&#8217;d encourage you to find out more on their own websites: [Liberal][1], [Labor][2], [Greens][3], [LDP][4], [Pirate][5], [Nick Xenophon][6], [Sex Party][7], [AMEP][8]. We welcome any corrections from parties and candidates.
 
