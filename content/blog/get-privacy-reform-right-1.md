@@ -2,6 +2,7 @@
 draft: false
 title: Get Privacy Reform Right
 slug: ""
+url: campaigns/get-privacy-reform-right
 tags: []
 category:
   - campaigns
