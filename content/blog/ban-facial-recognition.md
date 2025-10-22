@@ -2,6 +2,7 @@
 draft: false
 title: Ban Facial Recognition
 slug: ""
+url: campaigns/ban-facial-recognition
 tags: []
 category:
   - campaigns
