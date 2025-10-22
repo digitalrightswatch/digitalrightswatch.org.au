@@ -2,6 +2,7 @@
 draft: false
 title: Right to Delete
 slug: ""
+url: campaigns/right-to-delete
 tags: []
 category:
   - campaigns
