@@ -10,21 +10,11 @@ featureImage: /images/pexels-rdne-7821577.jpg
 ---
 TL;DR: The political party exemption in the Privacy Act leaves the door open for political parties, their contractors, subcontractors, and volunteers to access your personal information without following the same rules as everyone else. That needs to change.
 
-
-
-
-
 Ever wondered how Clive Palmer got away with blowing up your phone last election?
-
-
 
 Back in 2000, our parliamentarians gave themselves and their political parties an [exemption](https://www.sbs.com.au/news/article/the-24-year-old-rule-that-lets-politicians-use-your-data-however-they-want/fsjzh9c5b) from the [Privacy Act](https://www.legislation.gov.au/Series/C2004A03712)! This means they have no obligation to respect your privacy, and no obligation to store the data they have freely collected [securely](https://www.oaic.gov.au/privacy/australian-privacy-principles/australian-privacy-principles-guidelines/chapter-11-app-11-security-of-personal-information). This was opposed by the Office of the Australian Information Commissioner at the time: 
 
-
-
 > “The OAIC has opposed the political parties exemption since its introduction, on the grounds that there are still few well-articulated policy reasons why the exemption should apply to political parties … There is also a risk that the exemption’s effect on political transparency may damage Australia’s system of representative democracy, as well as the public’s trust in Australia’s privacy protections.” - [OAIC](https://www.oaic.gov.au/engage-with-us/submissions/privacy-act-review-issues-paper-submission/part-4-exemptions)
-
-
 
 Being exempt from the *[Privacy Act 1988](https://www.legislation.gov.au/Series/C2004A03712)*, political parties and representatives are also exempt from the [Australian Privacy Principles (APPs)](https://www.oaic.gov.au/privacy/australian-privacy-principles/australian-privacy-principles-quick-reference) and the [Notifiable Data Breach Scheme](https://www.oaic.gov.au/privacy/notifiable-data-breaches/about-the-notifiable-data-breaches-scheme). 
 
@@ -56,6 +46,8 @@ Which is incredibly broad, encompassing nearly everything that a political party
 
 The term “political party” applies to all r[egistered political parties](https://www.aec.gov.au/parties_and_representatives/party_registration/Registered_parties/), their contractors, subcontractors and volunteers. “Political representative” refers to a member of parliament or councillor of a local government authority. On the plus side, Australian government ministers do have responsibilities under the Privacy Act for any [personal information](https://www.oaic.gov.au/_old/privacy/your-privacy-rights/your-personal-information/what-is-personal-information) they handle in their role as minister.
 
+
+
 ### Political parties hold very sensitive information, with very poor safeguards.
 
 
@@ -65,14 +57,10 @@ The major political parties are holding some very sensitive information on you. 
 In a [statement](https://www.abc.net.au/news/2022-05-19/behind-liberal-labor-data-arms-race-this-election/101074696) to the ABC a Labor insider said,
 
 > "If they had a higher persuadability score you would find out what they are persuadable on … so health, education, defence … then you would tailor the messages to them, so it could be more calls from the MP … \[or] bombard them with direct mail."
->
->
 
 The Liberal party has similar practices. In a [statement to the ABC](https://www.abc.net.au/news/2022-05-19/behind-liberal-labor-data-arms-race-this-election/101074696) a Liberal strategist said, 
 
 > "If you ever called your MP and complained about a specific issue, say about climate change or same-sex marriage, the person on the other side of the phone could look you up and add your thoughts in there,"
->
->
 
 This data about us is incredibly valuable, making it a target for hackers and foreign governments. If they got access to this data and published individuals’ political affiliations and private beliefs, the consequences would be devastating. 
 
@@ -93,8 +81,6 @@ Other fields were unfilled but accidentally visible, such as: “Strong Liberal�
 Further fields labeled “TVT” may relate to voter targeting scores or tracking metrics, such as a likelihood to vote Liberal.
 
 Such a monumental oversight raises serious concerns regarding the security of our sensitive data. 
-
-
 
 ### What is to be done?
 
