@@ -1,33 +1,34 @@
 ---
-title: Posting protest photos? Here's how to protect others' identities
-authors: [sam]
-date: 2023-11-15T01:25:53+00:00
+draft: false
 url: /2023/11/15/posting-protest-photos-online/
+date: 2023-11-15T01:25:53+00:00
+authors:
+  - sam
 featureImage: /wp-content/uploads/2023/11/posting-protest-photos-Twitter-Post.png
-eg_vimeo_ratio:
+eg_custom_meta_216:
+  - "true"
+eg_soundcloud_ratio:
   - 1
 eg_youtube_ratio:
   - 1
+eg_vimeo_ratio:
+  - 1
 eg_wistia_ratio:
   - 1
-eg_html5_ratio:
-  - 1
-eg_soundcloud_ratio:
-  - 1
-eg_custom_meta_216:
-  - 'true'
-category:
-  - Articles
-  - 'Tools and Guides'
+title: Posting protest photos? Here's how to protect others' identities
 tags:
   - protest; privacy; biometric data; facial recognition
-
+eg_html5_ratio:
+  - 1
+category:
+  - Articles
+  - Tools and Guides
 ---
 Sharing photos of protests is a great way to amplify the impact of collective action, raise awareness on important issues, and encourage more people to participate. We love it!
 
 But surveillance is on the rise, including the use of facial recognition technology &#8211; capturing biometric data from people's faces. At the same time, <span style="text-decoration: underline;"><a href="https://www.hrlc.org.au/reports-news-commentary/protect-protest">the right to protest is under threat in Australia</a>.</span>
 
-We know that law enforcement and intelligence agencies use intelligence tools that scour social media for information (like [<span style="text-decoration: underline;">this</span>][1], or [<span style="text-decoration: underline;">this</span>][2]). We also know that they regularly test and use facial recognition technology to be able to identify people—[<span style="text-decoration: underline;">often without adequate oversight or safeguards in place</span>][3]. Facial recognition works by mapping facial features from a photo or video to create a 'faceprint'. This is your biometric data and it is extremely sensitive and completely unique to you. Facial recognition software then goes on to identify who you are.
+We know that law enforcement and intelligence agencies use intelligence tools that scour social media for information (like [<span style="text-decoration: underline;">this</span>](https://www.theguardian.com/australia-news/2023/nov/06/home-affairs-locate-x-paying-mobile-phone-tracking-tool), or [<span style="text-decoration: underline;">this</span>](https://www.crikey.com.au/2023/10/26/australian-signals-directorate-contract-digital-surveillance/)). We also know that they regularly test and use facial recognition technology to be able to identify people—[<span style="text-decoration: underline;">often without adequate oversight or safeguards in place</span>](https://www.theguardian.com/australia-news/2023/oct/24/australian-federal-police-afp-pimeyes-facial-recognition-facecheck-id-search-engine-platform). Facial recognition works by mapping facial features from a photo or video to create a 'faceprint'. This is your biometric data and it is extremely sensitive and completely unique to you. Facial recognition software then goes on to identify who you are.
 
 This means that sharing images online &#8211; especially on publicly available platforms &#8211; that show people's faces can put them at risk.
 
@@ -53,17 +54,10 @@ There are two easy ways to do this:
       </li>
     </ol>
 
-    <p>
-      Signal is a great encrypted messaging app that protects your communications. It <em>also </em>has an in-built feature to blur out people's faces.
-    </p>
+Signal is a great encrypted messaging app that protects your communications. It also has an in-built feature to blur out people's faces. 
 
-    <p>
-      We strongly recommend using Signal to communicate with people white protesting (and anytime, really!), and this added feature makes it easy to protect the identities of people in your photos.
-    </p>
+We strongly recommend using Signal to communicate to people while protesting (and anytime, really!) and this added feature makes it easy to protect the identities of people in your photos. After selecting your photo, click the small marker icon in the bottom left corner, followed by the blur icon (pictured left). You can let the app detect faces, or manually draw.
 
-    <p>
-      After selecting your photo, click the small marker icon in the bottom left corner, followed by the blur icon (pictured left). You can let the app detect faces, or manually draw.
-    </p>
   </div>
 </div>
 
@@ -79,13 +73,9 @@ There are two easy ways to do this:
       </li>
     </ol>
 
-    <p>
-      You can manually draw over people's faces in your phone's built in-editor. On iOS and Android phones, select 'Edit' and then 'Markup', choose an opaque marker option, and scribble away!
-    </p>
+You can manually draw over people's faces in your phone's built in-editor. On iOS and Android phones, select 'Edit' and then 'Markup', choose an opaque marker option, and scribble away! 
 
-    <p>
-    </p>
-  </div>
+ </div>
 </div>
 
 #### **Be selective &#8211; choose photos that don't show people's faces.**
@@ -94,9 +84,9 @@ With some careful photography and curation, you can upload photos that capture t
 
 Here are some ideas:
 
-  * take photos at a distance, capturing the crowd rather than individual details of faces,
-  * position yourself behind the march, showing only the backs of heads,
-  * focus on signs, flags and other details to emphasise the protest vibe without showing people's faces.
+* take photos at a distance, capturing the crowd rather than individual details of faces,
+* position yourself behind the march, showing only the backs of heads,
+* focus on signs, flags and other details to emphasise the protest vibe without showing people's faces.
 
 Remember it's good practice to ask people before taking their photo whenever you can. You can also explain to them that you just want to get their sign or outfit but not their face &#8211; let them know you want to protect their privacy!
 
@@ -116,32 +106,26 @@ Here are some wonderful examples provided by Hiero Badge:<figure class="wp-block
 
 #### **Extra tips:**
 
-  * Doing this does _not_ remove the metadata from your image. Image metadata is generated automatically and usually includes details including the time, date, and GPS location, and information about the type of phone used &#8211; this can be used to pinpoint where you were and when. To easily remove metadata, take a screenshot on your device and delete the original.
-  * For extra protection, delete the original photos that show people's faces from your phone after you have made a version that obscures the faces. Even if you don't intend to upload them online, if your device is compromised or unlocked and you have the originals sitting there, you've done all that work for nothing!
-  * What about videos? Videos are trickier to edit to hide people's faces and may require additional time, effort and software &#8211; this isn't always possible while you're on the go! We suggest focusing on minimising capturing faces in the first place when recording video footage.
-  * Focus on harm minimisation rather than perfection. Taking protest photos without revealing people's faces can be hard &#8211; there are a lot of people moving around which makes it difficult. The goal is to minimise sharing others' biometric information as much as possible. Just try your best!
+* Doing this does *not* remove the metadata from your image. Image metadata is generated automatically and usually includes details including the time, date, and GPS location, and information about the type of phone used &#8211; this can be used to pinpoint where you were and when. To easily remove metadata, take a screenshot on your device and delete the original.
+* For extra protection, delete the original photos that show people's faces from your phone after you have made a version that obscures the faces. Even if you don't intend to upload them online, if your device is compromised or unlocked and you have the originals sitting there, you've done all that work for nothing!
+* What about videos? Videos are trickier to edit to hide people's faces and may require additional time, effort and software &#8211; this isn't always possible while you're on the go! We suggest focusing on minimising capturing faces in the first place when recording video footage.
+* Focus on harm minimisation rather than perfection. Taking protest photos without revealing people's faces can be hard &#8211; there are a lot of people moving around which makes it difficult. The goal is to minimise sharing others' biometric information as much as possible. Just try your best!
 
-#### **When you** **_want_** **to capture details: recording incidents**
+#### **When you** ***want*** **to capture details: recording incidents**
 
 Recording incidents such as use of violence by law enforcement can be a powerful tool of accountability. It pays to be prepared.
 
-Here are some tips from [Melbourne <span style="text-decoration: underline;">Activist Legal Suppo</span>rt][4] on observing police at protests:
+Here are some tips from [Melbourne <span style="text-decoration: underline;">Activist Legal Suppo</span>rt](https://mals.au/) on observing police at protests:
 
-  * Record in landscape mode. It captures more of the scene.
-  * Hold your device steady and move it slowly. Smooth, clear footage makes better evidence.
-  * If taking your phone to an action, make sure you don't take sensitive data with you.
-  * Context is important. Recording moments before an arrest can be as important as the arrest itself.
-  * Try to take clear steady images that capture the police officer's badge name or ID number.
-  * Don't hinder an arrest when observing or you may end up arrested too.
-  * Try not to narrate. Your recording may not capture key information if you're speaking over it.
-  * Police do not have the right to hinder you recording public interactions.<figure class="wp-block-image size-full">
+* Record in landscape mode. It captures more of the scene.
+* Hold your device steady and move it slowly. Smooth, clear footage makes better evidence.
+* If taking your phone to an action, make sure you don't take sensitive data with you.
+* Context is important. Recording moments before an arrest can be as important as the arrest itself.
+* Try to take clear steady images that capture the police officer's badge name or ID number.
+* Don't hinder an arrest when observing or you may end up arrested too.
+* Try not to narrate. Your recording may not capture key information if you're speaking over it.
+* Police do not have the right to hinder you recording public interactions.<figure class="wp-block-image size-full">
 
 <img loading="lazy" decoding="async" width="805" height="806" src="/wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.00.09-pm.png" alt="" class="wp-image-8661" srcset="/wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.00.09-pm.png 805w, /wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.00.09-pm-300x300.png 300w, /wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.00.09-pm-150x150.png 150w, /wp-content/uploads/2023/11/Screenshot-2023-11-15-at-12.00.09-pm-768x769.png 768w" sizes="(max-width: 805px) 100vw, 805px" /> </figure>
 
-You can also check out the resources from <span style="text-decoration: underline;"><a href="https://www.witness.org/">Witness</a> </span>for in-depth guides to recording incidents to protect and uphold human rights. You can also get advice and tools from the National Justice Project's [<span style="text-decoration: underline;">CopWatch</span>][5].
-
- [1]: https://www.theguardian.com/australia-news/2023/nov/06/home-affairs-locate-x-paying-mobile-phone-tracking-tool
- [2]: https://www.crikey.com.au/2023/10/26/australian-signals-directorate-contract-digital-surveillance/
- [3]: https://www.theguardian.com/australia-news/2023/oct/24/australian-federal-police-afp-pimeyes-facial-recognition-facecheck-id-search-engine-platform
- [4]: https://mals.au/
- [5]: https://www.copwatch.org.au
+You can also check out the resources from <span style="text-decoration: underline;"><a href="https://www.witness.org/">Witness</a> </span>for in-depth guides to recording incidents to protect and uphold human rights. You can also get advice and tools from the National Justice Project's [<span style="text-decoration: underline;">CopWatch</span>](https://www.copwatch.org.au).
