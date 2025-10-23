@@ -19,17 +19,13 @@ Our fun and interactive panel event will canvas the big questions and try to com
 
 Featuring special guests from politics and entertainment.
 
-**Register here:**
-
-Adelaide: <https://shorturl.at/ojQRX>
-
-Perth: [events.humanitix.com/democracy-perth](https://events.humanitix.com/democracy-perth)
-
-Brisbane: [events.humanitix.com/democracy-brisbane](https://events.humanitix.com/democracy-brisbane)
-
-Sydney: [events.humanitix.com/democracy-sydney](https://events.humanitix.com/democracy-sydney)
+**Register here:**[](https://events.humanitix.com/democracy-sydney)
 
 Melbourne: [events.humanitix.com/democracy-melbourne](https://events.humanitix.com/democracy-melbourne)
+
+## Campaigns
+
+Join our [Right to Delete campaign here.](https://digitalrightswatch.org.au/campaigns/right-to-delete/)
 
 ## Articles
 
