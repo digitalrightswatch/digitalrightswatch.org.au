@@ -30,11 +30,11 @@ Political parties are not obliged to abide by the *[Do Not Call Register Act 200
 
 If this cocktail of exemptions resulted in political parties blowing-up your phone last election, [you are not alone](https://www.theguardian.com/australia-news/2025/may/02/trumpet-of-patriots-spam-text-messages-are-they-legal-federal-election). Thanks to this lack of oversight, spam texts and calls are now a feature of the Australian electoral cycle. 
 
-
+</p>
 
 ### Are there restrictions on the sensitive information that political parties have?
 
-
+</p>
 
 Political parties and representatives may access our information in relation to:
 
@@ -46,11 +46,11 @@ Which is incredibly broad, encompassing nearly everything that a political party
 
 The term “political party” applies to all r[egistered political parties](https://www.aec.gov.au/parties_and_representatives/party_registration/Registered_parties/), their contractors, subcontractors and volunteers. “Political representative” refers to a member of parliament or councillor of a local government authority. On the plus side, Australian government ministers do have responsibilities under the Privacy Act for any [personal information](https://www.oaic.gov.au/_old/privacy/your-privacy-rights/your-personal-information/what-is-personal-information) they handle in their role as minister.
 
-
+</p>
 
 ### Political parties hold very sensitive information, with very poor safeguards.
 
-
+</p>
 
 The major political parties are holding some very sensitive information on you. Labor has a voter database called “[Campaign Central](https://www.abc.net.au/news/2022-05-19/behind-liberal-labor-data-arms-race-this-election/101074696)” which allocates constituents a “persuadability score” based on data collected in polling and robocalls. The results are then cross-referenced against demographic information such as income, age, and gender to produce statistical modelling which informs strategists if you should be targeted for political advertising.
 
@@ -82,9 +82,11 @@ Further fields labeled “TVT” may relate to voter targeting scores or trackin
 
 Such a monumental oversight raises serious concerns regarding the security of our sensitive data. 
 
+</p>
+
 ### What is to be done?
 
-
+</p>
 
 Digital Rights Watch calls for all political exemptions to the *Privacy Act 1988*, *Spam Act 2003* and Do Not Call Register act to be removed. Australian democracy did just fine prior to politicians having the sort of intrusive access to our personal information that they enjoy today.
 
