@@ -29,7 +29,9 @@ Join our [Right to Delete campaign here.](https://digitalrightswatch.org.au/camp
 
 ## Articles
 
-Cheek Media Oct 14 2024 | [On its current trajectory, AI is inconsistent with democracy, sustainability, and autonomy](https://cheekmedia.substack.com/p/on-its-current-trajectory-ai-is-inconsistent)\
+ABC | Oct 27 2025 | [Federal government rules out changing copyright law to give AI companies free rein](https://www.abc.net.au/news/2025-10-27/labor-rules-out-ai-training-copyright-exceptions/105935740)\
+\
+Cheek Media Oct 14 2025 | [On its current trajectory, AI is inconsistent with democracy, sustainability, and autonomy](https://cheekmedia.substack.com/p/on-its-current-trajectory-ai-is-inconsistent)\
 \
 Guardian Oct 6 2025 | [Deloitte to pay money back to Albanese government after using AI in $440,000 report](https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report)
 
