@@ -29,6 +29,8 @@ Join our [Right to Delete campaign here.](https://digitalrightswatch.org.au/camp
 
 ## Articles
 
+ABC | Nov 3 2025 | [Legal Services Board of Victoria warns lawyers about AI in court](https://www.abc.net.au/news/2025-11-03/legal-services-board-of-victoria-warns-lawyers-about-ai-in-court/105916628)
+
 ABC | Oct 27 2025 | [Federal government rules out changing copyright law to give AI companies free rein](https://www.abc.net.au/news/2025-10-27/labor-rules-out-ai-training-copyright-exceptions/105935740)\
 \
 Cheek Media Oct 14 2025 | [On its current trajectory, AI is inconsistent with democracy, sustainability, and autonomy](https://cheekmedia.substack.com/p/on-its-current-trajectory-ai-is-inconsistent)\
