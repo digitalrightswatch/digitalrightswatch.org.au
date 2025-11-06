@@ -16,9 +16,8 @@ summary: >-
   be anonymous in public spaces and our privacy is invaded no matter where we
   go.
 
-  <p>
 
-  **Join our campaign to ban facial recognition.**
+  Join our campaign to ban facial recognition.
 ---
 **Facial recognition surveillance is unethical.**
 
