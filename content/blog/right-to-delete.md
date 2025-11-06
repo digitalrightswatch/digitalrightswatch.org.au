@@ -11,7 +11,13 @@ featured:
 date: 2025-10-01T03:18:49.322Z
 featureImage: /images/right-to-delete.png
 cardImage: /images/right-to-delete-sq.png
-summary: ""
+summary: >-
+  A right to delete would allow us to demand a company deletes our information.
+  This will help us protect our privacy - reducing the chances of our
+  information being leaked or misused.
+
+
+  Join our campaign for Australians to control their own data with a right to delete in Australian privacy law.
 ---
 **We all need a right to delete our personal data**
 
