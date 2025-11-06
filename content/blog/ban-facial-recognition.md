@@ -1,9 +1,7 @@
 ---
 draft: false
 title: Ban Facial Recognition
-slug: Facial recognition systems track and record our movements – we cannot be
-  anonymous in public spaces and our privacy is invaded no matter where we go.
-  Join our campaign to ban facial recognition in Australia today.
+slug: ""
 url: campaigns/ban-facial-recognition
 tags: []
 category:
