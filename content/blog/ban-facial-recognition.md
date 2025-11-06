@@ -11,7 +11,14 @@ featured:
 date: 2025-10-01T03:18:49.322Z
 featureImage: /images/ban-facial-recognition.png
 cardImage: /images/ban-facial-recognition.png
-summary: ""
+summary: >-
+  Facial recognition surveillance is unethical. With this technology we cannot
+  be anonymous in public spaces and our privacy is invaded no matter where we
+  go.
+
+  <p>
+
+  **Join our campaign to ban facial recognition.**
 ---
 **Facial recognition surveillance is unethical.**
 
