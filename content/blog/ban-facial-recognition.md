@@ -15,7 +15,11 @@ summary: ""
 ---
 **Facial recognition surveillance is unethical.**
 
-With this technology we cannot be anonymous in public spaces and our privacy is invaded no matter where we go. Facial recognition systems track and record our movements – even if we have done nothing wrong.
+With this technology we cannot be anonymous in public spaces and our privacy is invaded no matter where we go.
+
+<!--more-->
+
+Facial recognition systems track and record our movements – even if we have done nothing wrong.
 
 **Not only is it an invasion of privacy, but facial recognition is also biased.** Research suggests that the technologies are delivering inaccurate results and are discriminatory, often producing false positives that are built on existing racist, sexist or classist bias within law enforcement and judicial systems.
 
