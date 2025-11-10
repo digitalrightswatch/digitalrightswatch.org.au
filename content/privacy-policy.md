@@ -71,3 +71,9 @@ We take several steps to protect your personal information from misuse, interfer
 * Limiting the amount of personal information we collect about you to the minimum that we need.
 * Storing your personal information in locations that require a login to access, and regularly reviewing who has access to those locations.
 * Setting up HTTPS as default across our website.
+
+<br>
+
+## Analytics
+
+We use *Matomo Analytics* to measure, collect, analyse and report visitors’ data for purposes of understanding and optimising our website based on your consent. You can withdraw your consent or change your preferences at any time by using the cookie consent tool. We do not collect data for the purpose of marketing or on-selling.
