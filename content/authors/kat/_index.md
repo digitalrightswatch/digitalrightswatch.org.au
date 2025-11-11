@@ -4,7 +4,7 @@ fediverse: null
 image: /wp-content/uploads/2019/08/kgt_headshot2-e1716175748463.jpeg
 name: Kathryn Gledhill-Tucker
 role: Campaigns & Advocacy Manager
-section: staff
+section: alum
 twitter: null
 username: kat
 web: https://kgt.dev/
