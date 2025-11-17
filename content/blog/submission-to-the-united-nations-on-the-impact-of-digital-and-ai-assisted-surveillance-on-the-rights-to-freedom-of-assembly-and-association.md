@@ -11,9 +11,6 @@ Australians’ right to protest is eroded daily. Behind the scenes, digital surv
 
 In 2024, the government committed to passing about 100 privacy reforms.  Thus far, only a handful have been enacted. Passing these reforms would mitigate—and in some cases prevent—the harms outlined in this report.
 
-
 This submission focuses on three instances in which AI-powered surveillance has impacted protest rights in Australia.
 
-
-
-{{< pdfReader "/images/impact-of-digital-and-ai-assisted-surveillance-on-assembly-and-association-rights-including-chilling-effects.pdf" >}}
+{{< pdfReader "/images/un-sub-on-ai-surveillence-1-.pdf" >}}
