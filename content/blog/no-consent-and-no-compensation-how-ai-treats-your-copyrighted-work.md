@@ -1,6 +1,8 @@
 ---
 draft: false
 title: No consent and no compensation - how AI treats your copyrighted work
+category:
+  - article
 date: 2025-09-09T04:36:34.615Z
 authors:
   - drw
