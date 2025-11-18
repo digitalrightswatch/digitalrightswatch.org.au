@@ -1,6 +1,8 @@
 ---
 draft: false
 title: Digital Duty of Care
+category:
+  - explainer
 date: 2025-07-28T04:16:34.700Z
 authors: []
 featureImage: /images/silicon_chip_from_a_computer_laser_mouse_under_a_microscope_50х.jpg
