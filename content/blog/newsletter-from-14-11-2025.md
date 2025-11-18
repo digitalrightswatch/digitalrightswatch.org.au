@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Newsletter from 14/11/2025
 category:
   - newsletter
