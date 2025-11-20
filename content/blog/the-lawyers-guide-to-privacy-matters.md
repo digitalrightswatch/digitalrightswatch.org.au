@@ -1,6 +1,6 @@
 ---
 draft: false
-title: The Lawyers Guide to Privacy Matters
+title: The Lawyer's Guide to Privacy Matters
 category:
   - Articles
   - Tools and Guides
