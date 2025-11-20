@@ -75,7 +75,7 @@ It is worth noting that there are other significant issues within privacy protec
 
 Provided no written statement however, agreed to meet with Digital Rights Watch to discuss the matter further.
 
-![](/images/monique-ryan-mp-scaled.jpg)
+![](/images/little-ryan.png)
 
 #### **MP Dr Monique Ryan**
 
