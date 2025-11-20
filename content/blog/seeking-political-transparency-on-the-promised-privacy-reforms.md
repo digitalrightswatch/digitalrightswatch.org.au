@@ -35,8 +35,6 @@ The Coalition is currently undertaking a comprehensive review of our policies fo
 
 While **I cannot provide specific timelines at this stage,** I can assure you that privacy reform will be part of our policy development process. We recognise the importance of protecting Australians' personal information in our increasingly digital world, and any reforms we support will be guided by the principles of strengthening privacy protections while ensuring practical implementation."
 
-
-
 ![](/images/sen-d-p.jpeg)
 
 #### **Senator David Pocock**
@@ -44,10 +42,6 @@ While **I cannot provide specific timelines at this stage,** I can assure you th
 *Senator for the ACT*
 
 Senator David Pocock supports Digital Rights Watch’s position on the privacy reforms, including our view that the report’s recommendations should be adopted at the earliest opportunity.
-
-
-
-
 
 ![](/images/sen-ds.jpeg)
 
@@ -63,10 +57,6 @@ Senator David Pocock supports Digital Rights Watch’s position on the privacy r
 
 It is worth noting that there are other significant issues within privacy protection in Australia that also need addressing including the ongoing underfunding of the OAIC that means our privacy regulator is not able to properly perform its role. This is also something the Australian Greens are committed on working to reform."
 
-
-
-
-
 ![](/images/anika-wells.jpeg)
 
 #### **MP Annika Wells**
@@ -77,10 +67,6 @@ It is worth noting that there are other significant issues within privacy protec
 
 **"The Albanese Government is prioritising the safety of Australians online.** As you will be aware, in February 2025, the Government tabled the report of the independent statutory review of the Online Safety Act 2021 (the review). The review made 67 recommendations to strengthen Australia’s online safety laws which **the Government is examining and will respond to in due course. "**
 
-
-
-
-
 ![](/images/michelle_rowland.jpg)
 
 #### **AG Michelle Rowland**
@@ -88,6 +74,14 @@ It is worth noting that there are other significant issues within privacy protec
 *Attorney General*
 
 Provided no written statement however, agreed to meet with Digital Rights Watch to discuss the matter further.
+
+![](/images/monique-ryan-mp-scaled.jpg)
+
+#### **MP Dr Monique Ryan**
+
+*Member for Kooyong*
+
+"Protection of privacy is an important consideration for Parliament. **Dr Ryan is in favour of urgent action to implement those reforms identified** in the Attorney General Department’s Privacy Act Review Report which have not yet been acted upon."
 
 
 
@@ -100,7 +94,5 @@ MP Tony Burke
 MP Allegra Spender
 
 MP Zali Steggall
-
-MP Monique Ryan
 
 Senator Tim Ayres
