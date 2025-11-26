@@ -1,8 +1,12 @@
 ---
-draft: true
+draft: false
 title: How to Disabile AI Scraping on Google, Meta, and LinkedIn
-category: []
-date: 2025-11-26T00:38:56.812Z
+category:
+  - tools-and-guides
+featured: []
+date: 2025-11-26T05:49:19.182Z
+featureImage: /images/ai-scraping.png
+cardImage: /images/untitled-design.png
 ---
 Major tech companies have been quietly updating their processes to include scraping personal information to train their AI models. This means often past, present, and future data you post on popular social media sites, as well as in Google email and documents is currently being fed into huge training datasets for AI systems.
 
