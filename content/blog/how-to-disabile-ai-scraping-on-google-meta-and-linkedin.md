@@ -130,39 +130,36 @@ Google has updated their policies and settings to allow scraping of data from em
 </style>
 
 
-<script>
-// Store current index for each carousel
-const carouselStates = {};
 
-function showSlide(index, carouselId) {
-  const container = document.getElementById(carouselId);
-  const slides = container.querySelectorAll('.carousel-slide');
-  const dots = container.querySelectorAll('.dot');
+<script>
+let currentIndex = 0;
+
+function showSlide(index) {
+  const slides = document.querySelectorAll('.carousel-slide');
+  const dots = document.querySelectorAll('.dot');
   
-  if (!carouselStates[carouselId]) {
-    carouselStates[carouselId] = 0;
-  }
-  
-  if (index >= slides.length) carouselStates[carouselId] = 0;
-  else if (index < 0) carouselStates[carouselId] = slides.length - 1;
-  else carouselStates[carouselId] = index;
+  if (index >= slides.length) currentIndex = 0;
+  if (index < 0) currentIndex = slides.length - 1;
   
   slides.forEach(slide => slide.classList.remove('active'));
   dots.forEach(dot => dot.classList.remove('active'));
   
-  slides[carouselStates[carouselId]].classList.add('active');
-  dots[carouselStates[carouselId]].classList.add('active');
+  slides[currentIndex].classList.add('active');
+  dots[currentIndex].classList.add('active');
 }
 
-function moveSlide(direction, carouselId) {
-  const currentIndex = carouselStates[carouselId] || 0;
-  showSlide(currentIndex + direction, carouselId);
+function moveSlide(direction) {
+  currentIndex += direction;
+  showSlide(currentIndex);
 }
 
-function currentSlide(index, carouselId) {
-  showSlide(index, carouselId);
+function currentSlide(index) {
+  currentIndex = index;
+  showSlide(currentIndex);
 }
 </script>
+
+
 
 ## Meta
 
@@ -279,35 +276,6 @@ Meta has announced they have begun training their AI models on data from Faceboo
   background-color: #717171;
 }
 </style>
-
-<script>
-let currentIndex = 0;
-
-function showSlide(index) {
-  const slides = document.querySelectorAll('.carousel-slide');
-  const dots = document.querySelectorAll('.dot');
-  
-  if (index >= slides.length) currentIndex = 0;
-  if (index < 0) currentIndex = slides.length - 1;
-  
-  slides.forEach(slide => slide.classList.remove('active'));
-  dots.forEach(dot => dot.classList.remove('active'));
-  
-  slides[currentIndex].classList.add('active');
-  dots[currentIndex].classList.add('active');
-}
-
-function moveSlide(direction) {
-  currentIndex += direction;
-  showSlide(currentIndex);
-}
-
-function currentSlide(index) {
-  currentIndex = index;
-  showSlide(currentIndex);
-}
-</script>
-
 
 ## LinkedIn
 
