@@ -7,7 +7,7 @@ category:
 featured:
   - Tools and Guides
 date: 2025-11-26T05:49:19.182Z
-featureImage: /images/how-to-disable-ai-scraping-on-google-meta-and-linkedin.png
+featureImage: /images/how-to-disable-ai-scraping-on-google-meta-and-linkedin-banner.png
 cardImage: /images/how-to-disable-ai-scraping-on-google-meta-and-linkedin.png
 ---
 Major tech companies have been quietly updating their processes to include scraping personal information to train their AI models. This means often past, present, and future data you post on popular social media sites, as well as in Google email and documents is currently being fed into huge training datasets for AI systems.
@@ -129,34 +129,40 @@ Google has updated their policies and settings to allow scraping of data from em
 }
 </style>
 
-<script>
-let currentIndex = 0;
 
-function showSlide(index) {
-  const slides = document.querySelectorAll('.carousel-slide');
-  const dots = document.querySelectorAll('.dot');
+<script>
+// Store current index for each carousel
+const carouselStates = {};
+
+function showSlide(index, carouselId) {
+  const container = document.getElementById(carouselId);
+  const slides = container.querySelectorAll('.carousel-slide');
+  const dots = container.querySelectorAll('.dot');
   
-  if (index >= slides.length) currentIndex = 0;
-  if (index < 0) currentIndex = slides.length - 1;
+  if (!carouselStates[carouselId]) {
+    carouselStates[carouselId] = 0;
+  }
+  
+  if (index >= slides.length) carouselStates[carouselId] = 0;
+  else if (index < 0) carouselStates[carouselId] = slides.length - 1;
+  else carouselStates[carouselId] = index;
   
   slides.forEach(slide => slide.classList.remove('active'));
   dots.forEach(dot => dot.classList.remove('active'));
   
-  slides[currentIndex].classList.add('active');
-  dots[currentIndex].classList.add('active');
+  slides[carouselStates[carouselId]].classList.add('active');
+  dots[carouselStates[carouselId]].classList.add('active');
 }
 
-function moveSlide(direction) {
-  currentIndex += direction;
-  showSlide(currentIndex);
+function moveSlide(direction, carouselId) {
+  const currentIndex = carouselStates[carouselId] || 0;
+  showSlide(currentIndex + direction, carouselId);
 }
 
-function currentSlide(index) {
-  currentIndex = index;
-  showSlide(currentIndex);
+function currentSlide(index, carouselId) {
+  showSlide(index, carouselId);
 }
 </script>
-
 
 ## Meta
 
