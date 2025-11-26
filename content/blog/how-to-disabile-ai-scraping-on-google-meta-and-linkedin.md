@@ -2,8 +2,9 @@
 draft: false
 title: How to Disable AI Scraping on Google, Meta, and LinkedIn
 category:
-  - tools-and-guides
-featured: []
+  - Tools and Guides
+featured:
+  - Tools and Guides
 date: 2025-11-26T05:49:19.182Z
 featureImage: /images/ai-scraping.png
 cardImage: /images/untitled-design.png
