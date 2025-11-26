@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: How to Disabile AI Scraping on Google, Meta, and LinkedIn
 category:
   - Tools and Guides
