@@ -27,7 +27,7 @@ Google has updated their policies and settings to allow scraping of data from em
 * Google Workspace smart features: Click ‘Manage Workspace smart feature settings’
 * Toggle off: ‘Smart features in Google Workspace’ and ‘Smart features in other Google products
 
-<div class="carousel-container">
+<div class="carousel-container" id="carousel1">
   <div class="carousel">
     <div class="carousel-slide active">
       <img src="/images/google2.png" alt="Image 1">
@@ -40,13 +40,13 @@ Google has updated their policies and settings to allow scraping of data from em
     </div>
   </div>
   
-  <button class="carousel-btn prev" onclick="moveSlide(-1)">&#10094;</button>
-  <button class="carousel-btn next" onclick="moveSlide(1)">&#10095;</button>
+  <button class="carousel-btn prev" onclick="moveSlide(-1, 'carousel1')">&#10094;</button>
+  <button class="carousel-btn next" onclick="moveSlide(1, 'carousel1')">&#10095;</button>
   
   <div class="carousel-dots">
-    <span class="dot active" onclick="currentSlide(0)"></span>
-    <span class="dot" onclick="currentSlide(1)"></span>
-    <span class="dot" onclick="currentSlide(2)"></span>
+    <span class="dot active" onclick="currentSlide(0, 'carousel1')"></span>
+    <span class="dot" onclick="currentSlide(1, 'carousel1')"></span>
+    <span class="dot" onclick="currentSlide(2, 'carousel1')"></span>
   </div>
 </div>
 
@@ -168,7 +168,7 @@ Meta has announced they have begun training their AI models on data from Faceboo
 * Click 'Learn more and object here'
 * Fill out the form and submit
 
-<div class="carousel-container">
+<div class="carousel-container" id="carousel2">
   <div class="carousel">
     <div class="carousel-slide active">
       <img src="/images/meta1.png" alt="Image 1">
@@ -184,14 +184,14 @@ Meta has announced they have begun training their AI models on data from Faceboo
     </div>
   </div>
   
-  <button class="carousel-btn prev" onclick="moveSlide(-1)">&#10094;</button>
-  <button class="carousel-btn next" onclick="moveSlide(1)">&#10095;</button>
+  <button class="carousel-btn prev" onclick="moveSlide(-1, 'carousel2')">&#10094;</button>
+  <button class="carousel-btn next" onclick="moveSlide(1, 'carousel2')">&#10095;</button>
   
   <div class="carousel-dots">
     <span class="dot active" onclick="currentSlide(0)"></span>
-    <span class="dot" onclick="currentSlide(1)"></span>
-    <span class="dot" onclick="currentSlide(2)"></span>
-    <span class="dot" onclick="currentSlide(3)"></span>
+    <span class="dot" onclick="currentSlide(1, 'carousel2')"></span>
+    <span class="dot" onclick="currentSlide(2, 'carousel2')"></span>
+    <span class="dot" onclick="currentSlide(3, 'carousel2')"></span>
   </div>
 </div>
 
