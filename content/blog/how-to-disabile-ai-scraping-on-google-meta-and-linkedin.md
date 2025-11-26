@@ -1,6 +1,6 @@
 ---
 draft: false
-title: How to Disabile AI Scraping on Google, Meta, and LinkedI
+title: How to Disabile AI Scraping on Google, Meta, and LinkedIn
 category: []
 date: 2025-11-26T00:38:56.812Z
 ---
