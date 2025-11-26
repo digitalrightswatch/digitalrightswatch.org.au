@@ -1,8 +1,7 @@
 ---
-draft: true
+draft: false
 title: How to Disabile AI Scraping on Google, Meta, and LinkedI
-category:
-  - Tools and Guides
+category: []
 date: 2025-11-26T00:38:56.812Z
 ---
 Major tech companies have been quietly updating their processes to include scraping personal information to train their AI models. 
@@ -20,11 +19,11 @@ Google has updated their policies and settings to allow scraping of data from em
 * Google Workspace smart features: Click ‘Manage Workspace smart feature settings’
 * Toggle off: ‘Smart features in Google Workspace’ and ‘Smart features in other Google products
 
-![](/images/google2.png)
+<img src="/images/google2.png" alt="" style="max-width: 600px; width: 100%;">
 
-![](/images/google3.png)
+<img src="/images/google3.png" alt="" style="max-width: 600px; width: 100%;">
 
-![](/images/google4.png)
+<img src="/images/google4.png" alt="" style="max-height: 600px">
 
 ## Meta
 
@@ -38,17 +37,13 @@ Meta has announced they have begun training their AI models on data from Faceboo
 * Click 'Learn more and object here'
 * Fill out the form and submit
 
-![](/images/meta1.png)
+<img src="/images/meta1.png" alt="" style="max-height: 600px">
 
+<img src="/images/meta2.png" alt="" style="max-height: 600px">
 
+<img src="/images/meta3.png" alt="" style="max-width: 600px; width: 100%;">
 
-![](/images/meta2.png)
-
-![](/images/meta3.png)
-
-![](/images/meta4.png)
-
-
+<img src="/images/meta4.png" alt="" style="max-width: 600px; width: 100%;">
 
 ## LinkedIn
 
@@ -58,4 +53,4 @@ LinkedIn has started using data on their platform as training for AI models. If 
 * Then the 'data privacy' option
 * Turn 'Data for Generative AI Improvement' OFF
 
-![](/images/linkedin1.jpg)
+<img src="/images/linkedin1.jpg" alt="" style="max-width: 600px; width: 100%;">
