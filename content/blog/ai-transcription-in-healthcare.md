@@ -13,12 +13,10 @@ featureImage: /images/ai-transcription.png
 cardImage: /images/ai-transcription-square.png
 summary: >-
   AI transcription software is being increasingly rolled out across Australia,
-  including in General Practice, Specialist, and Pediatric care settings. We’ll
-  be working hard to make sure the introduction of AI into healthcare is done
-  with privacy and safety at the forefront.
+  including in General Practice, Specialist, and Pediatric care settings.
 
 
-  Join our campaign for Australians to control their own data with a right to delete in Australian privacy law.
+  We’ll be working hard to make sure the introduction of AI into healthcare is done with privacy and safety at the forefront.
 ---
 **AI transcription software is being increasingly rolled out across Australia**, including in General Practice, Specialist, and Pediatric care settings.
 
@@ -44,6 +42,6 @@ While AI transcription tools have the potential to increase efficiency for docto
 
 We’ll be working hard to make sure the introduction of AI into healthcare is done with privacy and safety at the forefront.
 
-**Join our campaign for Australians to control their own data with a right to delete in Australian privacy law.** 
+Join our campaign to stay updated.
 
 <link href='https://actionnetwork.org/css/style-embed-whitelabel-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v5/form/ai-transcription-in-healthcare?format=js&source=widget'></script><div id='can-form-area-ai-transcription-in-healthcare' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
