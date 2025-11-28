@@ -10,7 +10,7 @@ featured:
   - campaigns
 date: 2025-11-28T03:03:02.821Z
 featureImage: /images/ai-transcription.png
-cardImage: /images/ai-transcription-sq.png
+cardImage: /images/ai-transcription-square.png
 summary: >-
   AI transcription software is being increasingly rolled out across Australia,
   including in General Practice, Specialist, and Pediatric care settings. We’ll
