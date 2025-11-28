@@ -7,8 +7,7 @@ redirect_url: ""
 tags: []
 category:
   - campaigns
-featured:
-  - campaigns
+featured: []
 date: 2025-10-01T03:18:49.322Z
 featureImage: /images/protect-australian-culture.png
 cardImage: /images/protect-aussie-culture.png
