@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: AI Transcription in Healthcare
 slug: ""
 url: campaigns/ai-transcription-in-healthcare
