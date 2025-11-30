@@ -11,7 +11,7 @@ date: 2025-09-15T00:03:46.418Z
 authors:
   - drw
 featureImage: /images/pexels-tracy-le-blanc-67789-607812.jpg
-pdfAsset: /images/09-25-submission-to-the-select-committee-on-information-integrity-on-climate-change-and-energy.pdf
+pdfAsset: /images/submission-to-the-select-committee-on-information-integrity-on-climate-change-and-energy.pdf
 ---
 Photo by Tracy Le Blanc from Pexels
 
@@ -19,4 +19,4 @@ Climate change disinformation is pervasive, coordinated and highly damaging to d
 
 **Read the rest of our submission on the matter below:**
 
-{{< pdfReader "/images/09-25-submission-to-the-select-committee-on-information-integrity-on-climate-change-and-energy.pdf" >}}
+{{< pdfReader "/images/submission-to-the-select-committee-on-information-integrity-on-climate-change-and-energy.pdf" >}}
