@@ -8,6 +8,7 @@ date: 2025-11-10T02:49:39.029Z
 authors:
   - drw
 featureImage: /images/pexels-mchodakowski-397225.jpg
+pdfAsset: /images/impact-of-digital-and-ai-assisted-surveillance-on-assembly-and-association-rights-including-chilling-effects.pdf
 ---
 Australians’ right to protest is eroded daily. Behind the scenes, digital surveillance is assisting this erosion, and AI has the potential to accelerate the damage. This is made possible by Australia’s weak privacy laws.
 
