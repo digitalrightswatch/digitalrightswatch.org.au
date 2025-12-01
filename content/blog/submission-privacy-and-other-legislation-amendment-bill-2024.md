@@ -4,6 +4,7 @@ title: "Submission: Privacy and Other Legislation Amendment Bill 2024"
 category:
   - submissions
 date: 2024-10-14T04:26:51.838Z
+pdfAsset: https://digitalrightswatch.org.au/images/submission_-privacy-and-other-legislation-amendment-bill-2024.pdf
 ---
 Privacy is essential to upholding democracy, reining in corporate power, and building a safe and fair digital future.
 
