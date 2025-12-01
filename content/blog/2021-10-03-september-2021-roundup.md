@@ -1,29 +1,37 @@
 ---
-title: September 2021 Roundup
-authors: [sam]
+draft: true
 date: 2021-10-03T00:00:32+00:00
-url: /2021/10/03/september-2021-roundup/
 featureImage: /wp-content/uploads/2020/10/monthlyroundup-07.png
 cybocfi_hide_featureImage:
   - yes
-eg_vimeo_ratio:
+title: September 2021 Roundup
+url: /2021/10/03/september-2021-roundup/
+tags:
+  - BOSE
+  - identify and disrupt
+category:
+  - Monthly updates
+authors:
+  - sam
+summary: Last month we shared with you the petition to repeal the Identify and
+  Disrupt Act, and we're happy to say it's now hit 125k and counting! While the
+  likelihood of the legislation getting repealed is extremely small, we believe
+  these signatures will help us in overturning the legislation when it's set to
+  sunset (in 5 years). It also sends a strong signal to the MPs that
+  surveillance is a serious issue that Australians care about—which is something
+  they seem to ignore across the board.
+eg_custom_meta_216:
+  - "true"
+eg_soundcloud_ratio:
   - 1
 eg_youtube_ratio:
+  - 1
+eg_vimeo_ratio:
   - 1
 eg_wistia_ratio:
   - 1
 eg_html5_ratio:
   - 1
-eg_soundcloud_ratio:
-  - 1
-eg_custom_meta_216:
-  - 'true'
-category:
-  - Monthly updates
-tags:
-  - BOSE
-  - identify and disrupt
-
 ---
 <div class="wp-block-image">
 {{< figure src="/wp-content/uploads/2020/10/Email_headers_highres-04.png" >}}
