@@ -8,6 +8,7 @@ date: 2025-05-07T06:44:11.427Z
 authors:
   - drw
 featureImage: /images/john-schnobrich-2fpjlaymqta-unsplash.jpg
+pdfAsset: /images/essential_drw_privacyvsafety.pdf
 ---
 To better understand the relationship between privacy and safety in addressing online harms, Digital Rights Watch has commissioned a research report featuring polling conducted by [Essential Media](https://essentialmedia.com.au/). It covers some topical technologies like facial recognition and age assurance tech, client-side scanning in CSAEM detection, and methods of improving safety without impacting privacy. 
 
