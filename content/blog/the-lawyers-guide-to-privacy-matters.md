@@ -9,6 +9,7 @@ date: 2025-11-20T01:06:08.477Z
 authors:
   - lucinda
 featureImage: /images/privacy-law-1-.png
+pdfAsset: /images/privacy-law-casebook.pdf
 ---
 We are living in an age of surveillance, and it has never been more important for individuals to have the knowledge and tools to defend their privacy. Understanding what constitutes a legal breach of privacy empowers people to take action.
 
