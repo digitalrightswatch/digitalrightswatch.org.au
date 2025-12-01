@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: How to set up a VPN and why you should
 url: /2016/03/05/how-to-set-up-a-vpn-and-why-you-should/
 category:
