@@ -4,6 +4,7 @@ title: "Submission: Phase 2 Industry Codes"
 category:
   - submissions
 date: 2024-11-22T02:11:46.883Z
+pdfAsset: https://digitalrightswatch.org.au/images/drw_submission_-draft-phase-2-online-safety-codes.pdf
 ---
 ##### Draft Consolidated Industry Codes of Practice for the Online Industry (Class 1C and Class 2 Material) under the Online Safety Act 2021
 
