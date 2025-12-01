@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Submission to the Comprehensive Review – Legal Framework of the National
   Intelligence Community
 url: /2018/12/12/submission-to-the-comprehensive-review-legal-framework-of-the-national-intelligence-community/
