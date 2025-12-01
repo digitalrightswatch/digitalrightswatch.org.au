@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: 2021-10-03T00:00:32+00:00
 featureImage: /wp-content/uploads/2020/10/monthlyroundup-07.png
 cybocfi_hide_featureImage:
