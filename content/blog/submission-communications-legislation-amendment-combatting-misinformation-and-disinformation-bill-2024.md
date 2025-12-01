@@ -5,6 +5,7 @@ title: "Submission: Communications Legislation Amendment (Combatting
 category:
   - submissions
 date: 2024-10-02T04:31:20.207Z
+pdfAsset: https://digitalrightswatch.org.au/images/submission_-communications-legislation-amendment-combatting-misinformation-and-disinformation-bill-2023-2024.pdf
 ---
 We have significant concerns about the breadth of powers that the Communications Legislation Amendment (Combatting Misinformation and Disinformation) Bill 2024 proposes to grant the Australian Communications and Media Authority (ACMA)  with limited mechanisms for oversight and accountability.
 
