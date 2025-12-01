@@ -1,29 +1,38 @@
 ---
-title: Anonymity online is important
-authors: [sam]
+draft: true
 date: 2021-04-30T02:56:41+00:00
-url: /2021/04/30/explainer-anonymity-online-is-important/
 featureImage: /wp-content/uploads/2021/04/anonymity-1.png
-eg_vimeo_ratio:
+cybocfi_hide_featureImage:
+  - yes
+title: Anonymity online is important
+url: /2021/04/30/explainer-anonymity-online-is-important/
+tags:
+  - anonymity
+  - real names policy
+category:
+  - Articles
+authors:
+  - sam
+summary: Imagine if we walked around the real world with a small screen floating
+  above our heads. That screen would update with a different set of information
+  depending on who looked at you. It would always be above you displaying at
+  least your name, the date of your birth, and the neighborhood where you live.
+  Imagine being in a crowd at a protest, or a concert. Anyone's, everyone's
+  details would be there. And of course, if the police looked that screen would
+  fill with all sorts of additional information about you and the people you
+  associate with.
+eg_custom_meta_216:
+  - "true"
+eg_soundcloud_ratio:
   - 1
 eg_youtube_ratio:
+  - 1
+eg_vimeo_ratio:
   - 1
 eg_wistia_ratio:
   - 1
 eg_html5_ratio:
   - 1
-eg_soundcloud_ratio:
-  - 1
-eg_custom_meta_216:
-  - 'true'
-cybocfi_hide_featureImage:
-  - yes
-category:
-  - Articles
-tags:
-  - anonymity
-  - real names policy
-
 ---
 <figure class="wp-block-gallery columns-2 is-cropped wp-block-gallery-12 is-layout-flex wp-block-gallery-is-layout-flex">
 
