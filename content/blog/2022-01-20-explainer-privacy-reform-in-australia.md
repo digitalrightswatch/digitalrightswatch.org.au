@@ -1,30 +1,38 @@
 ---
-title: 'Explainer: Privacy reform in Australia'
-authors: [sam]
+draft: true
 date: 2022-01-19T22:11:58+00:00
-url: /2022/01/20/explainer-privacy-reform-in-australia/
 featureImage: /wp-content/uploads/2022/01/privacy-reform-tiles-1.png
-eg_vimeo_ratio:
+cybocfi_hide_featureImage:
+  - yes
+title: "Explainer: Privacy reform in Australia"
+url: /2022/01/20/explainer-privacy-reform-in-australia/
+tags:
+  - online privacy
+  - privacy reform
+  - the privacy act
+category:
+  - Articles
+authors:
+  - sam
+summary: If you read our newsletter or check the website you may have noticed
+  that the Australian government is doing everything they can to rebrand as the
+  world's leading tech regulator. In the past few years we have been under a
+  deluge of new laws, directives, industry codes… and yet none of them have
+  fundamentally altered the way we interact with the digital ecosystem around
+  us. Could the ongoing Privacy Act review finally shake up the system? And why
+  do we also need an Online Privacy Bill?
+eg_custom_meta_216:
+  - "true"
+eg_soundcloud_ratio:
   - 1
 eg_youtube_ratio:
+  - 1
+eg_vimeo_ratio:
   - 1
 eg_wistia_ratio:
   - 1
 eg_html5_ratio:
   - 1
-eg_soundcloud_ratio:
-  - 1
-eg_custom_meta_216:
-  - 'true'
-cybocfi_hide_featureImage:
-  - yes
-category:
-  - Articles
-tags:
-  - online privacy
-  - privacy reform
-  - the privacy act
-
 ---
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-11 wp-block-columns-is-layout-flex">
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
