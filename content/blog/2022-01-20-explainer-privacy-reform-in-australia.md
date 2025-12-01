@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: 2022-01-19T22:11:58+00:00
 featureImage: /wp-content/uploads/2022/01/privacy-reform-tiles-1.png
 cybocfi_hide_featureImage:
