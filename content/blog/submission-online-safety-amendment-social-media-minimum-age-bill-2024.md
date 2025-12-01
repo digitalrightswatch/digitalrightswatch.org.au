@@ -4,6 +4,7 @@ title: "Submission: Online Safety Amendment (Social Media Minimum Age) Bill 2024
 category:
   - submissions
 date: 2024-11-22T04:23:44.260Z
+pdfAsset: /images/22-digital-rights-watch.pdf
 ---
 Digital Rights Watch has been involved in many Senate committee consultations since our founding in 2016. Never before have we witnessed such a shocking display of misusing the committee inquiry process as a sham consultation for the purposes of “box-ticking” community engagement.
 
