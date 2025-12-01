@@ -10,6 +10,7 @@ date: 2025-09-22T23:18:05.311Z
 authors:
   - drw
 featureImage: /images/pexels-julia-m-cameron-4144830.jpg
+pdfAsset: /images/submission-to-inquiry-into-the-internet-search-engine-services-online-safety-code-and-the-under-16-social-media-ban.pdf
 ---
 Photo by Julia M Cameron on Pexels
 
@@ -23,4 +24,4 @@ To that end, we call on the committee to reject in their entirety the online saf
 
 **Read the rest of our submission on the matter below:**
 
-{{< pdfReader "/images/inquiry-into-the-internet-search-engine-services-online-safety-code-and-the-under-16-social-media-ban.pdf" >}}
+{{< pdfReader "/images/submission-to-inquiry-into-the-internet-search-engine-services-online-safety-code-and-the-under-16-social-media-ban.pdf" >}}
