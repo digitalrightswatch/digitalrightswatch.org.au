@@ -9,6 +9,7 @@ date: 2025-09-19T01:22:56.336Z
 authors:
   - drw
 featureImage: /images/pexels-thisisengineering-3861969.jpg
+pdfAsset: https://digitalrightswatch.org.au/images/15-09-25-drw-submission-on-data-and-digital-technology-to-productivity-commission.pdf
 ---
 Photo by ThisIsEngineering from Pexels
 
