@@ -7,6 +7,7 @@ date: 2024-11-24T02:04:24.378Z
 authors:
   - drw
 featureImage: /images/alexasteinbrück-explainableai-1280x702.jpg
+pdfAsset: https://digitalrightswatch.org.au/images/submission_-review-of-ai-and-the-australian-consumer-law-2024.pdf
 ---
 *Image: Alexa Steinbrück / https://betterimagesofai.org / https://creativecommons.org/licenses/by/4.0/*
 
