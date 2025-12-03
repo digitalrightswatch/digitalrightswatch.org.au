@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Media Release: National AI Plan"
 category:
   - media releases
