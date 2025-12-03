@@ -58,14 +58,19 @@ home = ["HTML", "RSS", "REDIR"]
     weight = 2
     parent = "Publications"
 [[menu.main]]
+    name = "Media Releases"
+    pageRef = "/category/media-releases"
+    weight = 3
+    parent = "Publications"
+[[menu.main]]
     name = "Reports"
     pageRef = "/category/reports"
-    weight = 3
+    weight = 4
     parent = "Publications"
 [[menu.main]]
     name = "Tools & Guides"
     pageRef = "/featured/tools-and-guides"
-    weight = 4
+    weight = 5
     parent = "Publications"
 [[menu.main]]
     name = "About Us"
