@@ -1,6 +1,8 @@
 ---
 draft: false
 title: What you need to know about the Social Media Ban
+tags:
+  - explainer
 date: 2025-12-03T23:04:20.014Z
 authors:
   - drw
