@@ -153,4 +153,4 @@ Young people deserve reform to address the underlying systems which enable the s
 
 Prohibiting access does nothing to change these fundamentally rights-abusive business models. Instead, the ban is a superficial solution that delays the need for meaningful, systemic reform. 
 
-![](/images/social-media-ban-tip-sheet-1-.png)
+<img src="/images/social-media-ban-tip-sheet-1-.png" alt="" style="max-width: 600px; width: 100%;">
