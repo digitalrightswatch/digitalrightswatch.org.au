@@ -25,8 +25,6 @@ summary: >
 ---
 This explainer first considers how the ban affects teens and how under-16s may access support services to supplement the support social media offered them. It then turns to the details of how the ban will be implemented.
 
-
-
 # What is  the social media ban?
 
 The social media ban comes into effect on Wednesday December 10, 2025. From this date Australians under 16 will not be able to make new accounts or continue using current accounts on the following ten platforms:
@@ -46,8 +44,6 @@ Note: the Government is monitoring other applications and also expects app provi
 
 The government has been clear that the onus rests on the social media companies who face fines up to $49.5 million if they fail to take reasonable steps to prevent under-16s accessing their platforms. **No-one using a platform will be fined or in breach of any law.**
 
-
-
 # Risks to wellbeing
 
 The Social Media Ban fails to realise that as well as harms, there are benefits to using social media, particularly for young people who are under-supported in their offline lives. [73%](https://about.au.reachout.com/blog/new-research-by-reachout-finds-young-people-are-scrolling-their-social-feeds-for-mental-health-support-but-platforms-are-not-safe-enough) of young people use social media for mental health support. Young people seeking help with their sexuality or gender, or who are being bullied or abused, use social media to communicate with their peers and build community.
@@ -57,8 +53,6 @@ Young people understand this and hold concerns regarding how the ban will affect
 "What happens to the children with mental health issues, disabilities or even living in remote areas? Social media can be the difference between having human connection and going without. Children who cannot go through school hallways without being called slurs and harassed use social media as a haven where they can find a community which provides support and understands their daily stressors." 
 
 "I go to an online school in Adelaide, everyone here relies on social media to literally make and keep friends. The ban is created by neurotypicals for neurotypicals. I'm 16 so the ban doesn't "affect" me, however I haven't always been 16 but I have been a young person with mental health issues, I have been a young person who's been bullied and I have always and always will be a neurodivergent person who knows and has to deal with the struggle of making friends. The ban doesn't take into account ALL young Australians."
-
-
 
 # Where to find help if you feel isolated because of the Social Media Ban
 
@@ -83,8 +77,6 @@ If you or a kid you know wants to remain politically connected please see the re
 * [Join](https://www.schoolstrike4climate.com/join) the School Strike for Climate movement. 
 * [UN Youth Australia ](https://unyouth.org.au/)aims to equip youth with the skills and knowledge necessary to create meaningful political change.
 * [Australian Youth Affairs Coalition](https://www.ayac.org.au/newsletter-youth-brains-trust) offers monthly alerts to keep youth updated on ‘opportunities to develop their confidence, skills and advocacy.’
-
-
 
 # How will social media platforms know if I’m under or over 16?
 
@@ -143,8 +135,6 @@ Credit card checks assume that everyone who has a credit card is over the age of
 
 Credit cards can easily be borrowed or stolen, making them a poor proxy for proving age. If credit card checks become commonplace, it will be easier for scammers to make fraudulent requests for credit card information creating new opportunities for scams, fraud, and exploitation.
 
-
-
 # Skirting the ban
 
 A [recent survey](https://www.abc.net.au/news/2025-12-02/what-young-people-think-about-social-media-ban-btn-survey/106058976) found that only 6% of Australian kids aged 9 to 15 believe the social media ban will work and that 75% plan on continuing social media use.
@@ -155,8 +145,6 @@ There are important considerations to be had when using these methods. Firstly, 
 
 Using platforms such as TikTok without being logged in does not prevent the algorithm from learning what engages the user. In order to do this, the user will be shown a variety of different themes and their responses will [unknowingly](https://arxiv.org/abs/2503.20231)[ influence ](https://arxiv.org/abs/2503.20231)what they are shown next. This themed content can include things like [misogynistic content](https://www.theguardian.com/media/2024/feb/06/social-media-algorithms-amplifying-misogynistic-content), to which repeat exposure can [foster radicalisation](https://arxiv.org/abs/2503.20231). 
 
-
-
 # The need for systemic reform
 
 The harms posed by social media to children are both serious and complex. However, this ban does not address the root causes of those harms.
@@ -165,4 +153,4 @@ Young people deserve reform to address the underlying systems which enable the s
 
 Prohibiting access does nothing to change these fundamentally rights-abusive business models. Instead, the ban is a superficial solution that delays the need for meaningful, systemic reform. 
 
-<img src="/images/social-media-ban-tip-sheet.png" alt="" style="max-width: 600px; width: 100%;">
+![](/images/social-media-ban-tip-sheet-1-.png)
