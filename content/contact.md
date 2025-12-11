@@ -1,5 +1,8 @@
 ---
-authors: [drw]
+draft: true
+authors:
+  - drw
+layout: contact
 eg_custom_meta_216:
   - "true"
 date: 2016-03-07T02:50:39+00:00
@@ -9,14 +12,12 @@ eg_youtube_ratio:
   - 1
 eg_vimeo_ratio:
   - 1
-  
 eg_wistia_ratio:
   - 1
 title: Contact Us
 eg_html5_ratio:
   - 1
 type: page
-layout: contact
 ---
 
 Got a question, or just want to get in touch with us? Use one of the options below and we'll get back to you as soon as we can.
@@ -36,7 +37,7 @@ For all other inquiries please contact: **[info@digitalrightswatch.org.au](mailt
 
 ## Make a donation
 
-We welcome [donations to Digital Rights Watch](http://www.donate.digitalrightswatch.org.au)
+We welcome [donations to Digital Rights Watch](https://www.donate.digitalrightswatch.org.au)
 
 ## Other platforms
 You can also follow us on **[Instagram](https://www.instagram.com/drwaus/), [LinkedIn](https://www.linkedin.com/company/drwaus), [Mastodon](https://aus.social/@drwaus), and [Bluesky](https://bsky.app/profile/drwaus.bsky.social)**
