@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Palantir and you
 category:
   - Articles
