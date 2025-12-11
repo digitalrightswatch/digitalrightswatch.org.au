@@ -19,7 +19,6 @@ eg_html5_ratio:
   - 1
 type: page
 ---
-
 Got a question, or just want to get in touch with us? Use one of the options below and we'll get back to you as soon as we can.
 
 - - -
@@ -30,16 +29,16 @@ For all media needs please contact: **[media@digitalrightswatch.org.au](mailto:m
 
 For all other inquiries please contact: **[info@digitalrightswatch.org.au](mailto:info@digitalrightswatch.org.au)**
 
-
   {{< banner contentKey="signup" title="Join our mailing list">}}
   Keep up to date with our work and opportunities to take action by [joining our mailing list](/signup)
   {{</ banner>}}
 
 ## Make a donation
 
-We welcome [donations to Digital Rights Watch](https://www.donate.digitalrightswatch.org.au)
+We welcome [donations to Digital Rights Watch](https://donate.digitalrightswatch.org.au/)
 
 ## Other platforms
+
 You can also follow us on **[Instagram](https://www.instagram.com/drwaus/), [LinkedIn](https://www.linkedin.com/company/drwaus), [Mastodon](https://aus.social/@drwaus), and [Bluesky](https://bsky.app/profile/drwaus.bsky.social)**
 
 ## Resources for assistance
