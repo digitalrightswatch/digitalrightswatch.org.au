@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Palantir and you
+title: Palantir in Australia
 category:
   - Articles
 featured: []
