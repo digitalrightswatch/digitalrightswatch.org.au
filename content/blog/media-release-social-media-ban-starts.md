@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Media Release: Social Media Ban Starts"
 category:
   - media releases
