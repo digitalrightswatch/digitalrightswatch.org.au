@@ -3,7 +3,7 @@ draft: false
 title: "Media Release: Social Media Ban Starts"
 category:
   - media releases
-date: 2025-12-09T23:38:19.039Z
+date: 2025-12-10T23:38:19.039Z
 ---
 **10 December 2025**
 
