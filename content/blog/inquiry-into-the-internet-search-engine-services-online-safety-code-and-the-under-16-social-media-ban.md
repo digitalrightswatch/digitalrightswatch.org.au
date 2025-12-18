@@ -10,7 +10,7 @@ date: 2025-09-22T23:18:05.311Z
 authors:
   - drw
 featureImage: /images/pexels-julia-m-cameron-4144830.jpg
-pdfAsset: /images/submission-to-inquiry-into-the-internet-search-engine-services-online-safety-code-and-the-under-16-social-media-ban.pdf
+pdfAsset: /images/inquiry-into-the-internet-search-engine-services-online-safety-code-and-the-under-16-social-media-ban-1-.pdf
 ---
 Photo by Julia M Cameron on Pexels
 
