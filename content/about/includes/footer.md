@@ -16,7 +16,7 @@ Unless otherwise noted, all content on this website and otherwise produced by Di
 
 **Digital Rights Watch Inc. is an incorporated association in Victoria and operates nationally as a registered charity. ABN 90 509 129 914**
 
-{{> figure
+{{ > figure
   src="ACNC-Registered-Charity-Tick.jpg"
   alt="ACNC Registered Charity Badge"
   link="https://www.acnc.gov.au/"
