@@ -4,22 +4,12 @@ title: Our Philanthropic Supporters
 ---
 Digital Rights Watch are very grateful for for the philanthropic support of the following organisations, without which we wouldn't be able to effectively campaign for human rights in the digital age.
 
-The Minderoo Foundation
 
-![](minderoo.png)
+| Minderoo Foundation | Mannifera | Susan McKinnon Foundation |
+|:----------:|:----------:|:----------:|
+| <img src="/about/minderoo.png" alt="" height="130">   | <img src="/about/mannifer-fav.png" alt="" height="130">   | <img src="/about/mckinnon-logo.png" alt="" height="130">   |
 
-Mannifera
 
-![](mannifer-fav.png)
-
-The Susan McKinnon Foundation
-
-![](mckinnon-logo.png)
-
-The Oak Foundation
-
-![](oak.png)
-
-Duckduckgo
-
-![](duckduckgo.png)
+| Oak Foundation | Duckduckgo |
+|:----------:|:----------:|
+| <img src="/about/oak.png" alt="" height="130">   | <img src="/about/duckduckgo.png" alt="" height="130">   | 
