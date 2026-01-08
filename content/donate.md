@@ -1,6 +1,6 @@
 ---
 draft: false
-redirect_url: https://privacy.raiselysite.com/
+redirect_url: https://donate.digitalrightswatch.org.au/
 authors:
   - drw
 eg_custom_meta_216:
