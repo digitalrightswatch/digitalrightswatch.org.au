@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Our Philanthropic Supporters
 ---
 Digital Rights Watch are very grateful for for the philanthropic support of the following organisations, without which we wouldn't be able to effectively campaign for human rights in the digital age.
