@@ -6,20 +6,20 @@ Digital Rights Watch are very grateful for for the philanthropic support of the 
 
 The Minderoo Foundation
 
-![Minderoo Foundation logo](minderoo.png)
+![](minderoo.png)
 
 Mannifera
 
-![Mannifera logo](mannifer-fav.png)
+![](mannifer-fav.png)
 
 The Susan McKinnon Foundation
 
-![Susan McKinnon Foundation logo](mckinnon-logo.png)
+![](mckinnon-logo.png)
 
 The Oak Foundation
 
-![Oak Foundation logo](oak.png)
+![](oak.png)
 
 Duckduckgo
 
-![Duckduckgo logo](duckduckgo.png)
+![](duckduckgo.png)
