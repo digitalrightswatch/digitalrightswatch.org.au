@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Our Supporters
 ---
 The important work of Digital Rights Watch would not be possible without the support and partnership of many organisations and individuals. We value the opportunity to partner with a range of like-minded organisations and also highly value those individuals who choose to support our cause.
