@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Our Supporters
 ---
   Digital Rights Watch are very grateful for for the philanthropic support of the following organisations, without which we wouldn't be able to effectively campaign for human rights in the digital age.
@@ -24,3 +24,19 @@ title: Our Supporters
     <td align="center"><img src="/about/duckduckgo.png" alt="" height="130"></td>
   </tr>
 </table>
+
+
+
+![](acf.png)
+
+![](apple.png)
+
+![](award-force.png)
+
+![](google.jpg)
+
+![](isoc.png)
+
+![](reichstein.png)
+
+![](vlsb.jpg)
