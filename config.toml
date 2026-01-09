@@ -102,6 +102,11 @@ home = ["HTML", "RSS", "REDIR"]
   parent = "About Us"
   weight = 5
 [[menu.main]]
+  name = "Our Supporters"
+  pageRef = "/supporters"
+  parent = "About Us"
+  weight = 6
+[[menu.main]]
     name = "Donate"
     url = "https://donate.digitalrightswatch.org.au"
     weight = 8
