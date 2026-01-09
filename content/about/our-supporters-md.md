@@ -4,7 +4,7 @@ title: Our Supporters
 ---
   Digital Rights Watch are very grateful for for the philanthropic support of the following organisations, without which we wouldn't be able to effectively campaign for human rights in the digital age.
 
-<table cellspacing="20" cellpadding="1">
+<table cellspacing="20" cellpadding="5">
   <tr>
     <td align="center"><strong>Minderoo Foundation</strong></td>
     <td align="center"><strong>Mannifera</strong></td>
