@@ -1,7 +1,9 @@
 ---
-draft: true
+draft: false
 title: Our Supporters
 ---
+The important work of Digital Rights Watch would not be possible without the support and partnership of many organisations and individuals. We value the opportunity to partner with a range of like-minded organisations and also highly value those individuals who choose to support our cause.
+
 ## Philanthropic Partners
 
 Digital Rights Watch are very grateful for for the philanthropic support of the following organisations, without which we wouldn't be able to effectively campaign for human rights in the digital age.
@@ -51,9 +53,7 @@ Digital Rights Watch are very grateful for for the philanthropic support of the 
 
 ## Partner Organisations
 
-The important work of Digital Rights Watch would not be possible without the support and partnership of many individuals. We’d especially like to thank these people for their assistance, collaboration, and partnership in many different ways.
-
-We work closely with a range of close partners, allies and collaborating organisations:
+Digital Righs Watch work with a number of like-minded organisations to pursue important digital rights and privacy reform. We’d especially like to thank these people for their assistance, collaboration, and partnership in many different ways.
 
 <div style="display: flex; justify-content: center;">
 <table border cellspacing="0" cellpadding="10" style>
@@ -128,7 +128,4 @@ We work closely with a range of close partners, allies and collaborating organis
 </table>
 </div>
 
-
-
-
-If you would like to discuss becoming a supporter or partner to Digital Rights Watch, [please do contact us.](https://digitalrightswatch.org.au/contact/)
+If you would like to discuss becoming a supporter or partner to Digital Rights Watch, [please do contact us.](https://digitalrightswatch.org.au/contact/) You can support us with [a tax-deductible donation here.](https://donate.digitalrightswatch.org.au/)
