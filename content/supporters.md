@@ -3,7 +3,7 @@ title: Supporters
 authors:
   - drw
 type: page
-draft: true
+draft: false
 date: 2017-04-26T11:32:53+00:00
 ---
 The important work of Digital Rights Watch would not be possible without the support and partnership of many individuals. We&#8217;d especially like to thank these people for their assistance, collaboration, and partnership in many different ways.
