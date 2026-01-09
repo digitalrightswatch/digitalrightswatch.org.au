@@ -8,7 +8,7 @@ The important work of Digital Rights Watch would not be possible without the sup
 
 Digital Rights Watch are very grateful for for the philanthropic support of the following organisations, without which we wouldn't be able to effectively campaign for human rights in the digital age.
 
-<div style="display: flex; justify-content: center;">\
+<div>
 <table cellspacing="20" cellpadding="5">
   <tr>
     <td align="center"><strong>Minderoo Foundation</strong></td>
@@ -50,14 +50,14 @@ Digital Rights Watch are very grateful for for the philanthropic support of the 
     <td align="center"><img src="/about/google.jpg" alt="" height="130"></td>
     <td align="center"><img src="/about/apple.png" alt="" height="130"></td>
   </tr>
-</table>\
+</table>
 </div>
 
 ## Partner Organisations
 
 Digital Righs Watch work with a number of like-minded organisations to pursue important digital rights and privacy reform. We’d especially like to thank these people for their assistance, collaboration, and partnership in many different ways.
 
-<div style="display: flex; justify-content: center;">
+<div>
 <table border cellspacing="0" cellpadding="10" style>
   <tr>
     <td>Access Now</td>
@@ -129,9 +129,5 @@ Digital Righs Watch work with a number of like-minded organisations to pursue im
   </tr>
 </table>
 </div>
-
-<div>
-</div>
-
 
 If you would like to discuss becoming a supporter or partner to Digital Rights Watch, [please do contact us.](https://digitalrightswatch.org.au/contact/) You can support us with [a tax-deductible donation here.](https://donate.digitalrightswatch.org.au/)
