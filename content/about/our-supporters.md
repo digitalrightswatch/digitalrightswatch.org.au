@@ -53,6 +53,8 @@ Digital Rights Watch are very grateful for for the philanthropic support of the 
 </table>
 </div>
 
+<br>
+
 ## Partner Organisations
 
 Digital Righs Watch work with a number of like-minded organisations to pursue important digital rights and privacy reform. We’d especially like to thank these people for their assistance, collaboration, and partnership in many different ways.
@@ -129,5 +131,7 @@ Digital Righs Watch work with a number of like-minded organisations to pursue im
   </tr>
 </table>
 </div>
+
+<br>
 
 If you would like to discuss becoming a supporter or partner to Digital Rights Watch, [please do contact us.](https://digitalrightswatch.org.au/contact/) You can support us with [a tax-deductible donation here.](https://donate.digitalrightswatch.org.au/)

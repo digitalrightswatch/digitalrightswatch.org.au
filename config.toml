@@ -86,9 +86,9 @@ home = ["HTML", "RSS", "REDIR"]
   pageRef = "/about/our-people/"
   parent = "About Us"
   weight = 2
-[[menu.main]]
-  name = "Annual Reports"
-  pageRef = "/category/annual-reports"
+  [[menu.main]]
+  name = "Our Supporters"
+  pageRef = "/about/our-supporters"
   parent = "About Us"
   weight = 3
 [[menu.main]]
@@ -97,13 +97,13 @@ home = ["HTML", "RSS", "REDIR"]
   parent = "About Us"
   weight = 4
 [[menu.main]]
-  name = "Contact Us"
-  pageRef = "/contact"
+  name = "Annual Reports"
+  pageRef = "/category/annual-reports"
   parent = "About Us"
   weight = 5
 [[menu.main]]
-  name = "Our Supporters"
-  pageRef = "/supporters"
+  name = "Contact Us"
+  pageRef = "/contact"
   parent = "About Us"
   weight = 6
 [[menu.main]]
