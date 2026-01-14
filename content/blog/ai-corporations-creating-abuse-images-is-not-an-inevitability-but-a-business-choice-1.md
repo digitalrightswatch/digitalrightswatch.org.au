@@ -1,7 +1,7 @@
 ---
 draft: false
 title: AI corporations creating abuse images is not an inevitability but a
-  business choice.
+  business choice
 tags: []
 category:
   - Articles
