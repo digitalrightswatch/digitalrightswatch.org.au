@@ -1,12 +1,15 @@
 ---
-draft: true
+draft: false
 title: AI corporations creating abuse images is not an inevitability but a
   business choice.
 tags: []
+category:
+  - Articles
 date: 2026-01-04T23:30:28.159Z
 authors:
   - drw
 featureImage: /images/ai-nudify-article.jpg
+cardImage: /images/ai-nudify-article.jpg
 ---
 Grok, an AI embedded within Twitter/X, is being used to digitally remove women’s and children’s clothing, and the results are being posted publicly. 
 
