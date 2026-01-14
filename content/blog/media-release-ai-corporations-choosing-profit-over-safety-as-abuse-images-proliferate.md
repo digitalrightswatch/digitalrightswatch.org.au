@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Media Release: AI Corporations Choosing Profit Over Safety as Abuse
   Images Proliferate"
 category:
