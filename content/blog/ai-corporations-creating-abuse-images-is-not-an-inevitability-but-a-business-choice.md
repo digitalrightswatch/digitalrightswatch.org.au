@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: AI corporations creating abuse images is not an inevitability but a
   business choice.
 date: 2026-01-14T00:23:15.078Z
