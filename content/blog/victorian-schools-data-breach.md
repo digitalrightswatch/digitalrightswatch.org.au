@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Victorian schools data breach
+title: "Media Release: Victorian schools data breach"
 category:
   - media releases
 date: 2026-01-15T04:29:52.481Z
