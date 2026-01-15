@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Media Release: Victorian schools data breach"
 category:
   - media releases
