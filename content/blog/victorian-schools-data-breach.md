@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Victorian schools data breach
 category:
   - media releases
