@@ -2,7 +2,7 @@
 draft: false
 title: AI corporations creating abuse images is not an inevitability but a
   business choice
-url: https://digitalrightswatch.org.au/ai-corporations-creating-abuse-images-is-not-an-inevitability-but-a-business-choice/
+url: ""
 tags: []
 category:
   - Articles
