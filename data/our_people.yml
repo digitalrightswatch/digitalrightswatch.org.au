@@ -10,7 +10,7 @@ sections:
     people:
       - name: Lizzie O'Shea
         fediverse: null
-        twitter: Lizzie_OShea
+        twitter: null
         web: https://lizzieoshea.com/
         role: Chair
         username: lizzie
@@ -28,20 +28,17 @@ sections:
           campaigning against Australia's encryption laws.
       - name: Tom Sulston
         fediverse: null
-        twitter: tomsulston
+        twitter: null
         web: null
         role: Deputy Chair
         username: tom
         image: /wp-content/uploads/2019/02/Screen-Shot-2019-02-26-at-6.22.43-pm.png
         email: null
         description: >
-          Tom is a software delivery consultant for Thoughtworks Australia,
-          working on continuous delivery, devops culture, and the psychology of
-          failure. He also helps people secure their systems and data from
-          unethical and illegal snooping.
+          Tom’s 25-year career in software consultancy helped commercial and not-for-profit organisations develop and deploy software that is proven reliable, secure, and delightful. He is is one of the co-founders of Digital Rights Watch and is now Head of Policy at DRW, where he brings technical realism and social justice to digital policy aims.
       - name: Lilly Ryan
         fediverse: null
-        twitter: attacus_au
+        twitter: null
         web: https://www.attacus.net/
         role: Treasurer
         username: lilly
@@ -66,12 +63,11 @@ sections:
           Piotr is a privacy specialist and advocate who is particularly
           passionate about helping individuals exercise their privacy rights and
           receive meaningful remedies. Piotr draws on his experience having
-          worked across a number of industries – including at a privacy
-          regulator, as a Privacy Officer, and as a consultant – and legislation
-          - including Victoria, Australia, and the European Union.
+          worked across a number of industries &ndash; including at a privacy
+          regulator, as a Privacy Officer, and as a consultant &ndash; and legislation &ndash; including Victoria, Australia, and the European Union.
       - name: Mark Andrejevic
         fediverse: null
-        twitter: MarkAndrejevic
+        twitter: null
         web: null
         role: Board member
         username: mark
@@ -83,7 +79,7 @@ sections:
           cultural implications of data mining, and online monitoring.
       - name: Lucie Krahulcova
         fediverse: null
-        twitter: nomadiclucie
+        twitter: null
         web: null
         role: Board member
         username: lucie
