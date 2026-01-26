@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Transparency is not a luxury in police AI, it is the absolute minimum. "
 category:
   - Articles
