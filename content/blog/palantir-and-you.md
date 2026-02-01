@@ -4,10 +4,11 @@ title: Palantir in Australia
 category:
   - Articles
 featured: []
-date: 2025-12-11T04:56:55.635Z
+date: 2026-02-01T23:56:58.803Z
 authors:
   - drw
 featureImage: /images/pexels-noellegracephotos-906018.jpg
+pdfAsset: /images/departmental_reply_to_ms_o_shea_-_2_october_2025.pdf
 ---
 If you're not familiar with the surveillance giant [Palantir](https://www.palantir.com/), you should - because they already know plenty [about you](https://www.tandfonline.com/doi/full/10.1080/01972243.2022.2100851#d1e536).
 
@@ -23,4 +24,4 @@ Palantir is under no obligation to follow any of the advice provided by their ow
 
 Australians need to know how our government engages with Palantir. The Albanese government must take steps to prioritise our human rights, privacy, and digital sovereignty over Palantir’s dystopian surveillance profiteering. 
 
-We have asked Katy Gallagher, the Minister for Finance, and MP Andrew Charlton for clarification of Australia’s role in Palantir’s expansion but they have not yet deigned to reply.
+We asked Katy Gallagher, the Minister for Finance, and MP Andrew Charlton for clarification of Australia’s role in Palantir’s expansion and received the response attached from Katy Gallagher's office.
