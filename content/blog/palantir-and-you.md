@@ -8,7 +8,7 @@ date: 2026-02-01T23:56:58.803Z
 authors:
   - drw
 featureImage: /images/pexels-noellegracephotos-906018.jpg
-pdfAsset: /images/departmental_reply_to_ms_o_shea_-_2_october_2025.pdf
+pdfAsset: ""
 ---
 If you're not familiar with the surveillance giant [Palantir](https://www.palantir.com/), you should - because they already know plenty [about you](https://www.tandfonline.com/doi/full/10.1080/01972243.2022.2100851#d1e536).
 
