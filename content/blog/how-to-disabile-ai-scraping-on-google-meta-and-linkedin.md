@@ -29,30 +29,31 @@ Google has updated their policies and settings to allow scraping of data from em
 
 * In your general settings, scroll down to the bottom
 * Smart features: Turn off 'smart features in Gmail, Chat, and Meet'
-<br></br>
+  <br></br>
 
 <img src="/images/google3.png" alt="" style="max-width: 600px; width: 100%;">
 <br></br>
 
 * Google Workspace smart features: Click ‘Manage Workspace smart feature settings’
 * Toggle off: ‘Smart features in Google Workspace’ and ‘Smart features in other Google products
-<br></br>
-<img src="/images/google4.png" alt="" style="max-width: 600px; width: 100%;">
-<br></br>
+  <br></br>
+  <img src="/images/google4.png" alt="" style="max-width: 600px; width: 100%;">
+  <br></br>
+
 ## Meta
 
 Meta has announced they have begun training their AI models on data from Facebook and Instagram users. This includes retroactively training on past data. Follow these steps in order to request to opt-out of this data collection.
 
 * Navigate to 'Settings & Privacy'
 * Click 'Privacy Center'
-<br></br>
-<img src="/images/meta1.png" alt="" style="max-width: 600px; width: 100%;">
-<br></br>
+  <br></br>
+  <img src="/images/meta1.png" alt="" style="max-width: 600px; width: 100%;">
+  <br></br>
 * Open the 'Other Policies & Articles' accordion
 * Click 'How Meta uses information for generative AI models and features'
-<br></br>
-<img src="/images/meta2.png" alt="" style="max-width: 600px; width: 100%;">
-<br></br>
+  <br></br>
+  <img src="/images/meta2.png" alt="" style="max-width: 600px; width: 100%;">
+  <br></br>
 * Open the 'Your right to object' accordion
 * Click 'Learn more and object here'
   <br></br>
@@ -72,3 +73,9 @@ LinkedIn has started using data on their platform as training for AI models. If 
 
 <img src="/images/linkedin1.jpg" alt="" style="max-width: 600px; width: 100%;">
 <br></br>
+
+X (Twitter)\
+\
+You can turn off Grok AI using your content for data training by following these steps:\
+\
+Settings > Settings & Privacy > Grok > Data Sharing > Turn it off
