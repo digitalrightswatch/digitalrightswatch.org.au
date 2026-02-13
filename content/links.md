@@ -9,6 +9,8 @@ Join our [Right to Delete campaign here.](https://digitalrightswatch.org.au/camp
 
 ## Articles
 
+Guardian | Feb 12 2026 - [Without stronger privacy laws, Australians are guinea pigs in a real-time dystopian AI experiment](https://www.theguardian.com/commentisfree/2026/feb/11/privacy-laws-australia-guinea-pigs-ai-experiment)
+
 ABC | Dec 1 2025 | [Incoming Australian social media ban leaves children vulnerable to phishing scams, experts say](https://www.abc.net.au/news/2025-12-01/cyber-security-story-scam-warnings-scams/106036670)
 
 ABC | Nov 3 2025 | [Legal Services Board of Victoria warns lawyers about AI in court](https://www.abc.net.au/news/2025-11-03/legal-services-board-of-victoria-warns-lawyers-about-ai-in-court/105916628)
