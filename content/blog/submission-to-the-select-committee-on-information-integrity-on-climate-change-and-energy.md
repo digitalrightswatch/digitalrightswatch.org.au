@@ -3,7 +3,8 @@ draft: false
 title: Submission to the Select Committee on Information Integrity on Climate
   Change and Energy
 tags:
-  - Submissions
+  - climate change
+  - misinformation
 category:
   - submissions
 featured: []
