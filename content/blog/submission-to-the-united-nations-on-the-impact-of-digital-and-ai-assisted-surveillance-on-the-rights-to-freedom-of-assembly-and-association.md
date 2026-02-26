@@ -3,7 +3,9 @@ draft: false
 title: Submission to the United Nations on the Impact of Digital and AI-Assisted
   Surveillance on the Rights to Freedom of Assembly and Association
 tags:
-  - Submission
+  - Surveillance
+category:
+  - submissions
 date: 2025-11-10T02:49:39.029Z
 authors:
   - drw
