@@ -2,7 +2,7 @@
 draft: false
 title: Submission on Data and Digital Technology to Productivity Commission
 tags:
-  - submissions
+  - productivity commission
 category:
   - submissions
 date: 2025-09-19T01:22:56.336Z
