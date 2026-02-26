@@ -2,9 +2,10 @@
 draft: false
 title: 2025 Privacy Reform Explainer
 tags:
-  - privacy
+  - privacy reform
 category:
   - article
+  - explainer
 date: 2025-06-09T23:42:19.111Z
 authors:
   - drw
