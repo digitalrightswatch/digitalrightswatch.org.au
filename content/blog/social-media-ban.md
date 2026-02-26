@@ -1,6 +1,10 @@
 ---
 draft: false
 title: Social Media Ban
+tags:
+  - Social media ban
+category:
+  - Explainer
 date: 2025-08-04T23:21:16.404Z
 authors:
   - drw
