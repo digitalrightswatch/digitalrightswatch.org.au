@@ -1,6 +1,10 @@
 ---
 draft: false
 title: Seeking Political Transparency on Promised Privacy Reforms
+tags:
+  - Privacy reform
+category:
+  - Articles
 date: 2025-08-18T00:07:59.509Z
 authors:
   - drw
