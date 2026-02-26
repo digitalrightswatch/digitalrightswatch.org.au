@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "Your Data: The Honeypot"
+tags:
+  - Data rights
+category:
+  - Articles
 date: 2025-08-18T00:11:33.541Z
 authors:
   - drw
