@@ -3,8 +3,10 @@ draft: false
 title: Political party exemptions from the Privacy Act
 tags:
   - political exemption
-featured:
+category:
   - Explainer
+  - Article
+featured: []
 date: 2025-10-22T22:55:59.067Z
 authors:
   - drw
