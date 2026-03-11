@@ -12,6 +12,7 @@ category:
 date: 2026-03-11T23:35:43.362Z
 authors:
   - lucinda
+featureImage: /images/screen-shot-2026-03-12-at-10.54.40-am.png
 ---
 ## Internet blackouts
 
