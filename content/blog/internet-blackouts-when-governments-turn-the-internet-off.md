@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Internet Blackouts: When Governments Turn the Internet Off"
 tags:
   - explainer
