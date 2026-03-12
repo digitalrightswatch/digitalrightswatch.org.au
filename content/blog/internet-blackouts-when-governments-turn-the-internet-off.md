@@ -34,7 +34,8 @@ The Iranian regime has a history of turning off the internet when unrest occurs.
 
 ## What’s happened in Iran since the war?
 
-![](https://files.mastodon.social/media_attachments/files/116/198/031/282/486/353/original/550c2cd929eb77f3.png)
+[!]
+<img src=“https://files.mastodon.social/media_attachments/files/116/198/031/282/486/353/original/550c2cd929eb77f3.png” alt=“Alt text” height=“300”>
 
 Image: [netblocks.org](https://mastodon.social/@netblocks/116198034486071673)
 
