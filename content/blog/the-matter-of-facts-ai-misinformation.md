@@ -10,6 +10,7 @@ featured:
   - Events
 date: 2026-03-11T23:57:57.668Z
 featureImage: ""
+cardImage: /images/mof-event-banner-1-.jpg
 ---
 
 <img src="/images/mof-event-banner-1-.jpg" alt="Alt text" height="300">
