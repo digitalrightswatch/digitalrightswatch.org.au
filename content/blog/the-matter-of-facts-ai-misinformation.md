@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "The Matter of Facts: AI & Misinformation"
 slug: /matter-of-facts-live
 url: ""
@@ -9,8 +9,11 @@ category:
 featured:
   - Events
 date: 2026-03-11T23:57:57.668Z
-featureImage: /images/mof-event-banner-1-.jpg
+featureImage: ""
 ---
+
+<img src="/images/mof-event-banner-1-.jpg" alt="Alt text" height="300">
+
 **The Matter of Facts: AI & Misinformation**
 
 **Premiere screening of Episode 3 of ABC ‘Matter of Facts’ documentary series and live panel discussion and Q&A**
