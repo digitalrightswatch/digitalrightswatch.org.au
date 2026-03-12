@@ -10,7 +10,7 @@ featured:
   - Events
 date: 2026-03-11T23:57:57.668Z
 featureImage: ""
-cardImage: /images/mof-card.png
+cardImage: /images/mof-event-banner-1600-x-1600-px-.png
 summary: >
   Join us for a special premiere screening of the third and final episode of the
   new ABC series 'Matter of Facts' followed by a live panel discussion and Q&A
