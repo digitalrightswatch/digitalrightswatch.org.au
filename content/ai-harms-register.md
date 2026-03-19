@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: AI Harms Register
 date: 2026-03-19T02:19:26.332Z
 ---
