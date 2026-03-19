@@ -13,4 +13,4 @@ At Digital Rights Watch we’re interested in cataloguing harms Australians have
 \
 Fill out the form below if you have experienced an AI related harm.
 
-<script src='https://actionnetwork.org/widgets/v6/form/ai-harms-register?format=js&source=widget'></script><div id='can-form-area-ai-harms-register' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
+<link href='https://actionnetwork.org/css/style-embed-whitelabel-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v6/form/ai-harms-register?format=js&source=widget'></script><div id='can-form-area-ai-harms-register' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
