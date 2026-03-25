@@ -2,6 +2,7 @@
 draft: false
 title: AI Harms Register
 date: 2026-03-23T01:19:30.569Z
+featureImage: /images/ai-harms-register.png
 ---
 If you have experienced an AI-related harm, please fill out this form and help protect all Australians from harmful AI. 
 
