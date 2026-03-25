@@ -9,11 +9,13 @@ featured:
 date: 2026-03-25T02:21:46.027Z
 featureImage: /images/ai-harms-register.png
 cardImage: /images/ai-harms-register-card.png
-summary: "Corporations are deploying Artificial Intelligence into almost every
-  aspect of our lives, shaping how we interact with our government services,
-  businesses, healthcare systems, and employers. If you have experienced an
-  AI-related harm, please fill out this form and help protect all Australians
-  from harmful AI. "
+summary: >-
+  Corporations are deploying Artificial Intelligence into almost every aspect of
+  our lives, shaping how we interact with our government services, businesses,
+  healthcare systems, and employers.
+
+
+  If you have experienced an AI-related harm, please fill out this form and help protect all Australians from harmful AI.
 ---
 **If you have experienced an AI-related harm, please fill out this form and help protect all Australians from harmful AI.** 
 
