@@ -1,7 +1,10 @@
 ---
 draft: false
 title: AI Harms Register
+url: campaigns/ai-harms-register
 category:
+  - campaigns
+featured:
   - campaigns
 date: 2026-03-25T02:21:46.027Z
 featureImage: /images/ai-harms-register.png
