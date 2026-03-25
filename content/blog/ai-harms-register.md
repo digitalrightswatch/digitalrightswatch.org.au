@@ -1,7 +1,7 @@
 ---
 draft: false
 title: AI Harms Register
-url: campaigns/ai-harms-register
+url: ai-harms-register
 category:
   - campaigns
 featured:
