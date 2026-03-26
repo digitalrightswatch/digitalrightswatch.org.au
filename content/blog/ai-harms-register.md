@@ -21,7 +21,7 @@ summary: >-
 
 Corporations are deploying Artificial Intelligence into almost every aspect of our lives, shaping how we interact with our government services, businesses, healthcare systems, and employers.
 
-While carefully-considered and worker-lead introduction of AI tools may provide benefits, Digital Rights Watch is concerned with the real harms these tools cause to our community.
+While carefully-considered and worker-led introduction of AI tools may provide benefits, Digital Rights Watch is concerned with the real harms these tools cause to our community.
 
 AI is already causing [chatbot-assisted suicides](https://www.theguardian.com/technology/2025/nov/07/chatgpt-lawsuit-suicide-coach), the violation of women and children by [nudify apps](https://www.theguardian.com/news/ng-interactive/2026/jan/11/how-grok-nudification-tool-went-viral-x-elon-musk), and the [theft of our culture through data mining](https://www.theguardian.com/commentisfree/2025/sep/10/tech-companies-are-stealing-our-books-music-and-films-for-ai-its-brazen-theft-and-must-be-stopped).
 
