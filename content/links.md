@@ -5,13 +5,11 @@ date: 2025-10-02T00:09:23.976Z
 ---
 ## Campaigns
 
-Join our [Right to Delete campaign here.](https://digitalrightswatch.org.au/campaigns/right-to-delete/)
-
-## [](https://digitalrightswatch.org.au/campaigns/right-to-delete/)Events
-
-Register for our AI and misinformation event here: <https://events.humanitix.com/matter-of-facts>
+Join our [Right to Delete campaign here.](https://digitalrightswatch.org.au/campaigns/right-to-delete/)[](https://events.humanitix.com/matter-of-facts)
 
 ## Articles
+
+Guardian | March 2 2026 - [Australia’s teen social media ban is a flop. But there’s no joy in ‘I told you so’](https://www.theguardian.com/commentisfree/2026/apr/01/australia-teen-social-media-ban-criticism)
 
 Guardian | Feb 12 2026 - [Without stronger privacy laws, Australians are guinea pigs in a real-time dystopian AI experiment](https://www.theguardian.com/commentisfree/2026/feb/11/privacy-laws-australia-guinea-pigs-ai-experiment)
 
