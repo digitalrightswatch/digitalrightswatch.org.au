@@ -1,6 +1,6 @@
 ---
 draft: false
-title: How to Disable AI Scraping on Google, Meta, and LinkedIn
+title: How to Disable AI Scraping on Google, Meta, X (Twitter), and LinkedIn
 url: /how-to-disable-ai-scraping
 category:
   - Tools and Guides
