@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Response to the Online Safety Act Review
 tags:
   - article
