@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Media Release: RentTech platforms must stop unfair and excessive
   personal information collection"
 category:
