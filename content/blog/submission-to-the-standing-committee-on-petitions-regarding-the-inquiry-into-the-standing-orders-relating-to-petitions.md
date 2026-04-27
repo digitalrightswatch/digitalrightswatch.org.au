@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Submission to the Standing Committee on Petitions Regarding the Inquiry
   into the Standing Orders Relating to Petitions
 tags:
