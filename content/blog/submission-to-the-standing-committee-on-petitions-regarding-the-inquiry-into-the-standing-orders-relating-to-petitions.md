@@ -2,6 +2,10 @@
 draft: true
 title: Submission to the Standing Committee on Petitions Regarding the Inquiry
   into the Standing Orders Relating to Petitions
+tags:
+  - submission
+category:
+  - submissions
 date: 2026-04-27T02:37:57.453Z
 authors:
   - drw
