@@ -21,7 +21,7 @@ summary: >-
 ---
 **Technology-Facilitated Gender-Based Violence (TFGBV) refers to acts of violence or abuse that are directed at a person or group based on their gender and committed, assisted, or amplified by digital technologies.** 
 
-TFGBV is a serious and growing problem because digital tools can be used to stalk, threaten, monitor, impersonate, humiliate or control people, often in ways that are hard to escape. [Half of Australian women](https://www.anrows.org.au/publication/technology-facilitated-abuse-national-survey-of-australian-adults-experiences/) have faced tech-facilitated abuse at some point in their lifetime.
+TFGBV is a serious and growing problem. [Half of Australian women](https://www.anrows.org.au/publication/technology-facilitated-abuse-national-survey-of-australian-adults-experiences/) have faced tech-facilitated abuse at some point in their lifetime. Digital tools can be used to stalk, threaten, monitor, impersonate, humiliate or control people, often in ways that are hard to escape. [](https://www.anrows.org.au/publication/technology-facilitated-abuse-national-survey-of-australian-adults-experiences/)
 
 Digital Rights Watch is committed to combating TFGBV through education, policy work and advocacy. 
 
