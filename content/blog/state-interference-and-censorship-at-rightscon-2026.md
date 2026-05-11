@@ -16,7 +16,7 @@ featureImage: /images/l1018878.jpeg
 ---
 No-one should ever have to make a decision at 4:45am. But I picked up my phone and cancelled my taxi to the airport, just as it was pulling up outside. 
 
-The prior evening, the [Lusaka Times](https://www.lusakatimes.com/2026/04/29/government-postpones-rightscon-2026-lusaka-summit/) had published that the Zambian Minister of Technology had decided to “postpone” the RightsCon conference, due to start the following week and the reason for my early start that morning. 
+The prior evening, the [Lusaka Times](https://www.lusakatimes.com/2026/04/29/government-postpones-rightscon-2026-lusaka-summit/) had published that the Zambian Minister of Technology had decided to “postpone” the [RightsCon conference](https://www.rightscon.org/), due to start the following week and the reason for my early start that morning. 
 
 “Certain invited speakers and participants remain subject to pending administrative and security clearances” was the ministerial reason for the postponement. 
 
@@ -26,7 +26,7 @@ I was going to RightsCon to participate in a panel discussion about various nati
 
 Sadly, that conversation and hundreds of others like it will no longer be happening. Instead, the digital rights of everyone, everywhere, will be worsened because advocates, academics, technologists, and civil servants will not be able to grow our collective understanding of how best to protect human rights in the digital age. 
 
-In an almost-completely-predictable twist, the RightsCon organisers have asserted that the Zambian government cancelled the conference after being pressured by the Chinese government over the attendance of delegates from Taiwan. Rightly, Access Now resisted Chinese demands to “moderate specific topics and exclude … Taiwanese participants from in-person and online participation.”
+In an almost-completely-predictable twist, the RightsCon organisers have asserted that the [Zambian government cancelled the conference after being pressured by the Chinese government over the attendance of delegates from Taiwan](https://www.rightscon.org/rc26-statement/). Rightly, Access Now resisted Chinese demands to “moderate specific topics and exclude … Taiwanese participants from in-person and online participation.”
 
 The day after the Zambian government cancelled RightsCon, the [Chinese/pan-African](https://apnews.com/article/china-tariffs-africa-trade-us-7da631f9be17069ec92e1d7f432058d7) free-trade deal came into effect. 
 
