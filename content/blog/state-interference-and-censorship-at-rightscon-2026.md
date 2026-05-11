@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: State interference and censorship at RightsCon 2026
 url: /2026/05/11/state-interference-and-censorship-at-rightscon-2026
 tags:
