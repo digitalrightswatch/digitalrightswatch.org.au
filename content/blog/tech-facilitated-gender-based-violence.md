@@ -17,7 +17,7 @@ summary: >-
   and committed, assisted, or amplified by digital technologies. 
 
 
-  Digital Rights Watch is committed to combating technology-facilitated gender-based violence. Join our campaign for updates on our work and the latest TFGBV news.
+  Digital Rights Watch is committed to combating TFGBV. Join our campaign for updates on our work and the latest TFGBV news.
 ---
 **Technology-Facilitated Gender-Based Violence (TFGBV) refers to acts of violence or abuse that are directed at a person or group based on their gender and committed, assisted, or amplified by digital technologies.** 
 
