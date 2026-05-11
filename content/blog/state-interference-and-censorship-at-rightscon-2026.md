@@ -8,7 +8,7 @@ tags:
   - international
   - ""
 category:
-  - article
+  - articles
 date: 2026-05-11T04:10:51.821Z
 authors:
   - tom
