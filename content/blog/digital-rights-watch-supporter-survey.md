@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Digital Rights Watch Supporter Survey
 url: supporter_survey
 tags: []
