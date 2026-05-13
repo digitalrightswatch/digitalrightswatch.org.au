@@ -5,7 +5,7 @@ category:
   - Articles
 date: 2026-01-26T04:51:36.905Z
 authors:
-  - drw
+  - lucinda
 featureImage: /images/pexels-martijn-stoof-2150654344-33174921.jpg
 cardImage: /images/pexels-martijn-stoof-2150654344-33174921.jpg
 pdfAsset: ""
