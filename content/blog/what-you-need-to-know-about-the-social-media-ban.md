@@ -8,7 +8,7 @@ category:
   - article
 date: 2025-12-03T23:04:20.014Z
 authors:
-  - drw
+  - lucinda
 featureImage: /images/screen-shot-2025-12-04-at-11.27.02-am.png
 cardImage: /images/screen-shot-2025-12-04-at-11.27.02-am.png
 summary: >
