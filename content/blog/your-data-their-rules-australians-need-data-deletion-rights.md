@@ -9,6 +9,8 @@ category:
   - article
   - explainer
 date: 2025-10-16T22:55:06.417Z
+authors:
+  - lucinda
 featureImage: /images/pexels-padrinan-2882553.jpg
 ---
 Photo by Miguel Á. Padriñán: https://www.pexels.com/photo/close-up-shot-of-keyboard-buttons-2882523/
