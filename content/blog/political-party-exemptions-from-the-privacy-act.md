@@ -9,7 +9,7 @@ category:
 featured: []
 date: 2025-10-22T22:55:59.067Z
 authors:
-  - drw
+  - lucinda
 featureImage: /images/pexels-rdne-7821577.jpg
 ---
 TL;DR: The political party exemption in the Privacy Act leaves the door open for political parties, their contractors, subcontractors, and volunteers to access your personal information without following the same rules as everyone else. That needs to change.
