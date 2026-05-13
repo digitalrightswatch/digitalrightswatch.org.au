@@ -1,5 +1,5 @@
 ---
-username: Lucinda Thorpe
+username: lucinda
 name: Lucinda Thorpe
 image: 04ffd532-6384-422d-898c-d77cd4fe05e0.jpeg
 email: lucinda@digitalrightswatch.org.au
