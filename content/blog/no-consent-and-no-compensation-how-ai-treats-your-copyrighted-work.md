@@ -9,7 +9,7 @@ category:
   - explainer
 date: 2025-09-09T04:36:34.615Z
 authors:
-  - drw
+  - lucinda
 featureImage: /images/pexels-padrinan-2882517.jpg
 cardImage: /images/pexels-padrinan-2882517.jpg
 pdfAsset: /images/pexels-padrinan-2882517.jpg
