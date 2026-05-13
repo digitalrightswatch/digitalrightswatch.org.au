@@ -8,7 +8,7 @@ date: 2026-05-13T00:05:35.171Z
 authors:
   - lucinda
 featureImage: /images/untitled-design-4-.png
-cardImage: /images/untitled-design-4-.png
+cardImage: /images/untitled-1090-x-818-px-.png
 summary: >
   Dating apps play a significant role in gender-based violence by providing
   perpetrators direct access to potential victims. 
