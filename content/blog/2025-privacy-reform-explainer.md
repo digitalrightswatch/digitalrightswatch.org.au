@@ -8,7 +8,7 @@ category:
   - explainer
 date: 2025-06-09T23:42:19.111Z
 authors:
-  - drw
+  - lucinda
 featureImage: /images/pexels-olly-914931-1-.jpg
 cardImage: /images/pexels-olly-914931-1-.jpg
 ---
