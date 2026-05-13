@@ -9,8 +9,8 @@ category:
 featured:
   - campaigns
 date: 2026-05-11T05:05:07.001Z
-featureImage: /images/untitled-twitter-post-.png
-cardImage: /images/stop-tfgbv-1.png
+featureImage: /images/stop-tfgbv-card.png
+cardImage: /images/stop-tfgbv-card.png
 summary: >-
   Technology-Facilitated Gender-Based Violence (TFGBV) refers to acts of
   violence or abuse that are directed at a person or group based on their gender
