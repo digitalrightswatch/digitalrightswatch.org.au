@@ -2,8 +2,11 @@
 draft: false
 title: "Too Much Information: Dating Apps and AI"
 tags:
-  - article
-category: []
+  - dating
+  - privacy
+  - gender
+category:
+  - articles
 date: 2026-05-13T00:05:35.171Z
 authors:
   - lucinda
