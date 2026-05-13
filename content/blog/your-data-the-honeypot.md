@@ -7,7 +7,7 @@ category:
   - Articles
 date: 2025-08-18T00:11:33.541Z
 authors:
-  - drw
+  - lucinda
 featureImage: /images/resize-image-project.png
 cardImage: /images/data-mining.jpg
 ---
