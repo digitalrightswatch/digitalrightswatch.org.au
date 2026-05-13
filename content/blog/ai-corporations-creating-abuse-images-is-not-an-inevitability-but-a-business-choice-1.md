@@ -9,7 +9,7 @@ category:
   - Articles
 date: 2026-01-14T00:08:16.640Z
 authors:
-  - drw
+  - lucinda
 featureImage: /images/ai-nudify-article.jpg
 cardImage: /images/ai-nudify-article.jpg
 ---
