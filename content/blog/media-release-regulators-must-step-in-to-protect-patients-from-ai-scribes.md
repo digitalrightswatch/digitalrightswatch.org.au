@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Media Release: Regulators must step in to protect patients from AI Scribes"
 category:
   - media releases
