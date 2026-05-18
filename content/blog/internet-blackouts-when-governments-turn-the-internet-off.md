@@ -76,7 +76,7 @@ A free and fair internet is one of the most powerful checks on power a civilian 
 
 Globally, the [KeepItOn coalition](https://www.accessnow.org/tracking-internet-shutdowns-methodology-update/) tracks internet shutdowns all over the world and builds international support for an open and available internet.
 
-[The Digital Rights Division of the MIAAN group](https://miaan.org/areas-of-work/digital-rights-division/) supports civil society groups and marginalised communities learn digital hygiene. \[Tech Tavaana](https://tech.tavaana.org/) offers informational resources on maintaining digital privacy whilst accessing a surveilled internet. 
+[The Digital Rights Division of the MIAAN group](https://miaan.org/areas-of-work/digital-rights-division/) supports civil society groups and marginalised communities learn digital hygiene. [Tech Tavaana](https://tech.tavaana.org/) offers informational resources on maintaining digital privacy whilst accessing a surveilled internet. 
 
 The Digital Rights Division also hosts the [Iran After Dark Programme](https://filter.watch/irandarkhamooshi/) which helps Iranians prepare for internet shutdowns and communicate during disruptions.  
 
