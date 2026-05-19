@@ -9,6 +9,8 @@ Join our [Right to Delete campaign here.](https://digitalrightswatch.org.au/camp
 
 ## Articles
 
+Guardian | May 19 2026 - [Melbourne psychiatrist refuses new patients who don’t consent to AI note-taking](https://www.theguardian.com/australia-news/2026/may/19/melbourne-psychiatrist-ai-note-taking-new-patients)
+
 DRW | May 13 2026 - [Too Much Information: Dating Apps and AI](https://digitalrightswatch.org.au/2026/05/13/too-much-information-dating-apps-and-ai/)
 
 Guardian | March 2 2026 - [Australia’s teen social media ban is a flop. But there’s no joy in ‘I told you so’](https://www.theguardian.com/commentisfree/2026/apr/01/australia-teen-social-media-ban-criticism)
