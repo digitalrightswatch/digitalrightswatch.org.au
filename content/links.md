@@ -5,7 +5,7 @@ date: 2025-10-02T00:09:23.976Z
 ---
 ## Campaigns
 
-Join our [Right to Delete campaign here.](https://digitalrightswatch.org.au/campaigns/right-to-delete/)[](https://events.humanitix.com/matter-of-facts)
+Join our [Right to Delete campaign here.](https://digitalrightswatch.org.au/campaigns/right-to-delete/)[](https://digitalrightswatch.org.au/campaigns/right-to-delete/)[](https://events.humanitix.com/matter-of-facts)
 
 ## Articles
 
