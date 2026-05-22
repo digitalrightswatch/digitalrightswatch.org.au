@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Media Release: Amid Repro Uncensored and Dutch Queer Groups’ Landmark
   Legal Action Against Meta, Australian Organisations Warn Similar Cases Could
   Build Toward Future Legal Action"
