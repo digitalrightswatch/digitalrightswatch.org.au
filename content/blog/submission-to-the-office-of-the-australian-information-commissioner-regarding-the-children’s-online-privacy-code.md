@@ -9,7 +9,7 @@ category:
 date: 2026-06-05T03:37:57.164Z
 authors:
   - drw
-featureImage: ""
+featureImage: /images/oiac-copc-sub.png
 ---
 The exposure draft of the Code is an extremely welcome development, and Digital Rights Watch is broadly supportive of this initiative. The development of the Code represents an important step forward for Australia’s privacy landscape, which otherwise lags behind many comparable jurisdictions. With many Australians expressing concerns about the dangers and problems of online environments, especially for young people, the draft Code represents a rights-respecting approach to addressing a range of these concerns. 
 
