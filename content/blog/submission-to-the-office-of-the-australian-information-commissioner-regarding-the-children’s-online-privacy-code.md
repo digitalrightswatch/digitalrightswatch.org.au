@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Submission to the Office of the Australian Information Commissioner
   regarding the Children’s Online Privacy Code
 tags:
