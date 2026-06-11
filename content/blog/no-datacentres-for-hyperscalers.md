@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: No datacentres for hyperscalers
 url: campaigns/datacentres
 tags: []
