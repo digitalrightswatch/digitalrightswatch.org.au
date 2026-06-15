@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Military-grade AI: the future of civilian surveillance?"
 tags: []
 category:
