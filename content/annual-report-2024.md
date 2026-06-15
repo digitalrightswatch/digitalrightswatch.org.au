@@ -8,4 +8,4 @@ category:
   - Annual Reports
 draft: false
 ---
-{{< pdfReader "/images/2024-drw-annual-report.pdf" >}}
+{{< pdfReader "/images/2024-drw-annual-report-edit.pdf" >}}
