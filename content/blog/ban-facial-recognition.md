@@ -3,6 +3,7 @@ draft: false
 title: Ban Facial Recognition
 slug: ""
 url: campaigns/ban-facial-recognition
+redirect_url: /2025/10/01/ban-facial-recognition/
 tags: []
 category:
   - campaigns
