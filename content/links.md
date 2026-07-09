@@ -9,8 +9,6 @@ Join our [Right to Delete campaign here.](https://digitalrightswatch.org.au/camp
 
 ## Articles
 
-
-
 ABC | July 7 2026 - [One in 25 teens affected by AI-assisted online sexual abuse, study finds](https://www.abc.net.au/news/2026-07-07/1-in-25-children-targeted-with-ai-sexual-imagery/106878000)
 
 Guardian | May 19 2026 - [Melbourne psychiatrist refuses new patients who don’t consent to AI note-taking](https://www.theguardian.com/australia-news/2026/may/19/melbourne-psychiatrist-ai-note-taking-new-patients)
@@ -34,6 +32,10 @@ Guardian Oct 6 2025 | [Deloitte to pay money back to Albanese government after u
 ABC | Oct 2 2025 - [VPNs, 'old man' masks, and AI: The holes in the social media ban and their fixes](https://www.abc.net.au/news/2025-10-02/social-media-ban-vpns-masks-age-checks-disguises/105836134)
 
 Guardian | Sep 19 2025 - [How accurate are age checks for under 16 social media ban?](https://www.theguardian.com/news/2025/sep/19/how-accurate-are-age-checks-for-australias-under-16s-social-media-ban-what-trial-data-reveals)
+
+## Zine
+
+"[Is my vibrator spying on me?](https://eprints.qut.edu.au/266495/2/Is_My_Vibrator_Spying_On_Me_-_WEB_VERSION_003_.pdf)" 
 
 ## Video[](https://www.theguardian.com/news/2025/sep/19/how-accurate-are-age-checks-for-australias-under-16s-social-media-ban-what-trial-data-reveals)
 
