@@ -9,6 +9,10 @@ Join our [Right to Delete campaign here.](https://digitalrightswatch.org.au/camp
 
 ## Articles
 
+
+
+ABC | July 7 2026 - [One in 25 teens affected by AI-assisted online sexual abuse, study finds](https://www.abc.net.au/news/2026-07-07/1-in-25-children-targeted-with-ai-sexual-imagery/106878000)
+
 Guardian | May 19 2026 - [Melbourne psychiatrist refuses new patients who don’t consent to AI note-taking](https://www.theguardian.com/australia-news/2026/may/19/melbourne-psychiatrist-ai-note-taking-new-patients)
 
 DRW | May 13 2026 - [Too Much Information: Dating Apps and AI](https://digitalrightswatch.org.au/2026/05/13/too-much-information-dating-apps-and-ai/)
