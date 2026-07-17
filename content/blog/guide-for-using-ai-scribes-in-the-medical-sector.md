@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Guide for Using AI Scribes in the Medical Sector
 url: /guide-for-AI-scribes
 category:
