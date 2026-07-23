@@ -17,4 +17,4 @@ Privacy law is complex, so Digital Rights Watch has developed two resources to h
 
 {{< pdfReader "/images/privacy-law-casebook-pdf-1.pdf" >}}
 
-{{< pdfReader "/images/privacy-law-legislative-cheatsheet-document.pdf" >}}
+{{< pdfReader "/images/rev-5_legislative-cheatsheet-document_01-29-26.pdf" >}}
