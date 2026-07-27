@@ -5,8 +5,8 @@ url: /AI-scribe-report
 category: []
 featured: []
 date: 2026-07-27T23:15:03.724Z
-featureImage: ""
-cardImage: ""
+featureImage: /images/ai-scribe-report-card.png
+cardImage: /images/ai-scribe-report-card.png
 ---
 Digital Rights Watch are proud to be publishing our new discussion paper on AI scribes in medical settings in Australia, outlining potential harms, and opportunities for regulation.
 
@@ -14,9 +14,17 @@ Primary healthcare providers in Australia are rapidly adopting AI scribes - soft
 
 Our key finding? **AI companies are exposing Australians to healthcare systems which are unregulated, untested, and often used without consent.**
 
-Read or download the full report below.
+Our key recommendations?
 
+* AI scribes should be **regulated as a clinical devices**, tested for **bias** and **accuracy**
+* The **Government** should pass **Tranche 2 of Privacy reform**
+* **Patients** should be meaningfully involved in **regulatory conversations** about AI scribes, and have a **‘right to refuse’ AI scribes** without losing access to healthcare
 
+Want to get involved? Here's how:
+
+1. Sign our petition calling for *a right to refuse AI scribes*
+2. Stay updated by *joining our AI scribe campaign*
+3. Read or download the full report below.
 
 {{< pdfReader "/images/off-the-record-ai-scribes-in-healthcare-drw-report.pdf" >}}
 
