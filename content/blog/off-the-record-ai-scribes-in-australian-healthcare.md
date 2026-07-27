@@ -1,0 +1,23 @@
+---
+draft: true
+title: Off the Record - AI Scribes in Australian Healthcare
+url: /AI-scribe-report
+category: []
+featured: []
+date: 2026-07-27T23:15:03.724Z
+featureImage: ""
+cardImage: ""
+---
+Digital Rights Watch are proud to be publishing our new discussion paper on AI scribes in medical settings in Australia, outlining potential harms, and opportunities for regulation.
+
+Primary healthcare providers in Australia are rapidly adopting AI scribes - software tools that record and transcribe clinical consultations. While these tools may offer some administrative benefits for medical practices, this report finds that their rate of adoption is outpacing both regulation and due diligence, creating serious and largely unaddressed risks for patients.
+
+Our key finding? **AI companies are exposing Australians to healthcare systems which are unregulated, untested, and often used without consent.**
+
+Read or download the full report below.
+
+
+
+{{< pdfReader "/images/off-the-record-ai-scribes-in-healthcare-drw-report.pdf" >}}
+
+*We'd like to thank AWO and Essential for their research assistance, and all of the advocacy and community health organisations and doctors who attended roundtables and interviews for the report.*
