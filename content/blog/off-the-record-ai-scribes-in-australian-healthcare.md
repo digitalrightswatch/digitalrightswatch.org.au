@@ -23,8 +23,8 @@ Our key recommendations?
 
 Want to get involved? Here's how:
 
-1. Sign our petition calling for *a right to refuse AI scribes*
-2. Stay updated by *joining our AI scribe campaign*
+1. Sign our petition calling for a right to refuse AI scribes
+2. [Stay updated by joining our AI scribe campaign](https://digitalrightswatch.org.au/campaigns/ai-transcription-in-healthcare/)
 3. Read or download the full report below.
 
 {{< pdfReader "/images/off-the-record-ai-scribes-in-healthcare-drw-report.pdf" >}}
