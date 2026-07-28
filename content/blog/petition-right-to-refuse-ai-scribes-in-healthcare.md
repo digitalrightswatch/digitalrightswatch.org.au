@@ -3,11 +3,12 @@ draft: true
 title: "Petition: Right to Refuse AI Scribes in Healthcare"
 url: /right-to-refuse
 category:
-  - Reports
-featured: []
+  - Campaigns
+featured:
+  - Campaigns
 date: 2026-07-27T23:15:03.724Z
-featureImage: ""
-cardImage: ""
+featureImage: /images/right-to-refuse-card.png
+cardImage: /images/right-to-refuse-card.png
 ---
 **Clinics are installing AI scribes all over our health system.**
 
