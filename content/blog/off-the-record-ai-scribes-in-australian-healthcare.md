@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Off the Record - AI Scribes in Australian Healthcare
 url: /AI-scribe-report
 category:
