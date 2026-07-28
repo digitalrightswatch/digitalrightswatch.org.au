@@ -7,8 +7,8 @@ category:
 featured:
   - Campaigns
 date: 2026-07-28T11:55:07.058Z
-featureImage: /images/right-to-refuse-card.png
-cardImage: /images/right-to-refuse-card.png
+featureImage: /images/right-to-refuse.png
+cardImage: /images/right-to-refuse.png
 ---
 **Clinics are installing AI scribes all over our health system.**
 
