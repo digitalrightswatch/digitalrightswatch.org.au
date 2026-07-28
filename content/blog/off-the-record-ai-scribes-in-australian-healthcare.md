@@ -5,7 +5,7 @@ url: /AI-scribe-report
 category:
   - Reports
 featured: []
-date: 2026-07-27T23:15:03.724Z
+date: 2026-07-28T11:57:46.082Z
 featureImage: /images/ai-scribe-report-card.png
 cardImage: /images/ai-scribe-report-card.png
 ---
