@@ -2,7 +2,8 @@
 draft: true
 title: Off the Record - AI Scribes in Australian Healthcare
 url: /AI-scribe-report
-category: []
+category:
+  - Reports
 featured: []
 date: 2026-07-27T23:15:03.724Z
 featureImage: /images/ai-scribe-report-card.png
