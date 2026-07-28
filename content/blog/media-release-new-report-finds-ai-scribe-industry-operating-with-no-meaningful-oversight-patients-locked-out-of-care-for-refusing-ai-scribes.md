@@ -1,10 +1,10 @@
 ---
-draft: true
+draft: false
 title: "Media Release: New report finds AI scribe industry operating with no
   meaningful oversight. Patients locked out of care for refusing AI scribes."
 category:
   - media releases
-date: 2026-07-28T01:03:39.208Z
+date: 2026-07-28T11:54:56.717Z
 ---
 **New report finds AI scribe industry operating with no meaningful oversight. Patients locked out of care for refusing AI scribes.** 
 
