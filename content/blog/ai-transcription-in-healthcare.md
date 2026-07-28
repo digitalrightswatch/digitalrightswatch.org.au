@@ -8,7 +8,7 @@ category:
   - campaigns
 featured:
   - campaigns
-date: 2025-11-28T03:03:02.821Z
+date: 2026-07-28T11:55:02.808Z
 featureImage: /images/ai-transcription.png
 cardImage: /images/ai-transcription-square.png
 summary: >-
