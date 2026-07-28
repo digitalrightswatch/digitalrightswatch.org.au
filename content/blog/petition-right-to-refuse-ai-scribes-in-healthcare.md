@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Petition: Right to Refuse AI Scribes in Healthcare"
 url: /campaigns/right-to-refuse
 category:
