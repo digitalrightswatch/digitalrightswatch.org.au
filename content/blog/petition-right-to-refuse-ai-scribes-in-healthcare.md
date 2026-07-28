@@ -6,7 +6,7 @@ category:
   - Campaigns
 featured:
   - Campaigns
-date: 2026-07-27T23:15:03.724Z
+date: 2026-07-28T11:55:07.058Z
 featureImage: /images/right-to-refuse-card.png
 cardImage: /images/right-to-refuse-card.png
 ---
