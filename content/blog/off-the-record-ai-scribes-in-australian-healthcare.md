@@ -13,15 +13,15 @@ Digital Rights Watch are proud to be publishing our new discussion paper on AI s
 
 Primary healthcare providers in Australia are rapidly adopting AI scribes - software tools that record and transcribe clinical consultations. While these tools may offer some administrative benefits for medical practices, this report finds that their rate of adoption is outpacing both regulation and due diligence, creating serious and largely unaddressed risks for patients.
 
-Our key finding? **AI companies are exposing Australians to healthcare systems which are unregulated, untested, and often used without consent.**
+Our key finding: **AI companies are exposing Australians to healthcare systems which are unregulated, untested, and often used without consent.**
 
-Our key recommendations?
+Our key recommendations:
 
 * AI scribes should be **regulated as a clinical devices**, tested for **bias** and **accuracy**
 * The **Government** should pass **Tranche 2 of Privacy reform**
 * **Patients** should be meaningfully involved in **regulatory conversations** about AI scribes, and have a **‘right to refuse’ AI scribes** without losing access to healthcare
 
-Want to get involved? Here's how:
+Here's how to get involved:
 
 1. Sign our petition calling for a right to refuse AI scribes
 2. [Stay updated by joining our AI scribe campaign](https://digitalrightswatch.org.au/campaigns/ai-transcription-in-healthcare/)
