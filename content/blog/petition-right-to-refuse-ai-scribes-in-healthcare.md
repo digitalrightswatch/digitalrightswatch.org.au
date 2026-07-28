@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Petition: Right to Refuse AI Scribes in Healthcare"
-url: /right-to-refuse
+url: /campaigns/right-to-refuse
 category:
   - Campaigns
 featured:
