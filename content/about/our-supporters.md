@@ -51,7 +51,7 @@ Digital Rights Watch are very grateful for for the philanthropic support of the 
     <td align="center"><img src="/about/apple.png" alt="" height="130"></td>   
   </tr>
  <tr>
-<td align="center"><strong>Myer</strong></td>
+<td align="center"><strong>Myer Foundation</strong></td>
   </tr>
   <tr>
     <td align="center"><img src="/about/myer-.png" alt="" height="130"></td>
