@@ -44,20 +44,22 @@ Digital Rights Watch are very grateful for for the philanthropic support of the 
     <td align="center"><strong>Duckduckgo</strong></td>
     <td align="center"><strong>Google</strong></td>
     <td align="center"><strong>Apple</strong></td>
-
-<td align="center"><strong>Myer</strong></td>
   </tr>
   <tr>
     <td align="center"><img src="/about/duckduckgo.png" alt="" height="130"></td>
     <td align="center"><img src="/about/google.jpg" alt="" height="130"></td>
-    <td align="center"><img src="/about/apple.png" alt="" height="130"></td>   <td align="center"><img src="/about/myer-.png" alt="" height="130"></td>
+    <td align="center"><img src="/about/apple.png" alt="" height="130"></td>   
+  </tr>
+ <tr>
+<td align="center"><strong>Myer</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/about/myer-.png" alt="" height="130"></td>
   </tr>
 </table>
 </div>
 
 <br>
-
-![](myer-.png)
 
 ## Partner Organisations
 
