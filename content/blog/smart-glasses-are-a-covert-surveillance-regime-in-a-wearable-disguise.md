@@ -8,9 +8,11 @@ date: 2026-08-04T23:49:49.266Z
 authors: []
 featureImage: ""
 cardImage: ""
-summary: Much of the dialogue around military use of AI in warfare focuses on
-  questions of human oversight. However, this assumes that AI has a legitimate
-  role in making decisions that can end thousands of lives.
+summary: >
+  Smart glasses aren't inevitable. They're a product that only exists because
+  our privacy laws haven't caught up to the last decade, let alone this one. We
+  shouldn't be racing to accommodate them: we should be asking why they're on
+  supermarket shelves at all.
 ---
 ### Smart glasses are a covert surveillance regime in a wearable disguise
 
