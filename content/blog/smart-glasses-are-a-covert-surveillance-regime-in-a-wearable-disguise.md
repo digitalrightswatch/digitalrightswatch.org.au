@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Smart glasses are a covert surveillance regime in a wearable disguise
 tags: []
 category:
