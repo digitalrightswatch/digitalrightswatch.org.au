@@ -6,8 +6,8 @@ category:
   - article
 date: 2026-08-04T23:49:49.266Z
 authors: []
-featureImage: ""
-cardImage: ""
+featureImage: /images/smart-glasses.png
+cardImage: /images/smart-glasses.png
 summary: >
   Smart glasses aren't inevitable. They're a product that only exists because
   our privacy laws haven't caught up to the last decade, let alone this one. We
