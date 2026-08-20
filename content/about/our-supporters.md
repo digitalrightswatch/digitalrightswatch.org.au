@@ -20,41 +20,53 @@ Digital Rights Watch are very grateful for for the philanthropic support of the 
     <td align="center"><img src="/about/mannifer-fav.png" alt="" height="130"></td>
     <td align="center"><img src="/about/mckinnon-logo.png" alt="" height="130"></td>
   </tr>
+ <tr>
+<td align="center"><strong>Myer Foundation</strong></td>
+<td align="center"><strong>Award Force</strong></td>
+<td align="center"><strong>Duckduckgo</strong></td>
+  </tr>
   <tr>
-    <td align="center"><strong>Oak Foundation</strong></td>
-    <td align="center"><strong>Reichstein</strong></td>
-    <td align="center"><strong>VLSB</strong></td>
+    <td align="center"><img src="/about/myer-.png" alt="" height="130"></td>
+    <td align="center"><img src="/about/award-force.png" alt="" height="130"></td>
+   <td align="center"><img src="/about/duckduckgo.png" alt="" height="130"></td>
+  </tr>
+ <tr>
+<td align="center"><strong>Oak Foundation</strong></td>
+<td align="center"><strong>Reichstein Foundation</strong></td>
   </tr>
   <tr>
     <td align="center"><img src="/about/oak.png" alt="" width="200"></td>
     <td align="center"><img src="/about/reichstein.png" alt="" height="130"></td>
-    <td align="center"><img src="/about/vlsb.jpg" alt="" height="130"></td>
+  
   </tr>
+
+</table>
+</div>
+
+<br>
+
+## Previous Philanthropic Partners
+
+<div>
+<table cellspacing="20" cellpadding="5">
+
   <tr>
-    <td align="center"><strong>Award Force</strong></td>
-    <td align="center"><strong>ACF</strong></td>
-    <td align="center"><strong>ISOC</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="/about/award-force.png" alt="" height="130"></td>
-    <td align="center"><img src="/about/acf.png" alt="" height="130"></td>
-    <td align="center"><img src="/about/isoc.png" alt="" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Duckduckgo</strong></td>
+    <td align="center"><strong>VLSB</strong></td>
     <td align="center"><strong>Google</strong></td>
     <td align="center"><strong>Apple</strong></td>
   </tr>
   <tr>
-    <td align="center"><img src="/about/duckduckgo.png" alt="" height="130"></td>
+    <td align="center"><img src="/about/vlsb.jpg" alt="" height="130"></td>
     <td align="center"><img src="/about/google.jpg" alt="" height="130"></td>
     <td align="center"><img src="/about/apple.png" alt="" height="130"></td>   
-  </tr>
- <tr>
-<td align="center"><strong>Myer Foundation</strong></td>
+  <tr>
+    <td align="center"><strong>ACF</strong></td>
+    <td align="center"><strong>ISOC</strong></td>
   </tr>
   <tr>
-    <td align="center"><img src="/about/myer-.png" alt="" height="130"></td>
+    <td align="center"><img src="/about/acf.png" alt="" height="130"></td>
+    <td align="center"><img src="/about/isoc.png" alt="" width="200"></td>
+  </tr>  
   </tr>
 </table>
 </div>
