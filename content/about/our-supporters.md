@@ -152,4 +152,6 @@ Digital Righs Watch work with a number of like-minded organisations to pursue im
 
 <br>
 
-If you would like to discuss becoming a supporter or partner to Digital Rights Watch, [please do contact us.](https://digitalrightswatch.org.au/contact/) You can support us with [a donation here.](https://donate.digitalrightswatch.org.au/)
+If you would like to discuss becoming a supporter or partner to Digital Rights Watch, [please do contact us.](https://digitalrightswatch.org.au/contact/) You can support us with [a donation here.](https://donate.digitalrightswatch.org.au/)[](https://donate.digitalrightswatch.org.au/)
+
+[View our full donations disclosure here.](https://digitalrightswatch.org.au/about/donation-transparency/)
