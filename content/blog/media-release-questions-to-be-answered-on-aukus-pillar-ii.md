@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Media Release: Questions to be answered on AUKUS Pillar II"
 category:
   - media releases
