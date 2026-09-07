@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Submission to Artificial Intelligence and Data Centres Inquiry
 tags:
   - submission
