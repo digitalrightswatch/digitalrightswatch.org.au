@@ -1,6 +1,6 @@
 ---
-draft: true
-title: Submission to AUKUS Inquiry
+draft: false
+title: Submission to Inquiry into artificial intelligence and data centres
 tags:
   - submission
 category:
