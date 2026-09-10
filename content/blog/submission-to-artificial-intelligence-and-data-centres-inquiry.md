@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Submission to AUKUS Inquiry
 tags:
   - submission
