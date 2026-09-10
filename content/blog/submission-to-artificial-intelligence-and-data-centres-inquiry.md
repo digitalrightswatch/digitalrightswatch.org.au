@@ -1,23 +1,19 @@
 ---
-draft: false
-title: Submission to Artificial Intelligence and Data Centres Inquiry
+draft: true
+title: Submission to AUKUS Inquiry
 tags:
   - submission
 category:
   - submissions
-date: 2026-09-07T00:35:55.321Z
+date: 2026-09-10T02:53:28.824Z
 authors:
   - drw
-featureImage: /images/datacentre-submission.jpg
+featureImage: /images/website-card-aukus.png
 ---
-Digital Rights Watch welcomes the opportunity to provide comment to the committee’s inquiry into artificial intelligence and data centres.  
+Digital Rights Watch welcomes the opportunity to make this submission and the work of this inquiry in giving due scrutiny to an agreement that will have a profound and long-running impact on our nation.
 
-For the sake of brevity, in this submission we have focused on data centres rather than the AI systems and products that run inside them.
+While the focus of this inquiry has been on AUKUS Pillar I for good reason, we ask the committee to recognise the impact of Pillar II on national sovereignty, the rights of our citizens and the way our data could be used in the development of military technology. There is very little to be known about Pillar II - the publicly-available material is remarkably limited. 
 
-While there may be some interesting and useful developments from the AI industry, we are concerned with the unprofitable capital-led growth of the industry, the data-extractive nature of the hyperscale corporations driving it, and the way in which expected benefits and costs are distributed.  
+As presented, the aim is to work with the US and UK to develop autonomous weapons systems - including for use in the air and on the seas. These are the stated ambitions, even though there are serious concerns about the human rights implications of autonomous weapons. Australia should not be progressing the development of this technology without a clear vision and plan of action for upholding its international legal obligations, including in respect of human rights.
 
-Our research in AI shows us that Australia is underprepared for the societal issues that are already being caused by AI hyperscalers, let alone those that are to come.
-
-We welcome the committee’s scrutiny into the industry’s claims of benefits, and offer some analysis of current and potential issues of large-scale AI rollout in Australia. If it would be useful to the committee, we are happy to provide further evidence and clarity.
-
-{{< pdfReader "/images/submission-to-artificial-intelligence-and-data-centres-inquiry.pdf" >}}
+{{< pdfReader "/images/drw-aukus-submission.pdf" >}}
