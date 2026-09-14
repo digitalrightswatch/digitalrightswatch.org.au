@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Submission to Joint Select Committee on Artificial Intelligence
 tags:
   - submission
