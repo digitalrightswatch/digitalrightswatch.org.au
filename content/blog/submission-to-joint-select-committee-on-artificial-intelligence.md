@@ -8,7 +8,7 @@ category:
 date: 2026-09-14T00:37:20.335Z
 authors:
   - drw
-featureImage: ""
+featureImage: /images/ai-sub-image.png
 ---
 Digital Rights Watch welcomes the opportunity to support the work of the Joint Select Committee on Artificial Intelligence. 
 
