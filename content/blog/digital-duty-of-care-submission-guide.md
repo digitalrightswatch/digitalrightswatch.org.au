@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Digital Duty of Care Submission Guide
 tags:
   - submission
