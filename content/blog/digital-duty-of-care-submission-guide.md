@@ -10,9 +10,9 @@ authors:
   - drw
 featureImage: /images/website-card-image-ddoc.png
 ---
-# **Digital Duty of Care Exposure Draft Bill 2026**
+**Digital Duty of Care Exposure Draft Bill 2026**
 
-## “Build Your Own Submission” resource
+“Build Your Own Submission” resource
 
 This resource contains:
 
