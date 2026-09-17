@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: AI Forum - Community of Practice
 date: 2026-09-17T00:46:12.554Z
 ---
