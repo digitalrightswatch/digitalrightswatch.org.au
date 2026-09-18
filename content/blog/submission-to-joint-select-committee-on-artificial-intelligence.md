@@ -1,7 +1,6 @@
 ---
-draft: true
-title: Submission to the Attorney General’s Department regarding the Privacy
-  Amendment (Personal Data Protection) Bill 2026
+draft: false
+title: Submission on the Privacy Amendment (Personal Data Protection) Bill 2026
 tags:
   - submission
 category:
@@ -26,4 +25,4 @@ Our main concerns with the exposure draft are:
 * Regulators need to be granted investigatory powers to ensure APP entities’ compliance before they receive complaints from individuals. 
 * There are remaining gaps in implementation that will necessitate future legislation. eg: Exemptions for political parties and small businesses are unusual in similar jurisdictions; the growth of high-risk technologies such as wearables, AI, and facial recognition. 
 
-{{< pdfReader "" >}}
+{{< pdfReader "/images/drw-submission-on-privacy-amendment-personal-data-protection-bill-2026.pdf" >}}
