@@ -1,21 +1,29 @@
 ---
-draft: false
-title: Submission to Joint Select Committee on Artificial Intelligence
+draft: true
+title: Submission to the Attorney General’s Department regarding the Privacy
+  Amendment (Personal Data Protection) Bill 2026
 tags:
   - submission
 category:
   - submissions
-date: 2026-09-14T00:37:20.335Z
+date: 2026-09-18T00:52:25.826Z
 authors:
   - drw
-featureImage: /images/ai-sub-image.png
+featureImage: ""
 ---
-Digital Rights Watch welcomes the opportunity to support the work of the Joint Select Committee on Artificial Intelligence. 
+Digital Rights Watch welcomes the opportunity to provide feedback on the Privacy Amendment (Personal Data Protection) Bill 2026.
 
-Artificial intelligence is a large and complex issue that has effects on vast swathes of Australian society, for good and ill. Current regulatory approaches have not been sufficient to protect human rights, and so it is encouraging to see new approaches for collaborative parliamentary scrutiny over the AI industry. 
+The exposure draft of the Bill is an extremely welcome development. It represents an important step forward for Australia’s privacy landscape, which otherwise lags behind many comparable jurisdictions. 
 
-Our position on AI is that it must work for all Australians, not just be an avenue by which the interests of large American tech corporations are promoted over the wellbeing of Australian workers, creatives, children, and other cohorts. 
+We would be grateful for a positive statement from the Attorney General in the Explanatory Memorandum which confirms that the intent of the reforms is to elevate privacy protections for all Australians, and that they should be interpreted accordingly. 
 
-We are sceptical of the claims of AI benefits that are regularly provided by companies selling AI products and services, and would like to see Australia following an evidence-led approach that promotes both the human rights of individuals as well as curiosity for how the technology might be used to better our society. 
+DRW is broadly supportive of the contents of this bill, and is keen to see it progress swiftly through parliament. We do also have some comments on where we perceive gaps between intent and execution, and some areas where the Bill may fall short. 
 
-{{< pdfReader "/images/select-committee-on-ai-submission.pdf" >}}
+Our main concerns with the exposure draft are: 
+
+* The application of the right to erasure is too narrow - it needs to apply to all APP entities rather than just large digital platforms. 
+* Depending on regulators as the sole course of redress is slow and restrictive, to the point of being insufficient motivation for corporations to be compliant. Individuals need the ability to bring private legal action against APP entities they believe are non-compliant. 
+* Regulators need to be granted investigatory powers to ensure APP entities’ compliance before they receive complaints from individuals. 
+* There are remaining gaps in implementation that will necessitate future legislation. eg: Exemptions for political parties and small businesses are unusual in similar jurisdictions; the growth of high-risk technologies such as wearables, AI, and facial recognition. 
+
+{{< pdfReader "" >}}
