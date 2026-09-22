@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Submission on the Online Safety Amendment (Digital Duty of Care) Bill 2026
 tags:
   - submission
