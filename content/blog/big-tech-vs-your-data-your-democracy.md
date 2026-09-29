@@ -1,18 +1,18 @@
 ---
-draft: true
+draft: false
 title: Big Tech vs. your data & your democracy
 tags: []
 category:
   - article
-date: 2026-08-04T23:49:49.266Z
+date: 2026-09-29T06:37:07.429Z
 authors: []
-featureImage: ""
+featureImage: /images/website-card-image-big-tech-and-democracy.jpg
 cardImage: ""
 summary: >
-  Smart glasses aren't inevitable. They're a product that only exists because
-  our privacy laws haven't caught up to the last decade, let alone this one. We
-  shouldn't be racing to accommodate them: we should be asking why they're on
-  supermarket shelves at all.
+  Without proper regulation to protect us, Big Tech corporations can weaponise
+  this information against our democracy. They can manipulate voters, target
+  vulnerable communities, suppress dissent, and hand enormous political power to
+  private companies and political actors operating beyond public scrutiny.
 ---
 ### Big Tech vs. your data & your democracy
 
