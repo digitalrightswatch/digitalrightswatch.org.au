@@ -8,7 +8,7 @@ category:
 date: 2026-10-02T06:25:46.578Z
 authors:
   - drw
-featureImage: /images/website-card-images.png
+featureImage: ""
 ---
 Digital Rights Watch welcomes the opportunity to provide feedback on the *Getting it right: Building AI infrastructure that works for Australia* consultation paper.
 
