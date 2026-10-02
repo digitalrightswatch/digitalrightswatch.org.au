@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Submission on the National AI Standards paper
 tags:
   - submission
