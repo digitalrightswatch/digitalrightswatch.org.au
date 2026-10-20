@@ -15,3 +15,5 @@ We are proud to publish new research produced by Australian Community Managers f
 *Misogyny in Online Social Spaces: How Community Managers, Moderators and Administrators Govern Gendered Harms* is a mixed-methods study, co-authored with Dr Jennifer Beckett, drawing on survey and interview data from Australian community managers, social media managers and moderators.
 
 It asks two questions: what makes online social spaces safe for women and diverse voices, and what techniques practitioners already use, or could be supported to develop, to build those spaces.
+
+{{< pdfReader "/images/misogyny-in-online-social-spaces-2026-ver2.pdf" >}}
