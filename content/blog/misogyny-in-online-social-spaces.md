@@ -16,4 +16,6 @@ We are proud to publish new research produced by Australian Community Managers f
 
 It asks two questions: what makes online social spaces safe for women and diverse voices, and what techniques practitioners already use, or could be supported to develop, to build those spaces.
 
+Read the full report below or see the research report on the [Australian Community Managers website](https://www.australiancommunitymanagers.com.au/research).
+
 {{< pdfReader "/images/misogyny-in-online-social-spaces-2026-ver2.pdf" >}}
