@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Misogyny in Online Social Spaces
 url: /misogyny-in-online-social-spaces
 category:
