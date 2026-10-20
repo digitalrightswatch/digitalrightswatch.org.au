@@ -6,7 +6,7 @@ category:
   - Reports
 featured: []
 date: 2026-10-20T03:02:03.110Z
-featureImage: ""
+featureImage: /images/misogyny-report-cover.png
 cardImage: ""
 summary: How Community Managers, Moderators and Administrators Govern Gendered Harms
 ---
