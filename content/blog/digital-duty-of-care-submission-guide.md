@@ -20,7 +20,7 @@ This resource contains:
 
 • Template submission designed for Community Legal Centres, Civil Society and Not-for-Profit Organisations
 
-This resource was prepared by Wotton Kearney in partnership with Digital Rights Watch as a practical tool for community legal centres, civil society and not-for-profit organisations to engage with the Australian Government’s consultation on the Online Safety Amendment (Digital Duty of Care) Bill 2026 exposure draft (the Bill) which is [available here](https://www.infrastructure.gov.au/department/media/publications/exposure-draft-online-safety-amendment-digital-duty-care-bill-2026).
+This resource was prepared by Wotton Kearney in partnership with Digital Rights Watch as a practical tool for community legal centres, civil society and not-for-profit organisations to engage with the Australian Government’s consultation on the Online Safety Amendment (Digital Duty of Care) Bill 2026.
 
 **UPDATE: 23 OCTOBER 2026**
 
