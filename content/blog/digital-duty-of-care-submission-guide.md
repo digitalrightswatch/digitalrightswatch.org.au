@@ -28,10 +28,10 @@ This resource was prepared by Wotton Kearney in partnership with Digital Rights 
 
 The Bill was introduced to Parliament on 15 October 2026 with an Explanatory Memorandum. This Guide has been kept as originally written and describes the exposure draft, so its section numbers are exposure draft numbers.
 
-We draw your attention to changes that you may be interested in considering for advocacy purposes in Part 1 and Part 2 where relevant under the heading “UPDATE: WHAT HAS CHANGED IN THE INTRODUCED BILL”. (Note that we haven’t worked through or added any updates to Part 3 and Part 4.)
+We draw your attention to changes that you may be interested in considering for advocacy purposes in Part 1 and Part 2 where relevant under the heading “UPDATE: WHAT HAS CHANGED IN THE INTRODUCED BILL”. 
 
 References are labelled “ED” (exposure draft), “Bill” (introduced Bill) and “EM” (Explanatory Memorandum). Many provisions have been renumbered; see the APPENDIX: CHANGES IN KEY PROVISIONS — EXPOSURE DRAFT COMPARED WITH THE INTRODUCED BILL.
 
-**The Environment and Communications Legislation Committee is taking submissions until 30 October 2026.** Submissions should be sent to the Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts at [digitaldutyofcare@communications.gov.au](mailto:digitaldutyofcare@communications.gov.au). See Part 4 of this resource for a template submission.
+**The Environment and Communications Legislation Committee is taking submissions until 30 October 2026.** Submissions should be sent to the committee via the [inquiry page at the APH website](https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications/DigitalDutyofCare48P). See Part 4 of this resource for a template submission.
 
 {{< pdfReader "/images/digital-duty-of-care-build-your-own-submission-resource-updated-231026-.pdf" >}}
