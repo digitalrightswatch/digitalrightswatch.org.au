@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Submission regarding the Inquiry into the nature and drivers of
   radicalisation in Australia
 tags:
