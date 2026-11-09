@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Submission on the Defence Legislation Amendment (Accelerating Capability
   and Protecting Bases) Bill 2026
 tags:
