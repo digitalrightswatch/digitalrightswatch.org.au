@@ -1,6 +1,7 @@
 ---
-draft: true
-title: Submission on the Online Safety Amendment (Digital Duty of Care) Bill 2026
+draft: false
+title: Submission on the Final Online Safety Amendment (Digital Duty of Care)
+  Bill 2026
 tags:
   - submission
 category:
