@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 redirect_url: https://digitalrightswatch.org.au/volunteer/
 authors:
   - drw
