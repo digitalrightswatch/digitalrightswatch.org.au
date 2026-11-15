@@ -1,21 +1,23 @@
 ---
-title: Opportunities
-authors: [drw]
-type: page
+draft: true
+redirect_url: https://digitalrightswatch.org.au/volunteer/
+authors:
+  - drw
+eg_custom_meta_216:
+  - "true"
 date: 2019-03-29T05:38:24+00:00
-eg_vimeo_ratio:
+eg_soundcloud_ratio:
   - 1
 eg_youtube_ratio:
   - 1
+eg_vimeo_ratio:
+  - 1
 eg_wistia_ratio:
   - 1
+title: Opportunities
 eg_html5_ratio:
   - 1
-eg_soundcloud_ratio:
-  - 1
-eg_custom_meta_216:
-  - 'true'
-
+type: page
 ---
 ## Current employment vacancies
 
