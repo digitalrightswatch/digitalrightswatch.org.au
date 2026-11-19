@@ -5,9 +5,13 @@ date: 2025-10-02T00:09:23.976Z
 ---
 ## Campaigns
 
-Join our [Right to Delete campaign here.](https://digitalrightswatch.org.au/campaigns/right-to-delete/)[](https://digitalrightswatch.org.au/campaigns/right-to-delete/)[](https://events.humanitix.com/matter-of-facts)
+Join our [Right to Delete campaign here.](https://digitalrightswatch.org.au/campaigns/right-to-delete/)
+
+Join our [Privacy reform campaign here.](https://digitalrightswatch.org.au/campaigns/get-privacy-reform-right/)[](https://digitalrightswatch.org.au/campaigns/get-privacy-reform-right/)[](https://digitalrightswatch.org.au/campaigns/right-to-delete/)[](https://digitalrightswatch.org.au/campaigns/right-to-delete/)[](https://events.humanitix.com/matter-of-facts)
 
 ## Articles
+
+Guardian | November 19 - [Australia has a reputation for being the most secretive democracy in the world. New laws could make it worse](https://www.theguardian.com/commentisfree/2026/nov/19/australia-has-a-reputation-for-being-the-most-secretive-democracy-in-the-world-new-laws-could-make-it-worse)
 
 ABC | July 7 2026 - [One in 25 teens affected by AI-assisted online sexual abuse, study finds](https://www.abc.net.au/news/2026-07-07/1-in-25-children-targeted-with-ai-sexual-imagery/106878000)
 
