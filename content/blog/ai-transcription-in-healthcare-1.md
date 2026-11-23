@@ -41,3 +41,5 @@ The people who are most affected by these gaps are those who depend on governmen
 3. A fast, genuine right to review: Anyone affected by an automated decision must be informed and be able to challenge the decision, with a real prospect of the decision being corrected.
 
 After Robodebt the government promised it would never happen again. Promises without action are just words. This promise needs a law behind it.
+
+<link href='https://actionnetwork.org/css/style-embed-whitelabel-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v6/form/right-to-refuse-ai-scribes-in-healthcare-2?format=js&source=widget'></script><div id='can-form-area-right-to-refuse-ai-scribes-in-healthcare-2' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
