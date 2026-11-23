@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 featureImage: /wp-content/uploads/2019/02/cybersecurity-for-a-new-america-2016_image.width-800.jpg
 cv_comp_cornerstone_content:
   - >
