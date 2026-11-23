@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Robodebt 2.0? Automated Decision-Making in Government Services
 slug: ""
 url: campaigns/automated-decision-making
@@ -8,9 +8,9 @@ category:
   - campaigns
 featured:
   - campaigns
-date: 2026-11-22T22:05:23.080Z
+date: 2026-11-23T22:36:25.918Z
 featureImage: ""
-cardImage: ""
+cardImage: /images/adm-website-card-image.png
 summary: >-
   The Robodebt crisis showed what happens when our government allows automated
   systems to make decisions about people’s lives without any safeguards.
