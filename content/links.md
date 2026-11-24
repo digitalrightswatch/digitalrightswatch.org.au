@@ -3,6 +3,10 @@ draft: false
 title: Links
 date: 2025-10-02T00:09:23.976Z
 ---
+## Events
+
+[Digital Rights Watch 10th Birthday Party](https://events.humanitix.com/digital-rights-watch-10th-birthday-party)
+
 ## Campaigns
 
 Join our [Right to Delete campaign here.](https://digitalrightswatch.org.au/campaigns/right-to-delete/)
