@@ -8,7 +8,7 @@ featured: []
 date: 2026-11-24T00:10:50.165Z
 featureImage: /images/ai-and-democracy-cover.png
 cardImage: ""
-summary: Findings from our National Roadshow
+summary: Findings from our 2025 National Roadshow
 ---
 In October 2025, Digital Rights Watch partnered with Essential Media to run a national event series exploring how democracy can survive the rise of AI. This report compiles the views of the audience from around Australia on AI, democracy, and the how the march of technological change is impacting their lives.
 
