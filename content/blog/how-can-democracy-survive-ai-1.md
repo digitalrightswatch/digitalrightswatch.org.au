@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: How Can Democracy Survive AI?
 url: /democracy-and-AI
 category:
