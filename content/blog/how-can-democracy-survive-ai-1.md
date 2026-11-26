@@ -21,4 +21,4 @@ In October 2025, Digital Rights Watch partnered with Essential Media to run a na
 
 Read the full report below.
 
-{{< pdfReader "/images/can-democracy-survive-ai-.pdf" >}}
+{{< pdfReader "/images/digital-rights-watch.pdf" >}}
